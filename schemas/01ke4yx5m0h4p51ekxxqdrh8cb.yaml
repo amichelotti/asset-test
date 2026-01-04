@@ -1,0 +1,46 @@
+uid: 01ke4yx5m0h4p51ekxxqdrh8cb
+name: PROVASCHEMA
+isConcrete: false
+parentSchemaUid: null
+workspaceUid: 01ke4ywah3mkv7mhz3gxef80rk
+definition:
+  description: ""
+  attributes:
+    -
+      id: Key
+      name: Key
+      type: string
+      required: true
+      unique: true
+      system: true
+      editable: false
+      description: Unique system-generated identifier
+    -
+      id: Name
+      name: Name
+      type: string
+      required: true
+      system: true
+      editable: true
+      description: Object name
+    -
+      id: Created
+      name: Created
+      type: datetime
+      required: true
+      system: true
+      editable: false
+      description: Creation timestamp
+    -
+      id: Updated
+      name: Updated
+      type: datetime
+      required: true
+      system: true
+      editable: false
+      description: Last update timestamp
+  iconCode: 58178
+  iconSource: system
+  globalProperties:
+createdAt: "2026-01-04T17:54:33.344976"
+updatedAt: "2026-01-04T17:54:39.823993"

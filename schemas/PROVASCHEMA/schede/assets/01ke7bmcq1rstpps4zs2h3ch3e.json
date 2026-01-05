@@ -1,0 +1,16 @@
+{
+  "uid": "01ke7bmcq1rstpps4zs2h3ch3e",
+  "name": "provamulti4",
+  "type": "schede",
+  "schemaUid": "01ke4yxxb48pfac4zqd9c55eep",
+  "key": "INF-SCHD-PRVM-BMCQ1",
+  "attributes": {
+    "typo": "[GPU, GPU, Suono, Suono]",
+    "Name": "provamulti4",
+    "text_address": "[\"FFFFFF\",\"s4\",\"5\"]",
+    "intaddresses": "[\"1\",\"2\",\"3\",\"4\"]"
+  },
+  "avatarIconUid": null,
+  "createdAt": "2026-01-05T16:15:26.049552",
+  "updatedAt": "2026-01-05T16:24:56.767930"
+}

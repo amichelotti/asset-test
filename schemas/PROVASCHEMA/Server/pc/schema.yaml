@@ -1,0 +1,83 @@
+uid: 01ke5q2cdn1kd262bdjajsnzh6
+name: pc
+isConcrete: true
+parentSchemaUid: 01ke4z4rk2457bqv3tbqk8smaz
+workspaceUid: 01ke4ywah3mkv7mhz3gxef80rk
+definition:
+  description: pc
+  types: null
+  attributes:
+    -
+      id: Key
+      name: Key
+      type: string
+      required: true
+      unique: true
+      system: true
+      editable: false
+      description: "Unique system-generated identifier"
+    -
+      id: Name
+      name: Name
+      type: string
+      required: true
+      system: true
+      editable: true
+      description: Object name
+    -
+      id: Created
+      name: Created
+      type: datetime
+      required: true
+      system: true
+      editable: false
+      description: Creation timestamp
+    -
+      id: Updated
+      name: Updated
+      type: datetime
+      required: true
+      system: true
+      editable: false
+      description: Last update timestamp
+    -
+      id: 01ke4z4y5wphd05fj1kvakwcmj
+      name: cpus
+      key: cpus
+      type: integer
+      required: true
+      unique: false
+      indexed: false
+      default: 1
+      description: ""
+      multiValue: false
+      readOnly: false
+      visible: true
+      order: 0
+      cardinalityMin: 0
+      cardinalityMax: 1
+      constraints:
+        min: 1
+        max: 10
+    -
+      id: 01ke4z5vtt3z774zc3yh8qcn2c
+      name: schede
+      key: schede
+      type: reference
+      required: true
+      unique: false
+      indexed: false
+      default: ""
+      description: schede
+      multiValue: true
+      readOnly: false
+      visible: true
+      order: 1
+      cardinalityMin: 1
+      cardinalityMax: 5
+      referenceType: 01ke4yxxb48pfac4zqd9c55eep
+  iconCode: 58178
+  iconSource: system
+  globalProperties: null
+createdAt: "2026-01-05T00:56:49.974033"
+updatedAt: "2026-01-05T00:56:49.974034"

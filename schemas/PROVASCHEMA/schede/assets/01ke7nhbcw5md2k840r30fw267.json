@@ -1,0 +1,24 @@
+{
+  "uid": "01ke7nhbcw5md2k840r30fw267",
+  "name": "lastmulti5",
+  "type": "schede",
+  "schemaUid": "01ke4yxxb48pfac4zqd9c55eep",
+  "key": "INF-SCHD-LSTM-01KE7",
+  "attributes": {
+    "typo": [
+      "GPU",
+      "Video"
+    ],
+    "Name": "lastmulti5",
+    "text_address": "[\"FFFFFF\",\"1\",\"f5\",\"1\",\"6\",\"55\"]",
+    "intaddresses": [
+      1,
+      1,
+      2,
+      3
+    ]
+  },
+  "avatarIconUid": null,
+  "createdAt": "2026-01-05T19:08:32.156421",
+  "updatedAt": "2026-01-05T19:09:39.384233"
+}

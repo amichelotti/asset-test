@@ -1,0 +1,32 @@
+{
+  "uid": "01ke615t5mw36cnqe9b6wjg1rj",
+  "name": "cicciolone",
+  "type": "schede",
+  "schemaUid": "01ke4yxxb48pfac4zqd9c55eep",
+  "key": "INF-SCHD-CCCL-01KE6",
+  "attributes": {
+    "typo": [
+      "GPU"
+    ],
+    "Name": "cicciolone",
+    "text_address": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "14"
+    ],
+    "intaddresses": 1
+  },
+  "avatarIconUid": null,
+  "createdAt": "2026-01-05T03:53:28.116964",
+  "updatedAt": "2026-01-05T03:53:28.131263"
+}

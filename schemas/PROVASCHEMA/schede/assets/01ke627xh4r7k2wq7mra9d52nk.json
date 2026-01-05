@@ -1,0 +1,16 @@
+{
+  "uid": "01ke627xh4r7k2wq7mra9d52nk",
+  "name": "prrororp",
+  "type": "schede",
+  "schemaUid": "01ke4yxxb48pfac4zqd9c55eep",
+  "key": "INF-SCHD-PRRR-01KE6",
+  "attributes": {
+    "typo": "[[Suono], Suono]",
+    "Name": "prrororp",
+    "text_address": "[FFFFFF, 1, 3]",
+    "intaddresses": "2"
+  },
+  "avatarIconUid": null,
+  "createdAt": "2026-01-05T04:12:05.668791",
+  "updatedAt": "2026-01-05T04:13:19.457038"
+}

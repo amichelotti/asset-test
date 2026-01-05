@@ -10,7 +10,7 @@
       "Video"
     ],
     "Name": "lastmulti5",
-    "text_address": "[\"FFFFFF\",\"1\",\"f5\",\"1\",\"6\",\"55\"]",
+    "text_address": "[\"FFFFFF\",\"1\",\"f5\",\"1\",\"6\",\"55\",\"96\",\"111\",\"112\"]",
     "intaddresses": [
       1,
       1,
@@ -20,5 +20,5 @@
   },
   "avatarIconUid": null,
   "createdAt": "2026-01-05T19:08:32.156421",
-  "updatedAt": "2026-01-05T19:09:39.384233"
+  "updatedAt": "2026-01-05T19:33:38.275625"
 }

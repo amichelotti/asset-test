@@ -1,0 +1,25 @@
+{
+  "uid": "01ke7kchknwf8dqybagwr4vsbj",
+  "name": "lastscheda",
+  "type": "schede",
+  "schemaUid": "01ke4yxxb48pfac4zqd9c55eep",
+  "key": "INF-SCHD-LSTS-01KE7",
+  "attributes": {
+    "typo": [
+      "GPU",
+      "Video",
+      "GPU",
+      "GPU"
+    ],
+    "Name": "lastscheda",
+    "text_address": "[\"FFFFFF\",\"F1\",\"F2\",\"gg\"]",
+    "intaddresses": [
+      1,
+      2,
+      2
+    ]
+  },
+  "avatarIconUid": null,
+  "createdAt": "2026-01-05T18:30:57.525906",
+  "updatedAt": "2026-01-05T18:36:44.090641"
+}

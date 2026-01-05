@@ -1,0 +1,20 @@
+{
+  "uid": "01ke7m68m3s7205exptj8y4t1p",
+  "name": "lastscheda2",
+  "type": "schede",
+  "schemaUid": "01ke4yxxb48pfac4zqd9c55eep",
+  "key": "INF-SCHD-LSTS-M68M3",
+  "attributes": {
+    "typo": "[GPU, GPU, GPU, Video]",
+    "Name": "lastscheda2",
+    "text_address": "[\"FFFFFF\",\"1\",\"2\",\"gg\"]",
+    "intaddresses": [
+      1,
+      1,
+      2
+    ]
+  },
+  "avatarIconUid": null,
+  "createdAt": "2026-01-05T18:45:00.291840",
+  "updatedAt": "2026-01-05T18:45:45.985087"
+}

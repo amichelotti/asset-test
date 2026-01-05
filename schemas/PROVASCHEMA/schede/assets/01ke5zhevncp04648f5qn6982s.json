@@ -1,0 +1,16 @@
+{
+  "uid": "01ke5zhevncp04648f5qn6982s",
+  "name": "riprova",
+  "type": "schede",
+  "schemaUid": "01ke4yxxb48pfac4zqd9c55eep",
+  "key": "INF-SCHD-RPRV-01KE5",
+  "attributes": {
+    "Name": "riprova",
+    "typo": "GPU",
+    "text_address": "FFFFFF",
+    "intaddresses": 1
+  },
+  "avatarIconUid": null,
+  "createdAt": "2026-01-05T03:24:52.597331",
+  "updatedAt": "2026-01-05T03:24:52.605785"
+}

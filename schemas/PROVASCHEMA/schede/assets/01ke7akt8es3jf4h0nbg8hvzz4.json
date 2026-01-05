@@ -1,0 +1,25 @@
+{
+  "uid": "01ke7akt8es3jf4h0nbg8hvzz4",
+  "name": "provamulti3",
+  "type": "schede",
+  "schemaUid": "01ke4yxxb48pfac4zqd9c55eep",
+  "key": "INF-SCHD-PRVM-01KE7",
+  "attributes": {
+    "typo": [
+      "GPU",
+      "Video"
+    ],
+    "Name": "provamulti3",
+    "text_address": [
+      "FFFFFF",
+      "AAAA"
+    ],
+    "intaddresses": [
+      1,
+      2
+    ]
+  },
+  "avatarIconUid": null,
+  "createdAt": "2026-01-05T15:57:38.574493",
+  "updatedAt": "2026-01-05T15:57:38.633341"
+}

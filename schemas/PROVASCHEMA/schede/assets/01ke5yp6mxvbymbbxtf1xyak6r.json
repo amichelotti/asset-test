@@ -1,0 +1,16 @@
+{
+  "uid": "01ke5yp6mxvbymbbxtf1xyak6r",
+  "name": "debug",
+  "type": "schede",
+  "schemaUid": "01ke4yxxb48pfac4zqd9c55eep",
+  "key": "INF-SCHD-DBGX-01KE5",
+  "attributes": {
+    "Name": "debug",
+    "typo": "GPU",
+    "text_address": "FFFFFF",
+    "intaddresses": 1
+  },
+  "avatarIconUid": null,
+  "createdAt": "2026-01-05T03:09:59.453124",
+  "updatedAt": "2026-01-05T03:09:59.463287"
+}

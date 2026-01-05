@@ -76,7 +76,7 @@ definition:
       cardinalityMin: 1
       cardinalityMax: 10
       constraints:
-        regex: [A-F0-9]+
+        regex: "[A-F0-9]+"
     -
       id: 01ke4z34t6kxzc77m8eahtg0h2
       name: intaddresses

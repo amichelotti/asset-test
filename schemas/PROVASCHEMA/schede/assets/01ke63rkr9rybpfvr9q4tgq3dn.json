@@ -1,0 +1,25 @@
+{
+  "uid": "01ke63rkr9rybpfvr9q4tgq3dn",
+  "name": "rer4r43",
+  "type": "schede",
+  "schemaUid": "01ke4yxxb48pfac4zqd9c55eep",
+  "key": "INF-SCHD-RR4R-01KE6",
+  "attributes": {
+    "typo": [
+      "Suono",
+      "Video"
+    ],
+    "Name": "rer4r43",
+    "text_address": [
+      "FFFFFF",
+      "4"
+    ],
+    "intaddresses": [
+      1,
+      5
+    ]
+  },
+  "avatarIconUid": null,
+  "createdAt": "2026-01-05T04:38:41.289486",
+  "updatedAt": "2026-01-05T04:38:41.322926"
+}

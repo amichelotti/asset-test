@@ -1,0 +1,20 @@
+{
+  "uid": "01ke7mna3xccfnt2n797f2svje",
+  "name": "lastasset3",
+  "type": "schede",
+  "schemaUid": "01ke4yxxb48pfac4zqd9c55eep",
+  "key": "INF-SCHD-LSTS-MNA3X",
+  "attributes": {
+    "typo": "[GPU, Video, Video, Suono]",
+    "Name": "lastasset3",
+    "text_address": "[\"FFFFFF\",\"1\",\"2\",\"2\",\"GGG\"]",
+    "intaddresses": [
+      1,
+      1,
+      1
+    ]
+  },
+  "avatarIconUid": null,
+  "createdAt": "2026-01-05T18:53:13.341535",
+  "updatedAt": "2026-01-05T18:53:44.767159"
+}

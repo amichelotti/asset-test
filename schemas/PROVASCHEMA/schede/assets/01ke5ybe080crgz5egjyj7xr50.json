@@ -1,0 +1,16 @@
+{
+  "uid": "01ke5ybe080crgz5egjyj7xr50",
+  "name": "pippolone",
+  "type": "schede",
+  "schemaUid": "01ke4yxxb48pfac4zqd9c55eep",
+  "key": "INF-SCHD-PPPL-01KE5",
+  "attributes": {
+    "Name": "pippolone",
+    "typo": "GPU",
+    "text_address": "FFFFFF",
+    "intaddresses": 1
+  },
+  "avatarIconUid": null,
+  "createdAt": "2026-01-05T03:04:06.536650",
+  "updatedAt": "2026-01-05T03:04:06.567308"
+}

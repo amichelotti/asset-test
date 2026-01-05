@@ -1,0 +1,23 @@
+{
+  "uid": "01ke7dfcqttpt7v6rgmjta3tkh",
+  "name": "todebug2",
+  "type": "schede",
+  "schemaUid": "01ke4yxxb48pfac4zqd9c55eep",
+  "key": "INF-SCHD-TDBG-DFCQT",
+  "attributes": {
+    "typo": [
+      "Video"
+    ],
+    "Name": "todebug2",
+    "text_address": [
+      "FFFFFF",
+      "1"
+    ],
+    "intaddresses": [
+      1
+    ]
+  },
+  "avatarIconUid": null,
+  "createdAt": "2026-01-05T16:47:39.387669",
+  "updatedAt": "2026-01-05T16:47:39.404007"
+}

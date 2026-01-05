@@ -1,0 +1,19 @@
+{
+  "uid": "01ke7hxh0waqymnzjn4j47vz8z",
+  "name": "pippomulti",
+  "type": "schede",
+  "schemaUid": "01ke4yxxb48pfac4zqd9c55eep",
+  "key": "INF-SCHD-PPPM-01KE7",
+  "attributes": {
+    "typo": [
+      "Video",
+      "Suono"
+    ],
+    "Name": "pippomulti",
+    "text_address": "[\"FFFFFF\",\"AFF\",\"1\",\"gge\"]",
+    "intaddresses": "[\"1\",\"1\",\"2\",\"3\",\"5\"]"
+  },
+  "avatarIconUid": null,
+  "createdAt": "2026-01-05T18:05:16.828520",
+  "updatedAt": "2026-01-05T18:13:23.052429"
+}

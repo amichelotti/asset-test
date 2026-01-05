@@ -1,0 +1,19 @@
+{
+  "uid": "01ke7dpxx0es91x6ygbasyk7yz",
+  "name": "todebug3",
+  "type": "schede",
+  "schemaUid": "01ke4yxxb48pfac4zqd9c55eep",
+  "key": "INF-SCHD-TDBG-DPXX0",
+  "attributes": {
+    "typo": "[[GPU, Video, Video], Video]",
+    "Name": "todebug3",
+    "text_address": "[\"FFFFFF\",\"1\",\"F\",\"rrr\",\"ggrrr\"]",
+    "intaddresses": [
+      1,
+      2
+    ]
+  },
+  "avatarIconUid": null,
+  "createdAt": "2026-01-05T16:51:46.336280",
+  "updatedAt": "2026-01-05T17:49:02.511291"
+}

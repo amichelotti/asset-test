@@ -5,21 +5,12 @@
   "schemaUid": "01ke4yxxb48pfac4zqd9c55eep",
   "key": "INF-SCHD-RR4R-01KE6",
   "attributes": {
-    "typo": [
-      "Suono",
-      "Video"
-    ],
+    "typo": "[GPU, Video, Suono]",
     "Name": "rer4r43",
-    "text_address": [
-      "FFFFFF",
-      "4"
-    ],
-    "intaddresses": [
-      1,
-      5
-    ]
+    "text_address": "FFFFFF",
+    "intaddresses": "1"
   },
   "avatarIconUid": null,
   "createdAt": "2026-01-05T04:38:41.289486",
-  "updatedAt": "2026-01-05T04:38:41.322926"
+  "updatedAt": "2026-01-05T04:46:37.237417"
 }

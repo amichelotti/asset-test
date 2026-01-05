@@ -1,0 +1,16 @@
+{
+  "uid": "01ke7cwygbcy5z6n01m8w8eztm",
+  "name": "todebug",
+  "type": "schede",
+  "schemaUid": "01ke4yxxb48pfac4zqd9c55eep",
+  "key": "INF-SCHD-TDBG-01KE7",
+  "attributes": {
+    "typo": "[Suono, Video, Suono, Video, Video]",
+    "Name": "todebug",
+    "text_address": "[\"FFFFFF\",\"1\",\"gg\",\"gg\"]",
+    "intaddresses": "[\"1\",\"2\",\"3\",\"3\",\"33\"]"
+  },
+  "avatarIconUid": null,
+  "createdAt": "2026-01-05T16:37:34.987343",
+  "updatedAt": "2026-01-05T16:38:38.503834"
+}

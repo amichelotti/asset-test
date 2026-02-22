@@ -1,0 +1,87 @@
+{
+  "globalValues": [
+    {
+      "uid": "status",
+      "name": "Status",
+      "key": "status",
+      "description": "JIRA status values imported from schema LNF ELI NP",
+      "type": "enumeration",
+      "options": [
+        {
+          "id": "267",
+          "value": "Action Needed",
+          "color": "#FF8C00",
+          "order": 0
+        },
+        {
+          "id": "268",
+          "value": "Active",
+          "color": "#00FF00",
+          "order": 1
+        },
+        {
+          "id": "269",
+          "value": "Broken",
+          "color": "#FF0000",
+          "order": 2
+        },
+        {
+          "id": "270",
+          "value": "Loan",
+          "color": "#FFD700",
+          "order": 3
+        },
+        {
+          "id": "275",
+          "value": "Not Active",
+          "color": "#808080",
+          "order": 4
+        },
+        {
+          "id": "271",
+          "value": "Not Found",
+          "color": "#808080",
+          "order": 5
+        },
+        {
+          "id": "272",
+          "value": "Ok",
+          "color": "#00FF00",
+          "order": 6
+        },
+        {
+          "id": "273",
+          "value": "Spare",
+          "color": "#808080",
+          "order": 7
+        },
+        {
+          "id": "274",
+          "value": "Uninstalled",
+          "color": "#808080",
+          "order": 8
+        }
+      ],
+      "defaultValue": "uninstalled",
+      "constraints": null,
+      "required": false,
+      "unique": false,
+      "indexed": true,
+      "multiValue": false,
+      "minCardinality": 0,
+      "maxCardinality": 1,
+      "referenceType": null,
+      "egu": null,
+      "allowedEguList": null,
+      "readOnly": false,
+      "visible": true,
+      "enabled": true,
+      "isSystemDefault": true,
+      "createdAt": "2026-02-21T12:59:33.468035",
+      "updatedAt": "2026-02-21T16:06:41.462034"
+    }
+  ],
+  "exportedAt": "2026-02-22T15:16:36.605239",
+  "version": "1.0",
+  "count": 1
+}

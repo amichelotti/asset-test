@@ -1,0 +1,187 @@
+{
+  "comments": [
+    {
+      "uid": "01kj0am7dgf8pww82a2zdw3c9z",
+      "assetUid": "01kj0am6xs5c9cxq818dw1twg2",
+      "author": "Andrea Michelotti",
+      "text": "<div class=\"created-with-ak-editor content-wrapper\"><p>Thomas lo sta portando ad ELI</p></div>",
+      "created": "2025-02-28T16:30:56.000",
+      "updated": "2025-02-28T16:30:56.000",
+      "backendId": "67",
+      "backendUrl": null
+    },
+    {
+      "uid": "01kj0am7dqvegbrpqms5vs6qpd",
+      "assetUid": "01kj0am6xs5c9cxq818dw1twg2",
+      "author": "Andrea Michelotti",
+      "text": "<div class=\"created-with-ak-editor content-wrapper\"><p>updated firmware 1.7 2024</p></div>",
+      "created": "2025-02-20T10:44:08.000",
+      "updated": "2025-02-20T10:44:08.000",
+      "backendId": "63",
+      "backendUrl": null
+    },
+    {
+      "uid": "01kj0am7dx43b28a42bd9syse2",
+      "assetUid": "01kj0am6xs5c9cxq818dw1twg2",
+      "author": "Andrea Michelotti",
+      "text": "<div class=\"created-with-ak-editor content-wrapper\"><p>non prende indirizzo ticket <a href=\"https://servicedesk.infn.it/plugins/servlet/desk/portal/33/ITSDLNF-833\">https://servicedesk.infn.it/plugins/servlet/desk/portal/33/ITSDLNF-833</a></p></div>",
+      "created": "2025-02-18T16:43:19.000",
+      "updated": "2025-02-18T16:43:19.000",
+      "backendId": "62",
+      "backendUrl": null
+    },
+    {
+      "uid": "01kj0amap33krkaq1xe6hj7df1",
+      "assetUid": "01kj0ama41nbhy7pb8ke03drtt",
+      "author": "Andrea Michelotti",
+      "text": "<div class=\"created-with-ak-editor content-wrapper\"><p>updated firmware 1.7 (2024)</p></div>",
+      "created": "2025-02-20T10:44:39.000",
+      "updated": "2025-02-20T10:44:39.000",
+      "backendId": "64",
+      "backendUrl": null
+    },
+    {
+      "uid": "01kj0amewynv3m6ka9r7q5va4m",
+      "assetUid": "01kj0amegwc8c9wgnk25zkxps2",
+      "author": "Andrea Michelotti",
+      "text": "<div class=\"created-with-ak-editor content-wrapper\"><p>root12</p></div>",
+      "created": "2023-12-19T10:32:22.000",
+      "updated": "2023-12-19T10:32:22.000",
+      "backendId": "35",
+      "backendUrl": null
+    },
+    {
+      "uid": "01kj0amghjcdyk81eayhfsgk49",
+      "assetUid": "01kj0amg7wa7n8gedt1yy025bj",
+      "author": "Riccardo Gargana",
+      "text": "<div class=\"created-with-ak-editor content-wrapper\"><p>LEL-CTR-IOC01 etichetta sbagliata</p></div>",
+      "created": "2023-12-19T12:41:35.000",
+      "updated": "2023-12-19T12:41:35.000",
+      "backendId": "37",
+      "backendUrl": null
+    },
+    {
+      "uid": "01kj0amh91nhszs6rm0rmx67d9",
+      "assetUid": "01kj0amgxkzapgqnwkz7kav1fr",
+      "author": "Andrea Michelotti",
+      "text": "<div class=\"created-with-ak-editor content-wrapper\"><p>Etichetta LEL-CTR-IOC2 SBAGLIATA!</p></div>",
+      "created": "2023-12-19T12:22:52.000",
+      "updated": "2023-12-19T12:22:52.000",
+      "backendId": "36",
+      "backendUrl": null
+    },
+    {
+      "uid": "01kj0amtmqwpfddhp3r5kch0sc",
+      "assetUid": "01kj0amt4x7zbzck7j4s60z3j5",
+      "author": "Giovanni Franzini",
+      "text": "<div class=\"created-with-ak-editor content-wrapper\"><p>Problem on power on</p></div>",
+      "created": "2023-12-21T15:47:43.000",
+      "updated": "2023-12-21T15:47:43.000",
+      "backendId": "39",
+      "backendUrl": null
+    },
+    {
+      "uid": "01kj0amyhxjehg27tex6badaa4",
+      "assetUid": "01kj0amv0m8vdyfhm9njfwk5tx",
+      "author": "Andrea Michelotti",
+      "text": "<div class=\"created-with-ak-editor content-wrapper\"><p>Cannot get address DHCP in sala pella</p></div>",
+      "created": "2025-02-25T11:07:20.000",
+      "updated": "2025-02-25T11:07:20.000",
+      "backendId": "66",
+      "backendUrl": null
+    },
+    {
+      "uid": "01kj0amyj5yvhr9s9trsnc0z25",
+      "assetUid": "01kj0amv0m8vdyfhm9njfwk5tx",
+      "author": "Andrea Michelotti",
+      "text": "<div class=\"created-with-ak-editor content-wrapper\"><p>Rimossa scheda EVR</p></div>",
+      "created": "2025-02-20T12:28:48.000",
+      "updated": "2025-02-20T12:28:48.000",
+      "backendId": "65",
+      "backendUrl": null
+    },
+    {
+      "uid": "01kj0apv71v94k929jete0g1r7",
+      "assetUid": "01kj0aptj8aj6g30p4tj951skz",
+      "author": "Andrea Michelotti",
+      "text": "<div class=\"created-with-ak-editor content-wrapper\"><p>non sono raggiungibili. Restartato funzionano</p></div>",
+      "created": "2025-06-11T09:54:50.000",
+      "updated": "2025-06-11T09:54:50.000",
+      "backendId": "68",
+      "backendUrl": null
+    },
+    {
+      "uid": "01kj0ar096mgr45s44gmsa8qd1",
+      "assetUid": "01kj0ar02hr70y6aay8p1zkfmy",
+      "author": "Georgios Zachariadis",
+      "text": "<div class=\"created-with-ak-editor content-wrapper\"><p>Details has to be added for Sequential, Previous and Next element</p></div>",
+      "created": "2025-06-18T17:39:54.000",
+      "updated": "2025-06-18T17:39:54.000",
+      "backendId": "79",
+      "backendUrl": null
+    },
+    {
+      "uid": "01kj0ar0s962rbsyp4yah5bm0r",
+      "assetUid": "01kj0ar0h078553q80t5psyd5f",
+      "author": "Georgios Zachariadis",
+      "text": "<div class=\"created-with-ak-editor content-wrapper\"><p>Details has to be added for Sequential, Previous and Next element</p></div>",
+      "created": "2025-06-18T17:40:01.000",
+      "updated": "2025-06-18T17:40:01.000",
+      "backendId": "80",
+      "backendUrl": null
+    },
+    {
+      "uid": "01kj0ar19w9rfzaa317bbbwmnz",
+      "assetUid": "01kj0ar121t8a9qynbnaqy0qqz",
+      "author": "Georgios Zachariadis",
+      "text": "<div class=\"created-with-ak-editor content-wrapper\"><p>Details has to be controlled for the Sequential, and the Previous and Next element that are inserted</p></div>",
+      "created": "2025-06-18T17:40:33.000",
+      "updated": "2025-06-18T17:40:33.000",
+      "backendId": "81",
+      "backendUrl": null
+    },
+    {
+      "uid": "01kj0ayy90k8qf6mmdwqe3z4kd",
+      "assetUid": "01kj0ayxtt14f5w3wt59c0dsyh",
+      "author": "Andrea Michelotti",
+      "text": "on 26/1/2026 the gauge was freezed no comunication possible. Switched off/on fixed",
+      "created": "2026-02-09T10:13:46.000",
+      "updated": "2026-02-09T10:13:46.000",
+      "backendId": "89",
+      "backendUrl": null
+    },
+    {
+      "uid": "01kj0az0j6071hgq4ndxa9qjq7",
+      "assetUid": "01kj0ayznsmxj6117qxj90fvqd",
+      "author": "Andrea Michelotti",
+      "text": "possibilita' di commento",
+      "created": "2025-12-28T22:23:09.000",
+      "updated": "2025-12-28T22:23:09.000",
+      "backendId": "88",
+      "backendUrl": null
+    },
+    {
+      "uid": "01kj0az4gys7sksthg5has6n72",
+      "assetUid": "01kj0az3ygxvz1z0yzasg91pw6",
+      "author": "Georgios Zachariadis",
+      "text": "<div class=\"created-with-ak-editor content-wrapper\"><p>The label on the device must be changed or reprinted, and a new label with the name 'LEL-VAC-VPCON10' must be attached. </p></div>",
+      "created": "2025-06-18T14:47:26.000",
+      "updated": "2025-06-18T14:47:26.000",
+      "backendId": "76",
+      "backendUrl": null
+    },
+    {
+      "uid": "01kj0az7x9yb4613sz9gx9vsyh",
+      "assetUid": "01kj0az6wn1kgatgyq9d68kj78",
+      "author": "Georgios Zachariadis",
+      "text": "<div class=\"created-with-ak-editor content-wrapper\"><p>The label on the device must be changed or reprinted, and a new label with the name 'LEL-VAC-VPCONxx' must be attached. The device appears to be for temporary use. Also the relevant cabling <a href=\"https://servicedesk.infn.it/secure/ShowObject.jspa?id=138466\">VPCON18-ser</a> has to be changed to VPCONxx-ser</p><p></p></div>",
+      "created": "2025-06-18T14:51:09.000",
+      "updated": "2025-06-18T14:51:09.000",
+      "backendId": "77",
+      "backendUrl": null
+    }
+  ],
+  "exportedAt": "2026-02-22T15:38:24.305374",
+  "version": "1.0",
+  "count": 18
+}

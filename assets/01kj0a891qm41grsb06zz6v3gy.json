@@ -1,0 +1,25 @@
+{
+  "uid": "01kj0a891qm41grsb06zz6v3gy",
+  "key": "LNFMAC-128469",
+  "name": "Polarity Reversal",
+  "type": "Power Supplies Models",
+  "schemaUid": "01kj0a513zjyt52esprgx7mzmx",
+  "attributes": {
+    "key": "LNFMAC-128469",
+    "name": "Polarity Reversal",
+    "created": "2024-11-08T15:41:37.000Z",
+    "updated": "2024-11-08T15:41:37.000Z",
+    "producer": "01kj0af5nk4t21ayq910b482b1",
+    "description": "<p>5 chan polarity reversal for DPR</p>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0a5c6kfff22sx71fyg1q6b",
+  "key": "LNFMAC-137604",
+  "name": "AS -1114CS-TNR e4",
+  "type": "Host Models",
+  "schemaUid": "01kj0a5042ayesr48z3w305b92",
+  "attributes": {
+    "key": "LNFMAC-137604",
+    "name": "AS -1114CS-TNR e4",
+    "created": "2025-05-19T19:09:23.000Z",
+    "updated": "2025-05-19T19:09:23.000Z",
+    "producer": "01kj0adqtyqx7kvr21vm2v64mv"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

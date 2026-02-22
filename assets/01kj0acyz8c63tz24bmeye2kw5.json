@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0acyz8c63tz24bmeye2kw5",
+  "key": "LNFMAC-109343",
+  "name": "ALBIREO DI PAOLO STRAPPAVECCIA",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109343",
+    "name": "ALBIREO DI PAOLO STRAPPAVECCIA",
+    "created": "2023-10-10T12:39:15.000Z",
+    "updated": "2023-10-10T12:39:15.000Z",
+    "contact": "ALBIREO DI PAOLO STRAPPAVECCIA"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0a5pcx1870dpbs50gcqsvn",
+  "key": "LNFMAC-128467",
+  "name": "DPR 60 Magnet Polarity Module",
+  "type": "Power Supplies Models",
+  "schemaUid": "01kj0a513zjyt52esprgx7mzmx",
+  "attributes": {
+    "key": "LNFMAC-128467",
+    "name": "DPR 60 Magnet Polarity Module",
+    "created": "2024-11-08T15:36:56.000Z",
+    "updated": "2024-11-08T15:36:56.000Z",
+    "description": "<p>2x60A</p>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

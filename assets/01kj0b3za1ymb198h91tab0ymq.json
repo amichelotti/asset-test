@@ -1,0 +1,32 @@
+{
+  "uid": "01kj0b3za1ymb198h91tab0ymq",
+  "key": "LNFELINP-138469",
+  "name": "MOTCON1-cat",
+  "type": "Cabling",
+  "schemaUid": "01kj0ah6y271jxbqam43x17kaz",
+  "attributes": {
+    "key": "LNFELINP-138469",
+    "name": "MOTCON1-cat",
+    "created": "2025-06-13T12:31:21.000Z",
+    "updated": "2025-06-13T12:36:54.000Z",
+    "status": "Active",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>connected to the motion box with an R232 adapter</p></div>",
+    "location": "01kj0ap2qc0nsf6m6b7x5bj102",
+    "connector1_pair": "01kj0apmynwxf4kejmz5ndkc86",
+    "connector2_pair": "01kj0amb3w7an46ck6fhqw5qtf",
+    "connector2_desc": "<div class=\"created-with-ak-editor content-wrapper\"><p>port 5 </p></div>",
+    "cable_type_desc": "<div class=\"created-with-ak-editor content-wrapper\"><p>10 meter long </p></div>",
+    "type": "CAT5",
+    "lenght": "10"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

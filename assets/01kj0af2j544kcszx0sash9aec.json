@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0af2j544kcszx0sash9aec",
+  "key": "LNFMAC-109369",
+  "name": "RS COMPONENTS SRL",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109369",
+    "name": "RS COMPONENTS SRL",
+    "created": "2023-10-10T12:39:24.000Z",
+    "updated": "2023-10-10T12:39:24.000Z",
+    "contact": "RS COMPONENTS SRL"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

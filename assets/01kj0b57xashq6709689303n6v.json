@@ -1,0 +1,25 @@
+{
+  "uid": "01kj0b57xashq6709689303n6v",
+  "key": "LNFELINP-129538",
+  "name": "VPCON2-ser",
+  "type": "Cabling",
+  "schemaUid": "01kj0ah6y271jxbqam43x17kaz",
+  "attributes": {
+    "key": "LNFELINP-129538",
+    "name": "VPCON2-ser",
+    "created": "2024-12-06T07:57:56.000Z",
+    "updated": "2025-12-06T22:44:52.000Z",
+    "connector1_pair": "01kj0amb3w7an46ck6fhqw5qtf",
+    "connector1_desc": "<div class=\"created-with-ak-editor content-wrapper\"><p>porta 4</p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

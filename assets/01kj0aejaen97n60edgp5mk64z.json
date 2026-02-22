@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0aejaen97n60edgp5mk64z",
+  "key": "LNFMAC-109355",
+  "name": "MICOS ITALIA GMBH",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109355",
+    "name": "MICOS ITALIA GMBH",
+    "created": "2023-10-10T12:39:19.000Z",
+    "updated": "2023-10-10T12:39:19.000Z",
+    "contact": "MICOS ITALIA GMBH"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

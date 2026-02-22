@@ -1,0 +1,23 @@
+{
+  "uid": "01kj0ap58e8g0jrcqq9fzf3y0a",
+  "key": "LNFELINP-112077",
+  "name": "GP07",
+  "type": "Location",
+  "schemaUid": "01kj0a50qnfak6f3bqerz2nfwv",
+  "attributes": {
+    "key": "LNFELINP-112077",
+    "name": "GP07",
+    "created": "2023-11-30T17:03:43.000Z",
+    "updated": "2023-11-30T17:03:43.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

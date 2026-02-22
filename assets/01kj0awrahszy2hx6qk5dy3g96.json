@@ -1,0 +1,32 @@
+{
+  "uid": "01kj0awrahszy2hx6qk5dy3g96",
+  "key": "LNFELINP-111626",
+  "name": "LEL-MAG-DPSU01",
+  "type": "powersupply",
+  "schemaUid": "01kj0ah57nexq0fk3yvtkm6vvq",
+  "attributes": {
+    "key": "LNFELINP-111626",
+    "name": "LEL-MAG-DPSU01",
+    "created": "2023-11-28T23:56:12.000Z",
+    "updated": "2025-06-13T13:00:21.000Z",
+    "status": "Active",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Dipole A</p></div>",
+    "location": "01kj0ap3jgqry5gakgacm7yp28",
+    "serial": "40-D8-55-F-21-23",
+    "rack": "01kj0azrzg07cmhz8sjzc7vwp3",
+    "max_current": "152",
+    "voltage": "21",
+    "power": "3.2",
+    "registered": "LNFMAC-129106"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0af395h1jdqs1p3k6w8ppj",
+  "key": "LNFMAC-109321",
+  "name": "S&D INTERNATIONAL S.R.L.",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109321",
+    "name": "S&D INTERNATIONAL S.R.L.",
+    "created": "2023-10-10T12:39:07.000Z",
+    "updated": "2023-10-10T12:39:07.000Z",
+    "contact": "S&D INTERNATIONAL S.R.L."
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

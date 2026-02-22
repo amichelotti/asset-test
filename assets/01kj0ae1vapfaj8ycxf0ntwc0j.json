@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0ae1vapfaj8ycxf0ntwc0j",
+  "key": "LNFMAC-109164",
+  "name": "HDS SISTEMI S.P.A.",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109164",
+    "name": "HDS SISTEMI S.P.A.",
+    "created": "2023-10-06T08:26:45.000Z",
+    "updated": "2023-10-06T08:26:45.000Z",
+    "contact": "HDS SISTEMI S.P.A."
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

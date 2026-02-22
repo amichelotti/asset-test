@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0aa5a0467xc13hkvggbet8",
+  "key": "LNFMAC-12421",
+  "name": "Dafne",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kj0a4zv9a4gq5cx1m5nhdh0v",
+  "attributes": {
+    "key": "LNFMAC-12421",
+    "name": "Dafne",
+    "created": "2023-03-22T14:42:00.000Z",
+    "updated": "2025-10-28T14:52:13.000Z",
+    "link": "https://w3.lnf.infn.it/acceleratori/dafne/"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

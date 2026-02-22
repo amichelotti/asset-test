@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0a7nfm7vy2hsz0f3hgy327",
+  "key": "LNFMAC-143351",
+  "name": "Micro pusher MP21",
+  "type": "Motor Models",
+  "schemaUid": "01kj0a52kvy8ja5m7qjjs02vvk",
+  "attributes": {
+    "key": "LNFMAC-143351",
+    "name": "Micro pusher MP21",
+    "created": "2025-10-22T09:46:25.000Z",
+    "updated": "2025-10-22T09:46:25.000Z",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Step Motor for laser Main Mirror Moviment</p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

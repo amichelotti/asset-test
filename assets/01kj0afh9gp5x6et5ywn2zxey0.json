@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0afh9gp5x6et5ywn2zxey0",
+  "key": "LNFMAC-109328",
+  "name": "TEKTRONIX SRL",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109328",
+    "name": "TEKTRONIX SRL",
+    "created": "2023-10-10T12:39:10.000Z",
+    "updated": "2023-10-10T12:39:10.000Z",
+    "contact": "TEKTRONIX SRL"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

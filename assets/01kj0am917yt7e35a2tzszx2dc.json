@@ -1,0 +1,29 @@
+{
+  "uid": "01kj0am917yt7e35a2tzszx2dc",
+  "key": "LNFELINP-129442",
+  "name": "scelimxa1003",
+  "type": "Converter",
+  "schemaUid": "01kj0ah0hrkp8y4zyyxbskt62f",
+  "attributes": {
+    "key": "LNFELINP-129442",
+    "name": "scelimxa1003",
+    "created": "2024-12-04T16:39:26.000Z",
+    "updated": "2024-12-05T15:36:58.000Z",
+    "status": "Active",
+    "description": "<p>Serial converter for ELI</p>",
+    "location": "01kj0ap2qc0nsf6m6b7x5bj102",
+    "serial": "ELI107118-079",
+    "mac": "00:90:E8:48:E0:7F",
+    "registered": "LNFMAC-129479"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

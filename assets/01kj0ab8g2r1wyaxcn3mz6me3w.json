@@ -1,0 +1,25 @@
+{
+  "uid": "01kj0ab8g2r1wyaxcn3mz6me3w",
+  "key": "LNFMAC-99540",
+  "name": "LNF.D1.DE56.GF.EAC1",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kj0a4zv9a4gq5cx1m5nhdh0v",
+  "attributes": {
+    "key": "LNFMAC-99540",
+    "name": "LNF.D1.DE56.GF.EAC1",
+    "created": "2023-05-16T14:50:34.000Z",
+    "updated": "2026-01-08T17:20:28.000Z",
+    "building": "56",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>FLAME - UPR (UP Room)</p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

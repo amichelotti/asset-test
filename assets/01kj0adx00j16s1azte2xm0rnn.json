@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0adx00j16s1azte2xm0rnn",
+  "key": "LNFMAC-109333",
+  "name": "ELICAM",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109333",
+    "name": "ELICAM",
+    "created": "2023-10-10T12:39:11.000Z",
+    "updated": "2023-10-10T12:39:11.000Z",
+    "contact": "ELICAM"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

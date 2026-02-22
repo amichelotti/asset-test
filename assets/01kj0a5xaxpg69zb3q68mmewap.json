@@ -1,0 +1,28 @@
+{
+  "uid": "01kj0a5xaxpg69zb3q68mmewap",
+  "key": "LNFMAC-129571",
+  "name": "ET-7226",
+  "type": "IO Models",
+  "schemaUid": "01kj0a50g1hz6z676s82hnq49b",
+  "attributes": {
+    "key": "LNFMAC-129571",
+    "name": "ET-7226",
+    "created": "2024-12-09T09:02:04.000Z",
+    "updated": "2025-09-02T13:19:59.000Z",
+    "producer": "01kj0ae60c4e00nhte55n6q4pe",
+    "vendor": "01kj0ae60c4e00nhte55n6q4pe",
+    "documentation": "https://www.icpdas.com/en/product/ET-7226",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>The ET-7226 is a multi-function module with 6-channel analog inputs, 2-channel analog outputs, 2-channel digital inputs and 2-channel digital outputs. It provides various programmable analog inputs (+/-500 mV, +/-1 V, +/-5 V, +/-10 V, +/-20 mA, 0 ~ 20 mA and 4 ~ 20 mA), and analog outputs (+/-5 V, +/-10 V, 0 ~ 20 mA and 4 ~ 20 mA). Each analog input is allowed to configure a proper range with 240 Vrms high voltage protection. Each analog input/output can be programmed to accept current or voltage as input/output depending upon the position of corresponding jumper.</p></div>",
+    "git_repo": "https://github.com/infn-epics/icpdas"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

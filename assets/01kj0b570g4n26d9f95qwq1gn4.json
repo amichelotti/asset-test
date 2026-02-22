@@ -1,0 +1,31 @@
+{
+  "uid": "01kj0b570g4n26d9f95qwq1gn4",
+  "key": "LNFELINP-138466",
+  "name": "VPCON18-ser",
+  "type": "Cabling",
+  "schemaUid": "01kj0ah6y271jxbqam43x17kaz",
+  "attributes": {
+    "key": "LNFELINP-138466",
+    "name": "VPCON18-ser",
+    "created": "2025-06-13T12:01:45.000Z",
+    "updated": "2025-06-13T12:19:07.000Z",
+    "status": "Active",
+    "location": "01kj0ap2qc0nsf6m6b7x5bj102",
+    "connector1_pair": "01kj0az6wn1kgatgyq9d68kj78",
+    "connector2_pair": "01kj0amb3w7an46ck6fhqw5qtf",
+    "connector2_desc": "<div class=\"created-with-ak-editor content-wrapper\"><p>porta 7</p></div>",
+    "cable_type_desc": "<div class=\"created-with-ak-editor content-wrapper\"><p>10 meter long </p></div>",
+    "type": "RS232",
+    "lenght": "10"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

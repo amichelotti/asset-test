@@ -1,0 +1,28 @@
+{
+  "uid": "01kj0a5m18fgbeqa51vc86an3q",
+  "key": "LNFMAC-128463",
+  "name": "Dell optiplex xe2",
+  "type": "Host Models",
+  "schemaUid": "01kj0a5042ayesr48z3w305b92",
+  "attributes": {
+    "key": "LNFMAC-128463",
+    "name": "Dell optiplex xe2",
+    "created": "2024-11-08T15:22:20.000Z",
+    "updated": "2024-11-08T15:22:20.000Z",
+    "producer": "01kj0adjkc1v2mty4nm8hmnx7n",
+    "description": "<p><a href=\"https://www.dell.com/support/home/it-it/product-support/product/optiplex-xe2/docs\">https://www.dell.com/support/home/it-it/product-support/product/optiplex-xe2/docs</a></p>",
+    "cpu_type": "Intel i7-4770S",
+    "memory": "8",
+    "disk": "1000"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

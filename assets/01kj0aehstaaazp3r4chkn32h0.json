@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0aehstaaazp3r4chkn32h0",
+  "key": "LNFMAC-109161",
+  "name": "LUTECH ADVANCED SOLUTIONS S.P.A.",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109161",
+    "name": "LUTECH ADVANCED SOLUTIONS S.P.A.",
+    "created": "2023-10-06T08:26:44.000Z",
+    "updated": "2023-10-06T08:26:44.000Z",
+    "contact": "LUTECH ADVANCED SOLUTIONS S.P.A."
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

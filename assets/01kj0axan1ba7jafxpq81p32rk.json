@@ -1,0 +1,25 @@
+{
+  "uid": "01kj0axan1ba7jafxpq81p32rk",
+  "key": "LNFELINP-112549",
+  "name": " PIOLI: timing and ethernet for cameras",
+  "type": "Beamline Assets",
+  "schemaUid": "01kj0ah5xa06wyspkz3r5d4d7v",
+  "attributes": {
+    "key": "LNFELINP-112549",
+    "name": " PIOLI: timing and ethernet for cameras",
+    "created": "2023-12-01T13:15:35.000Z",
+    "updated": "2023-12-01T13:15:35.000Z",
+    "layout": "01kj0arzfjqd0vwqhzdxvgm65a",
+    "module": "M1"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "uid": "01kj0acds834tpxne8gc6rrz8d",
+  "key": "LNFMAC-141976",
+  "name": "Tex",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kj0a4zv9a4gq5cx1m5nhdh0v",
+  "attributes": {
+    "key": "LNFMAC-141976",
+    "name": "Tex",
+    "created": "2025-09-02T14:31:09.000Z",
+    "updated": "2025-10-28T14:52:13.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

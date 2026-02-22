@@ -1,0 +1,29 @@
+{
+  "uid": "01kj0a7j4wd27f266213afnqh1",
+  "key": "LNFMAC-99531",
+  "name": "MacBook pro 13-inch",
+  "type": "Host Models",
+  "schemaUid": "01kj0a5042ayesr48z3w305b92",
+  "attributes": {
+    "key": "LNFMAC-99531",
+    "name": "MacBook pro 13-inch",
+    "created": "2023-05-16T09:21:21.000Z",
+    "updated": "2023-05-16T09:25:31.000Z",
+    "producer": "01kj0ad1cpp3v0qbaw57zer62b",
+    "product_code": "A2251/Z0Y6",
+    "cpu_type": "i5",
+    "memory": "16",
+    "disk": "512",
+    "frequency": "2"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "uid": "01kj0ap665w62q5h0psg9wqze6",
+  "key": "LNFELINP-111861",
+  "name": "GP09",
+  "type": "Location",
+  "schemaUid": "01kj0a50qnfak6f3bqerz2nfwv",
+  "attributes": {
+    "key": "LNFELINP-111861",
+    "name": "GP09",
+    "created": "2023-11-30T09:53:56.000Z",
+    "updated": "2023-12-05T11:56:16.000Z",
+    "stanza": "Annex",
+    "note": "Sala controllo"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

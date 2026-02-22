@@ -1,0 +1,26 @@
+{
+  "uid": "01kj0a9td1e22tvch4r20kx7eh",
+  "key": "LNFMAC-143363",
+  "name": "Z912V",
+  "type": "Motor Models",
+  "schemaUid": "01kj0a52kvy8ja5m7qjjs02vvk",
+  "attributes": {
+    "key": "LNFMAC-143363",
+    "name": "Z912V",
+    "created": "2025-10-22T10:04:46.000Z",
+    "updated": "2025-10-22T10:04:46.000Z",
+    "producer": "01kj0afmdnxj06cvwnar258kjh",
+    "vendor": "01kj0adhsvs2t21j6g67apvw67",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p><strong>Z912V - 12 mm Travel, Vacuum-Compatible DC Servo Motor Actuator, 1/4\"-80 Mounting Thread&nbsp;</strong></p><p><a href=\"https://www.thorlabs.com/thorproduct.cfm?partnumber=Z912V\">https://www.thorlabs.com/thorproduct.cfm?partnumber=Z912V</a></p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

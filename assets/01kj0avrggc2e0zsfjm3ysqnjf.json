@@ -1,0 +1,25 @@
+{
+  "uid": "01kj0avrggc2e0zsfjm3ysqnjf",
+  "key": "LNFELINP-111596",
+  "name": "REGION 2",
+  "type": "Layout",
+  "schemaUid": "01kj0ah4pc8je2kzbza9jekpq4",
+  "attributes": {
+    "key": "LNFELINP-111596",
+    "name": "REGION 2",
+    "created": "2023-11-28T14:37:14.000Z",
+    "updated": "2023-11-30T16:01:49.000Z",
+    "location": "01kj0ap2qc0nsf6m6b7x5bj102",
+    "region": "REGION 2"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

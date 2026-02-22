@@ -1,0 +1,26 @@
+{
+  "uid": "01kj0apnx1wbr88c919z65jdt7",
+  "key": "LNFELINP-134078",
+  "name": "motionbox02-scn02",
+  "type": "IO System",
+  "schemaUid": "01kj0ah3evmw5xnrdeeaj5jct0",
+  "attributes": {
+    "key": "LNFELINP-134078",
+    "name": "motionbox02-scn02",
+    "created": "2025-03-06T16:23:44.000Z",
+    "updated": "2025-06-13T12:40:47.000Z",
+    "status": "Active",
+    "location": "01kj0ap2qc0nsf6m6b7x5bj102",
+    "connector": "01kj0b411qn0561hyfddg5npcg"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

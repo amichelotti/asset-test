@@ -1,0 +1,33 @@
+{
+  "uid": "01kj0anegp0sf1wp6b0mhnmn4t",
+  "key": "LNFELINP-137521",
+  "name": "plelikey002",
+  "type": "IO Controller",
+  "schemaUid": "01kj0ah1462t6ntnmmhgcn8b48",
+  "attributes": {
+    "key": "LNFELINP-137521",
+    "name": "plelikey002",
+    "created": "2025-05-15T13:11:08.000Z",
+    "updated": "2025-06-03T11:30:01.000Z",
+    "status": "Active",
+    "alias": "GEN-CS-GP06:IOC02",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>I7-3517UE CPU</p><p>EVR + M9210A</p></div>",
+    "location": "01kj0ap97meenyqmmnpb95wnfq",
+    "mac": "00:c0:88:01:78:9c",
+    "registered": "LNFMAC-137520",
+    "os": "Scientific Linux 6.3",
+    "ram": "8",
+    "cpu": "4",
+    "disk": "120"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

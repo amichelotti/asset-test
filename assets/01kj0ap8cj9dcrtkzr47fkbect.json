@@ -1,0 +1,23 @@
+{
+  "uid": "01kj0ap8cj9dcrtkzr47fkbect",
+  "key": "LNFELINP-111599",
+  "name": "ROOF",
+  "type": "Location",
+  "schemaUid": "01kj0a50qnfak6f3bqerz2nfwv",
+  "attributes": {
+    "key": "LNFELINP-111599",
+    "name": "ROOF",
+    "created": "2023-11-28T14:38:25.000Z",
+    "updated": "2023-11-28T14:38:25.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

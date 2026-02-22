@@ -1,0 +1,27 @@
+{
+  "uid": "01kj0a6wcgkkpb0axt94p5njtm",
+  "key": "LNFMAC-141963",
+  "name": "Hazemeyer IOcaste",
+  "type": "Power Supplies Models",
+  "schemaUid": "01kj0a513zjyt52esprgx7mzmx",
+  "attributes": {
+    "key": "LNFMAC-141963",
+    "name": "Hazemeyer IOcaste",
+    "created": "2025-09-02T11:25:27.000Z",
+    "updated": "2025-09-02T11:53:10.000Z",
+    "producer": "01kj0ae1310z6c4bhtbddjjtqm",
+    "vendor": "01kj0ae1310z6c4bhtbddjjtqm",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p><span class=\"code\" spellcheck=\"false\">14V 110A Power Supplies</span></p><p></p></div>",
+    "git_repo": "https://github.com/infn-epics/hazemeyer-lnf"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

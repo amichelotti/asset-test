@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0aex8gspasrsm5swd5p8h6",
+  "key": "LNFMAC-109381",
+  "name": "QUAIA GIANNI (DI QUAIA GIANNI)",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109381",
+    "name": "QUAIA GIANNI (DI QUAIA GIANNI)",
+    "created": "2023-10-10T12:39:28.000Z",
+    "updated": "2023-10-10T12:39:28.000Z",
+    "contact": "QUAIA GIANNI (DI QUAIA GIANNI)"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

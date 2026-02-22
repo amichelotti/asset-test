@@ -1,0 +1,33 @@
+{
+  "uid": "01kj0anm7v9rtst6703j5ke3aa",
+  "key": "LNFELINP-144044",
+  "name": "plelinpsto002",
+  "type": "NAS",
+  "schemaUid": "01kj0ah1c1vq5gchjkfe80dfay",
+  "attributes": {
+    "key": "LNFELINP-144044",
+    "name": "plelinpsto002",
+    "created": "2025-11-13T10:32:16.000Z",
+    "updated": "2025-11-18T11:46:55.000Z",
+    "status": "Active",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"></div>",
+    "location": "01kj0ap3jgqry5gakgacm7yp28",
+    "serial": "QRW8C04340H",
+    "rack": "01kj0azkn5gacp16cg6whvmyvq",
+    "mac": "24:5E:BE:8D:ED:F9",
+    "registered": "LNFMAC-144043",
+    "ipmi_-_mac": "24:5E:BE:8D:BF:66",
+    "ip_-_ipmi": "10.16.2.111",
+    "model": "01kj0a9bbtdthcdtsf8jkdjfpd"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

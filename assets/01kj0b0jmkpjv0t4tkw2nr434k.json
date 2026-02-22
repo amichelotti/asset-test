@@ -1,0 +1,30 @@
+{
+  "uid": "01kj0b0jmkpjv0t4tkw2nr434k",
+  "key": "LNFELINP-138414",
+  "name": "SUPERMICRO QUOD K8S SSRIP",
+  "type": "Chassis",
+  "schemaUid": "01kj0ah6nwx6hpkvxdmbrzysqq",
+  "attributes": {
+    "key": "LNFELINP-138414",
+    "name": "SUPERMICRO QUOD K8S SSRIP",
+    "created": "2025-06-12T07:35:54.000Z",
+    "updated": "2025-06-12T09:06:33.000Z",
+    "status": "Active",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>QRcode label attached in to left plastic slider</p></div>",
+    "location": "01kj0ap3jgqry5gakgacm7yp28",
+    "rack": "01kj0azjp75pxvhf0wnmt0zqj9",
+    "documentation": "https://rda.dsi.infn.it/#!/showRda/151176",
+    "chassis_model": "01kj0a53j8158w8tmxf1bv8d0t",
+    "blade": "01kj0amkq5eynfxbqrw8kbqhqj"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

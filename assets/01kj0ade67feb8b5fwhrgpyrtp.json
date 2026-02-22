@@ -1,0 +1,23 @@
+{
+  "uid": "01kj0ade67feb8b5fwhrgpyrtp",
+  "key": "LNFMAC-108336",
+  "name": "commscope",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-108336",
+    "name": "commscope",
+    "created": "2023-10-03T07:53:47.000Z",
+    "updated": "2023-10-03T07:53:47.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

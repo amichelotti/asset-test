@@ -1,0 +1,27 @@
+{
+  "uid": "01kj0a5w9kppby3es07er8mwa5",
+  "key": "LNFMAC-12813",
+  "name": "ET-7215",
+  "type": "IO Models",
+  "schemaUid": "01kj0a50g1hz6z676s82hnq49b",
+  "attributes": {
+    "key": "LNFMAC-12813",
+    "name": "ET-7215",
+    "created": "2023-04-20T10:54:53.000Z",
+    "updated": "2025-09-02T13:19:43.000Z",
+    "vendor": "01kj0ae60c4e00nhte55n6q4pe",
+    "documentation": "https://www.icpdas.com/en/product/ET-7215",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>The ET-7215 is specifically designed for long-distance RTD measurement. It features automatic compensation for three-wire RTD regardless of the length of wires and provides open wire detection for RTD measurement. The ET-7215 offers 7 channels, each of which could be connected with different kinds of RTD (Pt100, Pt1000, Ni120, Cu100, Cu1000). Also, The ET-7215 is fully RoHS-compliant and has qualification for 4 kV ESD protection as well as 2500 VDC intra-module isolation.</p></div>",
+    "git_repo": "https://github.com/infn-epics/icpdas"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

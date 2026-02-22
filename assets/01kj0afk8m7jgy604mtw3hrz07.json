@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0afk8m7jgy604mtw3hrz07",
+  "key": "LNFMAC-109342",
+  "name": "TESEO SPA",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109342",
+    "name": "TESEO SPA",
+    "created": "2023-10-10T12:39:14.000Z",
+    "updated": "2023-10-10T12:39:14.000Z",
+    "contact": "TESEO SPA"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0afd2k4pwjwj272tv0f0qf",
+  "key": "LNFMAC-109386",
+  "name": "SPEDSERVICE S.R.L.",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109386",
+    "name": "SPEDSERVICE S.R.L.",
+    "created": "2023-10-10T12:39:30.000Z",
+    "updated": "2023-10-10T12:39:30.000Z",
+    "contact": "SPEDSERVICE S.R.L."
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

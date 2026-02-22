@@ -1,0 +1,26 @@
+{
+  "uid": "01kj0a55m5t7q5cw6t9mc4wwtv",
+  "key": "LNFMAC-143732",
+  "name": "12146-PA44",
+  "type": "Vacuum Models",
+  "schemaUid": "01kj0a51yzkpjj04jjb6vvha3g",
+  "attributes": {
+    "key": "LNFMAC-143732",
+    "name": "12146-PA44",
+    "created": "2025-11-03T17:06:49.000Z",
+    "updated": "2025-11-03T17:06:49.000Z",
+    "producer": "01kj0afqf4242vx6a5skbjyqpf",
+    "documentation": "https://www.vatgroup.com/series/121-gate-valve/12146-PA44",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Size DN 200 (8\")</p><p>Flange ISO-F</p><p>Material Aluminum</p><p>Actuator Pneumatic: double acting</p><p>Position Indication Signal Yes</p><p>Solenoid Yes</p><p>Pressure Min. 1 × 10<sup>-7</sup> mbar</p><p>Pressure Max. 1.6 bar (abs)</p><p>Conductance 12000 ls⁻¹</p><p>Differential Pressure on Plate ≤ 1.6 ba</p><p>Differential Pressure at opening ≤ 0.03 bar</p><p>Cylinder volume 0.9 l</p><p>Max. compressed air pressure 7 bar / 102 psi</p><p>Min. compressed air pressure 4 bar / 58 psi</p><p>Max. temperature position indicator ≤ 80 °C</p><p>Close open time 3 s</p><p>Weight 14 kg / 30.86 lbs</p><p>Max. Temperature Actuator ≤ 80 °C</p><p>Max. temperature valve body ≤ 120 °C</p><p></p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

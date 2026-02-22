@@ -1,0 +1,23 @@
+{
+  "uid": "01kj0aze47jqw2894h9mzt2zc3",
+  "key": "LNFELINP-145438",
+  "name": "R_ANX_01",
+  "type": "Rack",
+  "schemaUid": "01kj0ah6g1ch3hfwqbkkqem0b9",
+  "attributes": {
+    "key": "LNFELINP-145438",
+    "name": "R_ANX_01",
+    "created": "2026-01-09T15:20:18.000Z",
+    "updated": "2026-01-09T15:20:18.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

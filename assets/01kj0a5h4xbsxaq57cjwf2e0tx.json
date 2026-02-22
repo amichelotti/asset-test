@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0a5h4xbsxaq57cjwf2e0tx",
+  "key": "LNFMAC-99537",
+  "name": "Cisco C9500-40X-AC 48p",
+  "type": "Switch Models",
+  "schemaUid": "01kj0a50ch6qrz2d11rrhz8hqs",
+  "attributes": {
+    "key": "LNFMAC-99537",
+    "name": "Cisco C9500-40X-AC 48p",
+    "created": "2023-05-16T14:29:55.000Z",
+    "updated": "2023-05-16T14:56:09.000Z",
+    "producer": "01kj0addj7ehtyz9tkye7afcsz"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

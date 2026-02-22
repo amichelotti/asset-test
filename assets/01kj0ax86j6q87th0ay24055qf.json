@@ -1,0 +1,28 @@
+{
+  "uid": "01kj0ax86j6q87th0ay24055qf",
+  "key": "LNFELINP-142215",
+  "name": "bdelilibera03",
+  "type": "BPM Controller",
+  "schemaUid": "01kj0ah5mr2g06zbrqjb0cqhw0",
+  "attributes": {
+    "key": "LNFELINP-142215",
+    "name": "bdelilibera03",
+    "created": "2025-09-10T13:32:00.000Z",
+    "updated": "2025-09-10T13:32:14.000Z",
+    "status": "Active",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>In sostituzione del bdelilibera01</p><p>indirizzo: 10.16.4.69</p><p></p></div>",
+    "location": "01kj0ap3jgqry5gakgacm7yp28",
+    "rack": "01kj0azjp75pxvhf0wnmt0zqj9",
+    "registered": "LNFMAC-133919"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

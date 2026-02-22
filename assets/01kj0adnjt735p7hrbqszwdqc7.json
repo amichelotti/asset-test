@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0adnjt735p7hrbqszwdqc7",
+  "key": "LNFMAC-109178",
+  "name": "DPS INFORMATICA SNC DI PRESELLO GIANNI & C.",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109178",
+    "name": "DPS INFORMATICA SNC DI PRESELLO GIANNI & C.",
+    "created": "2023-10-06T08:26:54.000Z",
+    "updated": "2023-10-06T08:26:54.000Z",
+    "contact": "DPS INFORMATICA SNC DI PRESELLO GIANNI & C."
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

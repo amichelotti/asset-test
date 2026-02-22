@@ -1,0 +1,27 @@
+{
+  "uid": "01kj0awpz7esfa289hgyt2xtsa",
+  "key": "LNFELINP-128465",
+  "name": "LEL-MAG-DPRC01",
+  "type": "powersupply",
+  "schemaUid": "01kj0ah57nexq0fk3yvtkm6vvq",
+  "attributes": {
+    "key": "LNFELINP-128465",
+    "name": "LEL-MAG-DPRC01",
+    "created": "2024-11-08T15:34:20.000Z",
+    "updated": "2025-06-13T13:00:02.000Z",
+    "status": "Active",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>DPR 200 Magnet Polarity Module</p><p>Polarity CH5 -&gt; Canale 1</p></div>",
+    "location": "01kj0ap3jgqry5gakgacm7yp28",
+    "rack": "01kj0azrzg07cmhz8sjzc7vwp3"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

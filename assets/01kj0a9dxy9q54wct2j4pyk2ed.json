@@ -1,0 +1,25 @@
+{
+  "uid": "01kj0a9dxy9q54wct2j4pyk2ed",
+  "key": "LNFMAC-143353",
+  "name": "VSS43.200-2.5-HV",
+  "type": "Motor Models",
+  "schemaUid": "01kj0a52kvy8ja5m7qjjs02vvk",
+  "attributes": {
+    "key": "LNFMAC-143353",
+    "name": "VSS43.200-2.5-HV",
+    "created": "2025-10-22T09:48:46.000Z",
+    "updated": "2025-10-22T09:48:46.000Z",
+    "producer": "01kj0aev44xqrtpew5cwejtyft",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Stepper Motors for High Vaccuum</p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

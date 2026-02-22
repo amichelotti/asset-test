@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0ae1310z6c4bhtbddjjtqm",
+  "key": "LNFMAC-141961",
+  "name": "hazemeyer",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-141961",
+    "name": "hazemeyer",
+    "created": "2025-09-02T11:10:07.000Z",
+    "updated": "2025-09-02T11:10:07.000Z",
+    "link": "http://www.hazemeyer-appareillage.com/v2/english/"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

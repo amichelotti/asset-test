@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0afn1prd41ax9kqwdjmtj7",
+  "key": "LNFMAC-109335",
+  "name": "UNICREDIT BANCA DI ROMA SPA",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109335",
+    "name": "UNICREDIT BANCA DI ROMA SPA",
+    "created": "2023-10-10T12:39:12.000Z",
+    "updated": "2023-10-10T12:39:12.000Z",
+    "contact": "UNICREDIT BANCA DI ROMA SPA"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0afdnhcew596j8xsfmna51",
+  "key": "LNFMAC-109362",
+  "name": "SPELLMAN HIGH VOLTAGE ELECTRONICS  LIMITED",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109362",
+    "name": "SPELLMAN HIGH VOLTAGE ELECTRONICS  LIMITED",
+    "created": "2023-10-10T12:39:22.000Z",
+    "updated": "2023-10-10T12:39:22.000Z",
+    "contact": "SPELLMAN HIGH VOLTAGE ELECTRONICS  LIMITED"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

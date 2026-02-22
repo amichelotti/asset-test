@@ -1,0 +1,25 @@
+{
+  "uid": "01kj0ab20zb5rth84087pf8mnq",
+  "key": "LNFMAC-99550",
+  "name": "LNF.D1.DE56.B1.BAL1",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kj0a4zv9a4gq5cx1m5nhdh0v",
+  "attributes": {
+    "key": "LNFMAC-99550",
+    "name": "LNF.D1.DE56.B1.BAL1",
+    "created": "2023-05-16T15:05:20.000Z",
+    "updated": "2026-01-08T17:22:41.000Z",
+    "building": "56",
+    "alias": "FLAME - INFERNO"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "uid": "01kj0apkehr81m74j824mp45jc",
+  "key": "LNFELINP-134117",
+  "name": "ddeliicpillum001",
+  "type": "I/O",
+  "schemaUid": "01kj0ah384xwxj8zskvwncb939",
+  "attributes": {
+    "key": "LNFELINP-134117",
+    "name": "ddeliicpillum001",
+    "created": "2025-03-07T13:27:24.000Z",
+    "updated": "2025-06-12T12:25:09.000Z",
+    "status": "Active",
+    "rack": "01kj0azt4m8k4f8k95rxmasgyp",
+    "registered": "LNFMAC-134114",
+    "model": "01kj0a6cwp16e6ga61t18xvqdm"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

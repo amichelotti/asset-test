@@ -1,0 +1,26 @@
+{
+  "uid": "01kj0a9bbtdthcdtsf8jkdjfpd",
+  "key": "LNFMAC-144182",
+  "name": "TS-H1886XU-RP-R2-D1622-32G 12+6Bay",
+  "type": "Host Models",
+  "schemaUid": "01kj0a5042ayesr48z3w305b92",
+  "attributes": {
+    "key": "LNFMAC-144182",
+    "name": "TS-H1886XU-RP-R2-D1622-32G 12+6Bay",
+    "created": "2025-11-18T10:45:38.000Z",
+    "updated": "2025-11-18T10:47:27.000Z",
+    "producer": "01kj0aewq9gr69yh33kt5hc59s",
+    "documentation": "https://www.qnap.com/en/product/ts-h1886xu-rp%20r2",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p></p><p></p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

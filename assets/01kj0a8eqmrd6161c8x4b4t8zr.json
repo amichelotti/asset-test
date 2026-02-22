@@ -1,0 +1,26 @@
+{
+  "uid": "01kj0a8eqmrd6161c8x4b4t8zr",
+  "key": "LNFMAC-133706",
+  "name": "pxi-evg-230",
+  "type": "Timing Models",
+  "schemaUid": "01kj0a51g4knrdj45wdb31mjc7",
+  "attributes": {
+    "key": "LNFMAC-133706",
+    "name": "pxi-evg-230",
+    "created": "2025-02-26T12:27:15.000Z",
+    "updated": "2025-02-26T12:28:13.000Z",
+    "producer": "01kj0aem9ps0tcpnda3wr65nk0",
+    "vendor": "01kj0aem9ps0tcpnda3wr65nk0",
+    "documentation": "http://www.mrf.fi/index.php/compactpci-products/79-compactpci-event-generator-cpci-evg-220cpci-evg-230"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

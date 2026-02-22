@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0adf0st57r7pbbhzzh29ve",
+  "key": "LNFMAC-109330",
+  "name": "COMPAQ COMPUTER S.R.L.",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109330",
+    "name": "COMPAQ COMPUTER S.R.L.",
+    "created": "2023-10-10T12:39:10.000Z",
+    "updated": "2023-10-10T12:39:10.000Z",
+    "contact": "COMPAQ COMPUTER S.R.L."
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

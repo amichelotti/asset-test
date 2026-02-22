@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0afeabwnykzyj3nkcwdzvk",
+  "key": "LNFMAC-109337",
+  "name": "STEP ELETTRONICA SRL",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109337",
+    "name": "STEP ELETTRONICA SRL",
+    "created": "2023-10-10T12:39:13.000Z",
+    "updated": "2023-10-10T12:39:13.000Z",
+    "contact": "STEP ELETTRONICA SRL"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

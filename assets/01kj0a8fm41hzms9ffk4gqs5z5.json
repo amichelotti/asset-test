@@ -1,0 +1,26 @@
+{
+  "uid": "01kj0a8fm41hzms9ffk4gqs5z5",
+  "key": "LNFMAC-133705",
+  "name": "pxi-evr-230",
+  "type": "Timing Models",
+  "schemaUid": "01kj0a51g4knrdj45wdb31mjc7",
+  "attributes": {
+    "key": "LNFMAC-133705",
+    "name": "pxi-evr-230",
+    "created": "2025-02-26T12:25:09.000Z",
+    "updated": "2025-02-26T12:25:09.000Z",
+    "producer": "01kj0aem9ps0tcpnda3wr65nk0",
+    "vendor": "01kj0aem9ps0tcpnda3wr65nk0",
+    "documentation": "http://www.mrf.fi/index.php/compactpci-products/80-compactpci-event-receiver-cpci-evr-220cpci-evr-230"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

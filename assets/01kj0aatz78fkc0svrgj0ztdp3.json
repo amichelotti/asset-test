@@ -1,0 +1,23 @@
+{
+  "uid": "01kj0aatz78fkc0svrgj0ztdp3",
+  "key": "LNFMAC-100288",
+  "name": "laboratorio 117 - Tavolo",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kj0a4zv9a4gq5cx1m5nhdh0v",
+  "attributes": {
+    "key": "LNFMAC-100288",
+    "name": "laboratorio 117 - Tavolo",
+    "created": "2023-06-12T13:21:14.000Z",
+    "updated": "2025-10-28T14:52:13.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

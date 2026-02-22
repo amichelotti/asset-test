@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0ada64td4yjkz0nk3739r0",
+  "key": "LNFMAC-109168",
+  "name": "C&C S.P.A.",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109168",
+    "name": "C&C S.P.A.",
+    "created": "2023-10-06T08:26:48.000Z",
+    "updated": "2023-10-06T08:26:48.000Z",
+    "contact": "C&C S.P.A."
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

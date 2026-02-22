@@ -1,0 +1,68 @@
+{
+  "uid": "01kj0a5086p66vqxkc56y6r3vf",
+  "name": "Company",
+  "description": null,
+  "parentSchemaUid": "01kj0a51cq6s55ke83s11s266f",
+  "isConcrete": true,
+  "attributes": [
+    {
+      "key": "key",
+      "name": "Key",
+      "type": "string",
+      "required": true,
+      "description": "Unique system-generated identifier",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "name",
+      "name": "Name",
+      "type": "string",
+      "required": true,
+      "description": "Object name",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "created",
+      "name": "Created",
+      "type": "datetime",
+      "required": true,
+      "description": "Creation timestamp",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "updated",
+      "name": "Updated",
+      "type": "datetime",
+      "required": true,
+      "description": "Last update timestamp",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "contact",
+      "name": "Contact",
+      "type": "text",
+      "required": false,
+      "description": "contact",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "link",
+      "name": "Link",
+      "type": "string",
+      "required": false,
+      "description": "Link",
+      "defaultValue": null,
+      "options": null
+    }
+  ],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

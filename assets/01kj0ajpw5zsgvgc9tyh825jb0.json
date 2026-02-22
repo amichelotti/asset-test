@@ -1,0 +1,27 @@
+{
+  "uid": "01kj0ajpw5zsgvgc9tyh825jb0",
+  "key": "LNFELINP-111762",
+  "name": "LEL-VAC-VALVF02",
+  "type": "Vacuum",
+  "schemaUid": "01kj0agyvkmyke0rctxspepy58",
+  "attributes": {
+    "key": "LNFELINP-111762",
+    "name": "LEL-VAC-VALVF02",
+    "created": "2023-11-29T22:57:41.000Z",
+    "updated": "2023-12-01T13:15:06.000Z",
+    "description": "Sector Vacuum valve (PNEUMATIC) FAST VALVE VAT series 75. DN40",
+    "layout": "01kj0artncrnp17xfjdmd419ag",
+    "module": "M1",
+    "type": "VALVF"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

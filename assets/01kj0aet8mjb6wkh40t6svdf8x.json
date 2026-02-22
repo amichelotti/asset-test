@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0aet8mjb6wkh40t6svdf8x",
+  "key": "LNFMAC-109319",
+  "name": "PHILIPSEN OWE",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109319",
+    "name": "PHILIPSEN OWE",
+    "created": "2023-10-10T12:39:07.000Z",
+    "updated": "2023-10-10T12:39:07.000Z",
+    "contact": "PHILIPSEN OWE"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

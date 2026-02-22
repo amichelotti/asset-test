@@ -1,0 +1,26 @@
+{
+  "uid": "01kj0a6vhx3dfj8b0t8xq3ecq8",
+  "key": "LNFMAC-141965",
+  "name": "Hazemeyer AL250",
+  "type": "Power Supplies Models",
+  "schemaUid": "01kj0a513zjyt52esprgx7mzmx",
+  "attributes": {
+    "key": "LNFMAC-141965",
+    "name": "Hazemeyer AL250",
+    "created": "2025-09-02T11:44:44.000Z",
+    "updated": "2025-09-02T11:44:58.000Z",
+    "producer": "01kj0ae1310z6c4bhtbddjjtqm",
+    "vendor": "01kj0ae1310z6c4bhtbddjjtqm",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>BTF/Dafne</p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

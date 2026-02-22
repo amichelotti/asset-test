@@ -1,0 +1,38 @@
+{
+  "uid": "01kj0aknfp4m007thrvzwe7eqb",
+  "key": "LNFELINP-111710",
+  "name": "LEL-MAG-SOL01:COIL02",
+  "type": "Magnet",
+  "schemaUid": "01kj0agzxk6n11ve3fvx4aqbmn",
+  "attributes": {
+    "key": "LNFELINP-111710",
+    "name": "LEL-MAG-SOL01:COIL02",
+    "created": "2023-11-29T12:16:54.000Z",
+    "updated": "2023-12-01T13:14:57.000Z",
+    "description": "Solenoid A coil 2",
+    "layout": "01kj0arfx79g05er6bq55gb957",
+    "module": "M1",
+    "type": "SOL",
+    "voltage": "15",
+    "current": "176",
+    "inlet_temp": "30",
+    "rise_temp": "14",
+    "water_pressure_drop": "4",
+    "water_coling_flow": "2.75",
+    "weight": "70",
+    "crosssection": "150",
+    "currentin": "193.6",
+    "powersupply": "01kj0ax0hjfs81ws8vsb44x3tv",
+    "power": "2.64"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

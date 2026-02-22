@@ -1,0 +1,26 @@
+{
+  "uid": "01kj0apg1bg3yg9j820x922r5b",
+  "key": "LNFELINP-133710",
+  "name": "EVR03",
+  "type": "Timing",
+  "schemaUid": "01kj0ah31p6k8a65gtb6jagkv9",
+  "attributes": {
+    "key": "LNFELINP-133710",
+    "name": "EVR03",
+    "created": "2025-02-26T12:32:51.000Z",
+    "updated": "2025-02-26T12:47:53.000Z",
+    "status": "Active",
+    "alias": "EVR_RFD",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>RF Driver</p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

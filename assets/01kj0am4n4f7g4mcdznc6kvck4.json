@@ -1,0 +1,18 @@
+{
+  "uid": "01kj0am4n4f7g4mcdznc6kvck4",
+  "key": "LNFELINP-111829",
+  "name": "LEL-RF-MS01:KLY",
+  "type": "RF",
+  "schemaUid": "01kj0ah0ay15mxws4dw2xgyw96",
+  "attributes": {},
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "uid": "01kj0a6xkr5jp3g8zn7n1e9s0t",
+  "key": "LNFMAC-141962",
+  "name": "Hazemeyer-modbus-serial",
+  "type": "Power Supplies Models",
+  "schemaUid": "01kj0a513zjyt52esprgx7mzmx",
+  "attributes": {
+    "key": "LNFMAC-141962",
+    "name": "Hazemeyer-modbus-serial",
+    "created": "2025-09-02T11:15:47.000Z",
+    "updated": "2025-09-02T11:53:19.000Z",
+    "producer": "01kj0ae1310z6c4bhtbddjjtqm",
+    "vendor": "01kj0ae1310z6c4bhtbddjjtqm",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p><span class=\"code\" spellcheck=\"false\">Hazemeyer 250A 15V</span></p><p>19200,8,no parity, no flow&nbsp; Modbus RTU</p></div>",
+    "git_repo": "https://github.com/infn-epics/hazemeyer-lnf"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

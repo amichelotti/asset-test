@@ -1,0 +1,23 @@
+{
+  "uid": "01kj0ap34jk15tjcnb2v89ynkk",
+  "key": "LNFELINP-130928",
+  "name": "Annex",
+  "type": "Location",
+  "schemaUid": "01kj0a50qnfak6f3bqerz2nfwv",
+  "attributes": {
+    "key": "LNFELINP-130928",
+    "name": "Annex",
+    "created": "2025-01-13T08:22:11.000Z",
+    "updated": "2025-01-13T08:22:11.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

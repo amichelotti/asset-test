@@ -1,0 +1,26 @@
+{
+  "uid": "01kj0a78rgk5jk85wkmp6kzgz4",
+  "key": "LNFMAC-143397",
+  "name": "IKR 251",
+  "type": "Vacuum Models",
+  "schemaUid": "01kj0a51yzkpjj04jjb6vvha3g",
+  "attributes": {
+    "key": "LNFMAC-143397",
+    "name": "IKR 251",
+    "created": "2025-10-23T09:48:10.000Z",
+    "updated": "2025-10-23T09:59:21.000Z",
+    "producer": "01kj0aes506cntd65t56fgcerh",
+    "documentation": "https://vacuum-shop.com/shop/en_US/category/2073509/product/pt-r25500/ikr-251-fpm-sealed.html",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>IKR 251, FPM sealed</p><table data-number-column=\"false\" data-layout=\"default\" data-autosize=\"false\" data-table-local-id=\"d7a56ecf-726b-4e1f-9cae-4a505f1e9ab6\"><tbody><tr><th class=\"pm-table-header-content-wrap\"><p>Anode</p></th><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>Mo</p></li></ul></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Connection flange</p></th><td class=\"pm-table-cell-content-wrap\"><p>DN 25 ISO-KF</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Output signal: Measuring range</p></th><td class=\"pm-table-cell-content-wrap\"><p>1.8 – 8.5&nbsp;V</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Output signal: Minimum load</p></th><td class=\"pm-table-cell-content-wrap\"><p>10 kΩ</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Bakeout temperature max.(electronics removed)</p></th><td class=\"pm-table-cell-content-wrap\"><p>≤ 150 °C</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Seal</p></th><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>FKM</p></li></ul></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Pressure max.</p></th><td class=\"pm-table-cell-content-wrap\"><p>1 · 10<sup>4</sup> hPa</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Feedthrough</p></th><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt;</p></li></ul></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Attribute</p></th><td class=\"pm-table-cell-content-wrap\"><p>Interior FPM sealed</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Input voltage(s)</p></th><td class=\"pm-table-cell-content-wrap\"><p>15 – 30&nbsp;V&nbsp;DC</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Flange, material</p></th><td class=\"pm-table-cell-content-wrap\"><p>Stainless steel</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Weight</p></th><td class=\"pm-table-cell-content-wrap\"><p>0.7 g</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Power consumption max.</p></th><td class=\"pm-table-cell-content-wrap\"><p>2 W</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Measuring range</p></th><td class=\"pm-table-cell-content-wrap\"><p>2E-9&nbsp;–&nbsp;1E-2&nbsp;hPa</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Accuracy of measurement</p></th><td class=\"pm-table-cell-content-wrap\"><p>30&nbsp;%&nbsp;(1E-8&nbsp;hPa&nbsp;–&nbsp;1E-3&nbsp;hPa)</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Measurement cable length min.</p></th><td class=\"pm-table-cell-content-wrap\"><p>500 m</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Measuring method</p></th><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>Cold cathode</p></li></ul></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Ambient temperature</p></th><td class=\"pm-table-cell-content-wrap\"><p>5 – 55&nbsp;°C</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Volume</p></th><td class=\"pm-table-cell-content-wrap\"><p>20 cm³</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Repeatability</p></th><td class=\"pm-table-cell-content-wrap\"><p>5&nbsp;% (1E-8&nbsp;hPa – 1E-3&nbsp;hPa)</p></td></tr></tbody></table><p></p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

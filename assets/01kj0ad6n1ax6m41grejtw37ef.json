@@ -1,0 +1,23 @@
+{
+  "uid": "01kj0ad6n1ax6m41grejtw37ef",
+  "key": "LNFMAC-143346",
+  "name": "Basler",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-143346",
+    "name": "Basler",
+    "created": "2025-10-22T09:36:29.000Z",
+    "updated": "2025-10-22T09:36:29.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

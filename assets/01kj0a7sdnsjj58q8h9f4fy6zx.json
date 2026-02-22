@@ -1,0 +1,26 @@
+{
+  "uid": "01kj0a7sdnsjj58q8h9f4fy6zx",
+  "key": "LNFMAC-129699",
+  "name": "NPort 5410",
+  "type": "Converter Models",
+  "schemaUid": "01kj0a50w3xajtckjzyjwevfx6",
+  "attributes": {
+    "key": "LNFMAC-129699",
+    "name": "NPort 5410",
+    "created": "2024-12-10T11:12:04.000Z",
+    "updated": "2024-12-10T11:14:53.000Z",
+    "producer": "01kj0aekmnmcexwp9fg7d3p8n6",
+    "documentation": "https://www.moxa.com/en/products/industrial-edge-connectivity/serial-device-servers/general-device-servers/nport-5400-series",
+    "description": "<h3>Introduction</h3><p>NPort® 5400 device servers provide many useful features for serial-to-Ethernet applications, including an independent operation mode for each serial port, user-friendly LCD panel for easy installation, dual DC power inputs, and adjustable termination and pull high/low resistors.</p><p>&nbsp;</p><h4>Network Readiness for up to 4 Serial Devices</h4><p>NPort® 5400 device servers can conveniently and transparently connect up to four serial devices to an Ethernet network, allowing you to network your existing serial devices with only basic configuration. Data transmission between the serial and Ethernet interfaces is bidirectional. By using NPort® device servers, you not only protect your current hardware investment, but also allow for future network expansion. You can both centralize the management of your serial devices and distribute management hosts over the network.</p><p>&nbsp;</p><h4>Independent Operation Mode for Each Serial Port</h4><p>NPort® 5400 device servers can be used to connect different devices for remote data polling or event handling over a TCP/IP network. Each serial port on the NPort® 5400 operates independently to provide maximum versatility. For example, port 1 can operate in Driver mode, port 2 in TCP Server mode, and ports 3 and 4 in TCP Client mode.</p>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

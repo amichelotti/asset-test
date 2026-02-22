@@ -1,0 +1,23 @@
+{
+  "uid": "01kj0af846m56vjbf4d4d6141f",
+  "key": "LNFMAC-147141",
+  "name": "SELCED+",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-147141",
+    "name": "SELCED+",
+    "created": "2026-02-10T16:06:24.000Z",
+    "updated": "2026-02-10T16:06:24.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

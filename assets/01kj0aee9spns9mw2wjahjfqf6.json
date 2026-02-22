@@ -1,0 +1,23 @@
+{
+  "uid": "01kj0aee9spns9mw2wjahjfqf6",
+  "key": "LNFMAC-128456",
+  "name": "itest",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-128456",
+    "name": "itest",
+    "created": "2024-11-08T14:41:11.000Z",
+    "updated": "2024-11-08T14:41:11.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

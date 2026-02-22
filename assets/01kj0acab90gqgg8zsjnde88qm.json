@@ -1,0 +1,23 @@
+{
+  "uid": "01kj0acab90gqgg8zsjnde88qm",
+  "key": "LNFMAC-145363",
+  "name": "SPARC - EUAPS",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kj0a4zv9a4gq5cx1m5nhdh0v",
+  "attributes": {
+    "key": "LNFMAC-145363",
+    "name": "SPARC - EUAPS",
+    "created": "2026-01-08T17:36:52.000Z",
+    "updated": "2026-01-08T17:36:52.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0acrqrv2v2d87ajdej1thb",
+  "key": "LNFMAC-109365",
+  "name": "2WARE SRL",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109365",
+    "name": "2WARE SRL",
+    "created": "2023-10-10T12:39:23.000Z",
+    "updated": "2023-10-10T12:39:23.000Z",
+    "contact": "2WARE SRL"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

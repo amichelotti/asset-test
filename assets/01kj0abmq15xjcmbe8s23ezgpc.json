@@ -1,0 +1,23 @@
+{
+  "uid": "01kj0abmq15xjcmbe8s23ezgpc",
+  "key": "LNFMAC-103909",
+  "name": "sala controllo Dafne",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kj0a4zv9a4gq5cx1m5nhdh0v",
+  "attributes": {
+    "key": "LNFMAC-103909",
+    "name": "sala controllo Dafne",
+    "created": "2023-09-11T14:08:05.000Z",
+    "updated": "2025-10-28T14:52:13.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

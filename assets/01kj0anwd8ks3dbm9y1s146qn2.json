@@ -1,0 +1,27 @@
+{
+  "uid": "01kj0anwd8ks3dbm9y1s146qn2",
+  "key": "LNFELINP-111923",
+  "name": "LEL-DIA-SCN06:MOT01",
+  "type": "Diagnostic",
+  "schemaUid": "01kj0ah1nvzpqp5te4me2fsccp",
+  "attributes": {
+    "key": "LNFELINP-111923",
+    "name": "LEL-DIA-SCN06:MOT01",
+    "created": "2023-11-30T11:44:48.000Z",
+    "updated": "2023-12-01T13:15:31.000Z",
+    "description": "Screen motor",
+    "layout": "01kj0av98r6vaj7tm40zkjhqc2",
+    "module": "M4A",
+    "type": "SCNMOT"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

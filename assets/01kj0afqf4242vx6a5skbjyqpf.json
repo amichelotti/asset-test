@@ -1,0 +1,25 @@
+{
+  "uid": "01kj0afqf4242vx6a5skbjyqpf",
+  "key": "LNFMAC-143483",
+  "name": "VAT",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-143483",
+    "name": "VAT",
+    "created": "2025-10-27T09:28:56.000Z",
+    "updated": "2025-10-27T09:28:56.000Z",
+    "contact": "<div class=\"created-with-ak-editor content-wrapper\"><p><strong>Varisco &amp; Co. srl</strong></p><p>Contrada S. Cusmano<br>96011, Augusta SR<br>Italy</p><p><a href=\"tel:+39\">+39 0931 760 945</a></p><p><a href=\"mailto:info@variscosrl.com\">info@variscosrl.com</a></p></div>",
+    "link": "https://www.vatgroup.com/contact"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

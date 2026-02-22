@@ -1,0 +1,23 @@
+{
+  "uid": "01kj0abz37wdj8qc6f7qxka7ht",
+  "key": "LNFMAC-99307",
+  "name": "Sala Modulatori - Cor01",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kj0a4zv9a4gq5cx1m5nhdh0v",
+  "attributes": {
+    "key": "LNFMAC-99307",
+    "name": "Sala Modulatori - Cor01",
+    "created": "2023-05-09T21:29:09.000Z",
+    "updated": "2025-10-28T14:52:13.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

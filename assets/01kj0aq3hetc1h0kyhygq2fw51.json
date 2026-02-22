@@ -1,0 +1,29 @@
+{
+  "uid": "01kj0aq3hetc1h0kyhygq2fw51",
+  "key": "LNFELINP-112376",
+  "name": "LEL-DIA-SCN04:CAM01",
+  "type": "BeamLine",
+  "schemaUid": "01kj0ah471xrxbcnw9sc0jf70m",
+  "attributes": {
+    "key": "LNFELINP-112376",
+    "name": "LEL-DIA-SCN04:CAM01",
+    "created": "2023-11-30T23:37:44.000Z",
+    "updated": "2023-12-01T13:24:25.000Z",
+    "module": "M4",
+    "layout": "01kj0atph718ym0prffxk505f2",
+    "sequential": "61",
+    "previous_element": "01kj0aq3zycy9w2yvzc46n025m",
+    "next_element": "01kj0apzj65dj86x157dzee33e",
+    "element": "01kj0ant908c9xke6jffzh7wh9"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

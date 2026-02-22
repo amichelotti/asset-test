@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0aegjm9h31w7rxdwshss3c",
+  "key": "LNFMAC-109157",
+  "name": "KAY SYSTEMS ITALIA SRL",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109157",
+    "name": "KAY SYSTEMS ITALIA SRL",
+    "created": "2023-10-06T08:18:18.000Z",
+    "updated": "2023-10-06T08:18:18.000Z",
+    "contact": "KAY SYSTEMS ITALIA SRL"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

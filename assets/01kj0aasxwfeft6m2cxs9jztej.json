@@ -1,0 +1,26 @@
+{
+  "uid": "01kj0aasxwfeft6m2cxs9jztej",
+  "key": "LNFMAC-109232",
+  "name": "Lab. Controlli Divisione Acceleratori",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kj0a4zv9a4gq5cx1m5nhdh0v",
+  "attributes": {
+    "key": "LNFMAC-109232",
+    "name": "Lab. Controlli Divisione Acceleratori",
+    "created": "2023-10-09T12:10:36.000Z",
+    "updated": "2025-10-28T14:52:13.000Z",
+    "piano": "2",
+    "stanza": "117",
+    "area": "01kj0aabndjxzjhn47qq4q6yw9"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

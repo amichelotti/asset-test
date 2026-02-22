@@ -1,0 +1,25 @@
+{
+  "uid": "01kj0aaeqqdkqf5y8h2bqxtawd",
+  "key": "LNFMAC-107851",
+  "name": "ELECTRON INTERACTION REGIONS - I2",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kj0a4zv9a4gq5cx1m5nhdh0v",
+  "attributes": {
+    "key": "LNFMAC-107851",
+    "name": "ELECTRON INTERACTION REGIONS - I2",
+    "created": "2023-10-02T15:46:44.000Z",
+    "updated": "2025-10-28T14:52:13.000Z",
+    "description": "<p>Electron Interaction point I2</p>",
+    "area": "01kj0aa5a0467xc13hkvggbet8"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

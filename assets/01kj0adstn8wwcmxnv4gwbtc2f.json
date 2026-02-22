@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0adstn8wwcmxnv4gwbtc2f",
+  "key": "LNFMAC-109338",
+  "name": "ELE.SI.A. SPA",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109338",
+    "name": "ELE.SI.A. SPA",
+    "created": "2023-10-10T12:39:13.000Z",
+    "updated": "2023-10-10T12:39:13.000Z",
+    "contact": "ELE.SI.A. SPA"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

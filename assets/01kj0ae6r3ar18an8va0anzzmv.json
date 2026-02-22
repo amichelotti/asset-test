@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0ae6r3ar18an8va0anzzmv",
+  "key": "LNFMAC-109368",
+  "name": "IMEX SYSTEMS LTD",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109368",
+    "name": "IMEX SYSTEMS LTD",
+    "created": "2023-10-10T12:39:24.000Z",
+    "updated": "2023-10-10T12:39:24.000Z",
+    "contact": "IMEX SYSTEMS LTD"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

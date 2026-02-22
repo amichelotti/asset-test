@@ -1,0 +1,30 @@
+{
+  "uid": "01kj0amcmr9kx9ry7btjbg5tmn",
+  "key": "LNFELINP-129440",
+  "name": "scelimxa8001",
+  "type": "Converter",
+  "schemaUid": "01kj0ah0hrkp8y4zyyxbskt62f",
+  "attributes": {
+    "key": "LNFELINP-129440",
+    "name": "scelimxa8001",
+    "created": "2024-12-04T16:03:48.000Z",
+    "updated": "2025-11-14T13:42:14.000Z",
+    "status": "Active",
+    "alias": "NPORT 5650-8",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Serial converter for ELI vacuum</p><p>vpcon4:port4004&nbsp;</p><p>vpcon5: port4008</p><p>vpcon6: port4007</p><p>vpcon7: port4003</p><p>vpcon8: port4005</p><p>vpcon17: port4006</p></div>",
+    "location": "01kj0ap8cj9dcrtkzr47fkbect",
+    "rack": "01kj0b0cm2d2xh9z1r79wd3gcw",
+    "mac": "00:90:E8:4D:55:F1",
+    "registered": "LNFMAC-129477"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

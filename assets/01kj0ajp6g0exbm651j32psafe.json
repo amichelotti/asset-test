@@ -1,0 +1,27 @@
+{
+  "uid": "01kj0ajp6g0exbm651j32psafe",
+  "key": "LNFELINP-111752",
+  "name": "LEL-VAC-RGA01",
+  "type": "Vacuum",
+  "schemaUid": "01kj0agyvkmyke0rctxspepy58",
+  "attributes": {
+    "key": "LNFELINP-111752",
+    "name": "LEL-VAC-RGA01",
+    "created": "2023-11-29T22:57:36.000Z",
+    "updated": "2023-12-01T13:14:59.000Z",
+    "description": "Residual gas analyser",
+    "layout": "01kj0ark0fzx61gvj6e1cjajag",
+    "module": "M1",
+    "type": "RGA"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

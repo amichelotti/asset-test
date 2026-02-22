@@ -1,0 +1,25 @@
+{
+  "uid": "01kj0adrrhw42yt5q9srgjyy9r",
+  "key": "LNFMAC-143403",
+  "name": "EDWARDS",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-143403",
+    "name": "EDWARDS",
+    "created": "2025-10-23T10:26:32.000Z",
+    "updated": "2025-10-23T11:57:50.000Z",
+    "contact": "<div class=\"created-with-ak-editor content-wrapper\"><p>Contatta il nostro rappresentante Edwards in Italia<br>Via Galileo Galilei 40, Cinisello Balsamo MI, 20092<br>Italia<br>Italia</p><ul class=\"ak-ul\"><li><p><a href=\"tel:+3902484471\">+3902484471</a></p></li><li><p><a href=\"mailto:itvendite@edwardsvacuum.com\">E-mail: itvendite@edwardsvacuum.com</a></p></li></ul><p>Contatta il nostro distributore Edwards in Italia<br>Via Carpaccio 35, Trezzano sul Naviglio Milano, 20090<br>Italia<br>Italia</p><ul class=\"ak-ul\"><li><p><a href=\"tel:+39024455913\">+39024455913</a></p></li><li><p><a href=\"mailto:info@5pascal.it\">E-mail: info@5pascal.it</a></p></li></ul><p></p></div>",
+    "link": "https://www.edwardsvacuum.com/it-it"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

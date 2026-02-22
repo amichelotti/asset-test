@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0ae60c4e00nhte55n6q4pe",
+  "key": "LNFMAC-12430",
+  "name": "ICPDAS",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-12430",
+    "name": "ICPDAS",
+    "created": "2023-03-22T21:38:46.000Z",
+    "updated": "2023-03-22T21:38:46.000Z",
+    "link": "https://www.icpdas.com/"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

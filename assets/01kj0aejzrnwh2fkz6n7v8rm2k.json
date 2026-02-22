@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0aejzrnwh2fkz6n7v8rm2k",
+  "key": "LNFMAC-109387",
+  "name": "MICRO-RESEARCH FINLAND OY",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109387",
+    "name": "MICRO-RESEARCH FINLAND OY",
+    "created": "2023-10-10T12:39:31.000Z",
+    "updated": "2023-10-10T12:39:31.000Z",
+    "contact": "MICRO-RESEARCH FINLAND OY"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

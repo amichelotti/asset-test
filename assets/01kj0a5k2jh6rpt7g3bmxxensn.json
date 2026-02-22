@@ -1,0 +1,26 @@
+{
+  "uid": "01kj0a5k2jh6rpt7g3bmxxensn",
+  "key": "LNFMAC-143399",
+  "name": "CMR 364",
+  "type": "Vacuum Models",
+  "schemaUid": "01kj0a51yzkpjj04jjb6vvha3g",
+  "attributes": {
+    "key": "LNFMAC-143399",
+    "name": "CMR 364",
+    "created": "2025-10-23T09:51:08.000Z",
+    "updated": "2025-10-23T09:57:49.000Z",
+    "producer": "01kj0aes506cntd65t56fgcerh",
+    "documentation": "https://vacuum-shop.com/shop/en_US/category/2073497/product/pt-r24633/cmr364-1hpaf-s-.html",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><h1>CMR&nbsp;364, 1&nbsp;hPa&nbsp;F.S.</h1><table data-number-column=\"false\" data-layout=\"default\" data-autosize=\"false\" data-table-local-id=\"c44ec938-cd8c-4ca3-a47c-1ff37be778ed\"><tbody><tr><th class=\"pm-table-header-content-wrap\"><p>Connection flange</p></th><td class=\"pm-table-cell-content-wrap\"><p>DN 16 ISO-KF</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Resolution</p></th><td class=\"pm-table-cell-content-wrap\"><p>0.003 % F.S.</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Output signal: Measuring range</p></th><td class=\"pm-table-cell-content-wrap\"><p>1 – 9.8&nbsp;V</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Output signal: Minimum load</p></th><td class=\"pm-table-cell-content-wrap\"><p>10 kΩ</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Bakeout temperature at the flange</p></th><td class=\"pm-table-cell-content-wrap\"><p>≤ 110 °C</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Pressure max.</p></th><td class=\"pm-table-cell-content-wrap\"><p>2 · 10<sup>3</sup> hPa</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Input voltage(s)</p></th><td class=\"pm-table-cell-content-wrap\"><p>14 – 30&nbsp;V&nbsp;DC</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Flange, material</p></th><td class=\"pm-table-cell-content-wrap\"><p>Stainless steel</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Full scale</p></th><td class=\"pm-table-cell-content-wrap\"><p>1 hPa</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Weight</p></th><td class=\"pm-table-cell-content-wrap\"><p>0.33 kg</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Power consumption max.</p></th><td class=\"pm-table-cell-content-wrap\"><p>1 W</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Materials in contact with media</p></th><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>Ceramic (Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; = 99.5 %)</p></li></ul></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Measuring range</p></th><td class=\"pm-table-cell-content-wrap\"><p>1E-4&nbsp;–&nbsp;1.1E0&nbsp;hPa</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Accuracy of measurement</p></th><td class=\"pm-table-cell-content-wrap\"><p>0.2&nbsp;%&nbsp;(of measured value)</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Measurement cable length min.</p></th><td class=\"pm-table-cell-content-wrap\"><p>120 m</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Measuring method</p></th><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>Capacitive</p></li></ul></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Response time</p></th><td class=\"pm-table-cell-content-wrap\"><p>30 ms</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Protection degree</p></th><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>IP30</p></li></ul></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Temperature effect: on range</p></th><td class=\"pm-table-cell-content-wrap\"><p>0.01% of measured value/&nbsp;°C</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Temperature effect: on zero point</p></th><td class=\"pm-table-cell-content-wrap\"><p>0.015 % F.S./°C</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Ambient temperature</p></th><td class=\"pm-table-cell-content-wrap\"><p>5 – 50&nbsp;°C</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Volume</p></th><td class=\"pm-table-cell-content-wrap\"><p>≤ 3.6 cm³</p></td></tr></tbody></table><p></p><p></p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

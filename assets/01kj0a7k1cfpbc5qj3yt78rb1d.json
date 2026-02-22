@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0a7k1cfpbc5qj3yt78rb1d",
+  "key": "LNFMAC-104845",
+  "name": "Menlo Fiber Link Stabilization",
+  "type": "Timing Models",
+  "schemaUid": "01kj0a51g4knrdj45wdb31mjc7",
+  "attributes": {
+    "key": "LNFMAC-104845",
+    "name": "Menlo Fiber Link Stabilization",
+    "created": "2023-09-25T19:30:49.000Z",
+    "updated": "2023-10-06T08:07:48.000Z",
+    "documentation": "https://www.menlosystems.com/assets/documents/Timing-Distribution-System-Brochure-complete.pdf"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

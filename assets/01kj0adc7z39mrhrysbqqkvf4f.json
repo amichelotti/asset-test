@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0adc7z39mrhrysbqqkvf4f",
+  "key": "LNFMAC-109323",
+  "name": "CAR.MEC. SNC",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109323",
+    "name": "CAR.MEC. SNC",
+    "created": "2023-10-10T12:39:08.000Z",
+    "updated": "2023-10-10T12:39:08.000Z",
+    "contact": "CAR.MEC. SNC"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

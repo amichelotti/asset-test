@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0adbjf0t23sn9pnp2d9hkc",
+  "key": "LNFMAC-141957",
+  "name": "Caenels",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-141957",
+    "name": "Caenels",
+    "created": "2025-09-02T10:21:34.000Z",
+    "updated": "2025-09-02T10:21:34.000Z",
+    "link": "https://www.caenels.com/"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

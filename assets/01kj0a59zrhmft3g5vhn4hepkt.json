@@ -1,0 +1,28 @@
+{
+  "uid": "01kj0a59zrhmft3g5vhn4hepkt",
+  "key": "LNFMAC-137628",
+  "name": "Agilent IPCmini",
+  "type": "Vacuum Models",
+  "schemaUid": "01kj0a51yzkpjj04jjb6vvha3g",
+  "attributes": {
+    "key": "LNFMAC-137628",
+    "name": "Agilent IPCmini",
+    "created": "2025-05-20T13:37:03.000Z",
+    "updated": "2025-09-02T12:06:29.000Z",
+    "producer": "01kj0acxm1bk3kmxb2hfgj99te",
+    "vendor": "01kj0acxm1bk3kmxb2hfgj99te",
+    "documentation": "https://www.agilent.com/en/product/vacuum-technologies/ion-pumps-controllers/ion-pump-controllers/ipcmini-ion-pump-controller#productdetails",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><ul class=\"ak-ul\"><li><p>Selection of positive (diode, noble diode) or negative (StarCell, triode) polarity outputs to meet your needs</p></li><li><p>iSTEP voltage feature ensures highest pumping speed and lowest leakage current resulting in most accurate pressure measurement down to the 1 x 10<sup>–10</sup> mbar range</p></li><li><p>Convenient front-panel USB port for data acquisition</p></li><li><p>Programmable outputs for operation of any other ion pump</p></li><li><p>I/O response time of &lt;30 msec (typical)</p></li><li><p>Built-in set points, remote operation, and RS232/485 computer interface are standard (Ethernet optional)</p></li><li><p>IProtect disables high-voltage output in the event of a leak or increase in gas load to preserve ion pump lifetime</p></li><li><p>Interlock system immediately shuts down the high voltage when the plug is removed from the pump</p></li><li><p>Compliant with EN 61326-1 2013 and EN 61010-1 2010</p></li><li><p>Shipped without a power cord, to be ordered separately</p></li></ul><p></p></div>",
+    "git_repo": "https://github.com/infn-epics/agilentipcmini"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

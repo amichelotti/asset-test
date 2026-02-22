@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0ac6t8f3awtp4jv3gnjp9t",
+  "key": "LNFMAC-99428",
+  "name": "Sala Strumentazione - Rack 31",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kj0a4zv9a4gq5cx1m5nhdh0v",
+  "attributes": {
+    "key": "LNFMAC-99428",
+    "name": "Sala Strumentazione - Rack 31",
+    "created": "2023-05-13T13:55:39.000Z",
+    "updated": "2025-10-28T14:52:13.000Z",
+    "building": "Dafne"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

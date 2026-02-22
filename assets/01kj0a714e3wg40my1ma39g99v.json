@@ -1,0 +1,27 @@
+{
+  "uid": "01kj0a714e3wg40my1ma39g99v",
+  "key": "LNFMAC-141959",
+  "name": "HiStar",
+  "type": "Power Supplies Models",
+  "schemaUid": "01kj0a513zjyt52esprgx7mzmx",
+  "attributes": {
+    "key": "LNFMAC-141959",
+    "name": "HiStar",
+    "created": "2025-09-02T10:54:11.000Z",
+    "updated": "2025-09-02T11:53:28.000Z",
+    "producer": "01kj0adbjf0t23sn9pnp2d9hkc",
+    "vendor": "01kj0adbjf0t23sn9pnp2d9hkc",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Elettra/Caenels±30A 15V</p><p></p></div>",
+    "git_repo": "https://github.com/infn-epics/caenelsPS"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

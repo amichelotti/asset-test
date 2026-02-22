@@ -1,0 +1,23 @@
+{
+  "uid": "01kj0ap97meenyqmmnpb95wnfq",
+  "key": "LNFELINP-126653",
+  "name": "Selced",
+  "type": "Location",
+  "schemaUid": "01kj0a50qnfak6f3bqerz2nfwv",
+  "attributes": {
+    "key": "LNFELINP-126653",
+    "name": "Selced",
+    "created": "2024-09-06T08:56:58.000Z",
+    "updated": "2024-09-06T08:56:58.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

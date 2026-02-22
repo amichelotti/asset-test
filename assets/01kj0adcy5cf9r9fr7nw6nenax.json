@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0adcy5cf9r9fr7nw6nenax",
+  "key": "LNFMAC-109167",
+  "name": "CD NAPOLI CITY S.R.L.",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109167",
+    "name": "CD NAPOLI CITY S.R.L.",
+    "created": "2023-10-06T08:26:47.000Z",
+    "updated": "2023-10-06T08:26:47.000Z",
+    "contact": "CD NAPOLI CITY S.R.L."
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

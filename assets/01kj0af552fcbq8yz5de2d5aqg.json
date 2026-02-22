@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0af552fcbq8yz5de2d5aqg",
+  "key": "LNFMAC-141979",
+  "name": "scandinova",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-141979",
+    "name": "scandinova",
+    "created": "2025-09-02T15:28:19.000Z",
+    "updated": "2025-09-02T15:28:19.000Z",
+    "link": "https://scandinovasystems.com/"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "uid": "01kj0anhgyy4w5bvr6pdeadjnn",
+  "key": "LNFELINP-137519",
+  "name": "plelimrf003",
+  "type": "IO Controller",
+  "schemaUid": "01kj0ah1462t6ntnmmhgcn8b48",
+  "attributes": {
+    "key": "LNFELINP-137519",
+    "name": "plelimrf003",
+    "created": "2025-05-15T13:08:27.000Z",
+    "updated": "2025-06-03T11:28:51.000Z",
+    "status": "Active",
+    "alias": "GEN-CS-AB01:IOC01",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>I7-3517UE CPU</p><p>EVG + 2 EVR</p></div>",
+    "location": "01kj0ap97meenyqmmnpb95wnfq",
+    "mac": "00:c0:88:01:78:98",
+    "registered": "LNFMAC-137518",
+    "os": "Scientific Linux 6.3",
+    "ram": "8",
+    "cpu": "4",
+    "disk": "120"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

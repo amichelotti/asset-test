@@ -1,0 +1,27 @@
+{
+  "uid": "01kj0a5qabvwd9gfyvam44kq19",
+  "key": "LNFMAC-141958",
+  "name": "Easy-Driver",
+  "type": "Power Supplies Models",
+  "schemaUid": "01kj0a513zjyt52esprgx7mzmx",
+  "attributes": {
+    "key": "LNFMAC-141958",
+    "name": "Easy-Driver",
+    "created": "2025-09-02T10:22:18.000Z",
+    "updated": "2025-09-02T11:52:46.000Z",
+    "producer": "01kj0adbjf0t23sn9pnp2d9hkc",
+    "vendor": "01kj0adbjf0t23sn9pnp2d9hkc",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><h2>Compact Digital Bipolar Power Supply Series - up to 200 W</h2><p>Bipolar power supply series with adaptable digital output control, extreme configurability and 10/100 Mbit TCP-IP and UDP over Ethernet connectivity</p></div>",
+    "git_repo": "https://github.com/infn-epics/easy-driver-epics"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

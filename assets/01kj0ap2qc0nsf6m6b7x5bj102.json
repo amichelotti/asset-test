@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0ap2qc0nsf6m6b7x5bj102",
+  "key": "LNFELINP-111594",
+  "name": "AB1",
+  "type": "Location",
+  "schemaUid": "01kj0a50qnfak6f3bqerz2nfwv",
+  "attributes": {
+    "key": "LNFELINP-111594",
+    "name": "AB1",
+    "created": "2023-11-28T14:35:55.000Z",
+    "updated": "2023-11-28T14:35:55.000Z",
+    "stanza": "AB1"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

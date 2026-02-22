@@ -1,0 +1,27 @@
+{
+  "uid": "01kj0apqsrn469b3sby1s1phaa",
+  "key": "LNFELINP-134080",
+  "name": "motionbox04-scn04",
+  "type": "IO System",
+  "schemaUid": "01kj0ah3evmw5xnrdeeaj5jct0",
+  "attributes": {
+    "key": "LNFELINP-134080",
+    "name": "motionbox04-scn04",
+    "created": "2025-03-06T16:24:13.000Z",
+    "updated": "2025-06-13T12:46:46.000Z",
+    "status": "Active",
+    "alias": "Master 4",
+    "location": "01kj0ap2qc0nsf6m6b7x5bj102",
+    "connector": "01kj0b42y3njctxgrf5yrhgf7g"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

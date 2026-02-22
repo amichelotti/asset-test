@@ -1,0 +1,23 @@
+{
+  "uid": "01kj0a8c1nqk7wg7tvav22dcff",
+  "key": "LNFMAC-141981",
+  "name": "PPT",
+  "type": "Modulator Models",
+  "schemaUid": "01kj0a52bnh6qt2nba1wv9yd9m",
+  "attributes": {
+    "key": "LNFMAC-141981",
+    "name": "PPT",
+    "created": "2025-09-02T15:51:01.000Z",
+    "updated": "2025-09-02T15:51:01.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

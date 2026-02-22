@@ -1,0 +1,23 @@
+{
+  "uid": "01kj0a5hn1ktjq3rqqn3k4mt2w",
+  "key": "LNFMAC-12807",
+  "name": "Cisco Catalyst 4500-E",
+  "type": "Switch Models",
+  "schemaUid": "01kj0a50ch6qrz2d11rrhz8hqs",
+  "attributes": {
+    "key": "LNFMAC-12807",
+    "name": "Cisco Catalyst 4500-E",
+    "created": "2023-04-19T16:23:22.000Z",
+    "updated": "2023-05-16T14:56:16.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

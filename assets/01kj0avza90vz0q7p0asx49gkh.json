@@ -1,0 +1,25 @@
+{
+  "uid": "01kj0avza90vz0q7p0asx49gkh",
+  "key": "LNFELINP-112522",
+  "name": "WGS01-000",
+  "type": "Layout",
+  "schemaUid": "01kj0ah4pc8je2kzbza9jekpq4",
+  "attributes": {
+    "key": "LNFELINP-112522",
+    "name": "WGS01-000",
+    "created": "2023-12-01T12:54:44.000Z",
+    "updated": "2023-12-01T12:54:44.000Z",
+    "location": "01kj0ap8cj9dcrtkzr47fkbect",
+    "module": "WGS01"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

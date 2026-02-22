@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0afkwhcczt4nvq2h8ne4gc",
+  "key": "LNFMAC-109174",
+  "name": "TEST POINT S.R.L.",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109174",
+    "name": "TEST POINT S.R.L.",
+    "created": "2023-10-06T08:26:52.000Z",
+    "updated": "2023-10-06T08:26:52.000Z",
+    "contact": "TEST POINT S.R.L."
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

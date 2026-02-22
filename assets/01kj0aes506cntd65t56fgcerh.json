@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0aes506cntd65t56fgcerh",
+  "key": "LNFMAC-143394",
+  "name": "Pfeiffer Vacuum Components & Solutions GmbH",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-143394",
+    "name": "Pfeiffer Vacuum Components & Solutions GmbH",
+    "created": "2025-10-23T09:42:34.000Z",
+    "updated": "2025-10-23T09:56:06.000Z",
+    "contact": "<div class=\"created-with-ak-editor content-wrapper\"><p>Pfeiffer Vacuum Components &amp; Solutions GmbH<br>Anna-Vandenhoeck-Ring 44<br>37081 Göttingen</p><p>T +49 551 99963-0<br>F +49 551 99963-3010<br><a href=\"mailto:info@vacuum-shop.com\">info@vacuum-shop.com</a></p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

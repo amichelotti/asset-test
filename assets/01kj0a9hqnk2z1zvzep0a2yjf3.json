@@ -1,0 +1,25 @@
+{
+  "uid": "01kj0a9hqnk2z1zvzep0a2yjf3",
+  "key": "LNFMAC-143362",
+  "name": "VT80 - V6",
+  "type": "Motor Models",
+  "schemaUid": "01kj0a52kvy8ja5m7qjjs02vvk",
+  "attributes": {
+    "key": "LNFMAC-143362",
+    "name": "VT80 - V6",
+    "created": "2025-10-22T10:03:07.000Z",
+    "updated": "2025-10-22T10:03:07.000Z",
+    "producer": "01kj0aevpr5733m5kd95m6vy76",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><h1>VT-80 V6 Linear Stage Suitable for Vacuum</h1><p><a href=\"https://www.pionline.it/it/products/linear-stages/stages-with-stepper-dc-brushless-dc-bldc-motors/vt-80-v6-linear-stage-suitable-for-vacuum-412418487\">https://www.pionline.it/it/products/linear-stages/stages-with-stepper-dc-brushless-dc-bldc-motors/vt-80-v6-linear-stage-suitable-for-vacuum-412418487</a></p><p></p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

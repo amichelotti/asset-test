@@ -1,0 +1,23 @@
+{
+  "uid": "01kj0a5mznp1dkzb1jpcdetry2",
+  "key": "LNFMAC-115501",
+  "name": "Dell Ultrasharp U2715H",
+  "type": "Monitor Models",
+  "schemaUid": "01kj0a50m76afsrbm809079n3w",
+  "attributes": {
+    "key": "LNFMAC-115501",
+    "name": "Dell Ultrasharp U2715H",
+    "created": "2024-02-02T11:27:09.000Z",
+    "updated": "2024-02-02T11:27:09.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

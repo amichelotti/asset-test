@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0afb965gdgbf1vvv4h6a6w",
+  "key": "LNFMAC-109315",
+  "name": "SILVERSTAR SRL",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109315",
+    "name": "SILVERSTAR SRL",
+    "created": "2023-10-10T12:39:05.000Z",
+    "updated": "2023-10-10T12:39:05.000Z",
+    "contact": "SILVERSTAR SRL"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

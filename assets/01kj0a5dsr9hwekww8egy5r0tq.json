@@ -1,0 +1,23 @@
+{
+  "uid": "01kj0a5dsr9hwekww8egy5r0tq",
+  "key": "LNFMAC-115521",
+  "name": "BENQ GL2706-B",
+  "type": "Monitor Models",
+  "schemaUid": "01kj0a50m76afsrbm809079n3w",
+  "attributes": {
+    "key": "LNFMAC-115521",
+    "name": "BENQ GL2706-B",
+    "created": "2024-02-02T12:11:46.000Z",
+    "updated": "2024-02-02T12:11:46.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0ag3mcf582e9q513jybxr6",
+  "key": "LNFMAC-143536",
+  "name": "FLAME",
+  "type": "Facility",
+  "schemaUid": "01kj0a50znps22xcvpfzx7y4ac",
+  "attributes": {
+    "key": "LNFMAC-143536",
+    "name": "FLAME",
+    "created": "2025-10-28T11:12:18.000Z",
+    "updated": "2025-10-28T14:20:46.000Z",
+    "manager": false
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

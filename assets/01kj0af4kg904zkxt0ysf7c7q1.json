@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0af4kg904zkxt0ysf7c7q1",
+  "key": "LNFMAC-109366",
+  "name": "S.D.S. SRL SISTEMI ELETTRONICI DI SICUREZZA",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109366",
+    "name": "S.D.S. SRL SISTEMI ELETTRONICI DI SICUREZZA",
+    "created": "2023-10-10T12:39:23.000Z",
+    "updated": "2023-10-10T12:39:23.000Z",
+    "contact": "S.D.S. SRL SISTEMI ELETTRONICI DI SICUREZZA"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

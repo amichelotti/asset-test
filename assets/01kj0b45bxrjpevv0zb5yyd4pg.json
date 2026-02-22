@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0b45bxrjpevv0zb5yyd4pg",
+  "key": "LNFELINP-142301",
+  "name": "pippopluto",
+  "type": "Cabling",
+  "schemaUid": "01kj0ah6y271jxbqam43x17kaz",
+  "attributes": {
+    "key": "LNFELINP-142301",
+    "name": "pippopluto",
+    "created": "2025-09-12T09:26:59.000Z",
+    "updated": "2025-09-12T09:26:59.000Z",
+    "status": "Uninstalled"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

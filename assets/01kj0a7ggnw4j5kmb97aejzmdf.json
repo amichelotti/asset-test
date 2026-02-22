@@ -1,0 +1,25 @@
+{
+  "uid": "01kj0a7ggnw4j5kmb97aejzmdf",
+  "key": "LNFMAC-108774",
+  "name": "Libera Spark HL",
+  "type": "BPM Models",
+  "schemaUid": "01kj0a51mbyc45yk21y3e7nkyf",
+  "attributes": {
+    "key": "LNFMAC-108774",
+    "name": "Libera Spark HL",
+    "created": "2023-10-03T16:00:18.000Z",
+    "updated": "2023-10-03T16:00:18.000Z",
+    "producer": "01kj0aeav17cecxx6b12fpxw5c",
+    "documentation": "https://www.i-tech.si/products/libera-spark-hl"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

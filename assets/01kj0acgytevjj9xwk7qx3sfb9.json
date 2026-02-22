@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0acgytevjj9xwk7qx3sfb9",
+  "key": "LNFMAC-106281",
+  "name": "Transfer Line - TM",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kj0a4zv9a4gq5cx1m5nhdh0v",
+  "attributes": {
+    "key": "LNFMAC-106281",
+    "name": "Transfer Line - TM",
+    "created": "2023-09-30T15:32:12.000Z",
+    "updated": "2025-10-28T14:52:13.000Z",
+    "description": "<p>Matching line between Linac and Accumulator</p>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

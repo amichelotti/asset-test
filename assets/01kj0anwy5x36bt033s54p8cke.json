@@ -1,0 +1,26 @@
+{
+  "uid": "01kj0anwy5x36bt033s54p8cke",
+  "key": "LNFELINP-112393",
+  "name": "LEL-DMP-BDUMP01",
+  "type": "Dump",
+  "schemaUid": "01kj0ah1vf3sph81y6t5b45pfx",
+  "attributes": {
+    "key": "LNFELINP-112393",
+    "name": "LEL-DMP-BDUMP01",
+    "created": "2023-11-30T23:47:23.000Z",
+    "updated": "2023-12-01T13:15:32.000Z",
+    "description": "140 MeV Beam Dump",
+    "layout": "01kj0avctxhw02efbeqdpc72h5",
+    "module": "M4A"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

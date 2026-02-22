@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0ad501ecm7wr219ph37p6s",
+  "key": "LNFMAC-109373",
+  "name": "AVNET EMG ITALY S.R.L.",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109373",
+    "name": "AVNET EMG ITALY S.R.L.",
+    "created": "2023-10-10T12:39:25.000Z",
+    "updated": "2023-10-10T12:39:25.000Z",
+    "contact": "AVNET EMG ITALY S.R.L."
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

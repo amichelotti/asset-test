@@ -1,0 +1,30 @@
+{
+  "uid": "01kj0ajz13c9vawws3qf24g853",
+  "key": "LNFELINP-143867",
+  "name": "LEL-VAC-WGC01:IONP05",
+  "type": "Vacuum",
+  "schemaUid": "01kj0agyvkmyke0rctxspepy58",
+  "attributes": {
+    "key": "LNFELINP-143867",
+    "name": "LEL-VAC-WGC01:IONP05",
+    "created": "2025-11-06T16:31:01.000Z",
+    "updated": "2025-11-06T16:33:22.000Z",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Vacuum Ion Pump</p></div>",
+    "location": "01kj0ap8cj9dcrtkzr47fkbect",
+    "rack": "01kj0b0cm2d2xh9z1r79wd3gcw",
+    "layout": "01kj0avygxa55c519qbv2htfq9",
+    "module": "WGC01",
+    "type": "IONP",
+    "controller": "01kj0az55xshd382apvh4ga24q"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

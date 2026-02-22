@@ -1,0 +1,26 @@
+{
+  "uid": "01kj0awv6n1yg2cacz28r28384",
+  "key": "LNFELINP-128470",
+  "name": "LEL-MAG-QPRC03",
+  "type": "powersupply",
+  "schemaUid": "01kj0ah57nexq0fk3yvtkm6vvq",
+  "attributes": {
+    "key": "LNFELINP-128470",
+    "name": "LEL-MAG-QPRC03",
+    "created": "2024-11-08T15:44:02.000Z",
+    "updated": "2025-06-13T12:38:59.000Z",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Polarity CH3 -&gt; Canale A</p><p>Polarity CH4 -&gt; Canale B</p></div>",
+    "location": "01kj0ap3jgqry5gakgacm7yp28",
+    "rack": "01kj0azt4m8k4f8k95rxmasgyp"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

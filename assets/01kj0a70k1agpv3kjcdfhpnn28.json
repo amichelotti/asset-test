@@ -1,0 +1,26 @@
+{
+  "uid": "01kj0a70k1agpv3kjcdfhpnn28",
+  "key": "LNFMAC-143407",
+  "name": "HiPace400 with TC400",
+  "type": "Vacuum Models",
+  "schemaUid": "01kj0a51yzkpjj04jjb6vvha3g",
+  "attributes": {
+    "key": "LNFMAC-143407",
+    "name": "HiPace400 with TC400",
+    "created": "2025-10-23T12:24:53.000Z",
+    "updated": "2025-10-23T12:24:53.000Z",
+    "producer": "01kj0aes506cntd65t56fgcerh",
+    "documentation": "https://www.pfeiffer-vacuum.com/us/en/product/hipace-400.html?language=EN&country=US&countryCode=+1",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><table data-number-column=\"false\" data-layout=\"default\" data-autosize=\"false\" data-table-local-id=\"2624ab15-544c-44dd-b7ea-a25c473de886\"><tbody><tr><th class=\"pm-table-header-content-wrap\"><p>Technical Data</p></th><th class=\"pm-table-header-content-wrap\"><p>HiPace 400 with TC 400 24 V</p></th></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Pumping speed for Ar</p></td><td class=\"pm-table-cell-content-wrap\"><p>320 l/s</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Pumping speed for He</p></td><td class=\"pm-table-cell-content-wrap\"><p>470 l/s</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Pumping speed for H₂</p></td><td class=\"pm-table-cell-content-wrap\"><p>445 l/s</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Pumping speed for N₂</p></td><td class=\"pm-table-cell-content-wrap\"><p>355 l/s</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Compression ratio for Ar</p></td><td class=\"pm-table-cell-content-wrap\"><p>1 · 10¹¹</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Compression ratio for He</p></td><td class=\"pm-table-cell-content-wrap\"><p>3 · 10⁷</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Compression ratio for H₂</p></td><td class=\"pm-table-cell-content-wrap\"><p>4 · 10⁵</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Compression ratio for N₂</p></td><td class=\"pm-table-cell-content-wrap\"><p>1 · 10¹¹</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Gas throughput at final rotational speed for Ar</p></td><td class=\"pm-table-cell-content-wrap\"><p>3.5 hPa l/s</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Gas throughput at final rotational speed for He</p></td><td class=\"pm-table-cell-content-wrap\"><p>20 hPa l/s</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Gas throughput at final rotational speed for H₂</p></td><td class=\"pm-table-cell-content-wrap\"><p>14 hPa l/s</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Gas throughput at final rotational speed for N₂</p></td><td class=\"pm-table-cell-content-wrap\"><p>6.5 hPa l/s</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Forevacuum max. for N₂</p></td><td class=\"pm-table-cell-content-wrap\"><p>11 hPa</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Run-up time</p></td><td class=\"pm-table-cell-content-wrap\"><p>4 min</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Communication interfaces optional</p></td><td class=\"pm-table-cell-content-wrap\"><p>Profibus, Profinet, Ethercat, Devicenet,Semi E74</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Communication interfaces standard</p></td><td class=\"pm-table-cell-content-wrap\"><p>RS-485, remote</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Mounting orientation</p></td><td class=\"pm-table-cell-content-wrap\"><p>arbitrary</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Sound pressure level (EN ISO 2151)</p></td><td class=\"pm-table-cell-content-wrap\"><p>50 dBA</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Weight approx.</p></td><td class=\"pm-table-cell-content-wrap\"><p>11.6 kg</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Gas inlet</p></td><td class=\"pm-table-cell-content-wrap\"><p>DN 100 ISO-K/ISO-F/CF-F</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Gas outlet</p></td><td class=\"pm-table-cell-content-wrap\"><p>DN 25 ISO-KF /G&nbsp;1/4\"</p></td></tr></tbody></table><p></p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

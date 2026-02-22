@@ -1,0 +1,27 @@
+{
+  "uid": "01kj0apww9jpf22bda59nn17eb",
+  "key": "LNFELINP-112564",
+  "name": "electrical sockets (ciabatte) below girder",
+  "type": "BeamLine",
+  "schemaUid": "01kj0ah471xrxbcnw9sc0jf70m",
+  "attributes": {
+    "key": "LNFELINP-112564",
+    "name": "electrical sockets (ciabatte) below girder",
+    "created": "2023-12-01T13:24:41.000Z",
+    "updated": "2023-12-01T13:24:41.000Z",
+    "module": "M1",
+    "layout": "01kj0arys7bxt2vf80z5majmbk",
+    "previous_element": "01kj0apweawwnbn795my33wcqx",
+    "element": "01kj0axdemt4g8w89nsthz84mv"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

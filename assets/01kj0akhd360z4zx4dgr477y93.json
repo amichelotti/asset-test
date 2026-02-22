@@ -1,0 +1,38 @@
+{
+  "uid": "01kj0akhd360z4zx4dgr477y93",
+  "key": "LNFELINP-111730",
+  "name": "LEL-MAG-HCOR07",
+  "type": "Magnet",
+  "schemaUid": "01kj0agzxk6n11ve3fvx4aqbmn",
+  "attributes": {
+    "key": "LNFELINP-111730",
+    "name": "LEL-MAG-HCOR07",
+    "created": "2023-11-29T12:17:21.000Z",
+    "updated": "2023-12-01T13:15:28.000Z",
+    "description": "H & V Corrector Magnet Type C - Hor. coil",
+    "layout": "01kj0aty51nvnxg2rph32s8x2h",
+    "module": "M4",
+    "type": "HCOR",
+    "voltage": "3",
+    "current": "1.25",
+    "inlet_temp": "No",
+    "rise_temp": "No",
+    "water_pressure_drop": "No",
+    "water_coling_flow": "No",
+    "weight": "10",
+    "crosssection": "2.5",
+    "currentin": "1.375",
+    "powersupply": "01kj0awk6chr2wdck3pek0t0n5",
+    "power": "0.004"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

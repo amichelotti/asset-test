@@ -1,0 +1,27 @@
+{
+  "uid": "01kj0anq4bbm5s9mgd88davr6y",
+  "key": "LNFELINP-111909",
+  "name": "LEL-DIA-FCT01",
+  "type": "Diagnostic",
+  "schemaUid": "01kj0ah1nvzpqp5te4me2fsccp",
+  "attributes": {
+    "key": "LNFELINP-111909",
+    "name": "LEL-DIA-FCT01",
+    "created": "2023-11-30T11:44:38.000Z",
+    "updated": "2023-12-01T13:15:08.000Z",
+    "description": "FCT",
+    "layout": "01kj0arwk8mp6m47j9agk1enba",
+    "module": "M1",
+    "type": "FCT"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

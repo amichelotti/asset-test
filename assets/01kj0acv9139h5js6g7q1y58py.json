@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0acv9139h5js6g7q1y58py",
+  "key": "LNFMAC-109363",
+  "name": "ADVANCED TECHNOLOGIES SPA",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109363",
+    "name": "ADVANCED TECHNOLOGIES SPA",
+    "created": "2023-10-10T12:39:22.000Z",
+    "updated": "2023-10-10T12:39:22.000Z",
+    "contact": "ADVANCED TECHNOLOGIES SPA"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

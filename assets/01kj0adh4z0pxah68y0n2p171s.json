@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0adh4z0pxah68y0n2p171s",
+  "key": "LNFMAC-109385",
+  "name": "CRISEL INSTRUMENTS S.R.L.",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109385",
+    "name": "CRISEL INSTRUMENTS S.R.L.",
+    "created": "2023-10-10T12:39:30.000Z",
+    "updated": "2023-10-10T12:39:30.000Z",
+    "contact": "CRISEL INSTRUMENTS S.R.L."
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

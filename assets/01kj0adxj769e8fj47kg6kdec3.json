@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0adxj769e8fj47kg6kdec3",
+  "key": "LNFMAC-109332",
+  "name": "ENI S.P.A. DIVISIONE REFINING AND MARKETING",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109332",
+    "name": "ENI S.P.A. DIVISIONE REFINING AND MARKETING",
+    "created": "2023-10-10T12:39:11.000Z",
+    "updated": "2023-10-10T12:39:11.000Z",
+    "contact": "ENI S.P.A. DIVISIONE REFINING AND MARKETING"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

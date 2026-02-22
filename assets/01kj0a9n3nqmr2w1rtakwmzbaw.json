@@ -1,0 +1,28 @@
+{
+  "uid": "01kj0a9n3nqmr2w1rtakwmzbaw",
+  "key": "LNFMAC-129487",
+  "name": "XGS-600 Gauge Controller",
+  "type": "Vacuum Models",
+  "schemaUid": "01kj0a51yzkpjj04jjb6vvha3g",
+  "attributes": {
+    "key": "LNFMAC-129487",
+    "name": "XGS-600 Gauge Controller",
+    "created": "2024-12-05T14:40:56.000Z",
+    "updated": "2025-10-10T09:35:35.000Z",
+    "producer": "01kj0acxm1bk3kmxb2hfgj99te",
+    "documentation": "https://www.agilent.com/en/product/vacuum-technologies/vacuum-measurement/gauge-controllers/xgs-600-vacuum-gauge-controller",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>The XGS-600 gauge controller allows for simultaneous or independent operation of up to 12 gauges and can display readings for up to 8 gauges at any time. Standard features include 8 collector set points and 8 contact relays. All settings are stored in flash memory, so you do not have to spend time reprogramming after a power outage.</p><p>The XGS-600 gauge controller can operate convection gauges (CONV), hot filament ion gauges (HFIG), cold cathode gauges/inverted magnetron gauges (IMG), and all Agilent active gauges (AN). Up to six cards can be installed in the XGS-600 controller, in almost any combination to suit your application.</p></div>",
+    "git_repo": "https://github.com/infn-epics/agilentXgs600",
+    "cost": "1000.4"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

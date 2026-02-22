@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0acjqt3frqmw9qa6jamcc9",
+  "key": "LNFMAC-106286",
+  "name": "Transfer Line - TR",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kj0a4zv9a4gq5cx1m5nhdh0v",
+  "attributes": {
+    "key": "LNFMAC-106286",
+    "name": "Transfer Line - TR",
+    "created": "2023-09-30T15:49:15.000Z",
+    "updated": "2025-10-28T14:52:13.000Z",
+    "description": "<p>Right branch from the Y-magnet to the Accumulator</p>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

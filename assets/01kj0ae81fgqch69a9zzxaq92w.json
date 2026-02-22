@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0ae81fgqch69a9zzxaq92w",
+  "key": "LNFMAC-109364",
+  "name": "INFN - ISTITUTO NAZIONALE DI FISICA NUCLEARE",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109364",
+    "name": "INFN - ISTITUTO NAZIONALE DI FISICA NUCLEARE",
+    "created": "2023-10-10T12:39:22.000Z",
+    "updated": "2023-10-10T12:39:22.000Z",
+    "contact": "INFN - ISTITUTO NAZIONALE DI FISICA NUCLEARE"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

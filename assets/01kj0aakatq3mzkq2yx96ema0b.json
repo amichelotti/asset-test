@@ -1,0 +1,23 @@
+{
+  "uid": "01kj0aakatq3mzkq2yx96ema0b",
+  "key": "LNFMAC-126913",
+  "name": "eli",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kj0a4zv9a4gq5cx1m5nhdh0v",
+  "attributes": {
+    "key": "LNFMAC-126913",
+    "name": "eli",
+    "created": "2024-09-18T14:55:40.000Z",
+    "updated": "2025-10-28T14:52:13.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

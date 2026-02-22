@@ -1,0 +1,23 @@
+{
+  "uid": "01kj0a864mp1fnc5kcdvc364hj",
+  "key": "LNFMAC-132928",
+  "name": "Philips 273v",
+  "type": "Monitor Models",
+  "schemaUid": "01kj0a50m76afsrbm809079n3w",
+  "attributes": {
+    "key": "LNFMAC-132928",
+    "name": "Philips 273v",
+    "created": "2025-02-10T11:31:19.000Z",
+    "updated": "2025-02-10T11:31:19.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

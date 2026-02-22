@@ -1,0 +1,23 @@
+{
+  "uid": "01kj0ady690cajtefd65r7amrn",
+  "key": "LNFMAC-143359",
+  "name": "FAULHABER",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-143359",
+    "name": "FAULHABER",
+    "created": "2025-10-22T10:00:26.000Z",
+    "updated": "2025-10-22T10:00:26.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

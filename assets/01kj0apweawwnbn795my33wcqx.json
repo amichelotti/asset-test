@@ -1,0 +1,27 @@
+{
+  "uid": "01kj0apweawwnbn795my33wcqx",
+  "key": "LNFELINP-112563",
+  "name": " PLC magneti e vuoto",
+  "type": "BeamLine",
+  "schemaUid": "01kj0ah471xrxbcnw9sc0jf70m",
+  "attributes": {
+    "key": "LNFELINP-112563",
+    "name": " PLC magneti e vuoto",
+    "created": "2023-12-01T13:24:40.000Z",
+    "updated": "2023-12-01T13:24:40.000Z",
+    "module": "M1",
+    "layout": "01kj0ary21ayvm5nbqvvb20t51",
+    "previous_element": "01kj0apxrq6hhvj254phm0e0b4",
+    "element": "01kj0axbg9p205dy46a97pzdrk"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

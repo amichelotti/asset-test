@@ -1,0 +1,18 @@
+{
+  "uid": "01kj0am0sy757a391x29nq0s55",
+  "key": "LNFELINP-111834",
+  "name": "LEL-AC-FILTER02",
+  "type": "RF",
+  "schemaUid": "01kj0ah0ay15mxws4dw2xgyw96",
+  "attributes": {},
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

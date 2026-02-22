@@ -1,0 +1,197 @@
+{
+  "uid": "01kj0ah1462t6ntnmmhgcn8b48",
+  "name": "IO Controller",
+  "description": null,
+  "parentSchemaUid": "01kj0agzevsb5bvfvgewz0ts7q",
+  "isConcrete": true,
+  "attributes": [
+    {
+      "key": "key",
+      "name": "Key",
+      "type": "string",
+      "required": true,
+      "description": "Unique system-generated identifier",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "name",
+      "name": "Name",
+      "type": "string",
+      "required": true,
+      "description": "Object name",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "created",
+      "name": "Created",
+      "type": "datetime",
+      "required": true,
+      "description": "Creation timestamp",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "updated",
+      "name": "Updated",
+      "type": "datetime",
+      "required": true,
+      "description": "Last update timestamp",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "status",
+      "name": "Status",
+      "type": "status",
+      "required": false,
+      "description": "Asset lifecycle status",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "alias",
+      "name": "Alias",
+      "type": "string",
+      "required": false,
+      "description": "Alternative name",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "description",
+      "name": "Description",
+      "type": "text",
+      "required": false,
+      "description": "Description",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "location",
+      "name": "Location",
+      "type": "reference",
+      "required": false,
+      "description": "Location",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "serial",
+      "name": "Serial",
+      "type": "string",
+      "required": false,
+      "description": "ELI Serial ",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "rack",
+      "name": "Rack",
+      "type": "reference",
+      "required": false,
+      "description": "Rack",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "connector",
+      "name": "connector",
+      "type": "reference",
+      "required": false,
+      "description": "Cable connector",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "mac",
+      "name": "MAC",
+      "type": "string",
+      "required": false,
+      "description": "MAC address",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "registered",
+      "name": "Registered",
+      "type": "reference",
+      "required": false,
+      "description": "Registered Node",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "os",
+      "name": "OS",
+      "type": "enum",
+      "required": false,
+      "description": "Installed OS",
+      "defaultValue": null,
+      "options": [
+        "Ubuntu 20.04",
+        "Rocky Linux 8",
+        "Centos 7",
+        "Centos 8",
+        "Ubuntu 22.04",
+        "Windows",
+        "Centos Linux 7.9 2009",
+        "Scientific Linux 6.3",
+        "Ubuntu 24.04.1 LTS",
+        "AlmaLinux 9.5",
+        "AlmaLinux 9.6"
+      ]
+    },
+    {
+      "key": "ram",
+      "name": "RAM",
+      "type": "string",
+      "required": false,
+      "description": "Installed RAM(GB)",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "cpu",
+      "name": "CPU",
+      "type": "string",
+      "required": false,
+      "description": "Number of CPU",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "disk",
+      "name": "Disk",
+      "type": "string",
+      "required": false,
+      "description": "Internal Disk (GB)",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "cards",
+      "name": "Cards",
+      "type": "reference",
+      "required": false,
+      "description": "Device Card",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "models",
+      "name": "Models",
+      "type": "reference",
+      "required": false,
+      "description": "IO Controllers Models",
+      "defaultValue": null,
+      "options": null
+    }
+  ],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

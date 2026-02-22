@@ -1,0 +1,29 @@
+{
+  "uid": "01kj0aj6x3za9j8wa18da135jw",
+  "key": "LNFELINP-111754",
+  "name": "LEL-VAC-GAUTC02",
+  "type": "Vacuum",
+  "schemaUid": "01kj0agyvkmyke0rctxspepy58",
+  "attributes": {
+    "key": "LNFELINP-111754",
+    "name": "LEL-VAC-GAUTC02",
+    "created": "2023-11-29T22:57:37.000Z",
+    "updated": "2025-06-18T13:03:31.000Z",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Thermal conductivity vacuum gauge - Agilent TC536 Pirani</p></div>",
+    "location": "01kj0ap2qc0nsf6m6b7x5bj102",
+    "layout": "01kj0arm9040defkem4hj42vvm",
+    "module": "M1",
+    "type": "GAUTC",
+    "controller": "01kj0ayvx7x0bf904v9sc7808t"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0a7ca7kt2w77n18cbbj7n1",
+  "key": "LNFMAC-108335",
+  "name": "Libera Brilliance",
+  "type": "BPM Models",
+  "schemaUid": "01kj0a51mbyc45yk21y3e7nkyf",
+  "attributes": {
+    "key": "LNFMAC-108335",
+    "name": "Libera Brilliance",
+    "created": "2023-10-03T07:43:21.000Z",
+    "updated": "2023-10-03T07:43:21.000Z",
+    "producer": "01kj0aeav17cecxx6b12fpxw5c"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

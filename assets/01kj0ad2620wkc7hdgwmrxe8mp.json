@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0ad2620wkc7hdgwmrxe8mp",
+  "key": "LNFMAC-109346",
+  "name": "AR.IND. ITALIA",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109346",
+    "name": "AR.IND. ITALIA",
+    "created": "2023-10-10T12:39:16.000Z",
+    "updated": "2023-10-10T12:39:16.000Z",
+    "contact": "AR.IND. ITALIA"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

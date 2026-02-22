@@ -1,0 +1,23 @@
+{
+  "uid": "01kj0afp9nz65qbbj0569tw85z",
+  "key": "LNFMAC-144324",
+  "name": "Vaccum FAB",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-144324",
+    "name": "Vaccum FAB",
+    "created": "2025-11-24T16:54:40.000Z",
+    "updated": "2025-11-24T16:54:40.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

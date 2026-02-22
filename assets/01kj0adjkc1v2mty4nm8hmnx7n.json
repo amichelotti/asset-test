@@ -1,0 +1,24 @@
+{
+  "uid": "01kj0adjkc1v2mty4nm8hmnx7n",
+  "key": "LNFMAC-109093",
+  "name": "DELL SPA",
+  "type": "Company",
+  "schemaUid": "01kj0a5086p66vqxkc56y6r3vf",
+  "attributes": {
+    "key": "LNFMAC-109093",
+    "name": "DELL SPA",
+    "created": "2023-10-06T07:58:02.000Z",
+    "updated": "2023-10-06T07:58:02.000Z",
+    "contact": "DELL SPA"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

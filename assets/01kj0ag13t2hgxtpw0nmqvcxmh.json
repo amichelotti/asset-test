@@ -1,0 +1,25 @@
+{
+  "uid": "01kj0ag13t2hgxtpw0nmqvcxmh",
+  "key": "LNFMAC-12450",
+  "name": "BTF",
+  "type": "Facility",
+  "schemaUid": "01kj0a50znps22xcvpfzx7y4ac",
+  "attributes": {
+    "key": "LNFMAC-12450",
+    "name": "BTF",
+    "created": "2023-03-23T11:05:36.000Z",
+    "updated": "2025-09-02T13:58:16.000Z",
+    "location": "01kj0aa3njajg03sdgch0ftrjz",
+    "manager": false
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "workspaceUid": "01kj013gk3d7y4y30d7b7jdzwq",
+  "settings": {
+    "qrCodePrefix": "INFN",
+    "serialPrefix": "ELI",
+    "dateFormat": "yyyy-MM-dd",
+    "timeFormat": "HH:mm:ss"
+  },
+  "exportedAt": "2026-02-22T15:16:35.449376",
+  "version": "1.0"
+}

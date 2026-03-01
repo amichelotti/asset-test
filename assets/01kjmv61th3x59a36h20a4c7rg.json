@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmv61th3x59a36h20a4c7rg",
+  "key": "LNFMAC-144179",
+  "name": "EuPRAXIA@SPARC_LAB",
+  "type": "Facility",
+  "schemaUid": "01kjmv19db8wd49ympxdh8sq52",
+  "attributes": {
+    "key": "LNFMAC-144179",
+    "name": "EuPRAXIA@SPARC_LAB",
+    "created": "2025-11-18T09:46:07.000Z",
+    "updated": "2025-11-18T09:46:57.000Z",
+    "location": "01kjmv5z1cn50r6rk5k9dgrt0d"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

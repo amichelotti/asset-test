@@ -1,0 +1,32 @@
+{
+  "uid": "01kjmv71wajh41qkkrxyv4tdwm",
+  "key": "LNFELINP-119488",
+  "name": "plelico002",
+  "type": "Console",
+  "schemaUid": "01kjmv6mkgdkdtgf8bqs12khnj",
+  "attributes": {
+    "key": "LNFELINP-119488",
+    "name": "plelico002",
+    "created": "2024-04-11T10:00:44.000Z",
+    "updated": "2025-06-13T04:32:17.000Z",
+    "status": "Active",
+    "alias": "GEN-CS-GP06:OPI01",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Processore Intel i5, 2,9 Mhz</p><p>registered&nbsp;10.16.4.26</p><p>4 + 4 GB (4 GB sottratti a quello windows)</p></div>",
+    "location": "01kjmv9x8akmrn6d6f1v1d3cy9",
+    "mac": "f8:b1:56:c5:d0:6c",
+    "registered": "LNFMAC-126883",
+    "os": "Ubuntu 24.04.1 LTS",
+    "ram": "8",
+    "cpu": "1"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

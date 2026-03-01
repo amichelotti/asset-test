@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvkd00a3q895g3ssx5bw6m",
   "name": "Modulators",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/icons/01kjmvkd00a3q895g3ssx5bw6m.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/3800/icon.png?size=16",
   "linkedSchemaUid": "01kjmv6ryte3z89qjg2wacp5ve",
   "linkedAssetUid": null,
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:07:25.696101",
   "updatedAt": "2026-03-01T15:07:25.696101",
   "backendType": "jira",
-  "backendIconId": "115"
+  "backendIconId": "115",
+  "binaryPath": "icons/files/01kjmv6ryte3z89qjg2wacp5ve/Modulators"
 }

@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv3hk35cekr1xmd2tn0hpm",
   "name": "Avatar for Pollux Chassis",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv3hk35cekr1xmd2tn0hpm.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2749/icon.png?size=288&uuid=fd4698a5-0708-4e48-a004-8a276a004c0f",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv3hfb0xdth8npfpt9rzw7",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:58:46.115205",
   "updatedAt": "2026-03-01T14:58:46.115205",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv3hfb0xdth8npfpt9rzw7/Avatar for Pollux Chassis"
 }

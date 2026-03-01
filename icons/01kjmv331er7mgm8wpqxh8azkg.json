@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv331er7mgm8wpqxh8azkg",
   "name": "Avatar for Libera Spark HL",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv331er7mgm8wpqxh8azkg.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/108774/avatar.png?size=288&time=1696348818000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv32y4816qqahc4d6p7jet",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:58:31.214292",
   "updatedAt": "2026-03-01T14:58:31.214292",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv32y4816qqahc4d6p7jet/Avatar for Libera Spark HL"
 }

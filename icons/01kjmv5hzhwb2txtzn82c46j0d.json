@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv5hzhwb2txtzn82c46j0d",
   "name": "Avatar for Sparc - bunker",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv5hzhwb2txtzn82c46j0d.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/105057/avatar.png?size=288&time=1761663132000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv5htq91p8dwc6tpvp205c",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:59:52.049081",
   "updatedAt": "2026-03-01T14:59:52.049081",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv5htq91p8dwc6tpvp205c/Avatar for Sparc - bunker"
 }

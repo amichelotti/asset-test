@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvgyrj6zpe0we1x0hckwac",
   "name": "Avatar for GAUCC08-CAB025",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvgyrj6zpe0we1x0hckwac.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2507/icon.png?size=288&uuid=1662ae1c-d286-46c2-ab26-8b2113b7eec5",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmvgymdxkshxwyet0sfct93",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:06:05.587016",
   "updatedAt": "2026-03-01T15:06:05.587019",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmvgymdxkshxwyet0sfct93/Avatar for GAUCC08-CAB025"
 }

@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvc802e8s0m40b26acszew",
   "name": "Avatar for bdelilibera01",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvc802e8s0m40b26acszew.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/134118/avatar.png?size=288&time=1757511044000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmvc7wkstrq1g4batwn3aty",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:03:31.202115",
   "updatedAt": "2026-03-01T15:03:31.202115",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmvc7wkstrq1g4batwn3aty/Avatar for bdelilibera01"
 }

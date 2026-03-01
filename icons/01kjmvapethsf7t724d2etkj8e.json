@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvapethsf7t724d2etkj8e",
   "name": "Avatar for LEL-DIA-SCN01:MOT01",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvapethsf7t724d2etkj8e.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2496/icon.png?size=288&uuid=9f0cbe4d-5684-492e-b1ef-846294d67111",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmvapab2djr0824bw3r92av",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:02:40.474393",
   "updatedAt": "2026-03-01T15:02:40.474394",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmvapab2djr0824bw3r92av/Avatar for LEL-DIA-SCN01:MOT01"
 }

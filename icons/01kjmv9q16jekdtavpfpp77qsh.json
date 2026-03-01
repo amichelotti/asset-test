@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv9q16jekdtavpfpp77qsh",
   "name": "Avatar for AB1",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv9q16jekdtavpfpp77qsh.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2484/icon.png?size=288&uuid=44b50c14-611b-4535-8c8f-38b1c7493c52",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv9pxmw7rmrevnrn2s7g9d",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:02:08.294728",
   "updatedAt": "2026-03-01T15:02:08.294728",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv9pxmw7rmrevnrn2s7g9d/Avatar for AB1"
 }

@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv2pm21tds5k0xe63cazae",
   "name": "Avatar for Hazemeyer-modbus-serial",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv2pm21tds5k0xe63cazae.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/141962/avatar.png?size=288&time=1756813999000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv2pbmqpb1znen75eg9s2w",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:58:18.498603",
   "updatedAt": "2026-03-01T14:58:18.498603",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv2pbmqpb1znen75eg9s2w/Avatar for Hazemeyer-modbus-serial"
 }

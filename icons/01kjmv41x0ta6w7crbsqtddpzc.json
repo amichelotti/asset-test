@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv41x0ta6w7crbsqtddpzc",
   "name": "Avatar for XDS35i",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv41x0ta6w7crbsqtddpzc.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/143404/avatar.png?size=288&time=1761220896000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv41rvrxz76spghhq6mtmh",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:59:02.816721",
   "updatedAt": "2026-03-01T14:59:02.816722",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv41rvrxz76spghhq6mtmh/Avatar for XDS35i"
 }

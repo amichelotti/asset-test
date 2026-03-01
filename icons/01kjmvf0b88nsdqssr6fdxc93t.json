@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvf0b88nsdqssr6fdxc93t",
   "name": "Avatar for LEL-RF-WGS01:ISO01",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvf0b88nsdqssr6fdxc93t.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2498/icon.png?size=288&uuid=9f0cbe4d-5684-492e-b1ef-846294d67111",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmvf08dpak77r4ybcgnsft0",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:05:01.672719",
   "updatedAt": "2026-03-01T15:05:01.672719",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmvf08dpak77r4ybcgnsft0/Avatar for LEL-RF-WGS01:ISO01"
 }

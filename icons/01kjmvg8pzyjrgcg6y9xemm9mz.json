@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvg8pzyjrgcg6y9xemm9mz",
   "name": "Avatar for ACC02-CAB029",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvg8pzyjrgcg6y9xemm9mz.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2507/icon.png?size=288&uuid=1662ae1c-d286-46c2-ab26-8b2113b7eec5",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmvg8maeagp2yqsnx4zcy1y",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:05:43.007210",
   "updatedAt": "2026-03-01T15:05:43.007211",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmvg8maeagp2yqsnx4zcy1y/Avatar for ACC02-CAB029"
 }

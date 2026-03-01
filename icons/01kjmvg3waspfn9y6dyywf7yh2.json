@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvg3waspfn9y6dyywf7yh2",
   "name": "Avatar for R_RUF_06",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvg3waspfn9y6dyywf7yh2.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/129493/avatar.png?size=288&time=1740643762000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmvg3qchvrmgc2hj1zcdy2y",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:05:38.058781",
   "updatedAt": "2026-03-01T15:05:38.058782",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmvg3qchvrmgc2hj1zcdy2y/Avatar for R_RUF_06"
 }

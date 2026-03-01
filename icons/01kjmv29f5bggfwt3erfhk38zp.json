@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv29f5bggfwt3erfhk38zp",
   "name": "Avatar for ET-7250 CR",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv29f5bggfwt3erfhk38zp.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/126908/avatar.png?size=288&time=1756819227000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv298nrpa2bb4eb1ts102j",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:58:05.029523",
   "updatedAt": "2026-03-01T14:58:05.029523",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv298nrpa2bb4eb1ts102j/Avatar for ET-7250 CR"
 }

@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv3vg5wnb8x17kd5fp6qpt",
   "name": "Avatar for Terra",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv3vg5wnb8x17kd5fp6qpt.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/3929/icon.png?size=288&uuid=f6fd313d-6c6e-4a23-b5b8-174ffb56bd4a",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv3vdqrsjy6tjn6nbqqxqv",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:58:56.261733",
   "updatedAt": "2026-03-01T14:58:56.261733",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv3vdqrsjy6tjn6nbqqxqv/Avatar for Terra"
 }

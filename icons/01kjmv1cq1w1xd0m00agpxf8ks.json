@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv1cq1w1xd0m00agpxf8ks",
   "name": "Avatar for 10846-PE01",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv1cq1w1xd0m00agpxf8ks.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/143733/avatar.png?size=288&time=1762189677000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv1chnxyt1p41kztna3kye",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:57:35.585814",
   "updatedAt": "2026-03-01T14:57:35.585814",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv1chnxyt1p41kztna3kye/Avatar for 10846-PE01"
 }

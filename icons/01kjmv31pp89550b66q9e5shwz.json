@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv31pp89550b66q9e5shwz",
   "name": "Avatar for Libera LLRF",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv31pp89550b66q9e5shwz.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/138458/avatar.png?size=288&time=1756815027000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv31k7fkd5spbrybbnm6h7",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:58:29.846282",
   "updatedAt": "2026-03-01T14:58:29.846282",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv31k7fkd5spbrybbnm6h7/Avatar for Libera LLRF"
 }

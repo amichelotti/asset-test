@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv3g51c1x9zhrrscmscj08",
   "name": "Avatar for PKR 251",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv3g51c1x9zhrrscmscj08.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/143396/avatar.png?size=288&time=1761213553000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv3fycppyqgtfq60zkf570",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:58:44.641483",
   "updatedAt": "2026-03-01T14:58:44.641484",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv3fycppyqgtfq60zkf570/Avatar for PKR 251"
 }

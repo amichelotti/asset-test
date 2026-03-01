@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvfpcgq5rawhvb1x47rq4a",
   "name": "Avatar for R_ANX_01",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvfpcgq5rawhvb1x47rq4a.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2506/icon.png?size=288&uuid=1d285149-eff8-4ca7-8530-ece3f6e118b1",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmvfpa21zapds52jcg4w9yx",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:05:24.240812",
   "updatedAt": "2026-03-01T15:05:24.240813",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmvfpa21zapds52jcg4w9yx/Avatar for R_ANX_01"
 }

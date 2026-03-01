@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvk9ywqekyp5smyykz04y6",
   "name": "HW asset",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/icons/01kjmvk9ywqekyp5smyykz04y6.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2433/icon.png?size=16",
   "linkedSchemaUid": "01kjmv6mzvsk183ra22r9yg5v2",
   "linkedAssetUid": null,
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:07:22.588431",
   "updatedAt": "2026-03-01T15:07:22.588432",
   "backendType": "jira",
-  "backendIconId": "115"
+  "backendIconId": "115",
+  "binaryPath": "icons/files/01kjmv6mzvsk183ra22r9yg5v2/HW asset"
 }

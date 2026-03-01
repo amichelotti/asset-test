@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv1meavarvc2fefscn753w",
   "name": "Avatar for AS -1114CS-TNR e4",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv1meavarvc2fefscn753w.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/137604/avatar.png?size=288&time=1747681763000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv1ma0zqwtyjhvfq38z3bk",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:57:43.498185",
   "updatedAt": "2026-03-01T14:57:43.498185",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv1ma0zqwtyjhvfq38z3bk/Avatar for AS -1114CS-TNR e4"
 }

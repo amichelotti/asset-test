@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv9csbks41d9xfz5nstnsb",
   "name": "Avatar for LEL-DIA-SCN02:CAM01",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv9csbks41d9xfz5nstnsb.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2503/icon.png?size=288&uuid=4b4f8709-ad64-4fdb-9678-dfdc46a09bb3",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv9cpvanmbp20eymfkxyag",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:01:57.803257",
   "updatedAt": "2026-03-01T15:01:57.803258",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv9cpvanmbp20eymfkxyag/Avatar for LEL-DIA-SCN02:CAM01"
 }

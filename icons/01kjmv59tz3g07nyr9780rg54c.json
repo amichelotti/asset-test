@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv59tz3g07nyr9780rg54c",
   "name": "Avatar for Sala Dafne - Rack 090",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv59tz3g07nyr9780rg54c.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/12426/avatar.png?size=288&time=1761663132000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv59pmfbf736vg5rkaawjs",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:59:43.711042",
   "updatedAt": "2026-03-01T14:59:43.711043",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv59pmfbf736vg5rkaawjs/Avatar for Sala Dafne - Rack 090"
 }

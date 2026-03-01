@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv6x80w1v8zb19wbckft8q",
   "name": "Avatar for sw-oxgs-ssrip-dist4",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv6x80w1v8zb19wbckft8q.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/138354/avatar.png?size=288&time=1749733210000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv6wy40keee5d079zf0jp7",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:00:36.352266",
   "updatedAt": "2026-03-01T15:00:36.352266",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv6wy40keee5d079zf0jp7/Avatar for sw-oxgs-ssrip-dist4"
 }

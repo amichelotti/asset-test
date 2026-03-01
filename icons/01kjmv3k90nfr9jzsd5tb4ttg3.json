@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv3k90nfr9jzsd5tb4ttg3",
   "name": "Avatar for pxi-evg-230",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv3k90nfr9jzsd5tb4ttg3.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/133706/avatar.png?size=288&time=1740572893000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv3k2t3ep8wavfvk418mpc",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:58:47.840943",
   "updatedAt": "2026-03-01T14:58:47.840943",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv3k2t3ep8wavfvk418mpc/Avatar for pxi-evg-230"
 }

@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv7cpqg1p0t9fkfv015tek",
   "name": "Avatar for LEL-VAC-IONP02",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv7cpqg1p0t9fkfv015tek.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2500/icon.png?size=288&uuid=dd11c932-aa61-4475-8177-4f11238421e8",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv7ckb6k5tnhj4a4f3962w",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:00:52.184003",
   "updatedAt": "2026-03-01T15:00:52.184003",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv7ckb6k5tnhj4a4f3962w/Avatar for LEL-VAC-IONP02"
 }

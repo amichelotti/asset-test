@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvc16btscwvr71x9dfh1x2",
   "name": "Avatar for LEL-MAG-QPSU01",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvc16btscwvr71x9dfh1x2.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/111623/avatar.png?size=288&time=1749818070000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmvc125h7nr97yprs8cjb4v",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:03:24.235849",
   "updatedAt": "2026-03-01T15:03:24.235849",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmvc125h7nr97yprs8cjb4v/Avatar for LEL-MAG-QPSU01"
 }

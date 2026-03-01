@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvkb0e8m7d0nqjcdk9zqy6",
   "name": "Diagnostic",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/icons/01kjmvkb0e8m7d0nqjcdk9zqy6.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2503/icon.png?size=16",
   "linkedSchemaUid": "01kjmv6p8zhpea740d9tj8xrza",
   "linkedAssetUid": null,
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:07:23.662441",
   "updatedAt": "2026-03-01T15:07:23.662441",
   "backendType": "jira",
-  "backendIconId": "431"
+  "backendIconId": "431",
+  "binaryPath": "icons/files/01kjmv6p8zhpea740d9tj8xrza/Diagnostic"
 }

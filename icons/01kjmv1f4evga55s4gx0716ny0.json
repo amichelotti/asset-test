@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv1f4evga55s4gx0716ny0",
   "name": "Avatar for A604H",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv1f4evga55s4gx0716ny0.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/143731/avatar.png?size=288&time=1762189439000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv1ez9bxt86139ag308ykk",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:57:38.062877",
   "updatedAt": "2026-03-01T14:57:38.062877",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv1ez9bxt86139ag308ykk/Avatar for A604H"
 }

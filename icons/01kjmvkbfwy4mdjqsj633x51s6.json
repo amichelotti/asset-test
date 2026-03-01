@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvkbfwy4mdjqsj633x51s6",
   "name": "Timing",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/icons/01kjmvkbfwy4mdjqsj633x51s6.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2452/icon.png?size=16",
   "linkedSchemaUid": "01kjmv6q0j91qah5a8mqm3j0ay",
   "linkedAssetUid": null,
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:07:24.156812",
   "updatedAt": "2026-03-01T15:07:24.156813",
   "backendType": "jira",
-  "backendIconId": "288"
+  "backendIconId": "288",
+  "binaryPath": "icons/files/01kjmv6q0j91qah5a8mqm3j0ay/Timing"
 }

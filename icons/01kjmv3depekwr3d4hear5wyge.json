@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv3depekwr3d4hear5wyge",
   "name": "Avatar for Ocem - modbus - sparc",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv3depekwr3d4hear5wyge.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/1779/icon.png?size=288&uuid=73773d25-343c-42a2-8acc-d98238eae03b",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv3dc87zravycd7859ddpr",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:58:41.878495",
   "updatedAt": "2026-03-01T14:58:41.878495",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv3dc87zravycd7859ddpr/Avatar for Ocem - modbus - sparc"
 }

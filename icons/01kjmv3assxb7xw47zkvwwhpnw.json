@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv3assxb7xw47zkvwwhpnw",
   "name": "Avatar for NPort 5650-16",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv3assxb7xw47zkvwwhpnw.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/99949/avatar.png?size=288&time=1733328152000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv3apd471sexe7g6p1jp1k",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:58:39.161821",
   "updatedAt": "2026-03-01T14:58:39.161821",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv3apd471sexe7g6p1jp1k/Avatar for NPort 5650-16"
 }

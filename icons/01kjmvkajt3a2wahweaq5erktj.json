@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvkajt3a2wahweaq5erktj",
   "name": "Converter",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/icons/01kjmvkajt3a2wahweaq5erktj.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2447/icon.png?size=16",
   "linkedSchemaUid": "01kjmv6nsw1kmcfcm44n2jp0rr",
   "linkedAssetUid": null,
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:07:23.226096",
   "updatedAt": "2026-03-01T15:07:23.226096",
   "backendType": "jira",
-  "backendIconId": "299"
+  "backendIconId": "299",
+  "binaryPath": "icons/files/01kjmv6nsw1kmcfcm44n2jp0rr/Converter"
 }

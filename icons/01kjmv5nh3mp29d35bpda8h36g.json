@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv5nh3mp29d35bpda8h36g",
   "name": "Avatar for Transfer Line - TL",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv5nh3mp29d35bpda8h36g.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/106285/avatar.png?size=288&time=1761663132000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv5ndvxhqa7gtj6eg1q45z",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:59:55.683534",
   "updatedAt": "2026-03-01T14:59:55.683534",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv5ndvxhqa7gtj6eg1q45z/Avatar for Transfer Line - TL"
 }

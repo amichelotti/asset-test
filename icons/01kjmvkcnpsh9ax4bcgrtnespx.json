@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvkcnpsh9ax4bcgrtnespx",
   "name": "Rack",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/icons/01kjmvkcnpsh9ax4bcgrtnespx.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2506/icon.png?size=16",
   "linkedSchemaUid": "01kjmv6re9534nvs3ntryap5js",
   "linkedAssetUid": null,
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:07:25.366951",
   "updatedAt": "2026-03-01T15:07:25.366952",
   "backendType": "jira",
-  "backendIconId": "434"
+  "backendIconId": "434",
+  "binaryPath": "icons/files/01kjmv6re9534nvs3ntryap5js/Rack"
 }

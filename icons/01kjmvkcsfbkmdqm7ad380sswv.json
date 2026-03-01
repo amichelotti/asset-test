@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvkcsfbkmdqm7ad380sswv",
   "name": "Chassis",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/icons/01kjmvkcsfbkmdqm7ad380sswv.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/3729/icon.png?size=16",
   "linkedSchemaUid": "01kjmv6rjkfcd0mv1pnt85jbyq",
   "linkedAssetUid": null,
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:07:25.487510",
   "updatedAt": "2026-03-01T15:07:25.487510",
   "backendType": "jira",
-  "backendIconId": "321"
+  "backendIconId": "321",
+  "binaryPath": "icons/files/01kjmv6rjkfcd0mv1pnt85jbyq/Chassis"
 }

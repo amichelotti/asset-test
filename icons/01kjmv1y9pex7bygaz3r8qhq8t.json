@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv1y9pex7bygaz3r8qhq8t",
   "name": "Avatar for DPR 60 Magnet Polarity Module",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv1y9pex7bygaz3r8qhq8t.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/128467/avatar.png?size=288&time=1731080216000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv1y6a3jc063bmsyjxzyza",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:57:53.590103",
   "updatedAt": "2026-03-01T14:57:53.590104",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv1y6a3jc063bmsyjxzyza/Avatar for DPR 60 Magnet Polarity Module"
 }

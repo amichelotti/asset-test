@@ -1,7 +1,6 @@
 {
   "uid": "01kjmva5e79zbas1trn984jp45",
   "name": "Avatar for EVR02",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmva5e79zbas1trn984jp45.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2452/icon.png?size=288&uuid=baecf738-117e-4ada-a533-e6d075f3f1b8",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmva5bk0wshvh0a9mb3y4hb",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:02:23.047693",
   "updatedAt": "2026-03-01T15:02:23.047693",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmva5bk0wshvh0a9mb3y4hb/Avatar for EVR02"
 }

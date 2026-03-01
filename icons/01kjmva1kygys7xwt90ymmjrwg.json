@@ -1,7 +1,6 @@
 {
   "uid": "01kjmva1kygys7xwt90ymmjrwg",
   "name": "Avatar for ccelicam06",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmva1kygys7xwt90ymmjrwg.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/128744/avatar.png?size=288&time=1749731232000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmva1c3cfv892rvrv1zwjf7",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:02:19.134218",
   "updatedAt": "2026-03-01T15:02:19.134219",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmva1c3cfv892rvrv1zwjf7/Avatar for ccelicam06"
 }

@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvhjtctdgf3atwkm26cbfb",
   "name": "Avatar for HCOR06-CAB038",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvhjtctdgf3atwkm26cbfb.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2507/icon.png?size=288&uuid=1662ae1c-d286-46c2-ab26-8b2113b7eec5",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmvhjnyzmb3fs7at665z0xx",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:06:26.124602",
   "updatedAt": "2026-03-01T15:06:26.124603",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmvhjnyzmb3fs7at665z0xx/Avatar for HCOR06-CAB038"
 }

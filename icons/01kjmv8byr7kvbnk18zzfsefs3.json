@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv8byr7kvbnk18zzfsefs3",
   "name": "Avatar for LEL-AC-FILTER01",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv8byr7kvbnk18zzfsefs3.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2502/icon.png?size=288&uuid=a6417d34-2b39-4906-afca-198371117f2d",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv8bv8r7c2m8v18c1bnzms",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:01:24.184091",
   "updatedAt": "2026-03-01T15:01:24.184092",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv8bv8r7c2m8v18c1bnzms/Avatar for LEL-AC-FILTER01"
 }

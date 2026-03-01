@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv9m8g3jrpgy8j429d2vj5",
   "name": "Avatar for PLC Vacuum",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv9m8g3jrpgy8j429d2vj5.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/144094/avatar.png?size=288&time=1763117622000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv9m44mtqtcxfdbbyzgkw4",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:02:05.456187",
   "updatedAt": "2026-03-01T15:02:05.456188",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv9m44mtqtcxfdbbyzgkw4/Avatar for PLC Vacuum"
 }

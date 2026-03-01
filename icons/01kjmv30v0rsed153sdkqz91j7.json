@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv30v0rsed153sdkqz91j7",
   "name": "Avatar for Libera Brilliance +",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv30v0rsed153sdkqz91j7.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/108334/avatar.png?size=288&time=1696318567000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv30qkgnfkg0vq7q8phgwy",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:58:28.960774",
   "updatedAt": "2026-03-01T14:58:28.960774",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv30qkgnfkg0vq7q8phgwy/Avatar for Libera Brilliance +"
 }

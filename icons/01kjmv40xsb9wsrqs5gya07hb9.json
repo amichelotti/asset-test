@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv40xsb9wsrqs5gya07hb9",
   "name": "Avatar for VSS57.200-2.5-HV",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv40xsb9wsrqs5gya07hb9.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/3769/icon.png?size=288&uuid=fd4698a5-0708-4e48-a004-8a276a004c0f",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv40tapvjaedj2cg3eagk0",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:59:01.817690",
   "updatedAt": "2026-03-01T14:59:01.817690",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv40tapvjaedj2cg3eagk0/Avatar for VSS57.200-2.5-HV"
 }

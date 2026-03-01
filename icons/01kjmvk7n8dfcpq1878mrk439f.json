@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvk7n8dfcpq1878mrk439f",
   "name": "Switch Models",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/icons/01kjmvk7n8dfcpq1878mrk439f.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/1645/icon.png?size=16",
   "linkedSchemaUid": "01kjmv18tj5wg3v692ddgkjj2g",
   "linkedAssetUid": null,
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:07:20.232729",
   "updatedAt": "2026-03-01T15:07:20.232730",
   "backendType": "jira",
-  "backendIconId": "33"
+  "backendIconId": "33",
+  "binaryPath": "icons/files/01kjmv18tj5wg3v692ddgkjj2g/Switch Models"
 }

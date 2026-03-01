@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv1z3882tvjeckz43tfwcw",
   "name": "Avatar for Easy-Driver",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv1z3882tvjeckz43tfwcw.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/141958/avatar.png?size=288&time=1756813966000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv1yzx5hc3s5kwkdx0qzwv",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:57:54.408619",
   "updatedAt": "2026-03-01T14:57:54.408620",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv1yzx5hc3s5kwkdx0qzwv/Avatar for Easy-Driver"
 }

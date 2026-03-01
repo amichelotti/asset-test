@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv3xx4j8bnxx345w44cswp",
   "name": "Avatar for TS-653PRO-8G - NAS SENZA DISCHI",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv3xx4j8bnxx345w44cswp.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/1781/icon.png?size=288&uuid=79c33d80-fd5e-4ef5-87c8-8d082b78d50d",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv3xs83nbgj2haqcrfqc5q",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:58:58.724153",
   "updatedAt": "2026-03-01T14:58:58.724154",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv3xs83nbgj2haqcrfqc5q/Avatar for TS-653PRO-8G - NAS SENZA DISCHI"
 }

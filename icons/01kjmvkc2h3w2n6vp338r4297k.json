@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvkc2h3w2n6vp338r4297k",
   "name": "Backplane",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/icons/01kjmvkc2h3w2n6vp338r4297k.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2456/icon.png?size=16",
   "linkedSchemaUid": "01kjmv6qqqvph73nw3da9dkcwp",
   "linkedAssetUid": null,
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:07:24.753685",
   "updatedAt": "2026-03-01T15:07:24.753685",
   "backendType": "jira",
-  "backendIconId": "71"
+  "backendIconId": "71",
+  "binaryPath": "icons/files/01kjmv6qqqvph73nw3da9dkcwp/Backplane"
 }

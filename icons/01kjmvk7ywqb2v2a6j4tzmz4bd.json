@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvk7ywqb2v2a6j4tzmz4bd",
   "name": "Location",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/icons/01kjmvk7ywqb2v2a6j4tzmz4bd.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/1421/icon.png?size=16",
   "linkedSchemaUid": "01kjmv1961h4t7c3wk3bq342c2",
   "linkedAssetUid": null,
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:07:20.540313",
   "updatedAt": "2026-03-01T15:07:20.540314",
   "backendType": "jira",
-  "backendIconId": "35"
+  "backendIconId": "35",
+  "binaryPath": "icons/files/01kjmv1961h4t7c3wk3bq342c2/Location"
 }

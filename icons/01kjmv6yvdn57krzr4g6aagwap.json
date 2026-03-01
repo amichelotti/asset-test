@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv6yvdn57krzr4g6aagwap",
   "name": "Avatar for sweli002",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv6yvdn57krzr4g6aagwap.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2440/icon.png?size=288&uuid=99b5af28-512b-469c-b490-0df587a7be07",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv6ypt4jnm3g7ghr1tw6cf",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:00:37.997738",
   "updatedAt": "2026-03-01T15:00:37.997739",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv6ypt4jnm3g7ghr1tw6cf/Avatar for sweli002"
 }

@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv2yyz9q4n0802zsr4hp0f",
   "name": "Avatar for KDC101",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv2yyz9q4n0802zsr4hp0f.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/143726/avatar.png?size=288&time=1762188215000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv2yth2pps8r7vdhfbs9rx",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:58:27.039981",
   "updatedAt": "2026-03-01T14:58:27.039982",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv2yth2pps8r7vdhfbs9rx/Avatar for KDC101"
 }

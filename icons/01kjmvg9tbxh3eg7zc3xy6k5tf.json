@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvg9tbxh3eg7zc3xy6k5tf",
   "name": "Avatar for BPM01-CAB016",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvg9tbxh3eg7zc3xy6k5tf.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2507/icon.png?size=288&uuid=1662ae1c-d286-46c2-ab26-8b2113b7eec5",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmvg9qzagv7jc66ebzc1khp",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:05:44.139056",
   "updatedAt": "2026-03-01T15:05:44.139057",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmvg9qzagv7jc66ebzc1khp/Avatar for BPM01-CAB016"
 }

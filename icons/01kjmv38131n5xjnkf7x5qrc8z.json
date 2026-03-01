@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv38131n5xjnkf7x5qrc8z",
   "name": "Avatar for NAS SENZA HARD DISK",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv38131n5xjnkf7x5qrc8z.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/1781/icon.png?size=288&uuid=79c33d80-fd5e-4ef5-87c8-8d082b78d50d",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv37ybhn25q0n7dx8st0ps",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:58:36.323914",
   "updatedAt": "2026-03-01T14:58:36.323915",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv37ybhn25q0n7dx8st0ps/Avatar for NAS SENZA HARD DISK"
 }

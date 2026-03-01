@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv1x0dz87h2ree5eq35rbw",
   "name": "Avatar for Dell Ultrasharp U2715H",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv1x0dz87h2ree5eq35rbw.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/1708/icon.png?size=288&uuid=f508ecd4-bbca-45be-99dc-658f7fcec9d1",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv1wx2sj0dx4pqscd86khr",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:57:52.269559",
   "updatedAt": "2026-03-01T14:57:52.269560",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv1wx2sj0dx4pqscd86khr/Avatar for Dell Ultrasharp U2715H"
 }

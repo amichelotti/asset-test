@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv3404kd3771hwn49myjcy",
   "name": "Avatar for MacBook pro 13-inch",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv3404kd3771hwn49myjcy.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/99531/avatar.png?size=288&time=1684229130000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv33v7qc103qn7qtv3y3k3",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:58:32.196101",
   "updatedAt": "2026-03-01T14:58:32.196102",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv33v7qc103qn7qtv3y3k3/Avatar for MacBook pro 13-inch"
 }

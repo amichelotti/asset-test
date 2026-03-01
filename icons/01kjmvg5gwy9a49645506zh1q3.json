@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvg5gwy9a49645506zh1q3",
   "name": "Avatar for Fusion Server 2288H V7 R",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvg5gwy9a49645506zh1q3.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/3729/icon.png?size=288&uuid=5f73ad75-043a-407b-bd99-439ac9e1574d",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmvg5e8y0ndmx602brmk3m0",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:05:39.740678",
   "updatedAt": "2026-03-01T15:05:39.740679",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmvg5e8y0ndmx602brmk3m0/Avatar for Fusion Server 2288H V7 R"
 }

@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvk9bzbr2t821t2vb5vmax",
   "name": "Lasers Models",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/icons/01kjmvk9bzbr2t821t2vb5vmax.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/3929/icon.png?size=16",
   "linkedSchemaUid": "01kjmv1azqtcexsrjq10bs6sr3",
   "linkedAssetUid": null,
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:07:21.983804",
   "updatedAt": "2026-03-01T15:07:21.983805",
   "backendType": "jira",
-  "backendIconId": "67"
+  "backendIconId": "67",
+  "binaryPath": "icons/files/01kjmv1azqtcexsrjq10bs6sr3/Lasers Models"
 }

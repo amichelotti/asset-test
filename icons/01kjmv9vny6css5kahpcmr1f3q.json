@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv9vny6css5kahpcmr1f3q",
   "name": "Avatar for Nuovaps",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv9vny6css5kahpcmr1f3q.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2484/icon.png?size=288&uuid=44b50c14-611b-4535-8c8f-38b1c7493c52",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv9vjenesczqkg1sm72jtr",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:02:13.054972",
   "updatedAt": "2026-03-01T15:02:13.054973",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv9vjenesczqkg1sm72jtr/Avatar for Nuovaps"
 }

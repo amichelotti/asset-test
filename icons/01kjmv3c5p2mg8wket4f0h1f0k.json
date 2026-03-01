@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv3c5p2mg8wket4f0h1f0k",
   "name": "Avatar for NUC11TNK",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv3c5p2mg8wket4f0h1f0k.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/109258/avatar.png?size=288&time=1696941046000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv3c29nkkd4fa0fdqzwese",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:58:40.566630",
   "updatedAt": "2026-03-01T14:58:40.566631",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv3c29nkkd4fa0fdqzwese/Avatar for NUC11TNK"
 }

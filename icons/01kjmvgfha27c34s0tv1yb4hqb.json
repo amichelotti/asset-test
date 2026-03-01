@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvgfha27c34s0tv1yb4hqb",
   "name": "Avatar for ciccio2",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvgfha27c34s0tv1yb4hqb.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2507/icon.png?size=288&uuid=1662ae1c-d286-46c2-ab26-8b2113b7eec5",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmvgfee8aafj388aa9mwdxx",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:05:49.994360",
   "updatedAt": "2026-03-01T15:05:49.994361",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmvgfee8aafj388aa9mwdxx/Avatar for ciccio2"
 }

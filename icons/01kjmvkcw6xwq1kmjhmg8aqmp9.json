@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvkcw6xwq1kmjhmg8aqmp9",
   "name": "Cabling",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/icons/01kjmvkcw6xwq1kmjhmg8aqmp9.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2507/icon.png?size=16",
   "linkedSchemaUid": "01kjmv6rp34zm0d5zrkp7qybxj",
   "linkedAssetUid": null,
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:07:25.574959",
   "updatedAt": "2026-03-01T15:07:25.574959",
   "backendType": "jira",
-  "backendIconId": "131"
+  "backendIconId": "131",
+  "binaryPath": "icons/files/01kjmv6rp34zm0d5zrkp7qybxj/Cabling"
 }

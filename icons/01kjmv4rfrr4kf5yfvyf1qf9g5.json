@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv4rfrr4kf5yfvyf1qf9g5",
   "name": "Avatar for Linac - L2",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv4rfrr4kf5yfvyf1qf9g5.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/106280/avatar.png?size=288&time=1761663132000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv4rcff44x6n9qx85e7evy",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:59:25.944102",
   "updatedAt": "2026-03-01T14:59:25.944103",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv4rcff44x6n9qx85e7evy/Avatar for Linac - L2"
 }

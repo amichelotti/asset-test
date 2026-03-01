@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvka1bcyaetgedg09fejz5",
   "name": "Host",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/icons/01kjmvka1bcyaetgedg09fejz5.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2441/icon.png?size=16",
   "linkedSchemaUid": "01kjmv6n3bcxaxpmvdfgf90b91",
   "linkedAssetUid": null,
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:07:22.667474",
   "updatedAt": "2026-03-01T15:07:22.667474",
   "backendType": "jira",
-  "backendIconId": "25"
+  "backendIconId": "25",
+  "binaryPath": "icons/files/01kjmv6n3bcxaxpmvdfgf90b91/Host"
 }

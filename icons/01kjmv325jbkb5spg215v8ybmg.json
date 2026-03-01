@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv325jbkb5spg215v8ybmg",
   "name": "Avatar for Libera Single Pass E",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv325jbkb5spg215v8ybmg.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/108333/avatar.png?size=288&time=1756819424000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv3222bpgba7s62ysv98vc",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:58:30.322227",
   "updatedAt": "2026-03-01T14:58:30.322227",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv3222bpgba7s62ysv98vc/Avatar for Libera Single Pass E"
 }

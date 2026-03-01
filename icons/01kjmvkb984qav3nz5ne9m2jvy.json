@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvkb984qav3nz5ne9m2jvy",
   "name": "Monitor",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/icons/01kjmvkb984qav3nz5ne9m2jvy.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2451/icon.png?size=16",
   "linkedSchemaUid": "01kjmv6pryjn78ba09hww8sfsf",
   "linkedAssetUid": null,
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:07:23.944507",
   "updatedAt": "2026-03-01T15:07:23.944507",
   "backendType": "jira",
-  "backendIconId": "116"
+  "backendIconId": "116",
+  "binaryPath": "icons/files/01kjmv6pryjn78ba09hww8sfsf/Monitor"
 }

@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv3s7zjv77v35zc676t6td",
   "name": "Avatar for START2",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv3s7zjv77v35zc676t6td.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/128460/avatar.png?size=288&time=1756814610000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv3s4bkqwpn3hzexchytvw",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:58:53.951061",
   "updatedAt": "2026-03-01T14:58:53.951062",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv3s4bkqwpn3hzexchytvw/Avatar for START2"
 }

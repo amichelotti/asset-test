@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvkc91w2q2ahys7e9s5vdw",
   "name": "forniture",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/icons/01kjmvkc91w2q2ahys7e9s5vdw.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2458/icon.png?size=16",
   "linkedSchemaUid": "01kjmv6qzams7z6p0r5wgt54gg",
   "linkedAssetUid": null,
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:07:24.961904",
   "updatedAt": "2026-03-01T15:07:24.961904",
   "backendType": "jira",
-  "backendIconId": "325"
+  "backendIconId": "325",
+  "binaryPath": "icons/files/01kjmv6qzams7z6p0r5wgt54gg/forniture"
 }

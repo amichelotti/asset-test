@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvk25w6e92gs1p38dngc9j",
   "name": "Avatar for LLRF-TSRF1-S02",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvk25w6e92gs1p38dngc9j.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/138520/avatar.png?size=288&time=1750068698000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmvk229as8rv7n255xr0232",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:07:14.620948",
   "updatedAt": "2026-03-01T15:07:14.620948",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmvk229as8rv7n255xr0232/Avatar for LLRF-TSRF1-S02"
 }

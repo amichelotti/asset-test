@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvk4hvna0rn8dd0vgqvkg0",
   "name": "Avatar for llrf04",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvk4hvna0rn8dd0vgqvkg0.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/138462/avatar.png?size=288&time=1749808913000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmvk4e1kc6tpxmm2k2k14h6",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:07:17.051633",
   "updatedAt": "2026-03-01T15:07:17.051633",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmvk4e1kc6tpxmm2k2k14h6/Avatar for llrf04"
 }

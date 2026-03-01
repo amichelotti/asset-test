@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv2vt8y77sy2t30v0b8kym",
   "name": "Avatar for IBILT",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv2vt8y77sy2t30v0b8kym.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/128457/avatar.png?size=288&time=1756814020000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv2vmrye554trr6w7gvc18",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:58:23.816175",
   "updatedAt": "2026-03-01T14:58:23.816175",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv2vmrye554trr6w7gvc18/Avatar for IBILT"
 }

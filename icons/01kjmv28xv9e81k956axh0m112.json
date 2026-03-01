@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv28xv9e81k956axh0m112",
   "name": "Avatar for ET-7226/PET-7226",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv28xv9e81k956axh0m112.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/100168/avatar.png?size=288&time=1756819204000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv28s7erv89w65r7td6mkr",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:58:04.475653",
   "updatedAt": "2026-03-01T14:58:04.475653",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv28s7erv89w65r7td6mkr/Avatar for ET-7226/PET-7226"
 }

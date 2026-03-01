@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv529a01zpekpwgxzd3eft",
   "name": "Avatar for RF",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv529a01zpekpwgxzd3eft.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/3776/icon.png?size=288&uuid=44b50c14-611b-4535-8c8f-38b1c7493c52",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv525qr2jan5wprz22md48",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:59:35.979032",
   "updatedAt": "2026-03-01T14:59:35.979034",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv525qr2jan5wprz22md48/Avatar for RF"
 }

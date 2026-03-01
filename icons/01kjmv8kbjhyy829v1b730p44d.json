@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv8kbjhyy829v1b730p44d",
   "name": "Avatar for scelimxa16002",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv8kbjhyy829v1b730p44d.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/133404/avatar.png?size=288&time=1739893752000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv8k68qw9t6q2braat41x0",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:01:31.762552",
   "updatedAt": "2026-03-01T15:01:31.762553",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv8k68qw9t6q2braat41x0/Avatar for scelimxa16002"
 }

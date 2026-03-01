@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv8ynkbsr10r6dw2hxp6wg",
   "name": "Avatar for plelievr001",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv8ynkbsr10r6dw2hxp6wg.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/113215/avatar.png?size=288&time=1740573316000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv8yfy16cp0c2g4h22ad8w",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:01:43.347272",
   "updatedAt": "2026-03-01T15:01:43.347272",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv8yfy16cp0c2g4h22ad8w/Avatar for plelievr001"
 }

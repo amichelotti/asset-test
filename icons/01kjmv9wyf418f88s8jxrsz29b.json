@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv9wyf418f88s8jxrsz29b",
   "name": "Avatar for sala lat",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv9wyf418f88s8jxrsz29b.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2484/icon.png?size=288&uuid=44b50c14-611b-4535-8c8f-38b1c7493c52",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv9wv36q0gsr7pbj861ak2",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:02:14.351923",
   "updatedAt": "2026-03-01T15:02:14.351923",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv9wv36q0gsr7pbj861ak2/Avatar for sala lat"
 }

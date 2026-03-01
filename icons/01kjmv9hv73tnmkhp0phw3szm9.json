@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv9hv73tnmkhp0phw3szm9",
   "name": "Avatar for PLC Magnets",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv9hv73tnmkhp0phw3szm9.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/144095/avatar.png?size=288&time=1763117459000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv9hpwaxp3e5dn7kjgex3b",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:02:02.983633",
   "updatedAt": "2026-03-01T15:02:02.983633",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv9hpwaxp3e5dn7kjgex3b/Avatar for PLC Magnets"
 }

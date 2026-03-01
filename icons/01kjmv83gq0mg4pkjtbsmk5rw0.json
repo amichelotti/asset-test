@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv83gq0mg4pkjtbsmk5rw0",
   "name": "Avatar for LEL-MAG-HCOR06",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv83gq0mg4pkjtbsmk5rw0.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2501/icon.png?size=288&uuid=74935886-368c-4d17-b5e6-ce050f0f1007",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv83d808xaj6epp01hkz6m",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:01:15.543843",
   "updatedAt": "2026-03-01T15:01:15.543844",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv83d808xaj6epp01hkz6m/Avatar for LEL-MAG-HCOR06"
 }

@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv1c5w671ar4ncf13hmvcq",
   "name": "Avatar for  AS -2124BT-HNTR",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv1c5w671ar4ncf13hmvcq.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/126910/avatar.png?size=288&time=1747674852000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv1byx2vdx3evrpj38cv4n",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:57:35.036175",
   "updatedAt": "2026-03-01T14:57:35.036182",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv1byx2vdx3evrpj38cv4n/Avatar for  AS -2124BT-HNTR"
 }

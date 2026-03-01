@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv50e4j2awsjz39cp3xa4h",
   "name": "Avatar for POSITRONS MAIN RING - PL1",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv50e4j2awsjz39cp3xa4h.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/106296/avatar.png?size=288&time=1761663132000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv509bsb8737tze6zgy4wh",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:59:34.084524",
   "updatedAt": "2026-03-01T14:59:34.084524",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv509bsb8737tze6zgy4wh/Avatar for POSITRONS MAIN RING - PL1"
 }

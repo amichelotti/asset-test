@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvfw73qtrg7kt7se1myssy",
   "name": "Avatar for R_COR_12",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvfw73qtrg7kt7se1myssy.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/111837/avatar.png?size=288&time=1740644888000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmvfw2vxm6svgvkptythhmm",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:05:30.211459",
   "updatedAt": "2026-03-01T15:05:30.211460",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmvfw2vxm6svgvkptythhmm/Avatar for R_COR_12"
 }

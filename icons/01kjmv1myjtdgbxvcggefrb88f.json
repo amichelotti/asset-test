@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv1myjtdgbxvcggefrb88f",
   "name": "Avatar for ATH 2303 M",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv1myjtdgbxvcggefrb88f.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/143410/avatar.png?size=288&time=1761222852000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv1mr7b8mpx0e1npytz540",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:57:44.018314",
   "updatedAt": "2026-03-01T14:57:44.018314",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv1mr7b8mpx0e1npytz540/Avatar for ATH 2303 M"
 }

@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv2zdn99b5fawajv9sqxcp",
   "name": "Avatar for KIM101",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv2zdn99b5fawajv9sqxcp.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/143727/avatar.png?size=288&time=1762189094000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv2z9jjavdvjdpphzvtd9s",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:58:27.509229",
   "updatedAt": "2026-03-01T14:58:27.509229",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv2z9jjavdvjdpphzvtd9s/Avatar for KIM101"
 }

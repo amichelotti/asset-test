@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv2tw7n5gh89rgde856t0n",
   "name": "Avatar for HPE Office Connect 1420 GH017A",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv2tw7n5gh89rgde856t0n.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/99201/avatar.png?size=288&time=1683295115000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv2tqghk4m50nnb031ndbr",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:58:22.855375",
   "updatedAt": "2026-03-01T14:58:22.855375",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv2tqghk4m50nnb031ndbr/Avatar for HPE Office Connect 1420 GH017A"
 }

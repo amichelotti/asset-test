@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv8mfbs1re3e62jq2t4tna",
   "name": "Avatar for dhcp-oxgs-ssrip",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv8mfbs1re3e62jq2t4tna.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2445/icon.png?size=288&uuid=e9c9dc3f-5fb2-4793-b505-d900e291a3d8",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv8mctwtgbj4gfx8e3rj5m",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:01:32.907359",
   "updatedAt": "2026-03-01T15:01:32.907363",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv8mctwtgbj4gfx8e3rj5m/Avatar for dhcp-oxgs-ssrip"
 }

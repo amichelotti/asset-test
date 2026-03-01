@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv8n0v7zc5tgh9sg1amng1",
   "name": "Avatar for GEN-CS-GP08:IOC01",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv8n0v7zc5tgh9sg1amng1.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/112864/avatar.png?size=288&time=1763462503000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv8mwcmm282ypc5nny97nk",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:01:33.467267",
   "updatedAt": "2026-03-01T15:01:33.467268",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv8mwcmm282ypc5nny97nk/Avatar for GEN-CS-GP08:IOC01"
 }

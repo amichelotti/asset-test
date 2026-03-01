@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvkccpzg5p7nmca32dm073",
   "name": "BPM Controller",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/icons/01kjmvkccpzg5p7nmca32dm073.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2459/icon.png?size=16",
   "linkedSchemaUid": "01kjmv6r3dtd2jsp7622twee8h",
   "linkedAssetUid": null,
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:07:25.078569",
   "updatedAt": "2026-03-01T15:07:25.078569",
   "backendType": "jira",
-  "backendIconId": "435"
+  "backendIconId": "435",
+  "binaryPath": "icons/files/01kjmv6r3dtd2jsp7622twee8h/BPM Controller"
 }

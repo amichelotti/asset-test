@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvk818m7m85p2s798afdvp",
   "name": "Converter Models",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/icons/01kjmvk818m7m85p2s798afdvp.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/1766/icon.png?size=16",
   "linkedSchemaUid": "01kjmv19a4ha2mac1y6w18wtqs",
   "linkedAssetUid": null,
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:07:20.616645",
   "updatedAt": "2026-03-01T15:07:20.616646",
   "backendType": "jira",
-  "backendIconId": "20"
+  "backendIconId": "20",
+  "binaryPath": "icons/files/01kjmv19a4ha2mac1y6w18wtqs/Converter Models"
 }

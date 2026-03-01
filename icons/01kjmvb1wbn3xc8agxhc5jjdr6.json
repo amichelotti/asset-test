@@ -1,7 +1,6 @@
 {
   "uid": "01kjmvb1wbn3xc8agxhc5jjdr6",
   "name": "Avatar for LEL-MAG-SOL02:COIL[04-06]",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvb1wbn3xc8agxhc5jjdr6.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2496/icon.png?size=288&uuid=9f0cbe4d-5684-492e-b1ef-846294d67111",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmvb1svavrmr0ep2g2h3s73",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:02:52.172001",
   "updatedAt": "2026-03-01T15:02:52.172002",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmvb1svavrmr0ep2g2h3s73/Avatar for LEL-MAG-SOL02:COIL[04-06]"
 }

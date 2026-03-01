@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv1t276wjs6qsx2qz2srvd",
   "name": "Avatar for cisco catalyst 9200L-24P-4X",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv1t276wjs6qsx2qz2srvd.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/138355/avatar.png?size=288&time=1749632388000",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv1sxt3x536tne4cebyrhr",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T14:57:49.255392",
   "updatedAt": "2026-03-01T14:57:49.255392",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv1sxt3x536tne4cebyrhr/Avatar for cisco catalyst 9200L-24P-4X"
 }

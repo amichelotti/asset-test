@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv62rb0tws3wprpn1ngsf9",
   "name": "Avatar for SPARC",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv62rb0tws3wprpn1ngsf9.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/1435/icon.png?size=288&uuid=78b0109b-d205-4b22-b524-5e600cd6bc8e",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv62mt5t50r2fy6n2bny18",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:00:09.228048",
   "updatedAt": "2026-03-01T15:00:09.228049",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv62mt5t50r2fy6n2bny18/Avatar for SPARC"
 }

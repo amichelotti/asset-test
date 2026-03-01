@@ -1,7 +1,6 @@
 {
   "uid": "01kjmv8egnpcmp6ss5aybrbepk",
   "name": "Avatar for LEL-RF-MC01:KLY",
-  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv8egnpcmp6ss5aybrbepk.png",
   "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2502/icon.png?size=288&uuid=a6417d34-2b39-4906-afca-198371117f2d",
   "linkedSchemaUid": null,
   "linkedAssetUid": "01kjmv8ee78p0ta2a5n652vcpw",
@@ -10,5 +9,6 @@
   "createdAt": "2026-03-01T15:01:26.805461",
   "updatedAt": "2026-03-01T15:01:26.805461",
   "backendType": "jira",
-  "backendIconId": null
+  "backendIconId": null,
+  "binaryPath": "icons/files/01kjmv8ee78p0ta2a5n652vcpw/Avatar for LEL-RF-MC01:KLY"
 }

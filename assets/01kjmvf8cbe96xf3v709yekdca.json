@@ -1,0 +1,23 @@
+{
+  "uid": "01kjmvf8cbe96xf3v709yekdca",
+  "key": "LNFELINP-112555",
+  "name": "Meeting Table",
+  "type": "Beamline Assets",
+  "schemaUid": "01kjmv6r6vq5tv7vmd30vr3x41",
+  "attributes": {
+    "key": "LNFELINP-112555",
+    "name": "Meeting Table",
+    "created": "2023-12-01T13:15:45.000Z",
+    "updated": "2023-12-01T13:15:45.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

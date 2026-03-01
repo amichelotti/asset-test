@@ -1,0 +1,35 @@
+{
+  "uid": "01kjmv905yxg0hbss268tpekbw",
+  "key": "LNFELINP-133675",
+  "name": "plelievr002",
+  "type": "IO Controller",
+  "schemaUid": "01kjmv6p190eyfxsk45587e5vd",
+  "attributes": {
+    "key": "LNFELINP-133675",
+    "name": "plelievr002",
+    "created": "2025-02-25T10:24:07.000Z",
+    "updated": "2025-06-12T14:53:36.000Z",
+    "status": "Active",
+    "alias": "GEN-CS-GP04:IOC17",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>PXI EVR 230: LLRF x4</p><p>PXI EVR 230: RF DRIVER x4</p><p>PXI EVR 230: RF MOD x4</p><p>ETH2 00:C0:88:01:43:55</p></div>",
+    "location": "01kjmv9we1khct36t0xtqakmra",
+    "rack": "01kjmvfybh2kcbt8j1s5y9xpjj",
+    "mac": "00:c0:88:01:43:54",
+    "registered": "LNFMAC-133674",
+    "os": "Scientific Linux 6.3",
+    "ram": "8",
+    "cpu": "4",
+    "disk": "120",
+    "cards": "01kjmva6n0wck0cq7tq6h9dkw1"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

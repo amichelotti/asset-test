@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmv40tapvjaedj2cg3eagk0",
+  "key": "LNFMAC-143361",
+  "name": "VSS57.200-2.5-HV",
+  "type": "Motor Models",
+  "schemaUid": "01kjmv1avjxcq1tchyxhxd3x31",
+  "attributes": {
+    "key": "LNFMAC-143361",
+    "name": "VSS57.200-2.5-HV",
+    "created": "2025-10-22T10:01:28.000Z",
+    "updated": "2025-10-22T10:01:28.000Z",
+    "producer": "LNFMAC-143352"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

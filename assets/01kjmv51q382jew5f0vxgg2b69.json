@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmv51q382jew5f0vxgg2b69",
+  "key": "LNFMAC-106298",
+  "name": "POSITRONS MAIN RING - PS2",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmv18ds1cka02yedx7fp1mr",
+  "attributes": {
+    "key": "LNFMAC-106298",
+    "name": "POSITRONS MAIN RING - PS2",
+    "created": "2023-09-30T17:10:45.000Z",
+    "updated": "2025-10-28T14:52:13.000Z",
+    "description": "<p>Short arc from the symmetry point to IR2</p>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

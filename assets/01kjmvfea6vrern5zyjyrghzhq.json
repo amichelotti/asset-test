@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmvfea6vrern5zyjyrghzhq",
+  "key": "LNFELINP-111744",
+  "name": "LEL-RF-WGS01:WGCON01",
+  "type": "Vacuum Controller",
+  "schemaUid": "01kjmv6rb0tt8se2g5t0ca94sf",
+  "attributes": {
+    "key": "LNFELINP-111744",
+    "name": "LEL-RF-WGS01:WGCON01",
+    "created": "2023-11-29T22:26:35.000Z",
+    "updated": "2023-11-29T22:26:35.000Z",
+    "description": "Isolator"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

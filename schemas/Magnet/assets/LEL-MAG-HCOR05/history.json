@@ -1,0 +1,47 @@
+[
+  {
+    "uid": "01kjmv839djfc20m47jb0s3jtr",
+    "assetUid": "01kjmv82ytw3ax6q6d2v9vj4ky",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Layout\",\"oldValue\":\"REGION 3\",\"newValue\":\"M3-011\"}",
+    "timestamp": "2023-12-01T14:15:19.000",
+    "backendId": "186043"
+  },
+  {
+    "uid": "01kjmv839mdrws8x29792m6akv",
+    "assetUid": "01kjmv82ytw3ax6q6d2v9vj4ky",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
+    "timestamp": "2023-11-30T13:33:41.000",
+    "backendId": "184682"
+  },
+  {
+    "uid": "01kjmv839npnq0ev97wdsvewx4",
+    "assetUid": "01kjmv82ytw3ax6q6d2v9vj4ky",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Module\",\"oldValue\":\"\",\"newValue\":\"M3\"}",
+    "timestamp": "2023-11-29T23:50:51.000",
+    "backendId": "184106"
+  },
+  {
+    "uid": "01kjmv839pdny41dt19d6pf430",
+    "assetUid": "01kjmv82ytw3ax6q6d2v9vj4ky",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Layout\",\"oldValue\":\"\",\"newValue\":\"REGION 3\"}",
+    "timestamp": "2023-11-29T23:50:51.000",
+    "backendId": "184105"
+  },
+  {
+    "uid": "01kjmv839qc0nnjp00e3kc1599",
+    "assetUid": "01kjmv82ytw3ax6q6d2v9vj4ky",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-11-29T13:17:13.000",
+    "backendId": "184042"
+  }
+]

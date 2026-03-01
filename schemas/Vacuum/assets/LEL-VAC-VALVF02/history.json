@@ -1,0 +1,38 @@
+[
+  {
+    "uid": "01kjmv7khn5m701at9eycnn6pf",
+    "assetUid": "01kjmv7k7rzhrcyhegbvrtp6mp",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Layout\",\"oldValue\":\"\",\"newValue\":\"M1-018\"}",
+    "timestamp": "2023-12-01T14:15:06.000",
+    "backendId": "186016"
+  },
+  {
+    "uid": "01kjmv7kht319axddenxv7s0g7",
+    "assetUid": "01kjmv7k7rzhrcyhegbvrtp6mp",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
+    "timestamp": "2023-11-30T13:39:44.000",
+    "backendId": "184705"
+  },
+  {
+    "uid": "01kjmv7khvraqzkgtwrqwpr5wc",
+    "assetUid": "01kjmv7k7rzhrcyhegbvrtp6mp",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Type\",\"oldValue\":\"\",\"newValue\":\"VALVF\"}",
+    "timestamp": "2023-11-30T12:08:25.000",
+    "backendId": "184481"
+  },
+  {
+    "uid": "01kjmv7khvpjjmynyq77fvhhf6",
+    "assetUid": "01kjmv7k7rzhrcyhegbvrtp6mp",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-11-29T23:57:42.000",
+    "backendId": "184162"
+  }
+]

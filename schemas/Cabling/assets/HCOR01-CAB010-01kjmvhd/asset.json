@@ -1,0 +1,30 @@
+{
+  "uid": "01kjmvhd06s1bnbt39cc0cbarm",
+  "key": "LNFELINP-111997",
+  "name": "HCOR01-CAB010",
+  "type": "Cabling",
+  "schemaUid": "01kjmv6rp34zm0d5zrkp7qybxj",
+  "attributes": {
+    "key": "LNFELINP-111997",
+    "name": "HCOR01-CAB010",
+    "created": "2023-11-30T12:23:17.000Z",
+    "updated": "2023-11-30T12:23:17.000Z",
+    "description": "H & V Corrector Magnet Type A - Hor. coil",
+    "connector1_pair": "01kjmv814wwvp55kt6se44we3y",
+    "connector2_pair": "01kjmvfw2vxm6svgvkptythhmm",
+    "connector1_desc": "cable lugs",
+    "connector2_desc": "cable lugs",
+    "connection_type_desc": "bolted",
+    "cable_type_desc": "1xFG7OR 2x4mmq"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "uid": "01kjmv7qvvj74xp0wx7stpf12z",
+    "assetUid": "01kjmv7qh4rd7zz61wmmdwa88s",
+    "type": "5",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"5\",\"attribute\":\"Controller\",\"oldValue\":\"LEL-VAC-WGS01:VPC...\",\"newValue\":\"LEL-VAC-WGC01:VPC...\"}",
+    "timestamp": "2025-11-06T17:27:49.000",
+    "backendId": "354686"
+  },
+  {
+    "uid": "01kjmv7qvy34mbt4qs5714ybxy",
+    "assetUid": "01kjmv7qh4rd7zz61wmmdwa88s",
+    "type": "4",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"ROOF\"}",
+    "timestamp": "2025-11-06T17:27:49.000",
+    "backendId": "354685"
+  },
+  {
+    "uid": "01kjmv7qvzgdp85sepbhvannzk",
+    "assetUid": "01kjmv7qh4rd7zz61wmmdwa88s",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Vacuum Ion Pump\",\"newValue\":\"Vacuum Ion Pump\"}",
+    "timestamp": "2025-11-06T17:27:49.000",
+    "backendId": "354684"
+  },
+  {
+    "uid": "01kjmv7qvz3y31h1h590zjxe8d",
+    "assetUid": "01kjmv7qh4rd7zz61wmmdwa88s",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Layout\",\"oldValue\":\"\",\"newValue\":\"WGC01-002\"}",
+    "timestamp": "2023-12-01T14:15:43.000",
+    "backendId": "186100"
+  },
+  {
+    "uid": "01kjmv7qw0m0b9sws9b9xg5h9b",
+    "assetUid": "01kjmv7qh4rd7zz61wmmdwa88s",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-11-30T13:48:25.000",
+    "backendId": "184742"
+  }
+]

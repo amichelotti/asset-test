@@ -1,0 +1,65 @@
+[
+  {
+    "uid": "01kjmvjddhz66dnhy03n4mq4sh",
+    "assetUid": "01kjmvjd4hh527kq6mc87yqefa",
+    "type": "2",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"2\",\"attribute\":\"Status\",\"oldValue\":\"Action Needed\",\"newValue\":\"Active\"}",
+    "timestamp": "2025-06-13T14:52:09.000",
+    "backendId": "321847"
+  },
+  {
+    "uid": "01kjmvjddnjz332cectsjhgeqn",
+    "assetUid": "01kjmvjd4hh527kq6mc87yqefa",
+    "type": "1",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"1\",\"attribute\":\"Type\",\"oldValue\":\"\",\"newValue\":\"RS232\"}",
+    "timestamp": "2025-06-13T14:49:42.000",
+    "backendId": "321844"
+  },
+  {
+    "uid": "01kjmvjddqy2ten077x1n2jjnk",
+    "assetUid": "01kjmvjd4hh527kq6mc87yqefa",
+    "type": "4",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"4\",\"attribute\":\"Connector2 Pair\",\"oldValue\":\"\",\"newValue\":\"motionbox06-scn06\"}",
+    "timestamp": "2025-06-13T14:49:42.000",
+    "backendId": "321843"
+  },
+  {
+    "uid": "01kjmvjddtn9331rkkkcedps0z",
+    "assetUid": "01kjmvjd4hh527kq6mc87yqefa",
+    "type": "4",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"4\",\"attribute\":\"Connector1 Pair\",\"oldValue\":\"\",\"newValue\":\"motionbox05-scn05\"}",
+    "timestamp": "2025-06-13T14:49:42.000",
+    "backendId": "321842"
+  },
+  {
+    "uid": "01kjmvjddv613bcbj6ah88bn8j",
+    "assetUid": "01kjmvjd4hh527kq6mc87yqefa",
+    "type": "1",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Action Needed\"}",
+    "timestamp": "2025-06-13T14:49:42.000",
+    "backendId": "321841"
+  },
+  {
+    "uid": "01kjmvjddx9aq412eask2eqavp",
+    "assetUid": "01kjmvjd4hh527kq6mc87yqefa",
+    "type": "2",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"MOTCON5\",\"newValue\":\"MOTCON5-ser\"}",
+    "timestamp": "2025-06-13T14:49:42.000",
+    "backendId": "321840"
+  },
+  {
+    "uid": "01kjmvjddz0bzqhc53fctzs9w4",
+    "assetUid": "01kjmvjd4hh527kq6mc87yqefa",
+    "type": "0",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-06-13T14:48:31.000",
+    "backendId": "321838"
+  }
+]

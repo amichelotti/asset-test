@@ -1,0 +1,29 @@
+[
+  {
+    "uid": "01kjmv1vc2tamptbnf6sk5grka",
+    "assetUid": "01kjmv1tyezvd43f5wj128xc6v",
+    "type": "2",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"CMR 364, 1 hPa F....\",\"newValue\":\"CMR 364, 1 hPa F....\"}",
+    "timestamp": "2025-10-23T11:57:49.000",
+    "backendId": "351317"
+  },
+  {
+    "uid": "01kjmv1vc7y5qbjkyvvb9wwz0r",
+    "assetUid": "01kjmv1tyezvd43f5wj128xc6v",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Documentation\",\"oldValue\":\"\",\"newValue\":\"https://vacuum-sh...\"}",
+    "timestamp": "2025-10-23T11:57:49.000",
+    "backendId": "351316"
+  },
+  {
+    "uid": "01kjmv1vca6m0k8v7zcha0ffck",
+    "assetUid": "01kjmv1tyezvd43f5wj128xc6v",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-10-23T11:51:09.000",
+    "backendId": "351312"
+  }
+]

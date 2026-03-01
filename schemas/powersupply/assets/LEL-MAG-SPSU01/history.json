@@ -1,0 +1,74 @@
+[
+  {
+    "uid": "01kjmvc457wjf1es7gbyep85fd",
+    "assetUid": "01kjmvc331tw91mcs1w1x11tzy",
+    "type": "25",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2024-12-05T13:28:33.000",
+    "backendId": "280294"
+  },
+  {
+    "uid": "01kjmvc45dm5b7qhdez6zbqqsx",
+    "assetUid": "01kjmvc331tw91mcs1w1x11tzy",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Registered\",\"oldValue\":\"\",\"newValue\":\"lel-mag-spsu01\"}",
+    "timestamp": "2024-12-05T13:28:33.000",
+    "backendId": "280293"
+  },
+  {
+    "uid": "01kjmvc45fc1e726j95q6g7x8v",
+    "assetUid": "01kjmvc331tw91mcs1w1x11tzy",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_COR_10\"}",
+    "timestamp": "2024-12-05T13:28:33.000",
+    "backendId": "280292"
+  },
+  {
+    "uid": "01kjmvc45g53r6z0vg4b8z7m7r",
+    "assetUid": "01kjmvc331tw91mcs1w1x11tzy",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"START11\"}",
+    "timestamp": "2024-12-05T13:28:33.000",
+    "backendId": "280291"
+  },
+  {
+    "uid": "01kjmvc45jy9hmcknjyqh1zads",
+    "assetUid": "01kjmvc331tw91mcs1w1x11tzy",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"Corridor GP\"}",
+    "timestamp": "2024-12-05T13:28:33.000",
+    "backendId": "280290"
+  },
+  {
+    "uid": "01kjmvc45mqq58z3zhdyh3v7a0",
+    "assetUid": "01kjmvc331tw91mcs1w1x11tzy",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Solenoid A coil 1\",\"newValue\":\"Solenoid A coil 1\"}",
+    "timestamp": "2024-12-05T13:28:33.000",
+    "backendId": "280289"
+  },
+  {
+    "uid": "01kjmvc45pz1pe8k4n35ner2z8",
+    "assetUid": "01kjmvc331tw91mcs1w1x11tzy",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2024-12-05T13:28:33.000",
+    "backendId": "280288"
+  },
+  {
+    "uid": "01kjmvc45q6kptapea6jh4qcat",
+    "assetUid": "01kjmvc331tw91mcs1w1x11tzy",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-11-29T00:56:05.000",
+    "backendId": "183821"
+  }
+]

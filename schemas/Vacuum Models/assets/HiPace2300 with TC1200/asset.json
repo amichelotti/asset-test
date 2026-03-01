@@ -1,0 +1,26 @@
+{
+  "uid": "01kjmv2qsgfxyzefj7yys7bgc6",
+  "key": "LNFMAC-143408",
+  "name": "HiPace2300 with TC1200",
+  "type": "Vacuum Models",
+  "schemaUid": "01kjmv1a8chq7prqwhkverw3dk",
+  "attributes": {
+    "key": "LNFMAC-143408",
+    "name": "HiPace2300 with TC1200",
+    "created": "2025-10-23T12:28:04.000Z",
+    "updated": "2025-10-23T12:28:04.000Z",
+    "producer": "LNFMAC-143394",
+    "documentation": "https://www.pfeiffer-vacuum.com/global/en/product/hipace-1800-2300.html",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><table data-number-column=\"false\" data-layout=\"default\" data-autosize=\"false\" data-table-local-id=\"c3abeba5-08a4-445f-a4f4-fba09197f876\"><tbody><tr><th class=\"pm-table-header-content-wrap\"><p>Technical Data</p></th><th class=\"pm-table-header-content-wrap\"><p>HiPace 2300 with TC 1200</p></th></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Pumping speed for Ar</p></td><td class=\"pm-table-cell-content-wrap\"><p>1800 l/s</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Pumping speed for He</p></td><td class=\"pm-table-cell-content-wrap\"><p>2000 l/s</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Pumping speed for H₂</p></td><td class=\"pm-table-cell-content-wrap\"><p>1850 l/s</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Pumping speed for N₂</p></td><td class=\"pm-table-cell-content-wrap\"><p>1900 l/s</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Compression ratio for Ar</p></td><td class=\"pm-table-cell-content-wrap\"><p>1 · 10⁸</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Compression ratio for He</p></td><td class=\"pm-table-cell-content-wrap\"><p>3 · 10⁵</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Compression ratio for H₂</p></td><td class=\"pm-table-cell-content-wrap\"><p>2 · 10⁴</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Compression ratio for N₂</p></td><td class=\"pm-table-cell-content-wrap\"><p>1 · 10⁸</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Gas throughput at final rotational speed for Ar</p></td><td class=\"pm-table-cell-content-wrap\"><p>16 hPa l/s</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Gas throughput at final rotational speed for He</p></td><td class=\"pm-table-cell-content-wrap\"><p>20 hPa l/s</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Gas throughput at final rotational speed for H₂</p></td><td class=\"pm-table-cell-content-wrap\"><p>50 hPa l/s</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Gas throughput at final rotational speed for N₂</p></td><td class=\"pm-table-cell-content-wrap\"><p>28 hPa l/s</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Gas throughput at 0.1 hPa HV-pressure for He</p></td><td class=\"pm-table-cell-content-wrap\"><p>26 hPa l/s</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Gas throughput at 0.1 hPa HV-pressure for H₂</p></td><td class=\"pm-table-cell-content-wrap\"><p>14 hPa l/s</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Gas throughput at 0.1 hPa HV-pressure for N₂</p></td><td class=\"pm-table-cell-content-wrap\"><p>38 hPa l/s</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Forevacuum max. for N₂</p></td><td class=\"pm-table-cell-content-wrap\"><p>1.8 hPa</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Run-up time</p></td><td class=\"pm-table-cell-content-wrap\"><p>4 min</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Communication interfaces optional</p></td><td class=\"pm-table-cell-content-wrap\"><p>Profibus, Profinet, Ethercat, Devicenet,Semi E74</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Communication interfaces standard</p></td><td class=\"pm-table-cell-content-wrap\"><p>RS-485, remote</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Mounting orientation</p></td><td class=\"pm-table-cell-content-wrap\"><p>0° (HV flange top) – 90° / 90° – 180° (HV flange bottom)</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Sound pressure level (EN ISO 2151)</p></td><td class=\"pm-table-cell-content-wrap\"><p>50 dBA</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Weight approx.</p></td><td class=\"pm-table-cell-content-wrap\"><p>36.6 kg</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Gas inlet</p></td><td class=\"pm-table-cell-content-wrap\"><p>DN 250 ISO-K/ISO-F/CF-F</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Gas outlet</p></td><td class=\"pm-table-cell-content-wrap\"><p>DN 40 ISO-KF</p></td></tr></tbody></table><p></p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

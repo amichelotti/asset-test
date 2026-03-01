@@ -1,0 +1,74 @@
+[
+  {
+    "uid": "01kjmvg61gdmsc1q1nettvtdsv",
+    "assetUid": "01kjmvg5sj8txrk1trcn1nbexb",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"QRcode label atta...\"}",
+    "timestamp": "2025-06-12T11:06:33.000",
+    "backendId": "321481"
+  },
+  {
+    "uid": "01kjmvg61sd6jgvwd4txcrdtqh",
+    "assetUid": "01kjmvg5sj8txrk1trcn1nbexb",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"Documentation\",\"oldValue\":\"\",\"newValue\":\"https://rda.dsi.i...\"}",
+    "timestamp": "2025-06-12T10:27:44.000",
+    "backendId": "321473"
+  },
+  {
+    "uid": "01kjmvg621t8a3b3cd986eqa2d",
+    "assetUid": "01kjmvg5sj8txrk1trcn1nbexb",
+    "type": "5",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"5\",\"attribute\":\"Blade\",\"oldValue\":\"plelinpdom001\",\"newValue\":\"plelinpdom001, pl...\"}",
+    "timestamp": "2025-06-12T10:23:11.000",
+    "backendId": "321472"
+  },
+  {
+    "uid": "01kjmvg626fbtqx3cq7rbp6172",
+    "assetUid": "01kjmvg5sj8txrk1trcn1nbexb",
+    "type": "4",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_COR_04\"}",
+    "timestamp": "2025-06-12T10:23:11.000",
+    "backendId": "321471"
+  },
+  {
+    "uid": "01kjmvg628bzp52405gwbr151e",
+    "assetUid": "01kjmvg5sj8txrk1trcn1nbexb",
+    "type": "4",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"Corridor GP\"}",
+    "timestamp": "2025-06-12T10:23:11.000",
+    "backendId": "321470"
+  },
+  {
+    "uid": "01kjmvg62c8q3ydjew03aza09t",
+    "assetUid": "01kjmvg5sj8txrk1trcn1nbexb",
+    "type": "4",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"4\",\"attribute\":\"Blade\",\"oldValue\":\"\",\"newValue\":\"plelinpdom001\"}",
+    "timestamp": "2025-06-12T10:07:46.000",
+    "backendId": "321459"
+  },
+  {
+    "uid": "01kjmvg62ec3v5xnfy0v8h4r2f",
+    "assetUid": "01kjmvg5sj8txrk1trcn1nbexb",
+    "type": "6",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"6\",\"attribute\":\"Model\",\"oldValue\":\" AS -2124BT-HNTR\",\"newValue\":\"\"}",
+    "timestamp": "2025-06-12T09:36:31.000",
+    "backendId": "321457"
+  },
+  {
+    "uid": "01kjmvg62hm619cj93cx1zmdhj",
+    "assetUid": "01kjmvg5sj8txrk1trcn1nbexb",
+    "type": "0",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-06-12T09:35:54.000",
+    "backendId": "321456"
+  }
+]

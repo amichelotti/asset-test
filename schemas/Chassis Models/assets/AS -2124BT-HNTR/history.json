@@ -1,0 +1,83 @@
+[
+  {
+    "uid": "01kjmv1cdvt3zh3me301wtn015",
+    "assetUid": "01kjmv1byx2vdx3evrpj38cv4n",
+    "type": "2",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Nota di carico 16...\",\"newValue\":\"\"}",
+    "timestamp": "2025-05-19T19:14:13.000",
+    "backendId": "317961"
+  },
+  {
+    "uid": "01kjmv1cdyn8ab971rq3hfsqbn",
+    "assetUid": "01kjmv1byx2vdx3evrpj38cv4n",
+    "type": "3",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"3\",\"attribute\":\"Documentation\",\"oldValue\":\"https://rda.dsi.i...\",\"newValue\":\"\"}",
+    "timestamp": "2025-05-19T19:14:05.000",
+    "backendId": "317960"
+  },
+  {
+    "uid": "01kjmv1ce0dne13sgmmywmc10z",
+    "assetUid": "01kjmv1byx2vdx3evrpj38cv4n",
+    "type": "6",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"6\",\"attribute\":\"Vendor\",\"oldValue\":\"I.T.M Informatica...\",\"newValue\":\"\"}",
+    "timestamp": "2025-05-19T19:14:05.000",
+    "backendId": "317959"
+  },
+  {
+    "uid": "01kjmv1ce1e9bc6xkwnjr86est",
+    "assetUid": "01kjmv1byx2vdx3evrpj38cv4n",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"Nota di carico 16...\"}",
+    "timestamp": "2025-05-07T18:53:30.000",
+    "backendId": "316482"
+  },
+  {
+    "uid": "01kjmv1ce1ksjra7cvxhthwdsx",
+    "assetUid": "01kjmv1byx2vdx3evrpj38cv4n",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"Documentation\",\"oldValue\":\"\",\"newValue\":\"https://rda.dsi.i...\"}",
+    "timestamp": "2025-05-07T18:53:30.000",
+    "backendId": "316481"
+  },
+  {
+    "uid": "01kjmv1ce2b5z74yb00a8feps9",
+    "assetUid": "01kjmv1byx2vdx3evrpj38cv4n",
+    "type": "4",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"4\",\"attribute\":\"Vendor\",\"oldValue\":\"\",\"newValue\":\"I.T.M Informatica...\"}",
+    "timestamp": "2025-05-07T18:49:39.000",
+    "backendId": "316480"
+  },
+  {
+    "uid": "01kjmv1ce3ewrtn7nrmw3w927q",
+    "assetUid": "01kjmv1byx2vdx3evrpj38cv4n",
+    "type": "26",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"26\"}",
+    "timestamp": "2024-09-18T14:25:28.000",
+    "backendId": "250787"
+  },
+  {
+    "uid": "01kjmv1ce3csme77a0ns6j3vq7",
+    "assetUid": "01kjmv1byx2vdx3evrpj38cv4n",
+    "type": "25",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2024-09-18T14:16:24.000",
+    "backendId": "250786"
+  },
+  {
+    "uid": "01kjmv1ce4yk59tvarqk6w4jfr",
+    "assetUid": "01kjmv1byx2vdx3evrpj38cv4n",
+    "type": "0",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-09-18T13:57:23.000",
+    "backendId": "250780"
+  }
+]

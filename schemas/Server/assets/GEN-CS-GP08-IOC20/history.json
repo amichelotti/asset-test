@@ -1,0 +1,92 @@
+[
+  {
+    "uid": "01kjmv8qmvkhs7k0xrqjvdn3r8",
+    "assetUid": "01kjmv8pr5n6x2kewf6grkypbd",
+    "type": "4",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"DELL PowerEdge R220\"}",
+    "timestamp": "2025-11-18T11:40:45.000",
+    "backendId": "358459"
+  },
+  {
+    "uid": "01kjmv8qmxz3jztr7acp95svgm",
+    "assetUid": "01kjmv8pr5n6x2kewf6grkypbd",
+    "type": "2",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"xeon E3 1220 x4 1...\",\"newValue\":\"xeon E3 1220 x4 1...\"}",
+    "timestamp": "2025-11-18T11:40:45.000",
+    "backendId": "358458"
+  },
+  {
+    "uid": "01kjmv8qmzcf3gnrctrrj0dfmw",
+    "assetUid": "01kjmv8pr5n6x2kewf6grkypbd",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"xeon E3 1220 x4\",\"newValue\":\"xeon E3 1220 x4 1...\"}",
+    "timestamp": "2023-12-19T12:35:22.000",
+    "backendId": "189181"
+  },
+  {
+    "uid": "01kjmv8qn00yfbprfaewnv59nd",
+    "assetUid": "01kjmv8pr5n6x2kewf6grkypbd",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"MAC\",\"oldValue\":\"\",\"newValue\":\"54:9f:35:23:10:8e\"}",
+    "timestamp": "2023-12-19T12:34:27.000",
+    "backendId": "189180"
+  },
+  {
+    "uid": "01kjmv8qn0k94a0ff5p0whpctn",
+    "assetUid": "01kjmv8pr5n6x2kewf6grkypbd",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"IMG_20231219_1326...\"}",
+    "timestamp": "2023-12-19T12:29:35.000",
+    "backendId": "189179"
+  },
+  {
+    "uid": "01kjmv8qn18cf9wp8pmggkrjn9",
+    "assetUid": "01kjmv8pr5n6x2kewf6grkypbd",
+    "type": "25",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2023-12-19T12:29:16.000",
+    "backendId": "189178"
+  },
+  {
+    "uid": "01kjmv8qn2qq5gfzfbnn9gjzkr",
+    "assetUid": "01kjmv8pr5n6x2kewf6grkypbd",
+    "type": "27",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"27\"}",
+    "timestamp": "2023-12-19T12:28:38.000",
+    "backendId": "189177"
+  },
+  {
+    "uid": "01kjmv8qn3cksjhj9vbva994vk",
+    "assetUid": "01kjmv8pr5n6x2kewf6grkypbd",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"LEL-CTR-IOC02\",\"newValue\":\"GEN-CS-GP08:IOC20\"}",
+    "timestamp": "2023-12-19T12:28:38.000",
+    "backendId": "189176"
+  },
+  {
+    "uid": "01kjmv8qn49gsh8jp4eeadcr86",
+    "assetUid": "01kjmv8pr5n6x2kewf6grkypbd",
+    "type": "25",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2023-12-19T12:17:43.000",
+    "backendId": "189172"
+  },
+  {
+    "uid": "01kjmv8qn5hzxc4ne44ph2pje1",
+    "assetUid": "01kjmv8pr5n6x2kewf6grkypbd",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-12-19T12:16:37.000",
+    "backendId": "189171"
+  }
+]

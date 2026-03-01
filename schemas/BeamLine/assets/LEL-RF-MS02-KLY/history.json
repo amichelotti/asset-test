@@ -1,0 +1,29 @@
+[
+  {
+    "uid": "01kjmvb9129pxkag3q1ce6qckn",
+    "assetUid": "01kjmvb8r9evmzqgrypryv4v5a",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Next Element\",\"oldValue\":\"\",\"newValue\":\"LEL-RF-MS02:KLY\"}",
+    "timestamp": "2023-12-01T00:50:11.000",
+    "backendId": "185480"
+  },
+  {
+    "uid": "01kjmvb918hmfm4n1c9jkhw17t",
+    "assetUid": "01kjmvb8r9evmzqgrypryv4v5a",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Previous Element\",\"oldValue\":\"\",\"newValue\":\"LEL-RF-MS01:KLY\"}",
+    "timestamp": "2023-12-01T00:50:11.000",
+    "backendId": "185479"
+  },
+  {
+    "uid": "01kjmvb91aq3bfvdcvwtgssq6g",
+    "assetUid": "01kjmvb8r9evmzqgrypryv4v5a",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-12-01T00:48:43.000",
+    "backendId": "185313"
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "uid": "01kjmv80nf0fjkrt66wm5w52mb",
+  "key": "LNFELINP-111732",
+  "name": "LEL-MAG-DIP01",
+  "type": "Magnet",
+  "schemaUid": "01kjmv6ndwdhp37p2e7623kaxc",
+  "attributes": {
+    "key": "LNFELINP-111732",
+    "name": "LEL-MAG-DIP01",
+    "created": "2023-11-29T12:17:23.000Z",
+    "updated": "2023-12-01T13:15:31.000Z",
+    "description": "Dipole A",
+    "layout": "LNFELINP-112501",
+    "module": "M4",
+    "type": "DIP",
+    "voltage": "16",
+    "current": "138",
+    "inlet_temp": "30",
+    "rise_temp": "7",
+    "water_pressure_drop": "4",
+    "water_coling_flow": "4.5",
+    "weight": "100",
+    "crosssection": "95",
+    "currentin": "151.8",
+    "powersupply": "01kjmvbz5vk7n3wqq7yv6w3nna",
+    "power": "2.208"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

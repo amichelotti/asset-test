@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmv357e2azym838gnvh58s2",
+  "key": "LNFMAC-147142",
+  "name": "Mercury Chassis",
+  "type": "Chassis Models",
+  "schemaUid": "01kjmv1a48e7z5k6eggbzr00tq",
+  "attributes": {
+    "key": "LNFMAC-147142",
+    "name": "Mercury Chassis",
+    "created": "2026-02-10T16:06:24.000Z",
+    "updated": "2026-02-10T16:06:24.000Z",
+    "producer": "LNFMAC-147141"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

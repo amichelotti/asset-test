@@ -1,0 +1,83 @@
+[
+  {
+    "uid": "01kjmv8r34r0pnk6gbr4278sxt",
+    "assetUid": "01kjmv8qt44x8qzyx0skrmp7k9",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"IP - IPMI\",\"oldValue\":\"\",\"newValue\":\"10.16.2.101\"}",
+    "timestamp": "2025-06-13T12:16:04.000",
+    "backendId": "321734"
+  },
+  {
+    "uid": "01kjmv8r392pshpdveajm2psgb",
+    "assetUid": "01kjmv8qt44x8qzyx0skrmp7k9",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"IPMI - MAC\",\"oldValue\":\"\",\"newValue\":\"3c:ec:ef:aa:f8:ba\"}",
+    "timestamp": "2025-06-13T12:16:04.000",
+    "backendId": "321733"
+  },
+  {
+    "uid": "01kjmv8r3cv5z7zvmamt73nb98",
+    "assetUid": "01kjmv8qt44x8qzyx0skrmp7k9",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"OS\",\"oldValue\":\"\",\"newValue\":\"AlmaLinux 9.5\"}",
+    "timestamp": "2025-06-12T14:21:03.000",
+    "backendId": "321500"
+  },
+  {
+    "uid": "01kjmv8r3efw9tc30y51f05wp2",
+    "assetUid": "01kjmv8qt44x8qzyx0skrmp7k9",
+    "type": "4",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"H12DST-B\"}",
+    "timestamp": "2025-06-12T10:14:04.000",
+    "backendId": "321464"
+  },
+  {
+    "uid": "01kjmv8r3gen0v374pyjy7st7e",
+    "assetUid": "01kjmv8qt44x8qzyx0skrmp7k9",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"Ethernet mapping linux\",\"oldValue\":\"\",\"newValue\":\"enp65s0f3\"}",
+    "timestamp": "2025-06-12T10:14:04.000",
+    "backendId": "321463"
+  },
+  {
+    "uid": "01kjmv8r3jq5vbs95khescy12t",
+    "assetUid": "01kjmv8qt44x8qzyx0skrmp7k9",
+    "type": "4",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"4\",\"attribute\":\"Chassis\",\"oldValue\":\"\",\"newValue\":\"SUPERMICRO QUOD K...\"}",
+    "timestamp": "2025-06-12T10:14:04.000",
+    "backendId": "321462"
+  },
+  {
+    "uid": "01kjmv8r3mvxm3x48gaxjzav2n",
+    "assetUid": "01kjmv8qt44x8qzyx0skrmp7k9",
+    "type": "3",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"3\",\"attribute\":\"OS\",\"oldValue\":\"Rocky Linux 8\",\"newValue\":\"\"}",
+    "timestamp": "2025-06-12T10:14:04.000",
+    "backendId": "321461"
+  },
+  {
+    "uid": "01kjmv8r3qgnegcg81mtmtmax8",
+    "assetUid": "01kjmv8qt44x8qzyx0skrmp7k9",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2025-06-12T10:14:04.000",
+    "backendId": "321460"
+  },
+  {
+    "uid": "01kjmv8r3swcccsdcr4e0e62m8",
+    "assetUid": "01kjmv8qt44x8qzyx0skrmp7k9",
+    "type": "0",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-06-12T09:55:19.000",
+    "backendId": "321458"
+  }
+]

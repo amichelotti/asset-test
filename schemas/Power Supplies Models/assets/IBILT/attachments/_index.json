@@ -1,0 +1,50 @@
+[
+  {
+    "uid": "01kjmv2x21ypncxwk9wx6y9dny",
+    "assetUid": "01kjmv2vmrye554trr6w7gvc18",
+    "filename": "BE2812_user_manual_1.2.pdf",
+    "mimeType": "application/pdf",
+    "fileSize": 572452,
+    "author": "amichelo",
+    "created": "2024-11-08T17:28:53.000",
+    "binaryPath": "schemas/Power Supplies Models/assets/IBILT/attachments/BE2812_user_manual_1.2.pdf",
+    "originBackendId": "2307",
+    "originUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2307/BE2812_user_manual_1.2.pdf"
+  },
+  {
+    "uid": "01kjmv2wtj6n4pmymwjbcv9q55",
+    "assetUid": "01kjmv2vmrye554trr6w7gvc18",
+    "filename": "BE2811_user_manual_1.2.pdf",
+    "mimeType": "application/pdf",
+    "fileSize": 573186,
+    "author": "amichelo",
+    "created": "2024-11-08T17:28:06.000",
+    "binaryPath": "schemas/Power Supplies Models/assets/IBILT/attachments/BE2811_user_manual_1.2.pdf",
+    "originBackendId": "2306",
+    "originUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2306/BE2811_user_manual_1.2.pdf"
+  },
+  {
+    "uid": "01kjmv2whtg2pst8ggbh9y4fvw",
+    "assetUid": "01kjmv2vmrye554trr6w7gvc18",
+    "filename": "Bilt_Prog_Manual.pdf",
+    "mimeType": "application/pdf",
+    "fileSize": 433983,
+    "author": "amichelo",
+    "created": "2024-11-08T17:27:20.000",
+    "binaryPath": "schemas/Power Supplies Models/assets/IBILT/attachments/Bilt_Prog_Manual.pdf",
+    "originBackendId": "2305",
+    "originUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2305/Bilt_Prog_Manual.pdf"
+  },
+  {
+    "uid": "01kjmv2wb7v5ehnwf9gx446661",
+    "assetUid": "01kjmv2vmrye554trr6w7gvc18",
+    "filename": "Bilt_User_Manual.pdf",
+    "mimeType": "application/pdf",
+    "fileSize": 1455724,
+    "author": "amichelo",
+    "created": "2024-11-08T17:26:43.000",
+    "binaryPath": "schemas/Power Supplies Models/assets/IBILT/attachments/Bilt_User_Manual.pdf",
+    "originBackendId": "2304",
+    "originUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2304/Bilt_User_Manual.pdf"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "uid": "01kjmv3s4bkqwpn3hzexchytvw",
+  "key": "LNFMAC-128460",
+  "name": "START2",
+  "type": "Power Supplies Models",
+  "schemaUid": "01kjmv19he5pfftw8861fe9311",
+  "attributes": {
+    "key": "LNFMAC-128460",
+    "name": "START2",
+    "created": "2024-11-08T14:42:23.000Z",
+    "updated": "2025-09-02T12:03:31.000Z",
+    "producer": "LNFMAC-128459",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>1 channel 15V 135A</p></div>",
+    "git_repo": "https://github.com/infn-epics/sigmaPhiStart"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

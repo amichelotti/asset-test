@@ -1,0 +1,38 @@
+[
+  {
+    "uid": "01kjmv8w55vg6fqvqq9368ba38",
+    "assetUid": "01kjmv8vrm404611e2m7dz8bgd",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"sala lat\"}",
+    "timestamp": "2025-01-29T09:51:20.000",
+    "backendId": "292412"
+  },
+  {
+    "uid": "01kjmv8w58ba4y2hneppke86yn",
+    "assetUid": "01kjmv8vrm404611e2m7dz8bgd",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"I7-3517UE CPU - P...\",\"newValue\":\"I7-3517UE CPU - P...\"}",
+    "timestamp": "2025-01-29T09:51:20.000",
+    "backendId": "292411"
+  },
+  {
+    "uid": "01kjmv8w592s4z940b62rwjbng",
+    "assetUid": "01kjmv8vrm404611e2m7dz8bgd",
+    "type": "26",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"26\"}",
+    "timestamp": "2023-12-19T13:11:36.000",
+    "backendId": "189190"
+  },
+  {
+    "uid": "01kjmv8w59w6hsgvw7xpn74qkg",
+    "assetUid": "01kjmv8vrm404611e2m7dz8bgd",
+    "type": "0",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-12-19T11:08:17.000",
+    "backendId": "189170"
+  }
+]

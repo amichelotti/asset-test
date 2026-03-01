@@ -1,0 +1,74 @@
+[
+  {
+    "uid": "01kjmv3bxme5mgb7gtq1ng6tab",
+    "assetUid": "01kjmv3bk7vdxxn4saxbmd40qg",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"Frequency\",\"oldValue\":\"\",\"newValue\":\"2.4\"}",
+    "timestamp": "2024-04-22T15:19:14.000",
+    "backendId": "217852"
+  },
+  {
+    "uid": "01kjmv3bxsc3q5sr5khvgwsfp6",
+    "assetUid": "01kjmv3bk7vdxxn4saxbmd40qg",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"Disk\",\"oldValue\":\"\",\"newValue\":\"512\"}",
+    "timestamp": "2024-04-22T15:19:14.000",
+    "backendId": "217851"
+  },
+  {
+    "uid": "01kjmv3bxwrbg85gx39fvjecz0",
+    "assetUid": "01kjmv3bk7vdxxn4saxbmd40qg",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"Memory\",\"oldValue\":\"\",\"newValue\":\"16\"}",
+    "timestamp": "2024-04-22T15:19:14.000",
+    "backendId": "217850"
+  },
+  {
+    "uid": "01kjmv3bxykscbpq9fmvsw153q",
+    "assetUid": "01kjmv3bk7vdxxn4saxbmd40qg",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"CPU type\",\"oldValue\":\"\",\"newValue\":\"11th Gen Intel(R)...\"}",
+    "timestamp": "2024-04-22T15:19:14.000",
+    "backendId": "217849"
+  },
+  {
+    "uid": "01kjmv3by0x142zhabvs5yny61",
+    "assetUid": "01kjmv3bk7vdxxn4saxbmd40qg",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"CPU\",\"oldValue\":\"\",\"newValue\":\"4\"}",
+    "timestamp": "2024-04-22T15:19:14.000",
+    "backendId": "217848"
+  },
+  {
+    "uid": "01kjmv3by2gakjzyyz2mc8hwat",
+    "assetUid": "01kjmv3bk7vdxxn4saxbmd40qg",
+    "type": "4",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"4\",\"attribute\":\"Producer\",\"oldValue\":\"\",\"newValue\":\"Intel\"}",
+    "timestamp": "2024-04-22T15:19:14.000",
+    "backendId": "217847"
+  },
+  {
+    "uid": "01kjmv3by4rhn8sxq63ks3vwc4",
+    "assetUid": "01kjmv3bk7vdxxn4saxbmd40qg",
+    "type": "25",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2024-04-22T15:17:24.000",
+    "backendId": "217846"
+  },
+  {
+    "uid": "01kjmv3by6c111h6egxqsn0p2m",
+    "assetUid": "01kjmv3bk7vdxxn4saxbmd40qg",
+    "type": "0",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-04-22T14:37:25.000",
+    "backendId": "217835"
+  }
+]

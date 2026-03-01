@@ -1,0 +1,137 @@
+[
+  {
+    "uid": "01kjmvfhkj90dx6xryd79m82d4",
+    "assetUid": "01kjmvfh5vbdsv5hyd3ksqvvtb",
+    "type": "2",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Vacuum Ion Pump C...\",\"newValue\":\"Vacuum Ion Pump C...\"}",
+    "timestamp": "2025-11-14T12:47:49.000",
+    "backendId": "356372"
+  },
+  {
+    "uid": "01kjmvfhktrtb44wtjfdaspfvc",
+    "assetUid": "01kjmvfh5vbdsv5hyd3ksqvvtb",
+    "type": "5",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"5\",\"attribute\":\"Rack\",\"oldValue\":\"R_RUF_06\",\"newValue\":\"R_COR_08\"}",
+    "timestamp": "2025-11-07T14:45:56.000",
+    "backendId": "354879"
+  },
+  {
+    "uid": "01kjmvfhkx68g5jy0b9j7ff59n",
+    "assetUid": "01kjmvfh5vbdsv5hyd3ksqvvtb",
+    "type": "5",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"5\",\"attribute\":\"Location\",\"oldValue\":\"ROOF\",\"newValue\":\"Corridor GP\"}",
+    "timestamp": "2025-11-07T14:45:56.000",
+    "backendId": "354878"
+  },
+  {
+    "uid": "01kjmvfhkzn51cd568t9srn771",
+    "assetUid": "01kjmvfh5vbdsv5hyd3ksqvvtb",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Vacuum Ion Pump\",\"newValue\":\"Vacuum Ion Pump C...\"}",
+    "timestamp": "2025-11-07T14:45:56.000",
+    "backendId": "354877"
+  },
+  {
+    "uid": "01kjmvfhm1jm2wjj7vp9rfztce",
+    "assetUid": "01kjmvfh5vbdsv5hyd3ksqvvtb",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"LEL-VAC-WGS01:VPC...\",\"newValue\":\"LEL-VAC-VPCON02\"}",
+    "timestamp": "2025-11-07T14:45:56.000",
+    "backendId": "354876"
+  },
+  {
+    "uid": "01kjmvfhm3ja83wf283mthabna",
+    "assetUid": "01kjmvfh5vbdsv5hyd3ksqvvtb",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"connector\",\"oldValue\":\"\",\"newValue\":\"VPC02-ser\"}",
+    "timestamp": "2025-02-03T19:01:02.000",
+    "backendId": "293206"
+  },
+  {
+    "uid": "01kjmvfhm5rmk65skhn0bvkcn6",
+    "assetUid": "01kjmvfh5vbdsv5hyd3ksqvvtb",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Vacuum Ion Pump\",\"newValue\":\"Vacuum Ion Pump\"}",
+    "timestamp": "2025-02-03T19:00:39.000",
+    "backendId": "293204"
+  },
+  {
+    "uid": "01kjmvfhm71z8e6qbdspxec7v3",
+    "assetUid": "01kjmvfh5vbdsv5hyd3ksqvvtb",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_RUF_06\"}",
+    "timestamp": "2024-12-05T16:33:59.000",
+    "backendId": "280396"
+  },
+  {
+    "uid": "01kjmvfhm97phtgns8c6hwajkg",
+    "assetUid": "01kjmvfh5vbdsv5hyd3ksqvvtb",
+    "type": "25",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2024-12-05T15:43:22.000",
+    "backendId": "280349"
+  },
+  {
+    "uid": "01kjmvfhmbjprghsjns332f0bn",
+    "assetUid": "01kjmvfh5vbdsv5hyd3ksqvvtb",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"Agilent 4UHV Ion ...\"}",
+    "timestamp": "2024-12-05T15:43:22.000",
+    "backendId": "280348"
+  },
+  {
+    "uid": "01kjmvfhmdskbba2hb847a3ew5",
+    "assetUid": "01kjmvfh5vbdsv5hyd3ksqvvtb",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"ROOF\"}",
+    "timestamp": "2024-12-05T15:43:22.000",
+    "backendId": "280347"
+  },
+  {
+    "uid": "01kjmvfhmfjxkhx25hffpxq25w",
+    "assetUid": "01kjmvfh5vbdsv5hyd3ksqvvtb",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Vacuum Ion Pump\",\"newValue\":\"Vacuum Ion Pump\"}",
+    "timestamp": "2024-12-05T15:43:22.000",
+    "backendId": "280346"
+  },
+  {
+    "uid": "01kjmvfhmh253evw79qq9h98t9",
+    "assetUid": "01kjmvfh5vbdsv5hyd3ksqvvtb",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2024-12-05T15:43:22.000",
+    "backendId": "280345"
+  },
+  {
+    "uid": "01kjmvfhmj8e54p02re01btpgm",
+    "assetUid": "01kjmvfh5vbdsv5hyd3ksqvvtb",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Type\",\"oldValue\":\"\",\"newValue\":\"VPC\"}",
+    "timestamp": "2023-11-29T23:34:08.000",
+    "backendId": "184073"
+  },
+  {
+    "uid": "01kjmvfhmm5nyemrdre64gkxvr",
+    "assetUid": "01kjmvfh5vbdsv5hyd3ksqvvtb",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-11-29T23:26:35.000",
+    "backendId": "184064"
+  }
+]

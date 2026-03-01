@@ -1,0 +1,26 @@
+{
+  "uid": "01kjmvftg85bd9pdn0ptjk29fe",
+  "key": "LNFELINP-129485",
+  "name": "R_COR_09",
+  "type": "Rack",
+  "schemaUid": "01kjmv6re9534nvs3ntryap5js",
+  "attributes": {
+    "key": "LNFELINP-129485",
+    "name": "R_COR_09",
+    "created": "2024-12-05T12:40:38.000Z",
+    "updated": "2025-02-27T08:25:43.000Z",
+    "status": "Active",
+    "alias": "Magnets 1",
+    "location": "01kjmv9qrhzdnz11rytqvpvb3e"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

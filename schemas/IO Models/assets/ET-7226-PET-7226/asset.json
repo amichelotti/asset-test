@@ -1,0 +1,26 @@
+{
+  "uid": "01kjmv28s7erv89w65r7td6mkr",
+  "key": "LNFMAC-100168",
+  "name": "ET-7226/PET-7226",
+  "type": "IO Models",
+  "schemaUid": "01kjmv18ya5jjw6gxdf9r6e48e",
+  "attributes": {
+    "key": "LNFMAC-100168",
+    "name": "ET-7226/PET-7226",
+    "created": "2023-06-07T09:13:32.000Z",
+    "updated": "2025-09-02T13:20:05.000Z",
+    "producer": "LNFMAC-12430",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>The ET-7226 is a multi-function module with 6-channel analog inputs, 2-channel analog outputs, 2-channel digital inputs and 2-channel digital outputs. It provides various programmable analog inputs (+/-500 mV, +/-1 V, +/-5 V, +/-10 V, +/-20 mA, 0 ~ 20 mA and 4 ~ 20 mA), and analog outputs (+/-5 V, +/-10 V, 0 ~ 20 mA and 4 ~ 20 mA). Each analog input is allowed to configure a proper range with 240 Vrms high voltage protection. Each analog input/output can be programmed to accept current or voltage as input/output depending upon the position of corresponding jumper.</p></div>",
+    "git_repo": "https://github.com/infn-epics/icpdas"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

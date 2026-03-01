@@ -1,0 +1,92 @@
+[
+  {
+    "uid": "01kjmvc1x75np2r49spa4we779",
+    "assetUid": "01kjmvc1jdnq74we36ynrh5c8q",
+    "type": "5",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"5\",\"attribute\":\"Rack\",\"oldValue\":\"R_COR_03\",\"newValue\":\"R_COR_12\"}",
+    "timestamp": "2025-06-13T14:35:26.000",
+    "backendId": "321801"
+  },
+  {
+    "uid": "01kjmvc1xed1n39qnb4vbv6dwr",
+    "assetUid": "01kjmvc1jdnq74we36ynrh5c8q",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"QUAD Type D\",\"newValue\":\"QUAD Type D\"}",
+    "timestamp": "2025-06-13T14:35:26.000",
+    "backendId": "321800"
+  },
+  {
+    "uid": "01kjmvc1xhte849k8ep27r7jvn",
+    "assetUid": "01kjmvc1jdnq74we36ynrh5c8q",
+    "type": "25",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2024-12-05T12:44:15.000",
+    "backendId": "280252"
+  },
+  {
+    "uid": "01kjmvc1xkeeky1p09vrzm71cc",
+    "assetUid": "01kjmvc1jdnq74we36ynrh5c8q",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Registered\",\"oldValue\":\"\",\"newValue\":\"lel-mag-qpsu02\"}",
+    "timestamp": "2024-12-05T12:44:15.000",
+    "backendId": "280251"
+  },
+  {
+    "uid": "01kjmvc1xntm3y3vg1xsecwbv8",
+    "assetUid": "01kjmvc1jdnq74we36ynrh5c8q",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_COR_03\"}",
+    "timestamp": "2024-12-05T12:44:15.000",
+    "backendId": "280250"
+  },
+  {
+    "uid": "01kjmvc1xqc4aad85zae2cktzd",
+    "assetUid": "01kjmvc1jdnq74we36ynrh5c8q",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"START2\"}",
+    "timestamp": "2024-12-05T12:44:15.000",
+    "backendId": "280249"
+  },
+  {
+    "uid": "01kjmvc1xseezrfgnmjk4a6nqp",
+    "assetUid": "01kjmvc1jdnq74we36ynrh5c8q",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"Corridor GP\"}",
+    "timestamp": "2024-12-05T12:44:15.000",
+    "backendId": "280248"
+  },
+  {
+    "uid": "01kjmvc1xw4aztdv5v328nnzmx",
+    "assetUid": "01kjmvc1jdnq74we36ynrh5c8q",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"QUAD Type D\",\"newValue\":\"QUAD Type D\"}",
+    "timestamp": "2024-12-05T12:44:15.000",
+    "backendId": "280247"
+  },
+  {
+    "uid": "01kjmvc1xyac5qry5qjv4cv9dv",
+    "assetUid": "01kjmvc1jdnq74we36ynrh5c8q",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2024-12-05T12:44:15.000",
+    "backendId": "280246"
+  },
+  {
+    "uid": "01kjmvc1xz4g718kgsspr1t66f",
+    "assetUid": "01kjmvc1jdnq74we36ynrh5c8q",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-11-29T00:56:11.000",
+    "backendId": "183831"
+  }
+]

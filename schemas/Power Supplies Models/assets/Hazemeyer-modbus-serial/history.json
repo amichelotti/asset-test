@@ -1,0 +1,47 @@
+[
+  {
+    "uid": "01kjmv2q2szzj12tzyjgxhtnz9",
+    "assetUid": "01kjmv2pbmqpb1znen75eg9s2w",
+    "type": "3",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"3\",\"attribute\":\"Control SW\",\"oldValue\":\"https://github.co...\",\"newValue\":\"\"}",
+    "timestamp": "2025-09-02T13:53:20.000",
+    "backendId": "341506"
+  },
+  {
+    "uid": "01kjmv2q2y66qxsqpc80fs9z7a",
+    "assetUid": "01kjmv2pbmqpb1znen75eg9s2w",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"GIT repo\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
+    "timestamp": "2025-09-02T13:53:20.000",
+    "backendId": "341505"
+  },
+  {
+    "uid": "01kjmv2q314ench0a430367z2g",
+    "assetUid": "01kjmv2pbmqpb1znen75eg9s2w",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"SolenoidiHazemeye...\"}",
+    "timestamp": "2025-09-02T13:19:43.000",
+    "backendId": "341489"
+  },
+  {
+    "uid": "01kjmv2q33gc6nqhgm49bw76t3",
+    "assetUid": "01kjmv2pbmqpb1znen75eg9s2w",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Hazemeyer 250A 15V\",\"newValue\":\"Hazemeyer 250A 15...\"}",
+    "timestamp": "2025-09-02T13:18:38.000",
+    "backendId": "341488"
+  },
+  {
+    "uid": "01kjmv2q3584f90g2fwgpe7mpp",
+    "assetUid": "01kjmv2pbmqpb1znen75eg9s2w",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-09-02T13:15:48.000",
+    "backendId": "341487"
+  }
+]

@@ -1,82 +1,224 @@
-uid: 01ke4z4rk2457bqv3tbqk8smaz
-name: Server
-isConcrete: true
-parentSchemaUid: 01ke4yx5m0h4p51ekxxqdrh8cb
-workspaceUid: 01ke4ywah3mkv7mhz3gxef80rk
-definition:
-  description: servers
-  attributes:
-    -
-      id: Key
-      name: Key
-      type: string
-      required: true
-      unique: true
-      system: true
-      editable: false
-      description: Unique system-generated identifier
-    -
-      id: Name
-      name: Name
-      type: string
-      required: true
-      system: true
-      editable: true
-      description: Object name
-    -
-      id: Created
-      name: Created
-      type: datetime
-      required: true
-      system: true
-      editable: false
-      description: Creation timestamp
-    -
-      id: Updated
-      name: Updated
-      type: datetime
-      required: true
-      system: true
-      editable: false
-      description: Last update timestamp
-    -
-      id: 01ke4z4y5wphd05fj1kvakwcmj
-      name: cpus
-      key: cpus
-      type: integer
-      required: true
-      unique: false
-      indexed: false
-      default: 1
-      description: ""
-      multiValue: false
-      readOnly: false
-      visible: true
-      order: 0
-      cardinalityMin: 0
-      cardinalityMax: 1
-      constraints:
-        min: 1
-        max: 10
-    -
-      id: 01ke4z5vtt3z774zc3yh8qcn2c
-      name: schede
-      key: schede
-      type: reference
-      required: true
-      unique: false
-      indexed: false
-      default: ""
-      description: schede
-      multiValue: true
-      readOnly: false
-      visible: true
-      order: 1
-      cardinalityMin: 1
-      cardinalityMax: 5
-      referenceType: 01ke4yxxb48pfac4zqd9c55eep
-  iconCode: 58178
-  iconSource: system
-  globalProperties:
-createdAt: "2026-01-04T17:58:42.146622"
-updatedAt: "2026-01-04T18:00:06.122363"
+{
+  "uid": "01kjmv6nx4yxghft6nmtsqfxzd",
+  "name": "Server",
+  "description": null,
+  "parentSchemaUid": "01kjmv6n3bcxaxpmvdfgf90b91",
+  "isConcrete": true,
+  "attributes": [
+    {
+      "key": "key",
+      "name": "Key",
+      "type": "string",
+      "required": true,
+      "description": "Unique system-generated identifier",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "name",
+      "name": "Name",
+      "type": "string",
+      "required": true,
+      "description": "Object name",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "created",
+      "name": "Created",
+      "type": "datetime",
+      "required": true,
+      "description": "Creation timestamp",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "updated",
+      "name": "Updated",
+      "type": "datetime",
+      "required": true,
+      "description": "Last update timestamp",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "status",
+      "name": "Status",
+      "type": "status",
+      "required": false,
+      "description": "Asset lifecycle status",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "alias",
+      "name": "Alias",
+      "type": "string",
+      "required": false,
+      "description": "Alternative name",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "description",
+      "name": "Description",
+      "type": "text",
+      "required": false,
+      "description": "Description",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "location",
+      "name": "Location",
+      "type": "reference",
+      "required": false,
+      "description": "Location",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "serial",
+      "name": "Serial",
+      "type": "string",
+      "required": false,
+      "description": "ELI Serial ",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "rack",
+      "name": "Rack",
+      "type": "reference",
+      "required": false,
+      "description": "Rack",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "connector",
+      "name": "connector",
+      "type": "reference",
+      "required": false,
+      "description": "Cable connector",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "mac",
+      "name": "MAC",
+      "type": "string",
+      "required": false,
+      "description": "MAC address",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "registered",
+      "name": "Registered",
+      "type": "reference",
+      "required": false,
+      "description": "Registered Node",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "os",
+      "name": "OS",
+      "type": "enum",
+      "required": false,
+      "description": "Installed OS",
+      "defaultValue": null,
+      "options": [
+        "Ubuntu 20.04",
+        "Rocky Linux 8",
+        "Centos 7",
+        "Centos 8",
+        "Ubuntu 22.04",
+        "Windows",
+        "Centos Linux 7.9 2009",
+        "Scientific Linux 6.3",
+        "Ubuntu 24.04.1 LTS",
+        "AlmaLinux 9.5",
+        "AlmaLinux 9.6"
+      ]
+    },
+    {
+      "key": "ram",
+      "name": "RAM",
+      "type": "string",
+      "required": false,
+      "description": "Installed RAM(GB)",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "cpu",
+      "name": "CPU",
+      "type": "string",
+      "required": false,
+      "description": "Number of CPU",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "disk",
+      "name": "Disk",
+      "type": "string",
+      "required": false,
+      "description": "Internal Disk (GB)",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "chassis",
+      "name": "Chassis",
+      "type": "reference",
+      "required": false,
+      "description": "",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "ethernet_mapping_linux",
+      "name": "Ethernet mapping linux",
+      "type": "string",
+      "required": false,
+      "description": "",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "ipmi_-_mac",
+      "name": "IPMI - MAC",
+      "type": "string",
+      "required": false,
+      "description": "IPMI - MAC",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "ip_-_ipmi",
+      "name": "IP - IPMI",
+      "type": "string",
+      "required": false,
+      "description": "IP - IPMI",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "model",
+      "name": "Model",
+      "type": "reference",
+      "required": false,
+      "description": "Model",
+      "defaultValue": null,
+      "options": null
+    }
+  ],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

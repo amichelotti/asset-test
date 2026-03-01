@@ -1,0 +1,155 @@
+[
+  {
+    "uid": "01kjmv4xe6qgs28btq1hgsy5y6",
+    "assetUid": "01kjmv4wvqjrkafwvzf17rx03z",
+    "type": "7",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"7\",\"newValue\":\"Ed. 56 bozza codi...\"}",
+    "timestamp": "2026-01-08T18:16:12.000",
+    "backendId": "368241"
+  },
+  {
+    "uid": "01kjmv4xea63nnzf3erg5nj5xa",
+    "assetUid": "01kjmv4wvqjrkafwvzf17rx03z",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"Camera Pulita FLAME\"}",
+    "timestamp": "2026-01-08T18:15:56.000",
+    "backendId": "368240"
+  },
+  {
+    "uid": "01kjmv4xedqwa2vjhdt0qc0h7f",
+    "assetUid": "01kjmv4wvqjrkafwvzf17rx03z",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Building\",\"oldValue\":\"\",\"newValue\":\"56 - FLAME\"}",
+    "timestamp": "2026-01-08T18:15:56.000",
+    "backendId": "368239"
+  },
+  {
+    "uid": "01kjmv4xeg9g03210ark16mt95",
+    "assetUid": "01kjmv4wvqjrkafwvzf17rx03z",
+    "type": "2",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"FLAME - CLEAN ROOM\",\"newValue\":\"LNF.D1.DE56.GF.DAD1\"}",
+    "timestamp": "2026-01-08T18:15:56.000",
+    "backendId": "368238"
+  },
+  {
+    "uid": "01kjmv4xej4kjm8j4wnrnfjjfk",
+    "assetUid": "01kjmv4wvqjrkafwvzf17rx03z",
+    "type": "24",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"24\",\"oldValue\":\"Ed 56 - FLAME\",\"newValue\":\"Locations Acceler...\"}",
+    "timestamp": "2025-11-18T18:01:08.000",
+    "backendId": "358475"
+  },
+  {
+    "uid": "01kjmv4xeme76d6s745ky86hke",
+    "assetUid": "01kjmv4wvqjrkafwvzf17rx03z",
+    "type": "24",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"24\",\"oldValue\":\"Locations Acceler...\",\"newValue\":\"Ed 56 - FLAME\"}",
+    "timestamp": "2025-10-28T16:30:46.000",
+    "backendId": "352618"
+  },
+  {
+    "uid": "01kjmv4xenvxf3x8xkc7g2pscr",
+    "assetUid": "01kjmv4wvqjrkafwvzf17rx03z",
+    "type": "29",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"29\"}",
+    "timestamp": "2025-10-28T15:52:12.000",
+    "backendId": "352591"
+  },
+  {
+    "uid": "01kjmv4xeq9jkvqg1z449e64pb",
+    "assetUid": "01kjmv4wvqjrkafwvzf17rx03z",
+    "type": "28",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"28\"}",
+    "timestamp": "2025-10-28T15:49:10.000",
+    "backendId": "352434"
+  },
+  {
+    "uid": "01kjmv4xes454s01hj993k3n9g",
+    "assetUid": "01kjmv4wvqjrkafwvzf17rx03z",
+    "type": "24",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"24\",\"oldValue\":\"Location\",\"newValue\":\"FLAME Ed 56\"}",
+    "timestamp": "2025-10-28T15:47:25.000",
+    "backendId": "352326"
+  },
+  {
+    "uid": "01kjmv4xetxq0grxchbzb3e12f",
+    "assetUid": "01kjmv4wvqjrkafwvzf17rx03z",
+    "type": "24",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"24\",\"oldValue\":\"Location - FLAME ...\",\"newValue\":\"Location\"}",
+    "timestamp": "2025-10-28T15:26:03.000",
+    "backendId": "352297"
+  },
+  {
+    "uid": "01kjmv4xewsccvq99zzcec5fsc",
+    "assetUid": "01kjmv4wvqjrkafwvzf17rx03z",
+    "type": "24",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"24\",\"oldValue\":\"Location\",\"newValue\":\"Location - FLAME ...\"}",
+    "timestamp": "2025-10-28T15:23:48.000",
+    "backendId": "352296"
+  },
+  {
+    "uid": "01kjmv4xezp13vqdngr0m76sh9",
+    "assetUid": "01kjmv4wvqjrkafwvzf17rx03z",
+    "type": "2",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"2\",\"attribute\":\"Building\",\"oldValue\":\"ED. 56\",\"newValue\":\"56\"}",
+    "timestamp": "2025-10-28T14:58:34.000",
+    "backendId": "352281"
+  },
+  {
+    "uid": "01kjmv4xf1phm6ztbs781zzwz5",
+    "assetUid": "01kjmv4wvqjrkafwvzf17rx03z",
+    "type": "2",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"CLEAN ROOM\",\"newValue\":\"FLAME - CLEAN ROOM\"}",
+    "timestamp": "2025-10-28T13:45:26.000",
+    "backendId": "352261"
+  },
+  {
+    "uid": "01kjmv4xf3zf1h6sr1mr8ydxxv",
+    "assetUid": "01kjmv4wvqjrkafwvzf17rx03z",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Building\",\"oldValue\":\"\",\"newValue\":\"ED. 56\"}",
+    "timestamp": "2025-10-28T13:44:07.000",
+    "backendId": "352259"
+  },
+  {
+    "uid": "01kjmv4xf5wjfspr6ng6b4x40m",
+    "assetUid": "01kjmv4wvqjrkafwvzf17rx03z",
+    "type": "2",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"FLAME - Ed. 56 - ...\",\"newValue\":\"CLEAN ROOM\"}",
+    "timestamp": "2025-10-28T13:44:07.000",
+    "backendId": "352258"
+  },
+  {
+    "uid": "01kjmv4xf7v8nrpgey688k6f2r",
+    "assetUid": "01kjmv4wvqjrkafwvzf17rx03z",
+    "type": "2",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"Flame - LASER cle...\",\"newValue\":\"FLAME - Ed. 56 - ...\"}",
+    "timestamp": "2025-10-28T13:35:58.000",
+    "backendId": "352256"
+  },
+  {
+    "uid": "01kjmv4xf9njf433rvkc7p2dee",
+    "assetUid": "01kjmv4wvqjrkafwvzf17rx03z",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-05-16T17:03:09.000",
+    "backendId": "141937"
+  }
+]

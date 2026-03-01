@@ -1,0 +1,14 @@
+[
+  {
+    "uid": "01kjmvff43wpg5rp6dpfms3m9m",
+    "assetUid": "01kjmvfer01n83ydsegcb0vm0m",
+    "filename": "btf-eeips-0-eeips.log",
+    "mimeType": "application/octet-stream",
+    "fileSize": 79532,
+    "author": "amichelo",
+    "created": "2025-12-28T19:25:58.000",
+    "binaryPath": "schemas/Vacuum Controller/assets/LEL-VAC-VGCON01/attachments/btf-eeips-0-eeips.log",
+    "originBackendId": "2606",
+    "originUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2606/btf-eeips-0-eeips.log"
+  }
+]

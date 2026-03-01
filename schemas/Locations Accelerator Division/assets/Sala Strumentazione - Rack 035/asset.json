@@ -1,0 +1,23 @@
+{
+  "uid": "01kjmv5fzxqe3ze9rxrvec8p8r",
+  "key": "LNFMAC-100330",
+  "name": "Sala Strumentazione - Rack 035",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmv18ds1cka02yedx7fp1mr",
+  "attributes": {
+    "key": "LNFMAC-100330",
+    "name": "Sala Strumentazione - Rack 035",
+    "created": "2023-06-12T16:11:03.000Z",
+    "updated": "2025-10-28T14:52:13.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

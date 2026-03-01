@@ -1,0 +1,29 @@
+{
+  "uid": "01kjmvgq8tt1kngka2vn8cs3ys",
+  "key": "LNFELINP-112050",
+  "name": "FILTER02-CAB063",
+  "type": "Cabling",
+  "schemaUid": "01kjmv6rp34zm0d5zrkp7qybxj",
+  "attributes": {
+    "key": "LNFELINP-112050",
+    "name": "FILTER02-CAB063",
+    "created": "2023-11-30T12:24:00.000Z",
+    "updated": "2025-02-27T08:31:09.000Z",
+    "description": "Limiting Filter for harmonic interferences",
+    "connector1_pair": "01kjmv8c8sqxp3v0btngvytz7k",
+    "connector1_desc": "terminal strips insideFilter",
+    "connector2_desc": "cable LUG",
+    "connection_type_desc": "bolted",
+    "cable_type_desc": "TO BE DEFINED"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

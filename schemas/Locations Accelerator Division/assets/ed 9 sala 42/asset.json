@@ -1,0 +1,26 @@
+{
+  "uid": "01kjmv4e0wk4d0x2qmjn70by3v",
+  "key": "LNFMAC-103859",
+  "name": "ed 9 sala 42",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmv18ds1cka02yedx7fp1mr",
+  "attributes": {
+    "key": "LNFMAC-103859",
+    "name": "ed 9 sala 42",
+    "created": "2023-09-08T07:20:53.000Z",
+    "updated": "2025-10-28T14:52:13.000Z",
+    "building": "9",
+    "stanza": "42",
+    "area": "01kjmv4ayvqm179aazcxptwvhh"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "uid": "01kjmvc8nsv8cnpnhgx0bmvfw1",
+    "assetUid": "01kjmvc8bs74zd7ekqpq1e8sp3",
+    "type": "25",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2025-06-13T15:17:49.000",
+    "backendId": "321867"
+  },
+  {
+    "uid": "01kjmvc8p1nvkj06t5wxet5r2b",
+    "assetUid": "01kjmvc8bs74zd7ekqpq1e8sp3",
+    "type": "5",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"5\",\"attribute\":\"Rack\",\"oldValue\":\"R_COR_05\",\"newValue\":\"R_COR_04\"}",
+    "timestamp": "2025-06-13T15:10:45.000",
+    "backendId": "321866"
+  },
+  {
+    "uid": "01kjmvc8p36fs4fdetf40kh96r",
+    "assetUid": "01kjmvc8bs74zd7ekqpq1e8sp3",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Registered\",\"oldValue\":\"bdelilibera01\",\"newValue\":\"bdelilibera02\"}",
+    "timestamp": "2025-06-11T08:12:03.000",
+    "backendId": "321178"
+  },
+  {
+    "uid": "01kjmvc8p6g6e5kqtz5c6yds93",
+    "assetUid": "01kjmvc8bs74zd7ekqpq1e8sp3",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Registered\",\"oldValue\":\"\",\"newValue\":\"bdelilibera01\"}",
+    "timestamp": "2025-06-11T08:11:38.000",
+    "backendId": "321177"
+  },
+  {
+    "uid": "01kjmvc8p9tk3fqey9bc1yyncf",
+    "assetUid": "01kjmvc8bs74zd7ekqpq1e8sp3",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_COR_05\"}",
+    "timestamp": "2025-06-11T08:09:35.000",
+    "backendId": "321176"
+  },
+  {
+    "uid": "01kjmvc8pbxagfy82dbst5qqm0",
+    "assetUid": "01kjmvc8bs74zd7ekqpq1e8sp3",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"Corridor GP\"}",
+    "timestamp": "2025-06-11T08:09:35.000",
+    "backendId": "321175"
+  },
+  {
+    "uid": "01kjmvc8pd4jrpksqq8xhhv495",
+    "assetUid": "01kjmvc8bs74zd7ekqpq1e8sp3",
+    "type": "24",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"24\",\"oldValue\":\"I/O\",\"newValue\":\"BPM Controller\"}",
+    "timestamp": "2025-06-11T08:08:43.000",
+    "backendId": "321172"
+  },
+  {
+    "uid": "01kjmvc8pfyt4b517rd0nbcg9e",
+    "assetUid": "01kjmvc8bs74zd7ekqpq1e8sp3",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-03-07T14:34:49.000",
+    "backendId": "301042"
+  }
+]

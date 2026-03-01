@@ -1,0 +1,47 @@
+[
+  {
+    "uid": "01kjmvarwndc2rg9h58zvb3cs7",
+    "assetUid": "01kjmvarj1xp89fq93db0eg939",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Layout\",\"oldValue\":\"\",\"newValue\":\"M4-012\"}",
+    "timestamp": "2023-12-01T14:24:25.000",
+    "backendId": "186176"
+  },
+  {
+    "uid": "01kjmvarwwah0m46khprng9pmk",
+    "assetUid": "01kjmvarj1xp89fq93db0eg939",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Module\",\"oldValue\":\"\",\"newValue\":\"M4\"}",
+    "timestamp": "2023-12-01T00:56:21.000",
+    "backendId": "185550"
+  },
+  {
+    "uid": "01kjmvarwz9jy1cxyyq0yy7ynx",
+    "assetUid": "01kjmvarj1xp89fq93db0eg939",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Next Element\",\"oldValue\":\"\",\"newValue\":\"LEL-DIA-BPM04\"}",
+    "timestamp": "2023-12-01T00:49:54.000",
+    "backendId": "185441"
+  },
+  {
+    "uid": "01kjmvarx2k7gr5b2tj2g0ech6",
+    "assetUid": "01kjmvarj1xp89fq93db0eg939",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Previous Element\",\"oldValue\":\"\",\"newValue\":\"LEL-DIA-SCN04:MOT01\"}",
+    "timestamp": "2023-12-01T00:49:54.000",
+    "backendId": "185440"
+  },
+  {
+    "uid": "01kjmvarx34qfvgf17nhpq59t6",
+    "assetUid": "01kjmvarj1xp89fq93db0eg939",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-12-01T00:37:44.000",
+    "backendId": "185292"
+  }
+]

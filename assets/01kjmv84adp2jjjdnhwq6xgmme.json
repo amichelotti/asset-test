@@ -1,0 +1,38 @@
+{
+  "uid": "01kjmv84adp2jjjdnhwq6xgmme",
+  "key": "LNFELINP-111727",
+  "name": "LEL-MAG-QUAD01",
+  "type": "Magnet",
+  "schemaUid": "01kjmv6ndwdhp37p2e7623kaxc",
+  "attributes": {
+    "key": "LNFELINP-111727",
+    "name": "LEL-MAG-QUAD01",
+    "created": "2023-11-29T12:17:18.000Z",
+    "updated": "2023-12-01T13:15:26.000Z",
+    "description": "QUAD Type D",
+    "layout": "LNFELINP-112490",
+    "module": "M4",
+    "type": "QUAD",
+    "voltage": "4",
+    "current": "47",
+    "inlet_temp": "30",
+    "rise_temp": "1",
+    "water_pressure_drop": "4",
+    "water_coling_flow": "3",
+    "weight": "30",
+    "crosssection": "35",
+    "currentin": "51.7",
+    "powersupply": "01kjmvc125h7nr97yprs8cjb4v",
+    "power": "0.188"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

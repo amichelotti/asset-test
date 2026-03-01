@@ -1,0 +1,28 @@
+{
+  "uid": "01kjmv4ew9y2zyebw5xaq7v5vn",
+  "key": "LNFMAC-109259",
+  "name": "ed.2 stanza 120",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmv18ds1cka02yedx7fp1mr",
+  "attributes": {
+    "key": "LNFMAC-109259",
+    "name": "ed.2 stanza 120",
+    "created": "2023-10-10T12:33:51.000Z",
+    "updated": "2025-10-28T14:52:13.000Z",
+    "building": "Divisione Acceleratori",
+    "stanza": "120",
+    "note": "Stanza Michelotti",
+    "alias": "Stanza Michelotti Andrea",
+    "area": "01kjmv4fatwa6zx7b155pcrzk0"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

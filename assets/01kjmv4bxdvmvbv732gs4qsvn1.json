@@ -1,0 +1,23 @@
+{
+  "uid": "01kjmv4bxdvmvbv732gs4qsvn1",
+  "key": "LNFMAC-99470",
+  "name": "Divisione Acceleratori Stanza 123",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmv18ds1cka02yedx7fp1mr",
+  "attributes": {
+    "key": "LNFMAC-99470",
+    "name": "Divisione Acceleratori Stanza 123",
+    "created": "2023-05-15T13:16:58.000Z",
+    "updated": "2025-10-28T14:52:13.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

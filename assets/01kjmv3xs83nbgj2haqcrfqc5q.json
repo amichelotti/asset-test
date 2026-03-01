@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmv3xs83nbgj2haqcrfqc5q",
+  "key": "LNFMAC-103765",
+  "name": "TS-653PRO-8G - NAS SENZA DISCHI",
+  "type": "NAS Models",
+  "schemaUid": "01kjmv19nbdddrde6aq9zbfy91",
+  "attributes": {
+    "key": "LNFMAC-103765",
+    "name": "TS-653PRO-8G - NAS SENZA DISCHI",
+    "created": "2023-09-06T08:23:01.000Z",
+    "updated": "2023-10-06T08:05:15.000Z",
+    "inventory": "29047"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

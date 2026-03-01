@@ -1,0 +1,23 @@
+{
+  "uid": "01kjmv9wv36q0gsr7pbj861ak2",
+  "key": "LNFELINP-119504",
+  "name": "sala lat",
+  "type": "Location",
+  "schemaUid": "01kjmv1961h4t7c3wk3bq342c2",
+  "attributes": {
+    "key": "LNFELINP-119504",
+    "name": "sala lat",
+    "created": "2024-04-11T11:23:25.000Z",
+    "updated": "2024-04-11T11:23:25.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

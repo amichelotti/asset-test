@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmv2q6qbdnqx00zvrhktags",
+  "key": "LNFMAC-143400",
+  "name": "Hi Scroll 6",
+  "type": "Vacuum Models",
+  "schemaUid": "01kjmv1a8chq7prqwhkverw3dk",
+  "attributes": {
+    "key": "LNFMAC-143400",
+    "name": "Hi Scroll 6",
+    "created": "2025-10-23T10:05:44.000Z",
+    "updated": "2025-10-23T10:05:44.000Z",
+    "documentation": "https://www.pfeiffer-vacuum.com/it/en/product/hiscroll-6-18.html",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><h1>HiScroll 6</h1><p>Scroll vacuum pumps</p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

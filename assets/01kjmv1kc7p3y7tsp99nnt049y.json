@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmv1kc7p3y7tsp99nnt049y",
+  "key": "LNFMAC-143360",
+  "name": "AM 1524",
+  "type": "Motor Models",
+  "schemaUid": "01kjmv1avjxcq1tchyxhxd3x31",
+  "attributes": {
+    "key": "LNFMAC-143360",
+    "name": "AM 1524",
+    "created": "2025-10-22T10:00:26.000Z",
+    "updated": "2025-10-22T10:00:26.000Z",
+    "producer": "LNFMAC-143359",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><h1>Motori passo-passoSerie AM1524</h1><h2>Bifase, 24 passi per giro</h2><p>Caratteristiche principali<br>Coppia di tenuta (a due volte la tensione nominale): 10 mNm<br>Passo angolare (full step): 15 °<br>Diametro: 15 mm<br>Lunghezza: 16.4 mm</p><p><a href=\"https://www.faulhaber.com/it/prodotti/serie/am1524/\">https://www.faulhaber.com/it/prodotti/serie/am1524/</a></p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

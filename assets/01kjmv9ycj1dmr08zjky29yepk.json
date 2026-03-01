@@ -1,0 +1,29 @@
+{
+  "uid": "01kjmv9ycj1dmr08zjky29yepk",
+  "key": "LNFELINP-126655",
+  "name": "ccelicam01",
+  "type": "Camera",
+  "schemaUid": "01kjmv6pw9afvv35xy3r9rps1x",
+  "attributes": {
+    "key": "LNFELINP-126655",
+    "name": "ccelicam01",
+    "created": "2024-09-06T09:37:25.000Z",
+    "updated": "2025-06-12T12:23:52.000Z",
+    "status": "Active",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Camera setup test:A2A1920-51gcB</p></div>",
+    "location": "01kjmv9pxmw7rmrevnrn2s7g9d",
+    "serial": "Basler-a2A1920-51gmBAS-40458493",
+    "mac": "00:30:53:36:15:68",
+    "registered": "LNFMAC-126725"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

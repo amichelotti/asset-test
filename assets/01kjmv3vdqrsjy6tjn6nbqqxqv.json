@@ -1,0 +1,23 @@
+{
+  "uid": "01kjmv3vdqrsjy6tjn6nbqqxqv",
+  "key": "LNFMAC-147427",
+  "name": "Terra",
+  "type": "Lasers Models",
+  "schemaUid": "01kjmv1azqtcexsrjq10bs6sr3",
+  "attributes": {
+    "key": "LNFMAC-147427",
+    "name": "Terra",
+    "created": "2026-02-16T13:47:04.000Z",
+    "updated": "2026-02-16T13:47:04.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

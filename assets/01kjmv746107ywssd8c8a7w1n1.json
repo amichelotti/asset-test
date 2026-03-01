@@ -1,0 +1,29 @@
+{
+  "uid": "01kjmv746107ywssd8c8a7w1n1",
+  "key": "LNFELINP-119505",
+  "name": "plelico007",
+  "type": "Console",
+  "schemaUid": "01kjmv6mkgdkdtgf8bqs12khnj",
+  "attributes": {
+    "key": "LNFELINP-119505",
+    "name": "plelico007",
+    "created": "2024-04-11T11:23:25.000Z",
+    "updated": "2025-10-01T12:07:11.000Z",
+    "status": "Uninstalled",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>EX windows in laboratorio</p></div>",
+    "location": "01kjmv9v4wmxng5e0vf8k4zys4",
+    "mac": "18:66:DA:2A:09:69",
+    "os": "Ubuntu 20.04",
+    "ram": "12"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "uid": "01kjmvk0eckszrtqqre1t6tsfp",
+  "key": "LNFELINP-129539",
+  "name": "VPCON3-ser",
+  "type": "Cabling",
+  "schemaUid": "01kjmv6rp34zm0d5zrkp7qybxj",
+  "attributes": {
+    "key": "LNFELINP-129539",
+    "name": "VPCON3-ser",
+    "created": "2024-12-06T07:58:24.000Z",
+    "updated": "2025-12-06T22:30:19.000Z",
+    "status": "Active",
+    "connector2_pair": "01kjmv8jpwqtb84zddvt804cd8",
+    "connector2_desc": "<div class=\"created-with-ak-editor content-wrapper\"><p>porta 2</p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

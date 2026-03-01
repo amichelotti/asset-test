@@ -1,0 +1,23 @@
+{
+  "uid": "01kjmv565pqc4nr8q6vzea9f0v",
+  "key": "LNFMAC-100438",
+  "name": "Sala controllo Sparc",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmv18ds1cka02yedx7fp1mr",
+  "attributes": {
+    "key": "LNFMAC-100438",
+    "name": "Sala controllo Sparc",
+    "created": "2023-06-15T13:26:53.000Z",
+    "updated": "2025-10-28T14:52:13.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

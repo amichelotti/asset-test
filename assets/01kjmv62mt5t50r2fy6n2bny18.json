@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmv62mt5t50r2fy6n2bny18",
+  "key": "LNFMAC-141975",
+  "name": "SPARC",
+  "type": "Facility",
+  "schemaUid": "01kjmv19db8wd49ympxdh8sq52",
+  "attributes": {
+    "key": "LNFMAC-141975",
+    "name": "SPARC",
+    "created": "2025-09-02T14:00:56.000Z",
+    "updated": "2025-09-02T14:00:56.000Z",
+    "location": "01kjmv5h9es8tfvebmbx13d674",
+    "manager": false
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmv1dfwzcyqrw6b0e1w5vbw",
+  "key": "LNFMAC-143734",
+  "name": "11146-PE44",
+  "type": "Vacuum Models",
+  "schemaUid": "01kjmv1a8chq7prqwhkverw3dk",
+  "attributes": {
+    "key": "LNFMAC-143734",
+    "name": "11146-PE44",
+    "created": "2025-11-03T17:09:08.000Z",
+    "updated": "2025-11-03T17:09:08.000Z",
+    "producer": "LNFMAC-143483",
+    "documentation": "https://www.vatgroup.com/series/high-vacuum-gate-valve-standard/11146-PE44"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

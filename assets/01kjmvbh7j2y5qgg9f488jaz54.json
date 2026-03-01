@@ -1,0 +1,29 @@
+{
+  "uid": "01kjmvbh7j2y5qgg9f488jaz54",
+  "key": "LNFELINP-112353",
+  "name": "LEL-VAC-IONP06",
+  "type": "BeamLine",
+  "schemaUid": "01kjmv6qg4hfpmnbe8swgefx3b",
+  "attributes": {
+    "key": "LNFELINP-112353",
+    "name": "LEL-VAC-IONP06",
+    "created": "2023-11-30T23:37:25.000Z",
+    "updated": "2023-12-01T13:24:09.000Z",
+    "module": "M3",
+    "layout": "LNFELINP-112465",
+    "sequential": "38",
+    "previous_element": "01kjmvbbas4gdemvxgyz61ynee",
+    "next_element": "01kjmvaknzawhf78njgft8vqz1",
+    "element": "01kjmv7ed1v9dwfp9pa568hkn2"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmv1ez9bxt86139ag308ykk",
+  "key": "LNFMAC-143731",
+  "name": "A604H",
+  "type": "Vacuum Models",
+  "schemaUid": "01kjmv1a8chq7prqwhkverw3dk",
+  "attributes": {
+    "key": "LNFMAC-143731",
+    "name": "A604H",
+    "created": "2025-11-03T17:03:59.000Z",
+    "updated": "2025-11-03T17:03:59.000Z",
+    "producer": "LNFMAC-143394",
+    "documentation": "https://www.pfeiffer-vacuum.com/global/en/products/vacuum-pumps/multi-stage-roots/multi-stage-roots-technology/"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

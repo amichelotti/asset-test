@@ -1,0 +1,27 @@
+{
+  "uid": "01kjmv7nbp7r6mrg5sm67mbzk2",
+  "key": "LNFELINP-111775",
+  "name": "LEL-VAC-VALVM04",
+  "type": "Vacuum",
+  "schemaUid": "01kjmv6mqn4hn27g8z656vqw8j",
+  "attributes": {
+    "key": "LNFELINP-111775",
+    "name": "LEL-VAC-VALVM04",
+    "created": "2023-11-29T22:57:49.000Z",
+    "updated": "2023-12-01T13:15:23.000Z",
+    "description": "Pumping & Vent valve (MANUAL)",
+    "layout": "LNFELINP-112483",
+    "module": "M4",
+    "type": "VALVM"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

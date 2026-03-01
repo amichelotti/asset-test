@@ -1,0 +1,23 @@
+{
+  "uid": "01kjmv1vfkbas84z8eqcg1ayzj",
+  "key": "LNFMAC-143387",
+  "name": "Controller Motor Models",
+  "type": "HW Model",
+  "schemaUid": "01kjmv184h43nmh8zxpg5ygvqn",
+  "attributes": {
+    "key": "LNFMAC-143387",
+    "name": "Controller Motor Models",
+    "created": "2025-10-23T09:15:44.000Z",
+    "updated": "2025-10-23T09:15:44.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

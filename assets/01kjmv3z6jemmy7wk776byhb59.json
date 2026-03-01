@@ -1,0 +1,26 @@
+{
+  "uid": "01kjmv3z6jemmy7wk776byhb59",
+  "key": "LNFMAC-143406",
+  "name": "TwisTorr 305 FS CTR",
+  "type": "Vacuum Models",
+  "schemaUid": "01kjmv1a8chq7prqwhkverw3dk",
+  "attributes": {
+    "key": "LNFMAC-143406",
+    "name": "TwisTorr 305 FS CTR",
+    "created": "2025-10-23T12:09:22.000Z",
+    "updated": "2025-10-23T12:09:22.000Z",
+    "producer": "LNFMAC-109162",
+    "documentation": "https://www.agilent.com/en/product/vacuum-technologies/turbo-pumps-controllers/turbo-pump-controllers/twistorr-305-fs-remote-controller",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><h1>TwisTorr 305 FS Remote Controller</h1><p>The remote control unit for the TwisTorr 305 FS turbo pumps drives the pumps in real time. This unit adapts speed and power as required by gas flow, gas type, pressures, and other factors such as cooling. The controller is capable of reading active gauges and driving accessories such as vent valves and the air cooling fan.</p><table data-number-column=\"false\" data-layout=\"default\" data-autosize=\"false\" data-table-local-id=\"55dc70c6-560a-4831-8576-876e317daeb1\"><tbody><tr><td class=\"pm-table-cell-content-wrap\"><p>Configuration</p></td><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>Remote controller, rack-mounted</p></li></ul></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Maximum Pump Cable Length</p></td><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>100 m</p></li></ul></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Operating Environment Relative Humidity</p></td><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>90 % maximum non condensing humidity</p></li></ul></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Operating Environment Temperature</p></td><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>5° C to 45° C</p></li></ul></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Pump Model Compatibility</p></td><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>TwisTorr 305 FS Turbo Pump</p></li><li><p>TwisTorr 305 FSQ Turbo Pump</p></li><li><p>TwisTorr 305 SF Turbo Pump</p></li></ul></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Standards and Certifications</p></td><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>EN 61010 -1</p></li><li><p>EN 61326-1</p></li><li><p>EN 50581</p></li><li><p>EMC Directiive 2014/30/EU</p></li><li><p>ROHS Directive 2011/65/EU</p></li></ul></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Weight</p></td><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>1.7 kg</p></li></ul></td></tr></tbody></table><p></p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

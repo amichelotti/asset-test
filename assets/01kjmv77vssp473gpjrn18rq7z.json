@@ -1,0 +1,29 @@
+{
+  "uid": "01kjmv77vssp473gpjrn18rq7z",
+  "key": "LNFELINP-111767",
+  "name": "LEL-VAC-GAUCC08",
+  "type": "Vacuum",
+  "schemaUid": "01kjmv6mqn4hn27g8z656vqw8j",
+  "attributes": {
+    "key": "LNFELINP-111767",
+    "name": "LEL-VAC-GAUCC08",
+    "created": "2023-11-29T22:57:44.000Z",
+    "updated": "2025-06-18T14:38:42.000Z",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Cold cathode vacuum gauge - Agilent IMG300</p></div>",
+    "location": "01kjmv9pxmw7rmrevnrn2s7g9d",
+    "layout": "LNFELINP-112515",
+    "module": "M4",
+    "type": "GAUCC",
+    "controller": "01kjmvffg692n6eebd5kfhnspg"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

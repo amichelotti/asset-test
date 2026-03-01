@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmv4ztn6qse5rzgp1dab678",
+  "key": "LNFMAC-107854",
+  "name": "POSITRON INTERACTION REGIONS - I2",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmv18ds1cka02yedx7fp1mr",
+  "attributes": {
+    "key": "LNFMAC-107854",
+    "name": "POSITRON INTERACTION REGIONS - I2",
+    "created": "2023-10-02T15:48:28.000Z",
+    "updated": "2025-10-28T14:52:13.000Z",
+    "description": "<p>Positron Interaction point I2</p>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

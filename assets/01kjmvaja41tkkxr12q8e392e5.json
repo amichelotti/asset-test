@@ -1,0 +1,27 @@
+{
+  "uid": "01kjmvaja41tkkxr12q8e392e5",
+  "key": "LNFELINP-112400",
+  "name": "LEL-AC-FILTER01",
+  "type": "BeamLine",
+  "schemaUid": "01kjmv6qg4hfpmnbe8swgefx3b",
+  "attributes": {
+    "key": "LNFELINP-112400",
+    "name": "LEL-AC-FILTER01",
+    "created": "2023-11-30T23:48:45.000Z",
+    "updated": "2023-11-30T23:50:13.000Z",
+    "sequential": "84",
+    "previous_element": "01kjmvb7x45m0fp6gd4xqzv82w",
+    "next_element": "01kjmvajqma01eytg949706h0z",
+    "element": "01kjmv8bv8r7c2m8v18c1bnzms"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

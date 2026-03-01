@@ -1,0 +1,29 @@
+{
+  "uid": "01kjmv1p6bacb6jbp68ztngz5s",
+  "key": "LNFMAC-99281",
+  "name": "BENQ PD2705Q-T",
+  "type": "Monitor Models",
+  "schemaUid": "01kjmv192jvavxb65tshj6d361",
+  "attributes": {
+    "key": "LNFMAC-99281",
+    "name": "BENQ PD2705Q-T",
+    "created": "2023-05-09T13:53:14.000Z",
+    "updated": "2024-02-02T12:16:16.000Z",
+    "producer": "LNFMAC-99279",
+    "product_code": "9H.LJELA.TBE",
+    "diagonal": "27",
+    "aspect_ratio": "16:9",
+    "resolution": "2560 x 1440",
+    "io_description": "<ul><li>1 porta INPUT HDMI (MHL);</li><li>1 porta INPUT DP oppure mini-DP</li><li>1 porta OUTPUT DP o mini-DP (che supporti la connessione MTS);</li></ul>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

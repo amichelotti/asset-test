@@ -1,0 +1,38 @@
+{
+  "uid": "01kjmv87j21z508c9098sqaz48",
+  "key": "LNFELINP-111717",
+  "name": "LEL-MAG-SOL02:COIL[07-09]",
+  "type": "Magnet",
+  "schemaUid": "01kjmv6ndwdhp37p2e7623kaxc",
+  "attributes": {
+    "key": "LNFELINP-111717",
+    "name": "LEL-MAG-SOL02:COIL[07-09]",
+    "created": "2023-11-29T12:17:01.000Z",
+    "updated": "2023-12-01T13:15:12.000Z",
+    "description": "Solenoid B Set 3 (3 coils in series)",
+    "layout": "LNFELINP-112456",
+    "module": "M2",
+    "type": "SOL",
+    "voltage": "46",
+    "current": "177",
+    "inlet_temp": "30",
+    "rise_temp": "10",
+    "water_pressure_drop": "4",
+    "water_coling_flow": "12.25",
+    "weight": "350",
+    "crosssection": "120",
+    "currentin": "194.7",
+    "powersupply": "01kjmvc6jfyww986qhfz5798a2",
+    "power": "8.142"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

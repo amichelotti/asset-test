@@ -1,0 +1,29 @@
+{
+  "uid": "01kjmvb0ygyr70537y7h1njg8m",
+  "key": "LNFELINP-112316",
+  "name": "LEL-MAG-SOL01:COIL02",
+  "type": "BeamLine",
+  "schemaUid": "01kjmv6qg4hfpmnbe8swgefx3b",
+  "attributes": {
+    "key": "LNFELINP-112316",
+    "name": "LEL-MAG-SOL01:COIL02",
+    "created": "2023-11-30T23:37:01.000Z",
+    "updated": "2023-12-01T13:23:02.000Z",
+    "module": "M1",
+    "layout": "LNFELINP-112428",
+    "sequential": "1",
+    "previous_element": "01kjmvb0ggbgytwsrch6vgxepa",
+    "next_element": "01kjmvbewgckrxq1apdn978v1r",
+    "element": "01kjmv865pebw7h5thsnxaw368"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

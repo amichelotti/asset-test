@@ -1,0 +1,122 @@
+{
+  "uid": "01kjmv6q8jq07db1dft29n9yfs",
+  "name": "IO System",
+  "description": null,
+  "parentSchemaUid": "01kjmv6mzvsk183ra22r9yg5v2",
+  "isConcrete": true,
+  "attributes": [
+    {
+      "key": "key",
+      "name": "Key",
+      "type": "string",
+      "required": true,
+      "description": "Unique system-generated identifier",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "name",
+      "name": "Name",
+      "type": "string",
+      "required": true,
+      "description": "Object name",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "created",
+      "name": "Created",
+      "type": "datetime",
+      "required": true,
+      "description": "Creation timestamp",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "updated",
+      "name": "Updated",
+      "type": "datetime",
+      "required": true,
+      "description": "Last update timestamp",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "status",
+      "name": "Status",
+      "type": "status",
+      "required": false,
+      "description": "Asset lifecycle status",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "alias",
+      "name": "Alias",
+      "type": "string",
+      "required": false,
+      "description": "Alternative name",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "description",
+      "name": "Description",
+      "type": "text",
+      "required": false,
+      "description": "Description",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "location",
+      "name": "Location",
+      "type": "reference",
+      "required": false,
+      "description": "Location",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "serial",
+      "name": "Serial",
+      "type": "string",
+      "required": false,
+      "description": "ELI Serial ",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "rack",
+      "name": "Rack",
+      "type": "reference",
+      "required": false,
+      "description": "Rack",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "connector",
+      "name": "connector",
+      "type": "reference",
+      "required": false,
+      "description": "Cable connector",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "modules",
+      "name": "Modules",
+      "type": "reference",
+      "required": false,
+      "description": "Children HW",
+      "defaultValue": null,
+      "options": null
+    }
+  ],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

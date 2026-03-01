@@ -1,0 +1,23 @@
+{
+  "uid": "01kjmv55abmvqmkpkcrr5vcsbd",
+  "key": "LNFMAC-110322",
+  "name": "sala controllo btf",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmv18ds1cka02yedx7fp1mr",
+  "attributes": {
+    "key": "LNFMAC-110322",
+    "name": "sala controllo btf",
+    "created": "2023-10-17T10:17:45.000Z",
+    "updated": "2025-10-28T14:52:13.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

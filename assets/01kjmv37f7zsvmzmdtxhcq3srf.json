@@ -1,0 +1,26 @@
+{
+  "uid": "01kjmv37f7zsvmzmdtxhcq3srf",
+  "key": "LNFMAC-147736",
+  "name": "MXC-6401D",
+  "type": "Host Models",
+  "schemaUid": "01kjmv18nxwqmykyq9x9jbms14",
+  "attributes": {
+    "key": "LNFMAC-147736",
+    "name": "MXC-6401D",
+    "created": "2026-02-24T10:19:36.000Z",
+    "updated": "2026-02-24T10:24:41.000Z",
+    "producer": "LNFMAC-147735",
+    "documentation": "https://www.adlinktech.com/products/industrial_pcs_fanless_embedded_pcs/expandablefanlessembeddedcomputers/mxc-6400_series",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Vengono descritti dal venditore Fine Vita, li stiamo installando sulla facility EuAPS per controllare i thorlabs con il nuovo sistema di controllo</p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmv3q32qkj76951qrnm2yzf",
+  "key": "LNFMAC-144325",
+  "name": "Silver Buttet eXtreme",
+  "type": "Motor Models",
+  "schemaUid": "01kjmv1avjxcq1tchyxhxd3x31",
+  "attributes": {
+    "key": "LNFMAC-144325",
+    "name": "Silver Buttet eXtreme",
+    "created": "2025-11-24T16:54:41.000Z",
+    "updated": "2025-11-24T16:55:17.000Z",
+    "producer": "LNFMAC-144324",
+    "documentation": "https://www.vacuumfab.com/_files/ugd/d738ec_e5c40992b9ef47afab9fb27fd5cb88ee.pdf?index=true"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

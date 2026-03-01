@@ -1,0 +1,23 @@
+{
+  "uid": "01kjmv2ye1560205ghzqrep6p9",
+  "key": "LNFMAC-147426",
+  "name": "Inlite",
+  "type": "Lasers Models",
+  "schemaUid": "01kjmv1azqtcexsrjq10bs6sr3",
+  "attributes": {
+    "key": "LNFMAC-147426",
+    "name": "Inlite",
+    "created": "2026-02-16T13:46:59.000Z",
+    "updated": "2026-02-16T13:46:59.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

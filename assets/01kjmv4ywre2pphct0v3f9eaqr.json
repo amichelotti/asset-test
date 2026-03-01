@@ -1,0 +1,23 @@
+{
+  "uid": "01kjmv4ywre2pphct0v3f9eaqr",
+  "key": "LNFMAC-101164",
+  "name": "Magazzino Corridoio",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmv18ds1cka02yedx7fp1mr",
+  "attributes": {
+    "key": "LNFMAC-101164",
+    "name": "Magazzino Corridoio",
+    "created": "2023-07-04T13:40:03.000Z",
+    "updated": "2025-10-28T14:52:13.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

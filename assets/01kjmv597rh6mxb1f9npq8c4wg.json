@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmv597rh6mxb1f9npq8c4wg",
+  "key": "LNFMAC-12427",
+  "name": "Sala Dafne - Rack 087",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmv18ds1cka02yedx7fp1mr",
+  "attributes": {
+    "key": "LNFMAC-12427",
+    "name": "Sala Dafne - Rack 087",
+    "created": "2023-03-22T15:58:51.000Z",
+    "updated": "2025-10-28T14:52:13.000Z",
+    "area": "01kjmv4ayvqm179aazcxptwvhh"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

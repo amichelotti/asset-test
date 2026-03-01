@@ -1,0 +1,154 @@
+{
+  "uid": "01kjmv6p8zhpea740d9tj8xrza",
+  "name": "Diagnostic",
+  "description": null,
+  "parentSchemaUid": "01kjmv6r6vq5tv7vmd30vr3x41",
+  "isConcrete": true,
+  "attributes": [
+    {
+      "key": "key",
+      "name": "Key",
+      "type": "string",
+      "required": true,
+      "description": "Unique system-generated identifier",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "name",
+      "name": "Name",
+      "type": "string",
+      "required": true,
+      "description": "Object name",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "created",
+      "name": "Created",
+      "type": "datetime",
+      "required": true,
+      "description": "Creation timestamp",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "updated",
+      "name": "Updated",
+      "type": "datetime",
+      "required": true,
+      "description": "Last update timestamp",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "status",
+      "name": "Status",
+      "type": "status",
+      "required": false,
+      "description": "Asset lifecycle status",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "alias",
+      "name": "Alias",
+      "type": "string",
+      "required": false,
+      "description": "Alternative name",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "description",
+      "name": "Description",
+      "type": "text",
+      "required": false,
+      "description": "Description",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "location",
+      "name": "Location",
+      "type": "reference",
+      "required": false,
+      "description": "Location",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "serial",
+      "name": "Serial",
+      "type": "string",
+      "required": false,
+      "description": "ELI Serial ",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "rack",
+      "name": "Rack",
+      "type": "reference",
+      "required": false,
+      "description": "Rack",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "connector",
+      "name": "connector",
+      "type": "reference",
+      "required": false,
+      "description": "Cable connector",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "layout",
+      "name": "Layout",
+      "type": "reference",
+      "required": false,
+      "description": "Layout Position",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "module",
+      "name": "Module",
+      "type": "string",
+      "required": false,
+      "description": "Module Name",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "cavo",
+      "name": "Cavo",
+      "type": "reference",
+      "required": false,
+      "description": "numero inventario",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "type",
+      "name": "Type",
+      "type": "enum",
+      "required": false,
+      "description": "Diagnostic Type",
+      "defaultValue": null,
+      "options": [
+        "BPM",
+        "SCNMOT",
+        "SCNCAM",
+        "FCT"
+      ]
+    }
+  ],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

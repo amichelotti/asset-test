@@ -1,0 +1,23 @@
+{
+  "uid": "01kjmvgewad0py7bawrqc34r65",
+  "key": "LNFELINP-143032",
+  "name": "ciccio",
+  "type": "Cabling",
+  "schemaUid": "01kjmv6rp34zm0d5zrkp7qybxj",
+  "attributes": {
+    "key": "LNFELINP-143032",
+    "name": "ciccio",
+    "created": "2025-10-10T09:49:34.000Z",
+    "updated": "2025-10-10T09:49:34.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmv1xa0wxw8e7swesfhnq0k",
+  "key": "LNFMAC-103781",
+  "name": "DMC SISTEMI INTEGRATI SRL",
+  "type": "NAS Models",
+  "schemaUid": "01kjmv19nbdddrde6aq9zbfy91",
+  "attributes": {
+    "key": "LNFMAC-103781",
+    "name": "DMC SISTEMI INTEGRATI SRL",
+    "created": "2023-09-06T08:34:54.000Z",
+    "updated": "2023-10-06T08:05:13.000Z",
+    "inventory": "30276"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

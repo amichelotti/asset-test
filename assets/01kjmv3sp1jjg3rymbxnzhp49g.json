@@ -1,0 +1,26 @@
+{
+  "uid": "01kjmv3sp1jjg3rymbxnzhp49g",
+  "key": "LNFMAC-138749",
+  "name": "tektronix 5MSO",
+  "type": "ADC Models",
+  "schemaUid": "01kjmv1ag6cs2k7qvw7awdb7tp",
+  "attributes": {
+    "key": "LNFMAC-138749",
+    "name": "tektronix 5MSO",
+    "created": "2025-06-20T09:37:14.000Z",
+    "updated": "2025-09-02T12:05:02.000Z",
+    "producer": "LNFMAC-109328",
+    "documentation": "https://www.tek.com/en/products/oscilloscopes/5-series-mso",
+    "git_repo": "https://github.com/infn-epics/Tektronix_MSO58LP"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

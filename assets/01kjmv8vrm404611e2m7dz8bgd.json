@@ -1,0 +1,30 @@
+{
+  "uid": "01kjmv8vrm404611e2m7dz8bgd",
+  "key": "LNFELINP-113218",
+  "name": "GEN-CS-GP08:IOC05",
+  "type": "IO Controller",
+  "schemaUid": "01kjmv6p190eyfxsk45587e5vd",
+  "attributes": {
+    "key": "LNFELINP-113218",
+    "name": "GEN-CS-GP08:IOC05",
+    "created": "2023-12-19T10:08:16.000Z",
+    "updated": "2025-01-29T08:51:20.000Z",
+    "status": "Action Needed",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>I7-3517UE CPU - Problem on power on</p></div>",
+    "location": "01kjmv9wv36q0gsr7pbj861ak2",
+    "mac": "00:c0:88:01:43:64",
+    "ram": "8",
+    "cpu": "4",
+    "disk": "120"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

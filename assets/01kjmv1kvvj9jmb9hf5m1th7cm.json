@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmv1kvvj9jmb9hf5m1th7cm",
+  "key": "LNFMAC-108337",
+  "name": "Andrew FSJ1-50A",
+  "type": "Cable Models",
+  "schemaUid": "01kjmv1a10eawrtbyzje6k8ndf",
+  "attributes": {
+    "key": "LNFMAC-108337",
+    "name": "Andrew FSJ1-50A",
+    "created": "2023-10-03T07:53:47.000Z",
+    "updated": "2023-10-03T07:53:47.000Z",
+    "producer": "LNFMAC-108336",
+    "documentation": "https://www.commscope.com/globalassets/digizuite/177994-p360-fsj1-50a-external.pdf"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

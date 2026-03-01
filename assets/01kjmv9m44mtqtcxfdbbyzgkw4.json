@@ -1,0 +1,29 @@
+{
+  "uid": "01kjmv9m44mtqtcxfdbbyzgkw4",
+  "key": "LNFELINP-144094",
+  "name": "PLC Vacuum",
+  "type": "Modular System",
+  "schemaUid": "01kjmv6pgrgdee3s6j68577wsy",
+  "attributes": {
+    "key": "LNFELINP-144094",
+    "name": "PLC Vacuum",
+    "created": "2025-11-14T10:34:49.000Z",
+    "updated": "2025-11-14T10:53:42.000Z",
+    "status": "Active",
+    "alias": "PLCVAC_CJ2M-CPU33",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>SYSMAC CJ Series CJ2M-CPU33 Unit with Ethernet Unit OMRON CJW-ETN21 </p><ul class=\"ak-ul\"><li><p>3 Expands of CJ1W-ID211 Omron</p></li><li><p>1 Expand of CJ1W-OC201 Omron</p></li></ul><p>IP : 10.16.4.171</p><p><strong>Gateway</strong>: 10.16.4.1<br><strong>Mask</strong>: 255.255.254.0<br><strong>DNS servers</strong>: 10.13.200.20, 10.13.200.21<br><strong>NTP&nbsp;servers</strong>: 10.13.200.4, 10.13.200.5</p><p></p></div>",
+    "location": "01kjmv9qrhzdnz11rytqvpvb3e",
+    "rack": "01kjmvft1agf1qak4yfr5c1gk6",
+    "mac": "3C:F7:D1:35:EB:BD"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

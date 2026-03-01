@@ -1,0 +1,23 @@
+{
+  "uid": "01kjmv1q4mwat6wvk36g366k9k",
+  "key": "LNFMAC-12808",
+  "name": "Catalyst 9200L 48 PoE",
+  "type": "Switch Models",
+  "schemaUid": "01kjmv18tj5wg3v692ddgkjj2g",
+  "attributes": {
+    "key": "LNFMAC-12808",
+    "name": "Catalyst 9200L 48 PoE",
+    "created": "2023-04-19T16:23:49.000Z",
+    "updated": "2023-05-16T14:56:02.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

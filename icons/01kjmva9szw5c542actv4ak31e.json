@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmva9szw5c542actv4ak31e",
+  "name": "Avatar for illuminatore",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmva9szw5c542actv4ak31e.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/126786/avatar.png?size=288&time=1757572290000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmva9mhx0qdpm66wzmmaztd",
+  "fileSize": 202839,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:02:27.519278",
+  "updatedAt": "2026-03-01T15:02:27.519279",
+  "backendType": "jira",
+  "backendIconId": null
+}

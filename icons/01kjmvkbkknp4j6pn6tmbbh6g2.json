@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvkbkknp4j6pn6tmbbh6g2",
+  "name": "I/O",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/icons/01kjmvkbkknp4j6pn6tmbbh6g2.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/3696/icon.png?size=16",
+  "linkedSchemaUid": "01kjmv6q4dfghkfjjs8zbgy4d1",
+  "linkedAssetUid": null,
+  "fileSize": 234,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:07:24.275998",
+  "updatedAt": "2026-03-01T15:07:24.275998",
+  "backendType": "jira",
+  "backendIconId": "71"
+}

@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv1tghsmhvd8aq1rbb7grv",
+  "name": "Avatar for cisco catalyst 9200L-48P-4X",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv1tghsmhvd8aq1rbb7grv.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/138359/avatar.png?size=288&time=1749632683000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv1tbttgbc205y56w5c4f1",
+  "fileSize": 21539,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:57:49.713313",
+  "updatedAt": "2026-03-01T14:57:49.713313",
+  "backendType": "jira",
+  "backendIconId": null
+}

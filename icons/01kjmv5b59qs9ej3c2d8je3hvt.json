@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv5b59qs9ej3c2d8je3hvt",
+  "name": "Avatar for Sala LAT Armadio metallico destra",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv5b59qs9ej3c2d8je3hvt.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/3776/icon.png?size=288&uuid=44b50c14-611b-4535-8c8f-38b1c7493c52",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv5b1kda67wb7gh3pptjns",
+  "fileSize": 1847,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:59:45.065440",
+  "updatedAt": "2026-03-01T14:59:45.065441",
+  "backendType": "jira",
+  "backendIconId": null
+}

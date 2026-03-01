@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv2qdzy5qan3ej2e80kc6q",
+  "name": "Avatar for Hi Scroll 6",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv2qdzy5qan3ej2e80kc6q.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/143400/avatar.png?size=288&time=1761213944000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv2q6qbdnqx00zvrhktags",
+  "fileSize": 122104,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:58:19.327567",
+  "updatedAt": "2026-03-01T14:58:19.327567",
+  "backendType": "jira",
+  "backendIconId": null
+}

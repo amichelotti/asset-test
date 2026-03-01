@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv6376mymzhyetrct0q8sa",
+  "name": "Avatar for TEX",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv6376mymzhyetrct0q8sa.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/1435/icon.png?size=288&uuid=78b0109b-d205-4b22-b524-5e600cd6bc8e",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv633c8j931a8arheqpkv6",
+  "fileSize": 448,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:00:09.703019",
+  "updatedAt": "2026-03-01T15:00:09.703019",
+  "backendType": "jira",
+  "backendIconId": null
+}

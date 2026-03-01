@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvjgp2qt8yj7s6jgqq51de",
+  "name": "Avatar for QUAD01-CAB046",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvjgp2qt8yj7s6jgqq51de.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2507/icon.png?size=288&uuid=1662ae1c-d286-46c2-ab26-8b2113b7eec5",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmvjgjkbxcy98932d3bxjyb",
+  "fileSize": 1167,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:06:56.706366",
+  "updatedAt": "2026-03-01T15:06:56.706367",
+  "backendType": "jira",
+  "backendIconId": null
+}

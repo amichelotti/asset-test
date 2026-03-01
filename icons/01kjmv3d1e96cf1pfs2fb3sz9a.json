@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv3d1e96cf1pfs2fb3sz9a",
+  "name": "Avatar for NUC7i5BNHX",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv3d1e96cf1pfs2fb3sz9a.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/1644/icon.png?size=288&uuid=b0e59ea9-9d6c-466f-9469-67cffab0da46",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv3cys9wqvk7kw83nvq38x",
+  "fileSize": 1012,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:58:41.454617",
+  "updatedAt": "2026-03-01T14:58:41.454618",
+  "backendType": "jira",
+  "backendIconId": null
+}

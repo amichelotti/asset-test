@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvk8hbfb49jyedhb53vp9x",
+  "name": "BPM Models",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/icons/01kjmvk8hbfb49jyedhb53vp9x.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2279/icon.png?size=16",
+  "linkedSchemaUid": "01kjmv19wws4b5pch1yp4kdbsm",
+  "linkedAssetUid": null,
+  "fileSize": 666,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:07:21.131156",
+  "updatedAt": "2026-03-01T15:07:21.131157",
+  "backendType": "jira",
+  "backendIconId": "428"
+}

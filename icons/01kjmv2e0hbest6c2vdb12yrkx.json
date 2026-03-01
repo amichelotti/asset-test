@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv2e0hbest6c2vdb12yrkx",
+  "name": "Avatar for ET-7267/PET-7267",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv2e0hbest6c2vdb12yrkx.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/100166/avatar.png?size=288&time=1756819233000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv2dx9mqtvm6wnme243h7b",
+  "fileSize": 21595,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:58:09.681879",
+  "updatedAt": "2026-03-01T14:58:09.681879",
+  "backendType": "jira",
+  "backendIconId": null
+}

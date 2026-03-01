@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv72epcpb51enet3hf6n5p",
+  "name": "Avatar for plelico003",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv72epcpb51enet3hf6n5p.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/119489/avatar.png?size=288&time=1763026063000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv72bdppcx0jmppv96d0bb",
+  "fileSize": 40607,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:00:41.686302",
+  "updatedAt": "2026-03-01T15:00:41.686303",
+  "backendType": "jira",
+  "backendIconId": null
+}

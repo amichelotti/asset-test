@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv47v2pdeks9gqsaxvx9dw",
+  "name": "Avatar for ACCUMULATOR - A2",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv47v2pdeks9gqsaxvx9dw.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/106289/avatar.png?size=288&time=1761663132000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv47pebsp2s1kvzc4ha2av",
+  "fileSize": 32724,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:59:08.898596",
+  "updatedAt": "2026-03-01T14:59:08.898596",
+  "backendType": "jira",
+  "backendIconId": null
+}

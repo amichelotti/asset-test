@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv9h6t7cy0qja9ygbw695m",
+  "name": "Avatar for LEL-DMP-BDUMP01",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv9h6t7cy0qja9ygbw695m.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2508/icon.png?size=288&uuid=9f0cbe4d-5684-492e-b1ef-846294d67111",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv9h341cm9epyphvcbh712",
+  "fileSize": 1069,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:02:02.331057",
+  "updatedAt": "2026-03-01T15:02:02.331057",
+  "backendType": "jira",
+  "backendIconId": null
+}

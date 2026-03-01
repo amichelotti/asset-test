@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv9qeke9w6b6e8ec8hjkav",
+  "name": "Avatar for Annex",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv9qeke9w6b6e8ec8hjkav.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2484/icon.png?size=288&uuid=44b50c14-611b-4535-8c8f-38b1c7493c52",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv9qb8hbhkhm56p0jjdzc5",
+  "fileSize": 1847,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:02:08.723382",
+  "updatedAt": "2026-03-01T15:02:08.723383",
+  "backendType": "jira",
+  "backendIconId": null
+}

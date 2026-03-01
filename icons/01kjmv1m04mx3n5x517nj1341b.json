@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv1m04mx3n5x517nj1341b",
+  "name": "Avatar for Andrew FSJ1-50A",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv1m04mx3n5x517nj1341b.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/108337/avatar.png?size=288&time=1696319627000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv1kvvj9jmb9hf5m1th7cm",
+  "fileSize": 13047,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:57:43.044433",
+  "updatedAt": "2026-03-01T14:57:43.044433",
+  "backendType": "jira",
+  "backendIconId": null
+}

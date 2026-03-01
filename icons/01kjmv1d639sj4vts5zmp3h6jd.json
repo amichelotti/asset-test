@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv1d639sj4vts5zmp3h6jd",
+  "name": "Avatar for 11140-CE44",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv1d639sj4vts5zmp3h6jd.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/143735/avatar.png?size=288&time=1762189914000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv1d0hvanb40wg8rj75jcz",
+  "fileSize": 42802,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:57:36.067287",
+  "updatedAt": "2026-03-01T14:57:36.067287",
+  "backendType": "jira",
+  "backendIconId": null
+}

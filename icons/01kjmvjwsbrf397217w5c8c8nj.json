@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvjwsbrf397217w5c8c8nj",
+  "name": "Avatar for vgcon01-ser",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvjwsbrf397217w5c8c8nj.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2507/icon.png?size=288&uuid=1662ae1c-d286-46c2-ab26-8b2113b7eec5",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmvjwnqz8va59jgz0y25rep",
+  "fileSize": 1167,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:07:09.099760",
+  "updatedAt": "2026-03-01T15:07:09.099762",
+  "backendType": "jira",
+  "backendIconId": null
+}

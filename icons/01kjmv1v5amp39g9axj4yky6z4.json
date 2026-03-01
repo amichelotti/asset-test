@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv1v5amp39g9axj4yky6z4",
+  "name": "Avatar for CMR 364",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv1v5amp39g9axj4yky6z4.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/143399/avatar.png?size=288&time=1761213469000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv1tyezvd43f5wj128xc6v",
+  "fileSize": 189080,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:57:50.378275",
+  "updatedAt": "2026-03-01T14:57:50.378275",
+  "backendType": "jira",
+  "backendIconId": null
+}

@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv1ptf2q3xjjh252dnxn6d",
+  "name": "Avatar for C9500-40X-AC",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv1ptf2q3xjjh252dnxn6d.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/12809/avatar.png?size=288&time=1684248952000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv1pm5efb794dn766vh30f",
+  "fileSize": 126665,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:57:45.935456",
+  "updatedAt": "2026-03-01T14:57:45.935456",
+  "backendType": "jira",
+  "backendIconId": null
+}

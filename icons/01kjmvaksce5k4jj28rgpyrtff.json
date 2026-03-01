@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvaksce5k4jj28rgpyrtff",
+  "name": "Avatar for LEL-DIA-BPM02",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvaksce5k4jj28rgpyrtff.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2496/icon.png?size=288&uuid=9f0cbe4d-5684-492e-b1ef-846294d67111",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmvaknzawhf78njgft8vqz1",
+  "fileSize": 1069,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:02:37.741080",
+  "updatedAt": "2026-03-01T15:02:37.741081",
+  "backendType": "jira",
+  "backendIconId": null
+}

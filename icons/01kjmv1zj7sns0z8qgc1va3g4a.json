@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv1zj7sns0z8qgc1va3g4a",
+  "name": "Avatar for ET-7026",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv1zj7sns0z8qgc1va3g4a.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/100167/avatar.png?size=288&time=1756819168000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv1zex9y4mdm56v3xytw8x",
+  "fileSize": 23697,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:57:54.887321",
+  "updatedAt": "2026-03-01T14:57:54.887321",
+  "backendType": "jira",
+  "backendIconId": null
+}

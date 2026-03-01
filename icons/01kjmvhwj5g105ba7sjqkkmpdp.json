@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvhwj5g105ba7sjqkkmpdp",
+  "name": "Avatar for IONP06-CAB026",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvhwj5g105ba7sjqkkmpdp.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2507/icon.png?size=288&uuid=1662ae1c-d286-46c2-ab26-8b2113b7eec5",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmvhwe7f4tdcgm40h5n7z81",
+  "fileSize": 1167,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:06:36.101382",
+  "updatedAt": "2026-03-01T15:06:36.101383",
+  "backendType": "jira",
+  "backendIconId": null
+}

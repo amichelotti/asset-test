@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv34d0p4nze1sc50re8nvh",
+  "name": "Avatar for Menlo Fiber Link Stabilization",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv34d0p4nze1sc50re8nvh.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2258/icon.png?size=288&uuid=c88e1cb8-0667-4be3-b7b6-c3d56d4e7a61",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv34af2vvv6f8hw49ae4y9",
+  "fileSize": 668,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:58:32.608772",
+  "updatedAt": "2026-03-01T14:58:32.608773",
+  "backendType": "jira",
+  "backendIconId": null
+}

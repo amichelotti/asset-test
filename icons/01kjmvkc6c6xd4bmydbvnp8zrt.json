@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvkc6c6xd4bmydbvnp8zrt",
+  "name": "powersupply",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/icons/01kjmvkc6c6xd4bmydbvnp8zrt.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2457/icon.png?size=16",
+  "linkedSchemaUid": "01kjmv6qvztcs41475w4v17vnh",
+  "linkedAssetUid": null,
+  "fileSize": 394,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:07:24.876901",
+  "updatedAt": "2026-03-01T15:07:24.876902",
+  "backendType": "jira",
+  "backendIconId": "430"
+}

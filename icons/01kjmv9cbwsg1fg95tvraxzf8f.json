@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv9cbwsg1fg95tvraxzf8f",
+  "name": "Avatar for LEL-DIA-SCN01:MOT01",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv9cbwsg1fg95tvraxzf8f.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2503/icon.png?size=288&uuid=4b4f8709-ad64-4fdb-9678-dfdc46a09bb3",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv9c9cba3t0mcq4ywfdv7b",
+  "fileSize": 1732,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:01:57.372399",
+  "updatedAt": "2026-03-01T15:01:57.372400",
+  "backendType": "jira",
+  "backendIconId": null
+}

@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv1w4r33d2fx1v7hv3dwg2",
+  "name": "Avatar for Dell optiplex xe2",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv1w4r33d2fx1v7hv3dwg2.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/128463/avatar.png?size=288&time=1731079340000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv1vz9dww5221mzrn10jka",
+  "fileSize": 59026,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:57:51.384570",
+  "updatedAt": "2026-03-01T14:57:51.384570",
+  "backendType": "jira",
+  "backendIconId": null
+}

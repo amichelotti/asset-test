@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv33fagxt1ptecw3787xdm",
+  "name": "Avatar for Libera Spark HR",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv33fagxt1ptecw3787xdm.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/108775/avatar.png?size=288&time=1696348964000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv33c5nyved8037t94yynr",
+  "fileSize": 30820,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:58:31.659006",
+  "updatedAt": "2026-03-01T14:58:31.659007",
+  "backendType": "jira",
+  "backendIconId": null
+}

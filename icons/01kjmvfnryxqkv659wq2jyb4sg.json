@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvfnryxqkv659wq2jyb4sg",
+  "name": "Avatar for LEL-VAC-WGS03:VPCON04",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvfnryxqkv659wq2jyb4sg.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/111747/avatar.png?size=288&time=1763111237000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmvfnjrs2t3c4h9hwfy3q86",
+  "fileSize": 108413,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:05:23.614243",
+  "updatedAt": "2026-03-01T15:05:23.614243",
+  "backendType": "jira",
+  "backendIconId": null
+}

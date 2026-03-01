@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv9tdsn2gkdbbwhbqy7hca",
+  "name": "Avatar for GP09",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv9tdsn2gkdbbwhbqy7hca.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2484/icon.png?size=288&uuid=44b50c14-611b-4535-8c8f-38b1c7493c52",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv9taah6sn65b4ax10sjws",
+  "fileSize": 1847,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:02:11.769989",
+  "updatedAt": "2026-03-01T15:02:11.769990",
+  "backendType": "jira",
+  "backendIconId": null
+}

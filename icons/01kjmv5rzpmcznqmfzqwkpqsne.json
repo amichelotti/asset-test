@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv5rzpmcznqmfzqwkpqsne",
+  "name": "Avatar for Undulator",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv5rzpmcznqmfzqwkpqsne.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/108757/avatar.png?size=288&time=1761663132000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv5rtmjkdaxak4j03psb14",
+  "fileSize": 41743,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:59:59.222942",
+  "updatedAt": "2026-03-01T14:59:59.222942",
+  "backendType": "jira",
+  "backendIconId": null
+}

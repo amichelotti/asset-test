@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv38mcqsz373hejkhh3qm1",
+  "name": "Avatar for NPort 5250A",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv38mcqsz373hejkhh3qm1.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/99946/avatar.png?size=288&time=1685540207000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv38g24m9yskb2m1n7h626",
+  "fileSize": 81228,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:58:36.940713",
+  "updatedAt": "2026-03-01T14:58:36.940713",
+  "backendType": "jira",
+  "backendIconId": null
+}

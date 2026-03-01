@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvbrz5vv2ymw8bxvf18ed3",
+  "name": "Avatar for LEL-VAC-VALVP01",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvbrz5vv2ymw8bxvf18ed3.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2496/icon.png?size=288&uuid=9f0cbe4d-5684-492e-b1ef-846294d67111",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmvbrw958zvygmqkjp8f1j7",
+  "fileSize": 1069,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:03:15.813655",
+  "updatedAt": "2026-03-01T15:03:15.813655",
+  "backendType": "jira",
+  "backendIconId": null
+}

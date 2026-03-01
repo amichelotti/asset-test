@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv98qyvk4ttnv6aes2za4e",
+  "name": "Avatar for plelinpsto002",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv98qyvk4ttnv6aes2za4e.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/144044/avatar.png?size=288&time=1763466415000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv98mhg43x28yav1n6f6cb",
+  "fileSize": 25823,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:01:53.662164",
+  "updatedAt": "2026-03-01T15:01:53.662164",
+  "backendType": "jira",
+  "backendIconId": null
+}

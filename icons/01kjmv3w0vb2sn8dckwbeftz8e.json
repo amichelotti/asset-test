@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv3w0vb2sn8dckwbeftz8e",
+  "name": "Avatar for TPG 366 control unit",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv3w0vb2sn8dckwbeftz8e.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/143395/avatar.png?size=288&time=1761213599000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv3vtwrvnd2czb3t5a8kyn",
+  "fileSize": 67839,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:58:56.795394",
+  "updatedAt": "2026-03-01T14:58:56.795394",
+  "backendType": "jira",
+  "backendIconId": null
+}

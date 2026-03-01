@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv4am13se01c6x08s4f95y",
+  "name": "Avatar for CHAOS_LAB (T46)",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv4am13se01c6x08s4f95y.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/12825/avatar.png?size=288&time=1761663132000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv4adr7mvg7f2xfgev9mpb",
+  "fileSize": 127411,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:59:11.745532",
+  "updatedAt": "2026-03-01T14:59:11.745532",
+  "backendType": "jira",
+  "backendIconId": null
+}

@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv1qrh6v2n2ka31934bsjr",
+  "name": "Avatar for CFR 200 ",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv1qrh6v2n2ka31934bsjr.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/3929/icon.png?size=288&uuid=f6fd313d-6c6e-4a23-b5b8-174ffb56bd4a",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv1qmpzbr85b9910rhrpn0",
+  "fileSize": 1176,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:57:46.897432",
+  "updatedAt": "2026-03-01T14:57:46.897433",
+  "backendType": "jira",
+  "backendIconId": null
+}

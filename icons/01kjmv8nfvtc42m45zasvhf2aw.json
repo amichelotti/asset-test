@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv8nfvtc42m45zasvhf2aw",
+  "name": "Avatar for GEN-CS-GP08:IOC02",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv8nfvtc42m45zasvhf2aw.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2445/icon.png?size=288&uuid=e9c9dc3f-5fb2-4793-b505-d900e291a3d8",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv8nd2s3ga3qf0e9rw5e5s",
+  "fileSize": 188,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:01:33.947895",
+  "updatedAt": "2026-03-01T15:01:33.947895",
+  "backendType": "jira",
+  "backendIconId": null
+}

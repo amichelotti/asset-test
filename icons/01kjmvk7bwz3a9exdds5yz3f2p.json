@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvk7bwz3a9exdds5yz3f2p",
+  "name": "Locations Accelerator Division",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/icons/01kjmvk7bwz3a9exdds5yz3f2p.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/3776/icon.png?size=16",
+  "linkedSchemaUid": "01kjmv18ds1cka02yedx7fp1mr",
+  "linkedAssetUid": null,
+  "fileSize": 464,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:07:19.932346",
+  "updatedAt": "2026-03-01T15:07:19.932347",
+  "backendType": "jira",
+  "backendIconId": "35"
+}

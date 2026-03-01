@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv4b5d921e81tgsjvy0yen",
+  "name": "Avatar for Dafne",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv4b5d921e81tgsjvy0yen.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/12421/avatar.png?size=288&time=1761663132000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv4ayvqm179aazcxptwvhh",
+  "fileSize": 201258,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:59:12.301533",
+  "updatedAt": "2026-03-01T14:59:12.301533",
+  "backendType": "jira",
+  "backendIconId": null
+}

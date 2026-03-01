@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvfecsa23sz6cabwp5m14a",
+  "name": "Avatar for LEL-RF-WGS01:WGCON01",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvfecsa23sz6cabwp5m14a.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2505/icon.png?size=288&uuid=dd11c932-aa61-4475-8177-4f11238421e8",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmvfea6vrern5zyjyrghzhq",
+  "fileSize": 1762,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:05:16.057213",
+  "updatedAt": "2026-03-01T15:05:16.057214",
+  "backendType": "jira",
+  "backendIconId": null
+}

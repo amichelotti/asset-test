@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvfqaay0ze1wvw89xj8vcm",
+  "name": "Avatar for R_ANX_03",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvfqaay0ze1wvw89xj8vcm.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/111846/avatar.png?size=288&time=1740644267000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmvfq6w9v7gtyx5j2g35ckp",
+  "fileSize": 43107,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:05:25.194897",
+  "updatedAt": "2026-03-01T15:05:25.194898",
+  "backendType": "jira",
+  "backendIconId": null
+}

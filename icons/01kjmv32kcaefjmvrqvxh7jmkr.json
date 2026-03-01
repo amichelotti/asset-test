@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv32kcaefjmvrqvxh7jmkr",
+  "name": "Avatar for Libera Spark ERXR",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv32kcaefjmvrqvxh7jmkr.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/108776/avatar.png?size=288&time=1696348952000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv32g22wxwsynb2sn7wrz9",
+  "fileSize": 30841,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:58:30.765059",
+  "updatedAt": "2026-03-01T14:58:30.765060",
+  "backendType": "jira",
+  "backendIconId": null
+}

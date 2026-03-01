@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv1qayqw9apycxaajcdzsy",
+  "name": "Avatar for Catalyst 9200L 48 PoE",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv1qayqw9apycxaajcdzsy.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/12808/avatar.png?size=288&time=1684248962000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv1q4mwat6wvk36g366k9k",
+  "fileSize": 126665,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:57:46.462351",
+  "updatedAt": "2026-03-01T14:57:46.462351",
+  "backendType": "jira",
+  "backendIconId": null
+}

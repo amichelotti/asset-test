@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvacct7p1zkjsm6h27twga",
+  "name": "Avatar for motionbox03-scn03",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvacct7p1zkjsm6h27twga.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/134079/avatar.png?size=288&time=1749818701000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmvac7z7kx9h00dk7tttveg",
+  "fileSize": 148165,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:02:30.170194",
+  "updatedAt": "2026-03-01T15:02:30.170194",
+  "backendType": "jira",
+  "backendIconId": null
+}

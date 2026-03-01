@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv3q8ekhkfxn1kt4dhxpw8",
+  "name": "Avatar for Silver Buttet eXtreme",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv3q8ekhkfxn1kt4dhxpw8.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/144325/avatar.png?size=288&time=1764003317000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv3q32qkj76951qrnm2yzf",
+  "fileSize": 62413,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:58:51.918405",
+  "updatedAt": "2026-03-01T14:58:51.918405",
+  "backendType": "jira",
+  "backendIconId": null
+}

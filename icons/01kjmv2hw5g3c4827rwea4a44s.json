@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv2hw5g3c4827rwea4a44s",
+  "name": "Avatar for FAST-PS",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv2hw5g3c4827rwea4a44s.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/141960/avatar.png?size=288&time=1756813978000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv2hr9f2mnjwewekcb93d9",
+  "fileSize": 35190,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:58:13.637178",
+  "updatedAt": "2026-03-01T14:58:13.637179",
+  "backendType": "jira",
+  "backendIconId": null
+}

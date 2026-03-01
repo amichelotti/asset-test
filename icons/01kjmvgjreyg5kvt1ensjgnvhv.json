@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvgjreyg5kvt1ensjgnvhv",
+  "name": "Avatar for COIL02-CAB002",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvgjreyg5kvt1ensjgnvhv.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2507/icon.png?size=288&uuid=1662ae1c-d286-46c2-ab26-8b2113b7eec5",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmvgjnd7f6e9d4reekda6wx",
+  "fileSize": 1167,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:05:53.295107",
+  "updatedAt": "2026-03-01T15:05:53.295110",
+  "backendType": "jira",
+  "backendIconId": null
+}

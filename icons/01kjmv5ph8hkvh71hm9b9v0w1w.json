@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv5ph8hkvh71hm9b9v0w1w",
+  "name": "Avatar for Transfer Line - TP",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv5ph8hkvh71hm9b9v0w1w.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/106288/avatar.png?size=288&time=1761663132000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv5pcezezec16tc9p3y837",
+  "fileSize": 29884,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:59:56.713027",
+  "updatedAt": "2026-03-01T14:59:56.713027",
+  "backendType": "jira",
+  "backendIconId": null
+}

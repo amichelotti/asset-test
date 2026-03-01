@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvkbsvxk8bdk5deqz3ccpn",
+  "name": "instruments",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/icons/01kjmvkbsvxk8bdk5deqz3ccpn.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2454/icon.png?size=16",
+  "linkedSchemaUid": "01kjmv6qbvm313ktbnyzjwqw4z",
+  "linkedAssetUid": null,
+  "fileSize": 797,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:07:24.475055",
+  "updatedAt": "2026-03-01T15:07:24.475056",
+  "backendType": "jira",
+  "backendIconId": "292"
+}

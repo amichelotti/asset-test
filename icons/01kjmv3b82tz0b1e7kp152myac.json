@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv3b82tz0b1e7kp152myac",
+  "name": "Avatar for NPort 5650-8",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv3b82tz0b1e7kp152myac.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/129439/avatar.png?size=288&time=1733328172000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv3b4gn21nbcjd9zm1nv71",
+  "fileSize": 46521,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:58:39.618280",
+  "updatedAt": "2026-03-01T14:58:39.618280",
+  "backendType": "jira",
+  "backendIconId": null
+}

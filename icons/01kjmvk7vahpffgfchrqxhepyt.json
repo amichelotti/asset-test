@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvk7vahpffgfchrqxhepyt",
+  "name": "Monitor Models",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/icons/01kjmvk7vahpffgfchrqxhepyt.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/1708/icon.png?size=16",
+  "linkedSchemaUid": "01kjmv192jvavxb65tshj6d361",
+  "linkedAssetUid": null,
+  "fileSize": 164,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:07:20.426347",
+  "updatedAt": "2026-03-01T15:07:20.426347",
+  "backendType": "jira",
+  "backendIconId": "116"
+}

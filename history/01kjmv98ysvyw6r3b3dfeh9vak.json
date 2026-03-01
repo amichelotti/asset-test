@@ -1,0 +1,9 @@
+{
+  "uid": "01kjmv98ysvyw6r3b3dfeh9vak",
+  "assetUid": "01kjmv98mhg43x28yav1n6f6cb",
+  "type": "1",
+  "author": "Riccardo Gargana",
+  "details": "{\"type\":\"1\",\"attribute\":\"IP - IPMI\",\"oldValue\":\"\",\"newValue\":\"10.16.2.111\"}",
+  "timestamp": "2025-11-13T11:44:17.000",
+  "backendId": "356169"
+}

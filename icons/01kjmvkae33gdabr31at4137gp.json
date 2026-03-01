@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvkae33gdabr31at4137gp",
+  "name": "RF",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/icons/01kjmvkae33gdabr31at4137gp.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2502/icon.png?size=16",
+  "linkedSchemaUid": "01kjmv6nnnzpmbaym76tak804v",
+  "linkedAssetUid": null,
+  "fileSize": 286,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:07:23.075941",
+  "updatedAt": "2026-03-01T15:07:23.075942",
+  "backendType": "jira",
+  "backendIconId": "433"
+}

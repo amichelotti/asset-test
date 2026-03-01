@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv51vq8ggvw7r1bf6wfgva",
+  "name": "Avatar for POSITRONS MAIN RING - PS2",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv51vq8ggvw7r1bf6wfgva.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/106298/avatar.png?size=288&time=1761663132000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv51q382jew5f0vxgg2b69",
+  "fileSize": 36475,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:59:35.543858",
+  "updatedAt": "2026-03-01T14:59:35.543858",
+  "backendType": "jira",
+  "backendIconId": null
+}

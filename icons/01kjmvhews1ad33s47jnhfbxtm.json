@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvhews1ad33s47jnhfbxtm",
+  "name": "Avatar for HCOR03-CAB021",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvhews1ad33s47jnhfbxtm.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2507/icon.png?size=288&uuid=1662ae1c-d286-46c2-ab26-8b2113b7eec5",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmvhes3eme2vh1959bjpkbp",
+  "fileSize": 1167,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:06:22.105487",
+  "updatedAt": "2026-03-01T15:06:22.105488",
+  "backendType": "jira",
+  "backendIconId": null
+}

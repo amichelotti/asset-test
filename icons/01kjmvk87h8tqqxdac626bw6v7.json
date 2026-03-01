@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvk87h8tqqxdac626bw6v7",
+  "name": "Power Supplies Models",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/icons/01kjmvk87h8tqqxdac626bw6v7.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/1779/icon.png?size=16",
+  "linkedSchemaUid": "01kjmv19he5pfftw8861fe9311",
+  "linkedAssetUid": null,
+  "fileSize": 223,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:07:20.817051",
+  "updatedAt": "2026-03-01T15:07:20.817051",
+  "backendType": "jira",
+  "backendIconId": "403"
+}

@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvaftq748g2e16ggy66x6b",
+  "name": "Avatar for polarity inverter",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvaftq748g2e16ggy66x6b.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/127555/avatar.png?size=288&time=1741353595000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmvafqj8wp59wrnpzbdnpgq",
+  "fileSize": 28054,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:02:33.687100",
+  "updatedAt": "2026-03-01T15:02:33.687100",
+  "backendType": "jira",
+  "backendIconId": null
+}

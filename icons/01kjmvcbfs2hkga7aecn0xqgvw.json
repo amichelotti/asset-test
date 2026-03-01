@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvcbfs2hkga7aecn0xqgvw",
+  "name": "Avatar for Console Table",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvcbfs2hkga7aecn0xqgvw.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2498/icon.png?size=288&uuid=9f0cbe4d-5684-492e-b1ef-846294d67111",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmvcbd9hj17x6v9sq4948d9",
+  "fileSize": 1069,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:03:34.777246",
+  "updatedAt": "2026-03-01T15:03:34.777247",
+  "backendType": "jira",
+  "backendIconId": null
+}

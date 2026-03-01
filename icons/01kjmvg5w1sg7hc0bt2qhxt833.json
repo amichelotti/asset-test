@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvg5w1sg7hc0bt2qhxt833",
+  "name": "Avatar for SUPERMICRO QUOD K8S SSRIP",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvg5w1sg7hc0bt2qhxt833.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/3729/icon.png?size=288&uuid=5f73ad75-043a-407b-bd99-439ac9e1574d",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmvg5sj8txrk1trcn1nbexb",
+  "fileSize": 685,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:05:40.097199",
+  "updatedAt": "2026-03-01T15:05:40.097200",
+  "backendType": "jira",
+  "backendIconId": null
+}

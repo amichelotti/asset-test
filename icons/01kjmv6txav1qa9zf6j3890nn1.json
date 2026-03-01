@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv6txav1qa9zf6j3890nn1",
+  "name": "Avatar for sw-oxgs-ssrip-corridor",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv6txav1qa9zf6j3890nn1.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/138362/avatar.png?size=288&time=1749733106000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv6tnmpjnkbkgnbgh25fyy",
+  "fileSize": 273425,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:00:33.962124",
+  "updatedAt": "2026-03-01T15:00:33.962124",
+  "backendType": "jira",
+  "backendIconId": null
+}

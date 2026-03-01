@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv3fjqgphszxkah9nd4fnf",
+  "name": "Avatar for PIAK10VF",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv3fjqgphszxkah9nd4fnf.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/143358/avatar.png?size=288&time=1761126997000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv3ff6s8c83am7nt92qkkz",
+  "fileSize": 31923,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:58:44.055178",
+  "updatedAt": "2026-03-01T14:58:44.055178",
+  "backendType": "jira",
+  "backendIconId": null
+}

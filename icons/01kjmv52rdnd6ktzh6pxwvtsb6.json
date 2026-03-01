@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv52rdnd6ktzh6pxwvtsb6",
+  "name": "Avatar for Sabina",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv52rdnd6ktzh6pxwvtsb6.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/108758/avatar.png?size=288&time=1761663132000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv52kr5ns876fgtp8s6pa6",
+  "fileSize": 20365,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:59:36.461511",
+  "updatedAt": "2026-03-01T14:59:36.461511",
+  "backendType": "jira",
+  "backendIconId": null
+}

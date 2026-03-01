@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmva8nc6963jxwk56z9aqp0",
+  "name": "Avatar for ddeliicp6r6i002",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmva8nc6963jxwk56z9aqp0.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/3696/icon.png?size=288&uuid=1f85ea16-90cc-4505-b41b-f7c03da598f2",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmva8j0b8zjb6zc7636cp2x",
+  "fileSize": 288,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:02:26.348949",
+  "updatedAt": "2026-03-01T15:02:26.348950",
+  "backendType": "jira",
+  "backendIconId": null
+}

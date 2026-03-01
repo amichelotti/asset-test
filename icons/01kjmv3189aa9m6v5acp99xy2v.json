@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv3189aa9m6v5acp99xy2v",
+  "name": "Avatar for Libera Brilliance Single Pass",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv3189aa9m6v5acp99xy2v.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/108777/avatar.png?size=288&time=1756819461000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv3152wnz280c816nznwdk",
+  "fileSize": 32022,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:58:29.385831",
+  "updatedAt": "2026-03-01T14:58:29.385832",
+  "backendType": "jira",
+  "backendIconId": null
+}

@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv1nebc4n2vj37qx1hkkbc",
+  "name": "Avatar for ATH 500 M",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv1nebc4n2vj37qx1hkkbc.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/143409/avatar.png?size=288&time=1761222687000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv1n8r2bw3wna0hb5qb01g",
+  "fileSize": 83381,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:57:44.523795",
+  "updatedAt": "2026-03-01T14:57:44.523796",
+  "backendType": "jira",
+  "backendIconId": null
+}

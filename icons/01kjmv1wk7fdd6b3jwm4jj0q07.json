@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv1wk7fdd6b3jwm4jj0q07",
+  "name": "Avatar for DELL PowerEdge R220",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv1wk7fdd6b3jwm4jj0q07.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/128462/avatar.png?size=288&time=1731079250000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv1weqc6qrz8k48fk0q2s7",
+  "fileSize": 16377,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:57:51.847252",
+  "updatedAt": "2026-03-01T14:57:51.847252",
+  "backendType": "jira",
+  "backendIconId": null
+}

@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv2vaxtpyf7psektesa0s6",
+  "name": "Avatar for HPE OfficeConnect 1420 24p  ",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv2vaxtpyf7psektesa0s6.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/128362/avatar.png?size=288&time=1730887484000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv2v6dzcdkqcveyawgxjw9",
+  "fileSize": 23787,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:58:23.325646",
+  "updatedAt": "2026-03-01T14:58:23.325647",
+  "backendType": "jira",
+  "backendIconId": null
+}

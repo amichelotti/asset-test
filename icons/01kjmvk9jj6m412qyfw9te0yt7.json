@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvk9jj6m412qyfw9te0yt7",
+  "name": "Switch",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/icons/01kjmvk9jj6m412qyfw9te0yt7.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2440/icon.png?size=16",
+  "linkedSchemaUid": "01kjmv6mg97wrncsk6z03qhdh6",
+  "linkedAssetUid": null,
+  "fileSize": 266,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:07:22.194495",
+  "updatedAt": "2026-03-01T15:07:22.194495",
+  "backendType": "jira",
+  "backendIconId": "33"
+}

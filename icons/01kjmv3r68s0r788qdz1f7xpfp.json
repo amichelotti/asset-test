@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv3r68s0r788qdz1f7xpfp",
+  "name": "Avatar for START11",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv3r68s0r788qdz1f7xpfp.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/128461/avatar.png?size=288&time=1756814592000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv3r2sb8hze3gtkyvnejd0",
+  "fileSize": 36650,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:58:52.872576",
+  "updatedAt": "2026-03-01T14:58:52.872576",
+  "backendType": "jira",
+  "backendIconId": null
+}

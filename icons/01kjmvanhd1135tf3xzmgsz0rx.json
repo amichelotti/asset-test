@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvanhd1135tf3xzmgsz0rx",
+  "name": "Avatar for LEL-DIA-FCT01",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvanhd1135tf3xzmgsz0rx.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2496/icon.png?size=288&uuid=9f0cbe4d-5684-492e-b1ef-846294d67111",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmvandtg8enkcsz68bn67rc",
+  "fileSize": 1069,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:02:39.533902",
+  "updatedAt": "2026-03-01T15:02:39.533902",
+  "backendType": "jira",
+  "backendIconId": null
+}

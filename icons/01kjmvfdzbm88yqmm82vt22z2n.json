@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvfdzbm88yqmm82vt22z2n",
+  "name": "Avatar for COPY_LEL-VAC-VPCON01-PROVA",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvfdzbm88yqmm82vt22z2n.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2505/icon.png?size=288&uuid=dd11c932-aa61-4475-8177-4f11238421e8",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmvfdwt6048tqw2ccpechas",
+  "fileSize": 1762,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:05:15.627883",
+  "updatedAt": "2026-03-01T15:05:15.627884",
+  "backendType": "jira",
+  "backendIconId": null
+}

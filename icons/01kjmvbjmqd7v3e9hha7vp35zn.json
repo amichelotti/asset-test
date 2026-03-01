@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvbjmqd7v3e9hha7vp35zn",
+  "name": "Avatar for LEL-VAC-IONP09",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvbjmqd7v3e9hha7vp35zn.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2496/icon.png?size=288&uuid=9f0cbe4d-5684-492e-b1ef-846294d67111",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmvbjh7bn57szehaw3c55z3",
+  "fileSize": 1069,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:03:09.335917",
+  "updatedAt": "2026-03-01T15:03:09.335917",
+  "backendType": "jira",
+  "backendIconId": null
+}

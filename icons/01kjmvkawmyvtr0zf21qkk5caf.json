@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvkawmyvtr0zf21qkk5caf",
+  "name": "NAS",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/icons/01kjmvkawmyvtr0zf21qkk5caf.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2517/icon.png?size=16",
+  "linkedSchemaUid": "01kjmv6p4trkj5v57d8v3dajtd",
+  "linkedAssetUid": null,
+  "fileSize": 578,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:07:23.540573",
+  "updatedAt": "2026-03-01T15:07:23.540573",
+  "backendType": "jira",
+  "backendIconId": "296"
+}

@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv80s50h6ddmm47jbvv6yb",
+  "name": "Avatar for LEL-MAG-DIP01",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv80s50h6ddmm47jbvv6yb.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2501/icon.png?size=288&uuid=74935886-368c-4d17-b5e6-ce050f0f1007",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv80nf0fjkrt66wm5w52mb",
+  "fileSize": 1244,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:01:12.741268",
+  "updatedAt": "2026-03-01T15:01:12.741269",
+  "backendType": "jira",
+  "backendIconId": null
+}

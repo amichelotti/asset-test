@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvk9rg2hf6sstxfm13ktne",
+  "name": "Vacuum",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/icons/01kjmvk9rg2hf6sstxfm13ktne.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2500/icon.png?size=16",
+  "linkedSchemaUid": "01kjmv6mqn4hn27g8z656vqw8j",
+  "linkedAssetUid": null,
+  "fileSize": 367,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:07:22.384986",
+  "updatedAt": "2026-03-01T15:07:22.384986",
+  "backendType": "jira",
+  "backendIconId": "432"
+}

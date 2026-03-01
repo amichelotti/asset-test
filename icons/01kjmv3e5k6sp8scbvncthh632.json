@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv3e5k6sp8scbvncthh632",
+  "name": "Avatar for Ocem E642",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv3e5k6sp8scbvncthh632.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/1779/icon.png?size=288&uuid=73773d25-343c-42a2-8acc-d98238eae03b",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv3e38gayfb95qff1akbyy",
+  "fileSize": 494,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:58:42.611334",
+  "updatedAt": "2026-03-01T14:58:42.611334",
+  "backendType": "jira",
+  "backendIconId": null
+}

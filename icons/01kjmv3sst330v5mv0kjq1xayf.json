@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv3sst330v5mv0kjq1xayf",
+  "name": "Avatar for tektronix 5MSO",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv3sst330v5mv0kjq1xayf.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/138749/avatar.png?size=288&time=1756814701000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv3sp1jjg3rymbxnzhp49g",
+  "fileSize": 28317,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:58:54.522561",
+  "updatedAt": "2026-03-01T14:58:54.522562",
+  "backendType": "jira",
+  "backendIconId": null
+}

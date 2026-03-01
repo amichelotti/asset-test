@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv4fh39gh1dbhmf9jvcb92",
+  "name": "Avatar for Edificio 2",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv4fh39gh1dbhmf9jvcb92.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/110356/avatar.png?size=288&time=1761663132000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv4fatwa6zx7b155pcrzk0",
+  "fileSize": 119323,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:59:16.771630",
+  "updatedAt": "2026-03-01T14:59:16.771630",
+  "backendType": "jira",
+  "backendIconId": null
+}

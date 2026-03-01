@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv374kegvyn7fq5020501n",
+  "name": "Avatar for MXC-6322D",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv374kegvyn7fq5020501n.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/147737/avatar.png?size=288&time=1771928669059",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv36zyw4rz8t1t9j46mbzh",
+  "fileSize": 123828,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:58:35.411780",
+  "updatedAt": "2026-03-01T14:58:35.411780",
+  "backendType": "jira",
+  "backendIconId": null
+}

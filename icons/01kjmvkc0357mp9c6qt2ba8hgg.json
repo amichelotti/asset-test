@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvkc0357mp9c6qt2ba8hgg",
+  "name": "storage",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/icons/01kjmvkc0357mp9c6qt2ba8hgg.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2455/icon.png?size=16",
+  "linkedSchemaUid": "01kjmv6qm9s9d6ktfzzy9xwnxs",
+  "linkedAssetUid": null,
+  "fileSize": 305,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:07:24.675311",
+  "updatedAt": "2026-03-01T15:07:24.675311",
+  "backendType": "jira",
+  "backendIconId": "90"
+}

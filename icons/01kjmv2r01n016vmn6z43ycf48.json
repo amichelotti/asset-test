@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv2r01n016vmn6z43ycf48",
+  "name": "Avatar for HiPace2300 with TC1200",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv2r01n016vmn6z43ycf48.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/143408/avatar.png?size=288&time=1761222484000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv2qsgfxyzefj7yys7bgc6",
+  "fileSize": 150472,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:58:19.905518",
+  "updatedAt": "2026-03-01T14:58:19.905518",
+  "backendType": "jira",
+  "backendIconId": null
+}

@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv41cxz8zt0wgnv65mk9hw",
+  "name": "Avatar for VT80 - V6",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv41cxz8zt0wgnv65mk9hw.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/143362/avatar.png?size=288&time=1761127387000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv417z4m4yps1snkdq2b8s",
+  "fileSize": 34409,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:59:02.301198",
+  "updatedAt": "2026-03-01T14:59:02.301198",
+  "backendType": "jira",
+  "backendIconId": null
+}

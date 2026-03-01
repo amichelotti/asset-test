@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvjg8ecz8ssynm7he957tp",
+  "name": "Avatar for POL05DPRC01",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvjg8ecz8ssynm7he957tp.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2507/icon.png?size=288&uuid=1662ae1c-d286-46c2-ab26-8b2113b7eec5",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmvjg5s3ytpemk8e7zrjs8c",
+  "fileSize": 1167,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:06:56.270267",
+  "updatedAt": "2026-03-01T15:06:56.270268",
+  "backendType": "jira",
+  "backendIconId": null
+}

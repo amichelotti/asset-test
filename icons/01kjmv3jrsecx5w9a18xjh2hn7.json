@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv3jrsecx5w9a18xjh2hn7",
+  "name": "Avatar for prl-2572",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv3jrsecx5w9a18xjh2hn7.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/104896/avatar.png?size=288&time=1695809944000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv3jkn1h7zzmrq6jp2qdc0",
+  "fileSize": 62562,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:58:47.321946",
+  "updatedAt": "2026-03-01T14:58:47.321946",
+  "backendType": "jira",
+  "backendIconId": null
+}

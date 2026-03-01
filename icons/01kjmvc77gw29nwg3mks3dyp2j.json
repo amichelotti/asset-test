@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvc77gw29nwg3mks3dyp2j",
+  "name": "Avatar for LEL-MAG-SPSU06",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvc77gw29nwg3mks3dyp2j.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/111620/avatar.png?size=288&time=1733402466000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmvc733jx3ebyh40nrfp89a",
+  "fileSize": 111299,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:03:30.416381",
+  "updatedAt": "2026-03-01T15:03:30.416382",
+  "backendType": "jira",
+  "backendIconId": null
+}

@@ -1,0 +1,9 @@
+{
+  "uid": "01kjmv7sjbsfq0kddk1xbzrf98",
+  "assetUid": "01kjmv7s8pmps3pmzcmfq8b815",
+  "type": "5",
+  "author": "Georgios Zachariadis",
+  "details": "{\"type\":\"5\",\"attribute\":\"Controller\",\"oldValue\":\"LEL-VAC-VPCON01\",\"newValue\":\"LEL-VAC-WGS03:VPC...\"}",
+  "timestamp": "2025-11-07T15:32:24.000",
+  "backendId": "354900"
+}

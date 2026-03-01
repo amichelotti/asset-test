@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvc07pcsapf9mjmnrdp7fb",
+  "name": "Avatar for LEL-MAG-QPRC01-02",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmvc07pcsapf9mjmnrdp7fb.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/128471/avatar.png?size=288&time=1749818369000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmvc04a43h3kc996tm4t1jb",
+  "fileSize": 34097,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:03:23.254485",
+  "updatedAt": "2026-03-01T15:03:23.254485",
+  "backendType": "jira",
+  "backendIconId": null
+}

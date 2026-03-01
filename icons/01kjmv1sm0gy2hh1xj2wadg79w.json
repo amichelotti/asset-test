@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv1sm0gy2hh1xj2wadg79w",
+  "name": "Avatar for Cisco Catalyst 4500-E",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv1sm0gy2hh1xj2wadg79w.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/12807/avatar.png?size=288&time=1684248975000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv1sdy36cwbp3avvx7nzqe",
+  "fileSize": 126665,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:57:48.800717",
+  "updatedAt": "2026-03-01T14:57:48.800718",
+  "backendType": "jira",
+  "backendIconId": null
+}

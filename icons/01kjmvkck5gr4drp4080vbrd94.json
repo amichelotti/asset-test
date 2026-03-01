@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmvkck5gr4drp4080vbrd94",
+  "name": "Vacuum Controller",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/icons/01kjmvkck5gr4drp4080vbrd94.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/objecttype/2505/icon.png?size=16",
+  "linkedSchemaUid": "01kjmv6rb0tt8se2g5t0ca94sf",
+  "linkedAssetUid": null,
+  "fileSize": 367,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T15:07:25.285511",
+  "updatedAt": "2026-03-01T15:07:25.285511",
+  "backendType": "jira",
+  "backendIconId": "432"
+}

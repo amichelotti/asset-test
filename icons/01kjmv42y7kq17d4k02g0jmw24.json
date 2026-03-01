@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv42y7kq17d4k02g0jmw24",
+  "name": "Avatar for XGS-600 Gauge Controller",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv42y7kq17d4k02g0jmw24.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/129487/avatar.png?size=288&time=1760088935000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv42tg12bd9fe9jm2d7h2b",
+  "fileSize": 60361,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:59:03.879210",
+  "updatedAt": "2026-03-01T14:59:03.879210",
+  "backendType": "jira",
+  "backendIconId": null
+}

@@ -1,0 +1,14 @@
+{
+  "uid": "01kjmv4zy12nvtsfspp9wjd0pz",
+  "name": "Avatar for POSITRON INTERACTION REGIONS - I2",
+  "localPath": "/data/user/0/com.michelo.asset_app/app_flutter/avatars/01kjmv4zy12nvtsfspp9wjd0pz.png",
+  "sourceUrl": "https://servicedesk.infn.it/rest/insight/1.0/object/107854/avatar.png?size=288&time=1761663132000",
+  "linkedSchemaUid": null,
+  "linkedAssetUid": "01kjmv4ztn6qse5rzgp1dab678",
+  "fileSize": 36475,
+  "mimeType": "image/png",
+  "createdAt": "2026-03-01T14:59:33.569512",
+  "updatedAt": "2026-03-01T14:59:33.569513",
+  "backendType": "jira",
+  "backendIconId": null
+}

@@ -1,0 +1,38 @@
+{
+  "uid": "01kjmv88gkr7p5kes5888jnve2",
+  "key": "LNFELINP-111712",
+  "name": "LEL-MAG-VCOR01",
+  "type": "Magnet",
+  "schemaUid": "01kjmv6ndwdhp37p2e7623kaxc",
+  "attributes": {
+    "key": "LNFELINP-111712",
+    "name": "LEL-MAG-VCOR01",
+    "created": "2023-11-29T12:16:56.000Z",
+    "updated": "2023-12-01T13:15:03.000Z",
+    "description": "H & V Corrector Magnet Type A - Vert. coil",
+    "layout": "LNFELINP-112439",
+    "module": "M1",
+    "type": "VCOR",
+    "voltage": "1",
+    "current": "16",
+    "inlet_temp": "No",
+    "rise_temp": "No",
+    "water_pressure_drop": "No",
+    "water_coling_flow": "No",
+    "weight": "20",
+    "crosssection": "4",
+    "currentin": "17.6",
+    "powersupply": "01kjmvbtag73brgbg3nna4d1gz",
+    "power": "0.016"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

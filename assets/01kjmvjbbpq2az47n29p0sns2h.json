@@ -1,0 +1,27 @@
+{
+  "uid": "01kjmvjbbpq2az47n29p0sns2h",
+  "key": "LNFELINP-138471",
+  "name": "MOTCON1-ser",
+  "type": "Cabling",
+  "schemaUid": "01kjmv6rp34zm0d5zrkp7qybxj",
+  "attributes": {
+    "key": "LNFELINP-138471",
+    "name": "MOTCON1-ser",
+    "created": "2025-06-13T12:43:23.000Z",
+    "updated": "2025-06-13T12:47:51.000Z",
+    "status": "Active",
+    "connector1_pair": "01kjmvaae0f1k5mexhceppzmxj",
+    "connector2_pair": "01kjmvabb4vaj89c4e4zp01t5d",
+    "type": "RS232"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

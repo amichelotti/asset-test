@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmva7gm75dfr8074cqtz688",
+  "key": "LNFELINP-133714",
+  "name": "EVR07",
+  "type": "Timing",
+  "schemaUid": "01kjmv6q0j91qah5a8mqm3j0ay",
+  "attributes": {
+    "key": "LNFELINP-133714",
+    "name": "EVR07",
+    "created": "2025-02-26T12:33:57.000Z",
+    "updated": "2025-02-26T12:49:48.000Z",
+    "status": "Active",
+    "alias": "EVR_ADC"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

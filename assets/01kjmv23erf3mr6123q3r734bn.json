@@ -1,0 +1,28 @@
+{
+  "uid": "01kjmv23erf3mr6123q3r734bn",
+  "key": "LNFMAC-124633",
+  "name": "ET-7060",
+  "type": "IO Models",
+  "schemaUid": "01kjmv18ya5jjw6gxdf9r6e48e",
+  "attributes": {
+    "key": "LNFMAC-124633",
+    "name": "ET-7060",
+    "created": "2024-07-24T12:33:51.000Z",
+    "updated": "2025-09-02T13:19:35.000Z",
+    "producer": "LNFMAC-12430",
+    "vendor": "LNFMAC-109369",
+    "documentation": "https://www.icpdas.com/en/product/ET-7060",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>The ET-7060 provides 6 wet contact digital input channels and 6 form A electromechanical relays. It features optical isolation for 3000 VDC of transient overvoltage protection and doesn't have channel-to-channel isolation. Each input channel can be used as a 32-bit counter. The power-on value and safe value of the relay are programmable. Note: When inductive loads are connected to the relays, a large counter electromotive force may occur when the relay actuates because of the energy stored in the load. These flyback voltages can severely damage the relay contacts and greatly shorten the relay life. Limit these flyback voltages at your inductive load by installing a flyback diode for DC loads or a metal oxide varistor for AC loads.</p><p>&nbsp;</p><p>RS:https://it.rs-online.com/web/p/acquisizione-dati/1046171?gb=s</p></div>",
+    "git_repo": "https://github.com/infn-epics/icpdas"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

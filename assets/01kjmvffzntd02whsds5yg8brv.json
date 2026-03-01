@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmvffzntd02whsds5yg8brv",
+  "key": "LNFELINP-111738",
+  "name": "LEL-VAC-VGCON03",
+  "type": "Vacuum Controller",
+  "schemaUid": "01kjmv6rb0tt8se2g5t0ca94sf",
+  "attributes": {
+    "key": "LNFELINP-111738",
+    "name": "LEL-VAC-VGCON03",
+    "created": "2023-11-29T22:16:49.000Z",
+    "updated": "2023-11-29T22:16:49.000Z",
+    "description": "Cold cathode vacuum gauge - Agilent IMG300",
+    "type": "VGC"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

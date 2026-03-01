@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmv1d0hvanb40wg8rj75jcz",
+  "key": "LNFMAC-143735",
+  "name": "11140-CE44",
+  "type": "Vacuum Models",
+  "schemaUid": "01kjmv1a8chq7prqwhkverw3dk",
+  "attributes": {
+    "key": "LNFMAC-143735",
+    "name": "11140-CE44",
+    "created": "2025-11-03T17:11:54.000Z",
+    "updated": "2025-11-03T17:11:54.000Z",
+    "producer": "LNFMAC-143483",
+    "documentation": "https://www.vatgroup.com/series/high-vacuum-gate-valve-standard/11140-CE44"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

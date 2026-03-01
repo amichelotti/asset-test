@@ -1,0 +1,23 @@
+{
+  "uid": "01kjmv1pm5efb794dn766vh30f",
+  "key": "LNFMAC-12809",
+  "name": "C9500-40X-AC",
+  "type": "Switch Models",
+  "schemaUid": "01kjmv18tj5wg3v692ddgkjj2g",
+  "attributes": {
+    "key": "LNFMAC-12809",
+    "name": "C9500-40X-AC",
+    "created": "2023-04-19T16:24:09.000Z",
+    "updated": "2023-05-16T14:55:53.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

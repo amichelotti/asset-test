@@ -1,0 +1,26 @@
+{
+  "uid": "01kjmv1sxt3x536tne4cebyrhr",
+  "key": "LNFMAC-138355",
+  "name": "cisco catalyst 9200L-24P-4X",
+  "type": "Switch Models",
+  "schemaUid": "01kjmv18tj5wg3v692ddgkjj2g",
+  "attributes": {
+    "key": "LNFMAC-138355",
+    "name": "cisco catalyst 9200L-24P-4X",
+    "created": "2025-06-11T08:59:48.000Z",
+    "updated": "2025-06-11T08:59:48.000Z",
+    "producer": "LNFMAC-12583",
+    "documentation": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9200-series-switches/nb-06-cat9200-ser-data-sheet-cte-en.html",
+    "port_number": "24"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

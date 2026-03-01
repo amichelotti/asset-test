@@ -1,0 +1,31 @@
+{
+  "uid": "01kjmvfddtxehw2rn4nrcdw1vq",
+  "key": "LNFELINP-144949",
+  "name": "COPY_LEL-VAC-VPCON01",
+  "type": "Vacuum Controller",
+  "schemaUid": "01kjmv6rb0tt8se2g5t0ca94sf",
+  "attributes": {
+    "key": "LNFELINP-144949",
+    "name": "COPY_LEL-VAC-VPCON01",
+    "created": "2025-12-28T23:15:33.000Z",
+    "updated": "2026-02-21T16:18:44.000Z",
+    "status": "Active",
+    "alias": "copietta modificata",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Vacuum Ion Pump Controller</p><p><font face=\"Times New Roman\">on port 2 on moxa <span class=\"code\" spellcheck=\"false\">scelimxa16001</span></font></p></div>",
+    "location": "01kjmv9swjvvma63r8w5wa60s0",
+    "rack": "01kjmvfv725f6cpnk228ym26h9",
+    "connector": "01kjmvgbpx40kq5p010pt17k4h",
+    "type": "VPC",
+    "models": "01kjmv1ez9bxt86139ag308ykk"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmv3c29nkkd4fa0fdqzwese",
+  "key": "LNFMAC-109258",
+  "name": "NUC11TNK",
+  "type": "Host Models",
+  "schemaUid": "01kjmv18nxwqmykyq9x9jbms14",
+  "attributes": {
+    "key": "LNFMAC-109258",
+    "name": "NUC11TNK",
+    "created": "2023-10-10T12:30:46.000Z",
+    "updated": "2023-10-10T12:30:46.000Z",
+    "producer": "LNFMAC-12810"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

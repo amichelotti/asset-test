@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmv1byx2vdx3evrpj38cv4n",
+  "key": "LNFMAC-126910",
+  "name": " AS -2124BT-HNTR",
+  "type": "Chassis Models",
+  "schemaUid": "01kjmv1a48e7z5k6eggbzr00tq",
+  "attributes": {
+    "key": "LNFMAC-126910",
+    "name": " AS -2124BT-HNTR",
+    "created": "2024-09-18T11:57:23.000Z",
+    "updated": "2025-05-19T17:14:13.000Z",
+    "producer": "LNFMAC-126909",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p></p><p></p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

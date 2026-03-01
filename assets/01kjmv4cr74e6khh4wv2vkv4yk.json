@@ -1,0 +1,23 @@
+{
+  "uid": "01kjmv4cr74e6khh4wv2vkv4yk",
+  "key": "LNFMAC-119843",
+  "name": "Ed 6 stanza 17",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmv18ds1cka02yedx7fp1mr",
+  "attributes": {
+    "key": "LNFMAC-119843",
+    "name": "Ed 6 stanza 17",
+    "created": "2024-04-22T12:37:25.000Z",
+    "updated": "2025-10-28T14:52:13.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

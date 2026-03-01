@@ -1,0 +1,23 @@
+{
+  "uid": "01kjmv70tvwayd3yp3m7d9c8tj",
+  "key": "LNFELINP-112860",
+  "name": "sweli007",
+  "type": "Switch",
+  "schemaUid": "01kjmv6mg97wrncsk6z03qhdh6",
+  "attributes": {
+    "key": "LNFELINP-112860",
+    "name": "sweli007",
+    "created": "2023-12-05T09:58:54.000Z",
+    "updated": "2023-12-05T10:08:32.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

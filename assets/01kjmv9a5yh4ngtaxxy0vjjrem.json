@@ -1,0 +1,27 @@
+{
+  "uid": "01kjmv9a5yh4ngtaxxy0vjjrem",
+  "key": "LNFELINP-111914",
+  "name": "LEL-DIA-BPM03",
+  "type": "Diagnostic",
+  "schemaUid": "01kjmv6p8zhpea740d9tj8xrza",
+  "attributes": {
+    "key": "LNFELINP-111914",
+    "name": "LEL-DIA-BPM03",
+    "created": "2023-11-30T11:44:42.000Z",
+    "updated": "2023-12-01T13:15:20.000Z",
+    "description": "BPM",
+    "layout": "LNFELINP-112476",
+    "module": "M4",
+    "type": "BPM"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "uid": "01kjmsx48j8986dfrf6jz7w6j1",
+  "key": "LNFT2-147734",
+  "name": "FICTR1-V-PMP-CTR-008",
+  "type": "Secondary Pumps",
+  "schemaUid": "01kjmswhmc3djjwwnhkwr9j3nh",
+  "attributes": {
+    "key": "LNFT2-147734",
+    "name": "FICTR1-V-PMP-CTR-008",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Alimentatore della turbo FI8-V-PMP-TRB-003.</p><p>Posizionato insieme agli altri vicino la camera e non nel rack</p></div>",
+    "created": "2026-02-24T09:46:17.000Z",
+    "updated": "2026-02-24T09:46:17.000Z",
+    "status": "Active",
+    "owner": "LNFMAC-143538",
+    "locations": "01kjmt7q7nk4amnxyhwvd9y6sh",
+    "facility": "01kjmt9j6j1mcv5trkvxxa882e",
+    "hw_model": "01kjmt4ms5nac64h8zvhrgkve5",
+    "rack": "LNFMAC-147210"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "uid": "01kjmtrfkmee0bkt7s4tqz40hr",
+  "key": "LNFELINP-111619",
+  "name": "LEL-MAG-SPSU05",
+  "type": "powersupply",
+  "schemaUid": "01kjmtagfw09vtfv9fgvxw86bk",
+  "attributes": {
+    "key": "LNFELINP-111619",
+    "name": "LEL-MAG-SPSU05",
+    "created": "2023-11-28T23:56:07.000Z",
+    "updated": "2024-12-05T12:46:25.000Z",
+    "status": "Active",
+    "description": "<p>Solenoid B Set 3 (3 coils in series)</p>",
+    "location": "01kjmtf9v11symyfa7wqvhqdyq",
+    "rack": "01kjmttd9r80xs3csrw1qadqqt",
+    "max_current": "200",
+    "voltage": "50",
+    "power": "10",
+    "registered": "LNFMAC-129095"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

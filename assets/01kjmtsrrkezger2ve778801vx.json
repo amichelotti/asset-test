@@ -1,0 +1,23 @@
+{
+  "uid": "01kjmtsrrkezger2ve778801vx",
+  "key": "LNFELINP-112562",
+  "name": "R_ROOF_INFN10",
+  "type": "Beamline Assets",
+  "schemaUid": "01kjmtah5qrk84r8w8vjv34k5c",
+  "attributes": {
+    "key": "LNFELINP-112562",
+    "name": "R_ROOF_INFN10",
+    "created": "2023-12-01T13:15:48.000Z",
+    "updated": "2023-12-01T13:15:48.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

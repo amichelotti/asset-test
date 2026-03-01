@@ -1,0 +1,28 @@
+{
+  "uid": "01kjmt12eq4vms0x9a98qnh07k",
+  "key": "LNFT2-147431",
+  "name": "FP5-V-CHM-TRL-001",
+  "type": "Chambers",
+  "schemaUid": "01kjmswjg2m1bxrb12bv11q59y",
+  "attributes": {
+    "key": "LNFT2-147431",
+    "name": "FP5-V-CHM-TRL-001",
+    "created": "2026-02-16T13:50:46.000Z",
+    "updated": "2026-02-16T13:58:51.000Z",
+    "status": "Active",
+    "owner": "LNFMAC-143538",
+    "locations": "01kjmt7r370xdn0j42yvjzveny",
+    "facility": "01kjmt9j6j1mcv5trkvxxa882e",
+    "objects": "01kjmsyayykycrw5fcxs0xytav"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

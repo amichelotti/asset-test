@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmsx9v1tgfhaz7mfmr8qg9w",
+  "key": "LNFT2-146389",
+  "name": "FPRCK1-V-PMP-CTR-001",
+  "type": "Secondary Pumps",
+  "schemaUid": "01kjmswhmc3djjwwnhkwr9j3nh",
+  "attributes": {
+    "key": "LNFT2-146389",
+    "name": "FPRCK1-V-PMP-CTR-001",
+    "created": "2026-01-26T12:46:52.000Z",
+    "updated": "2026-01-27T10:35:38.000Z",
+    "hw_model": "01kjmt6eh415vrnq5grtegyqkj",
+    "hw_connection": "01kjmsx5j82faf7w1e0b2kqg45"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

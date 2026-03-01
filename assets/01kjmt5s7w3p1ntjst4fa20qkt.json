@@ -1,0 +1,23 @@
+{
+  "uid": "01kjmt5s7w3p1ntjst4fa20qkt",
+  "key": "LNFMAC-147143",
+  "name": "Pollux Chassis",
+  "type": "Chassis Models",
+  "schemaUid": "01kjmt37zkcktfwjz4e76xp8dn",
+  "attributes": {
+    "key": "LNFMAC-147143",
+    "name": "Pollux Chassis",
+    "created": "2026-02-10T16:07:01.000Z",
+    "updated": "2026-02-10T16:07:01.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

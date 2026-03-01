@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmt4qba8hs37mw93xq5kzq3",
+  "key": "LNFMAC-99201",
+  "name": "HPE Office Connect 1420 GH017A",
+  "type": "Switch Models",
+  "schemaUid": "01kjmt3518n3qta2qjy9ca11t9",
+  "attributes": {
+    "key": "LNFMAC-99201",
+    "name": "HPE Office Connect 1420 GH017A",
+    "created": "2023-05-05T13:58:35.000Z",
+    "updated": "2023-05-05T13:58:35.000Z",
+    "vendor": "LNFMAC-99200"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

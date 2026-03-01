@@ -1,0 +1,27 @@
+{
+  "uid": "01kjmt4dtfqf2a763k3fcs5z8z",
+  "key": "LNFMAC-141960",
+  "name": "FAST-PS",
+  "type": "Power Supplies Models",
+  "schemaUid": "01kjmt36jx7cs4z3ygwssn59v8",
+  "attributes": {
+    "key": "LNFMAC-141960",
+    "name": "FAST-PS",
+    "created": "2025-09-02T10:59:34.000Z",
+    "updated": "2025-09-02T11:52:58.000Z",
+    "producer": "LNFMAC-141957",
+    "vendor": "LNFMAC-141957",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><h2>Fast Current- and Voltage-Controlled Bipolar Digital Power Supply Series - up to 600 W</h2><p>High-performance bipolar power supply with digital control loop, embedded Web-Server, Arbitrary Waveform Generation (AWG) and 4-channel 100-kHz Oscilloscope</p></div>",
+    "git_repo": "https://github.com/infn-epics/caenelsPS"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

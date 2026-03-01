@@ -1,0 +1,28 @@
+{
+  "uid": "01kjmtfycvcer77jw9tfcn1cqn",
+  "key": "LNFELINP-134115",
+  "name": "ddeliicp6r6i001",
+  "type": "I/O",
+  "schemaUid": "01kjmtaetfwkxx5dyv211pqxwj",
+  "attributes": {
+    "key": "LNFELINP-134115",
+    "name": "ddeliicp6r6i001",
+    "created": "2025-03-07T13:18:59.000Z",
+    "updated": "2025-06-12T12:25:30.000Z",
+    "status": "Active",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Inside Polarity inverter</p></div>",
+    "rack": "01kjmttfns9wrpmskvq83tfv6a",
+    "registered": "LNFMAC-126784",
+    "model": "01kjmt3jr57hp6tsckjvdrwezs"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

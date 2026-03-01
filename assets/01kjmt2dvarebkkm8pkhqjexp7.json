@@ -1,0 +1,29 @@
+{
+  "uid": "01kjmt2dvarebkkm8pkhqjexp7",
+  "key": "LNFT2-145358",
+  "name": "FI4-B-CAM-BAS-002",
+  "type": "Cameras",
+  "schemaUid": "01kjmswk7as6hm10h3tj66epaa",
+  "attributes": {
+    "key": "LNFT2-145358",
+    "name": "FI4-B-CAM-BAS-002",
+    "s/n": "40422284",
+    "created": "2026-01-08T17:08:51.000Z",
+    "updated": "2026-02-25T11:05:27.000Z",
+    "alias": "cceuapscam24",
+    "locations": "01kjmt7q7nk4amnxyhwvd9y6sh",
+    "facility": "01kjmt9gz4b8xk8cqz1xea8sx2",
+    "hw_model": "01kjgmv2nvevgq2nw798crd184",
+    "mac_address": "00:30:53:35:E8:73"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

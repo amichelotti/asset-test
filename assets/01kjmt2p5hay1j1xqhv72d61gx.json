@@ -1,0 +1,30 @@
+{
+  "uid": "01kjmt2p5hay1j1xqhv72d61gx",
+  "key": "LNFT2-145376",
+  "name": "FI8-B-CAM-BAS-005",
+  "type": "Cameras",
+  "schemaUid": "01kjmswk7as6hm10h3tj66epaa",
+  "attributes": {
+    "key": "LNFT2-145376",
+    "name": "FI8-B-CAM-BAS-005",
+    "s/n": "40436383",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Telecamera del fuoco</p></div>",
+    "created": "2026-01-08T17:45:38.000Z",
+    "updated": "2026-02-03T16:45:05.000Z",
+    "status": "Active",
+    "owner": "LNFMAC-143535",
+    "locations": "01kjmt7q7nk4amnxyhwvd9y6sh",
+    "facility": "01kjmt9j6j1mcv5trkvxxa882e",
+    "hw_model": "01kjgmv6cd7rxdr66sdrdk6xyp"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

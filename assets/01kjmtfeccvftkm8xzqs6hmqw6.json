@@ -1,0 +1,23 @@
+{
+  "uid": "01kjmtfeccvftkm8xzqs6hmqw6",
+  "key": "LNFELINP-119371",
+  "name": "Laboratorio Controlli 117",
+  "type": "Location",
+  "schemaUid": "01kjgmst8a6pt8z4bgznffsxk1",
+  "attributes": {
+    "key": "LNFELINP-119371",
+    "name": "Laboratorio Controlli 117",
+    "created": "2024-04-09T14:27:11.000Z",
+    "updated": "2024-04-09T14:27:11.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

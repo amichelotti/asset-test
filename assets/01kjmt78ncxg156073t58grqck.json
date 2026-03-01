@@ -1,0 +1,26 @@
+{
+  "uid": "01kjmt78ncxg156073t58grqck",
+  "key": "LNFMAC-99534",
+  "name": "Edificio Calcolo-stanza 17",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmt347jhyr9ke7ft6qbt0b5",
+  "attributes": {
+    "key": "LNFMAC-99534",
+    "name": "Edificio Calcolo-stanza 17",
+    "created": "2023-05-16T09:43:48.000Z",
+    "updated": "2025-10-28T14:52:13.000Z",
+    "building": "14",
+    "piano": "2",
+    "stanza": "17"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

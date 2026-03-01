@@ -1,0 +1,29 @@
+{
+  "uid": "01kjmtda7qthvmmxn46jj1jrdq",
+  "key": "LNFELINP-133401",
+  "name": "scelimxa1004",
+  "type": "Converter",
+  "schemaUid": "01kjmswmas20maassgqcbfftwn",
+  "attributes": {
+    "key": "LNFELINP-133401",
+    "name": "scelimxa1004",
+    "created": "2025-02-18T15:45:56.000Z",
+    "updated": "2025-02-25T10:58:50.000Z",
+    "status": "Active",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Serial converter for ELI motors</p></div>",
+    "location": "01kjmtffhx8b9wtpnxnkz4dd8y",
+    "serial": "ELI107118",
+    "mac": "00:90:E8:48:E0:AE",
+    "registered": "LNFMAC-133677"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

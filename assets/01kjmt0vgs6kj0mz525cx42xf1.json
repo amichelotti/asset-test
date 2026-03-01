@@ -1,0 +1,28 @@
+{
+  "uid": "01kjmt0vgs6kj0mz525cx42xf1",
+  "key": "LNFT2-147423",
+  "name": "FP31-V-VUP-TRL-001",
+  "type": "Pipes",
+  "schemaUid": "01kjmswj24ztanq3qgnkvp2pqa",
+  "attributes": {
+    "key": "LNFT2-147423",
+    "name": "FP31-V-VUP-TRL-001",
+    "created": "2026-02-16T13:16:42.000Z",
+    "updated": "2026-02-16T14:13:33.000Z",
+    "owner": "LNFMAC-143538",
+    "alias": "FP31",
+    "locations": "01kjmt7r370xdn0j42yvjzveny",
+    "facility": "01kjmt9j6j1mcv5trkvxxa882e",
+    "vaccum_objects": "01kjmsx4w26hznz074rqk9gdes"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmt6ypx29vkxt6xb40v092a",
+  "key": "LNFMAC-12449",
+  "name": "BTF",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmt347jhyr9ke7ft6qbt0b5",
+  "attributes": {
+    "key": "LNFMAC-12449",
+    "name": "BTF",
+    "created": "2023-03-23T11:05:36.000Z",
+    "updated": "2025-10-28T14:52:13.000Z",
+    "building": "Dafne",
+    "area": "01kjmt70ta6gfpvde01sy7xa0v"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "uid": "01kjmsz2xdvavg6e28e9jsr4wr",
+  "key": "LNFT2-146401",
+  "name": "FP37-V-VLV-MAN-001",
+  "type": "Valves",
+  "schemaUid": "01kjmswgs0sd0jjg28kzg1p283",
+  "attributes": {
+    "key": "LNFT2-146401",
+    "name": "FP37-V-VLV-MAN-001",
+    "created": "2026-01-26T12:54:44.000Z",
+    "updated": "2026-01-26T12:54:44.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

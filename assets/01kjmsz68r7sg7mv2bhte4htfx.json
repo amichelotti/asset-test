@@ -1,0 +1,29 @@
+{
+  "uid": "01kjmsz68r7sg7mv2bhte4htfx",
+  "key": "LNFT2-145554",
+  "name": "FI7-W-CTR-MOT-001",
+  "type": "Motor Controllers",
+  "schemaUid": "01kjmswhdfqem9cxq0amh8byd1",
+  "attributes": {
+    "key": "LNFT2-145554",
+    "name": "FI7-W-CTR-MOT-001",
+    "s/n": "97102912",
+    "created": "2026-01-12T17:56:32.000Z",
+    "updated": "2026-02-23T13:27:01.000Z",
+    "status": "Uninstalled",
+    "owner": "LNFMAC-143535",
+    "locations": "01kjmt7q7nk4amnxyhwvd9y6sh",
+    "facility": "01kjmt9gz4b8xk8cqz1xea8sx2",
+    "hw_model": "01kjmt4yahh31j383g1x4kxxed"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

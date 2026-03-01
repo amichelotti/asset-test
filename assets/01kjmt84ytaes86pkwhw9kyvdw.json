@@ -1,0 +1,23 @@
+{
+  "uid": "01kjmt84ytaes86pkwhw9kyvdw",
+  "key": "LNFMAC-142182",
+  "name": "sala alimentatori Btf",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmt347jhyr9ke7ft6qbt0b5",
+  "attributes": {
+    "key": "LNFMAC-142182",
+    "name": "sala alimentatori Btf",
+    "created": "2025-09-09T12:12:40.000Z",
+    "updated": "2025-10-28T14:52:13.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

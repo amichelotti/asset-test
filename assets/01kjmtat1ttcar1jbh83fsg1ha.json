@@ -1,0 +1,29 @@
+{
+  "uid": "01kjmtat1ttcar1jbh83fsg1ha",
+  "key": "LNFELINP-112856",
+  "name": "sweli001",
+  "type": "Switch",
+  "schemaUid": "01kjmtaa2e75vtt6n65kg6k6y4",
+  "attributes": {
+    "key": "LNFELINP-112856",
+    "name": "sweli001",
+    "created": "2023-12-05T09:54:05.000Z",
+    "updated": "2024-09-06T09:11:28.000Z",
+    "status": "Active",
+    "alias": "ELI107118-073",
+    "description": "<p>Per prove SELCED (timing, camere,illuminatori)</p>",
+    "location": "01kjmtfhbznhdh113jbg3k46qc",
+    "serial": "ELI107118-073",
+    "mac": "78:48:59:B1:B9:B0"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

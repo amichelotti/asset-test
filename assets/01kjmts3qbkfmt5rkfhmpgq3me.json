@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmts3qbkfmt5rkfhmpgq3me",
+  "key": "LNFELINP-112550",
+  "name": "LEL-RF-WGS01:ISO01",
+  "type": "Beamline Assets",
+  "schemaUid": "01kjmtah5qrk84r8w8vjv34k5c",
+  "attributes": {
+    "key": "LNFELINP-112550",
+    "name": "LEL-RF-WGS01:ISO01",
+    "created": "2023-12-01T13:15:38.000Z",
+    "updated": "2023-12-01T13:15:38.000Z",
+    "layout": "01kjmtqqzgnssw3jd04brmhyvb",
+    "module": "WGS01"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

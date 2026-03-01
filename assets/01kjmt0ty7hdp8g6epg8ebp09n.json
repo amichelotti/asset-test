@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmt0ty7hdp8g6epg8ebp09n",
+  "key": "LNFT2-147440",
+  "name": " FP38-V-VUP-TRL-001",
+  "type": "Pipes",
+  "schemaUid": "01kjmswj24ztanq3qgnkvp2pqa",
+  "attributes": {
+    "key": "LNFT2-147440",
+    "name": " FP38-V-VUP-TRL-001",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Tratto discendente Probe</p></div>",
+    "created": "2026-02-16T14:02:36.000Z",
+    "updated": "2026-02-16T14:10:06.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

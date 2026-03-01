@@ -1,0 +1,27 @@
+{
+  "uid": "01kjmtytqactaqexw5zkjp3wkq",
+  "key": "LNFELINP-138462",
+  "name": "llrf04",
+  "type": "RF",
+  "schemaUid": "01kjmtac278n0ne8ptzsn7racf",
+  "attributes": {
+    "key": "LNFELINP-138462",
+    "name": "llrf04",
+    "created": "2025-06-13T07:52:10.000Z",
+    "updated": "2025-06-13T10:01:53.000Z",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>ELI -  C-BAND Libera LLRF4</p></div>",
+    "location": "01kjmtfg5ghmpcnb802eb23rgb",
+    "rack": "01kjmttqe4m22yv766847jzyew",
+    "model": "01kjmt51q5qkhn1ac425zbbx8q"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

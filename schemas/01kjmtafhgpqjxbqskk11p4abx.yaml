@@ -1,0 +1,104 @@
+{
+  "uid": "01kjmtafhgpqjxbqskk11p4abx",
+  "name": "BeamLine",
+  "description": null,
+  "parentSchemaUid": "01kjgmz32fycn1qenmtqss0f0z",
+  "isConcrete": true,
+  "attributes": [
+    {
+      "key": "key",
+      "name": "Key",
+      "type": "string",
+      "required": true,
+      "description": "Unique system-generated identifier",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "name",
+      "name": "Name",
+      "type": "string",
+      "required": true,
+      "description": "Object name",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "created",
+      "name": "Created",
+      "type": "datetime",
+      "required": true,
+      "description": "Creation timestamp",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "updated",
+      "name": "Updated",
+      "type": "datetime",
+      "required": true,
+      "description": "Last update timestamp",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "module",
+      "name": "Module",
+      "type": "string",
+      "required": false,
+      "description": "Module",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "layout",
+      "name": "Layout",
+      "type": "reference",
+      "required": false,
+      "description": "Layout",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "sequential",
+      "name": "Sequential",
+      "type": "string",
+      "required": false,
+      "description": "Sequential Number",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "previous_element",
+      "name": "Previous Element",
+      "type": "reference",
+      "required": false,
+      "description": "Previous Element",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "next_element",
+      "name": "Next Element",
+      "type": "reference",
+      "required": false,
+      "description": "Next Element",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "element",
+      "name": "Element",
+      "type": "reference",
+      "required": false,
+      "description": "Element",
+      "defaultValue": null,
+      "options": null
+    }
+  ],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

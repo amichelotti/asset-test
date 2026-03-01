@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmsx7yvph4ceyy055qjkg89",
+  "key": "LNFT2-146387",
+  "name": "FP6-V-PMP-TRB-001",
+  "type": "Secondary Pumps",
+  "schemaUid": "01kjmswhmc3djjwwnhkwr9j3nh",
+  "attributes": {
+    "key": "LNFT2-146387",
+    "name": "FP6-V-PMP-TRB-001",
+    "created": "2026-01-26T12:42:56.000Z",
+    "updated": "2026-01-26T12:42:56.000Z",
+    "hw_model": "01kjmt6dsr6254tzjkba7x0yye",
+    "primary_pump": "01kjmsx7bra2808pw9350ngj6z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

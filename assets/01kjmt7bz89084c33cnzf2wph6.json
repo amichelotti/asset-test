@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmt7bz89084c33cnzf2wph6",
+  "key": "LNFMAC-106293",
+  "name": "ELECTRONS MAIN RING - ES1",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmt347jhyr9ke7ft6qbt0b5",
+  "attributes": {
+    "key": "LNFMAC-106293",
+    "name": "ELECTRONS MAIN RING - ES1",
+    "created": "2023-09-30T17:07:51.000Z",
+    "updated": "2025-10-28T14:52:13.000Z",
+    "description": "<p>Short arc from IR1 to the symmetry point</p>",
+    "area": "01kjmt70ta6gfpvde01sy7xa0v"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "uid": "01kjmt52bd3whkj3n3x1n5j3ax",
+  "key": "LNFMAC-108333",
+  "name": "Libera Single Pass E",
+  "type": "BPM Models",
+  "schemaUid": "01kjmt37gme696kysxh20vr1q7",
+  "attributes": {
+    "key": "LNFMAC-108333",
+    "name": "Libera Single Pass E",
+    "created": "2023-10-03T07:02:02.000Z",
+    "updated": "2025-09-02T13:23:44.000Z",
+    "producer": "LNFMAC-108332",
+    "documentation": "https://confluence.infn.it/download/attachments/126910944/EPICS_IOC_User_Manual_Libera_Single_Pass_E_3.00.pdf?version=1&modificationDate=1688570657000&api=v2",
+    "git_repo": "https://github.com/infn-epics/epics-support-template-infn/tree/main/libera/libera-spe"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

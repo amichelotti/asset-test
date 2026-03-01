@@ -1,0 +1,28 @@
+{
+  "uid": "01kjmt3321txgnq91fhwt9yf5z",
+  "key": "LNFT2-147575",
+  "name": "FPRCK1-C-CNV-S2E-001",
+  "type": "Converter",
+  "schemaUid": "01kjmswmas20maassgqcbfftwn",
+  "attributes": {
+    "key": "LNFT2-147575",
+    "name": "FPRCK1-C-CNV-S2E-001",
+    "created": "2026-02-18T15:23:31.000Z",
+    "updated": "2026-02-24T11:04:57.000Z",
+    "status": "Active",
+    "owner": "LNFMAC-12817",
+    "locations": "LNFMAC-99548",
+    "facility": "LNFMAC-143536",
+    "hw_model": "LNFMAC-129439"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

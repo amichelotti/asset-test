@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmtfcjkg14qz7mc7dfjrgga",
+  "key": "LNFELINP-111835",
+  "name": "GP08",
+  "type": "Location",
+  "schemaUid": "01kjgmst8a6pt8z4bgznffsxk1",
+  "attributes": {
+    "key": "LNFELINP-111835",
+    "name": "GP08",
+    "created": "2023-11-30T09:27:24.000Z",
+    "updated": "2023-12-05T11:55:20.000Z",
+    "piano": "Ground floor"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

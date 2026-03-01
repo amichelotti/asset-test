@@ -1,0 +1,36 @@
+{
+  "uid": "01kjmte5s411bd0k5a2n15bbvh",
+  "key": "LNFELINP-119372",
+  "name": "plelievrkey001",
+  "type": "IO Controller",
+  "schemaUid": "01kjmtacqqs60ghvnmvregfx78",
+  "attributes": {
+    "key": "LNFELINP-119372",
+    "name": "plelievrkey001",
+    "created": "2024-04-09T14:33:46.000Z",
+    "updated": "2025-06-13T13:09:52.000Z",
+    "status": "Active",
+    "alias": "gen-cs-gp08-ioc6",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>I7-3517UE CPU</p><p>IP0: 192.168.200.75 now in DHCP under sparcmon lan</p><p></p><p>EVR : LIBERA x2 CAMERA x2</p><p>EVR: CAMERA x4</p><p>EVR: ADC x2</p><p>2 KEYSIGHT M9210A </p><p></p><p>second interface&nbsp;00:c0:88:01:43:79</p><p></p><p>root12</p><p></p><p></p></div>",
+    "location": "01kjmtf9v11symyfa7wqvhqdyq",
+    "serial": "ELI2420",
+    "rack": "01kjmtt91gwyjrzp6999hj44x6",
+    "mac": "00:c0:88:01:43:78",
+    "registered": "LNFMAC-133673",
+    "os": "Scientific Linux 6.3",
+    "ram": "8",
+    "cpu": "4",
+    "disk": "120",
+    "cards": "01kjmtfte43rch4brthh3awgv7"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

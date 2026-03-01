@@ -1,0 +1,26 @@
+{
+  "uid": "01kjmt4vkqe9pdxe1c31773wsj",
+  "key": "LNFMAC-143401",
+  "name": "IDP-15 ",
+  "type": "Vacuum Models",
+  "schemaUid": "01kjmt3898qx8hxgp39v30drcs",
+  "attributes": {
+    "key": "LNFMAC-143401",
+    "name": "IDP-15 ",
+    "created": "2025-10-23T10:09:25.000Z",
+    "updated": "2025-10-23T10:09:25.000Z",
+    "producer": "LNFMAC-109162",
+    "documentation": "https://www.agilent.com/en/product/vacuum-technologies/dry-scroll-pumps/idp-pumps/idp-15-dry-scroll-pump",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><h1>IDP-15 Dry Scroll Pump</h1><p>The Agilent IDP-15 dry scroll pump is an oil-free, compact, low noise, high performance, isolated vacuum pump. It provides exceptionally quiet, vibration-free, rapid pump down, making it suitable for applications in the reseach, analytical instrument, and laboratory markets.</p><p>IDP pumps are hermetic, with the motor and bearings completely isolated from the vacuum path in a design that extends bearing life and provides clean, dry vacuum. IDP pumps use a single-sided scroll design that offers a 15-minute maintenance procedure. The optional fail safe isolation valve prevents accidental contamination and adds no extra height to the pump.</p><table data-number-column=\"false\" data-layout=\"default\" data-autosize=\"false\" data-table-local-id=\"b4abaedf-581b-4338-a20e-88150f72bffb\"><tbody><tr><td class=\"pm-table-cell-content-wrap\"><p>Base pressure (50 Hz) - Torr &amp; mbar</p></td><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>1.3 x 10<sup>-2</sup> mbar</p></li><li><p>1 x 10<sup>-2</sup> Torr</p></li></ul></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Base pressure (60 Hz) - Torr &amp; mbar</p></td><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>1.3 x 10<sup>-2</sup> mbar</p></li><li><p>1 x 10<sup>-2</sup> Torr</p></li></ul></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Dimensions (WxHxL)</p></td><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>13.1 in x 14.3 in x 19.1 in</p></li></ul></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Exhaust Connection</p></td><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>NW16</p></li></ul></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Height</p></td><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>14.3 in</p></li></ul></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Inlet Connection</p></td><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>NW25</p></li></ul></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Input Voltage</p></td><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>100-115</p></li><li><p>220-230 VAC</p></li></ul></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Length</p></td><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>19.1 in</p></li></ul></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Maximum Inlet Pressure</p></td><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>1.0 atm (0 psig)</p></li></ul></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Noise Level</p></td><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>50 dB(A)</p></li></ul></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Operating Environment Temperature</p></td><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>5 to 40 °C</p></li><li><p>41 to 104 °F</p></li></ul></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Pumping Speed (50 Hz)</p></td><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>12.8 m<sup>3</sup>/h</p></li><li><p>214 L/min</p></li><li><p>7.5 CFM</p></li></ul></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Pumping Speed (60 Hz)</p></td><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>15.4 m<sup>3</sup>/h</p></li><li><p>256 L/min</p></li><li><p>9.1 CFM</p></li></ul></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Shipping Weight</p></td><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>54 kg</p></li><li><p>118 lbs</p></li></ul></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Weight (pump only)</p></td><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>30 kg</p></li><li><p>66 lbs</p></li></ul></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Width</p></td><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>13.1 in</p></li></ul></td></tr></tbody></table><p></p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

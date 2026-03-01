@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmtfbjrxmy1vh24zqb0p5t0",
+  "key": "LNFELINP-111860",
+  "name": "GP06",
+  "type": "Location",
+  "schemaUid": "01kjgmst8a6pt8z4bgznffsxk1",
+  "attributes": {
+    "key": "LNFELINP-111860",
+    "name": "GP06",
+    "created": "2023-11-30T09:53:20.000Z",
+    "updated": "2023-12-05T11:56:50.000Z",
+    "piano": "Ground"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

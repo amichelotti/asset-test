@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmt59rnpp4jdjtfqs72ta5c",
+  "key": "LNFMAC-147737",
+  "name": "MXC-6322D",
+  "type": "Host Models",
+  "schemaUid": "01kjmt34m7g9xkmx752k21kgqc",
+  "attributes": {
+    "key": "LNFMAC-147737",
+    "name": "MXC-6322D",
+    "created": "2026-02-24T10:23:04.000Z",
+    "updated": "2026-02-24T10:24:29.000Z",
+    "producer": "LNFMAC-147735",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Sempre fuori produzione</p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

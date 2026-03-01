@@ -1,0 +1,23 @@
+{
+  "uid": "01kjmtfj6qbypzhrj8hheqvc43",
+  "key": "LNFELINP-131817",
+  "name": "ufficio andrea",
+  "type": "Location",
+  "schemaUid": "01kjgmst8a6pt8z4bgznffsxk1",
+  "attributes": {
+    "key": "LNFELINP-131817",
+    "name": "ufficio andrea",
+    "created": "2025-01-31T10:27:36.000Z",
+    "updated": "2025-01-31T10:27:36.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

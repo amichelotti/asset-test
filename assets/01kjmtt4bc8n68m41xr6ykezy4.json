@@ -1,0 +1,28 @@
+{
+  "uid": "01kjmtt4bc8n68m41xr6ykezy4",
+  "key": "LNFELINP-129490",
+  "name": "LEL-VAC-WGS01:VPCON06",
+  "type": "Vacuum Controller",
+  "schemaUid": "01kjmtahczktfqfcjwwjzkg7zf",
+  "attributes": {
+    "key": "LNFELINP-129490",
+    "name": "LEL-VAC-WGS01:VPCON06",
+    "created": "2024-12-05T14:52:13.000Z",
+    "updated": "2025-11-06T16:49:18.000Z",
+    "status": "Active",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Vacuum Ion Pump Controller</p><p></p></div>",
+    "location": "01kjmtfg5ghmpcnb802eb23rgb",
+    "rack": "01kjmttxzam1681esy96qg6awg",
+    "type": "VPC"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uid": "01kjmsy757wwja9gzx1q572cst",
+  "key": "LNFT2-144331",
+  "name": "FP2-W-SLT-MMR-001",
+  "type": "Motors",
+  "schemaUid": "01kjmswg4nwcrbdqbzgsmkn5j2",
+  "attributes": {
+    "key": "LNFT2-144331",
+    "name": "FP2-W-SLT-MMR-001",
+    "created": "2025-11-24T17:30:05.000Z",
+    "updated": "2026-02-11T11:30:37.000Z",
+    "status": "Uninstalled",
+    "owner": "LNFMAC-143538",
+    "locations": "01kjmt7r370xdn0j42yvjzveny",
+    "facility": "01kjmt9j6j1mcv5trkvxxa882e",
+    "hw_model": "01kjmt6fa241fzzbjvgb9ma0qa"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

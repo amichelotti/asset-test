@@ -1,0 +1,29 @@
+{
+  "uid": "01kjmt10me7ymrx4ja9sytysfe",
+  "key": "LNFT2-147428",
+  "name": "FP2-V-CHM-TRL-001",
+  "type": "Chambers",
+  "schemaUid": "01kjmswjg2m1bxrb12bv11q59y",
+  "attributes": {
+    "key": "LNFT2-147428",
+    "name": "FP2-V-CHM-TRL-001",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Camera del periscopio (MAIN):</p><p>Se la posizione della slitta è XXX allora il periscopio è uscito ed il fascio va dritto verso SPARC.</p><p>Se la posizione della slitta è YYY allora il periscopio intercetta il fascio e manda il laser nel compressore e quindi FLAME</p></div>",
+    "created": "2026-02-16T13:50:32.000Z",
+    "updated": "2026-02-16T13:54:12.000Z",
+    "status": "Active",
+    "owner": "LNFMAC-143538",
+    "locations": "01kjmt7r370xdn0j42yvjzveny",
+    "facility": "01kjmt9j6j1mcv5trkvxxa882e",
+    "objects": "01kjmsy5vxdvcax24201gys0pp"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "uid": "01kjmty9d4zmdghw22b8hd4e0p",
+  "key": "LNFELINP-111960",
+  "name": "VCOR04-CAB031",
+  "type": "Cabling",
+  "schemaUid": "01kjmswgzg2ysjf4bv45zx0f1h",
+  "attributes": {
+    "key": "LNFELINP-111960",
+    "name": "VCOR04-CAB031",
+    "created": "2023-11-30T12:02:41.000Z",
+    "updated": "2023-11-30T12:02:41.000Z",
+    "description": "V Corrector Type B2 Single plane",
+    "connector1_pair": "01kjmtcxv6e7vytsewrtsa18xd",
+    "connector2_pair": "01kjmttevens8nwdqctt03y5s8",
+    "connector1_desc": "cable lugs",
+    "connector2_desc": "cable lugs",
+    "connection_type_desc": "bolted",
+    "cable_type_desc": "1xFG7OR 2x4mmq"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

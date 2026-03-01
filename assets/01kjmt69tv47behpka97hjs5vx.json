@@ -1,0 +1,26 @@
+{
+  "uid": "01kjmt69tv47behpka97hjs5vx",
+  "key": "LNFMAC-143395",
+  "name": "TPG 366 control unit",
+  "type": "Vacuum Models",
+  "schemaUid": "01kjmt3898qx8hxgp39v30drcs",
+  "attributes": {
+    "key": "LNFMAC-143395",
+    "name": "TPG 366 control unit",
+    "created": "2025-10-23T09:42:35.000Z",
+    "updated": "2025-10-23T09:59:59.000Z",
+    "producer": "LNFMAC-143394",
+    "documentation": "https://vacuum-shop.com/shop/en_US/category/2073523/product/pt-g28770/{{result.url}}",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><h1>TPG 366 control unit</h1><table data-number-column=\"false\" data-layout=\"default\" data-autosize=\"false\" data-table-local-id=\"f9138906-ee23-4305-ba47-1ab6a77b3d54\"><tbody><tr><th class=\"pm-table-header-content-wrap\"><p>Connection for gauge</p></th><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>6</p></li></ul></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Display rate</p></th><td class=\"pm-table-cell-content-wrap\"><p>10 Hz</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Automatic changeover: Pirani cold cathode</p></th><td class=\"pm-table-cell-content-wrap\"><p>Configurable</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>I/O interfaces</p></th><td class=\"pm-table-cell-content-wrap\"><p>USB, RS-485, Ethernet</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Input voltage(s)</p></th><td class=\"pm-table-cell-content-wrap\"><p>100 – 240&nbsp;V AC, 50/60 Hz</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Error signal: Working contact, potential-free</p></th><td class=\"pm-table-cell-content-wrap\"><p>1 pcs.</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Filter time constant, rapid/normal/slow</p></th><td class=\"pm-table-cell-content-wrap\"><p>0.02&nbsp;s / 0.15&nbsp;s / 0.75&nbsp;s</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Weight</p></th><td class=\"pm-table-cell-content-wrap\"><p>2.2 kg</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Power consumption max.</p></th><td class=\"pm-table-cell-content-wrap\"><p>200 VA</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Measuring range</p></th><td class=\"pm-table-cell-content-wrap\"><p>5E-11&nbsp;–&nbsp;5.5E4&nbsp;hPa</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Measuring channel</p></th><td class=\"pm-table-cell-content-wrap\"><p>6 pcs.</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Measurement rate</p></th><td class=\"pm-table-cell-content-wrap\"><p>100 Hz</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Motor for region</p></th><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>Worldwide</p></li></ul></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Mains frequency compatibility</p></th><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>50 Hz</p></li><li><p>60 Hz</p></li></ul></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Number of switch-points</p></th><td class=\"pm-table-cell-content-wrap\"><p>6 pcs.</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Switch-point: Voltage AC</p></th><td class=\"pm-table-cell-content-wrap\"><p>30 V AC</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Switch-point: Voltage DC</p></th><td class=\"pm-table-cell-content-wrap\"><p>60 V DC</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Switch-point: Current AC</p></th><td class=\"pm-table-cell-content-wrap\"><p>1 A</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Switch-point: Current DC</p></th><td class=\"pm-table-cell-content-wrap\"><p>0.5 A</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Protection degree</p></th><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>IP30</p></li></ul></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Safety</p></th><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>CE</p></li><li><p>UL</p></li></ul></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Signal output: Measured value, analog</p></th><td class=\"pm-table-cell-content-wrap\"><p>0&nbsp;–&nbsp;10&nbsp;V</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Ambient temperature</p></th><td class=\"pm-table-cell-content-wrap\"><p>5 – 50&nbsp;°C</p></td></tr></tbody></table><p></p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

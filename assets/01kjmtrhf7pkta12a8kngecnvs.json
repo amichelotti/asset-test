@@ -1,0 +1,28 @@
+{
+  "uid": "01kjmtrhf7pkta12a8kngecnvs",
+  "key": "LNFELINP-134118",
+  "name": "bdelilibera01",
+  "type": "BPM Controller",
+  "schemaUid": "01kjmtagy478d7asyj6qjwzhv3",
+  "attributes": {
+    "key": "LNFELINP-134118",
+    "name": "bdelilibera01",
+    "created": "2025-03-07T13:34:12.000Z",
+    "updated": "2025-09-10T13:30:44.000Z",
+    "status": "Broken",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>lucina rossa e libera-spe process crashing.</p><p>184 &nbsp; 1973-09-27 19:17:44&nbsp; &nbsp; 21 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Error</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Failed to set time for board(s). (BoardBits)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (60)</p><p>[&nbsp; 312.565870] libera-spe[1326]: segfault at 0 ip 080c974f sp bfc84c20 error 4 in libera-spe[8048000+d4000]</p></div>",
+    "location": "01kjmtf9v11symyfa7wqvhqdyq",
+    "rack": "01kjmttaf02z66k32rr97hpn0z",
+    "registered": "LNFMAC-133919"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

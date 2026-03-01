@@ -1,0 +1,27 @@
+{
+  "uid": "01kjmt4eetv1e4s3660x9w5kgc",
+  "key": "LNFMAC-126911",
+  "name": "H12DST-B",
+  "type": "Host Models",
+  "schemaUid": "01kjmt34m7g9xkmx752k21kgqc",
+  "attributes": {
+    "key": "LNFMAC-126911",
+    "name": "H12DST-B",
+    "created": "2024-09-18T12:00:07.000Z",
+    "updated": "2025-05-07T16:39:22.000Z",
+    "producer": "LNFMAC-126909",
+    "cpu": "2",
+    "cpu_type": "AMD EPYC 7282 16-Core Processor",
+    "memory": "128"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uid": "01kjmsy7s542jg3c5486n4rzvh",
+  "key": "LNFT2-146436",
+  "name": "FP3-W-MOT-HMN-001",
+  "type": "Motors",
+  "schemaUid": "01kjmswg4nwcrbdqbzgsmkn5j2",
+  "attributes": {
+    "key": "LNFT2-146436",
+    "name": "FP3-W-MOT-HMN-001",
+    "created": "2026-01-27T10:02:51.000Z",
+    "updated": "2026-01-27T10:02:51.000Z",
+    "status": "Active",
+    "owner": "LNFMAC-143535",
+    "locations": "01kjmt7r370xdn0j42yvjzveny",
+    "facility": "01kjmt9gz4b8xk8cqz1xea8sx2",
+    "hw_model": "01kjmt61fs2f06ask7r2jh4bgp"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

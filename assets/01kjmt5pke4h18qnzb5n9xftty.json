@@ -1,0 +1,26 @@
+{
+  "uid": "01kjmt5pke4h18qnzb5n9xftty",
+  "key": "LNFMAC-143358",
+  "name": "PIAK10VF",
+  "type": "Motor Models",
+  "schemaUid": "01kjmt39crpw2xm01j8xq1x1x6",
+  "attributes": {
+    "key": "LNFMAC-143358",
+    "name": "PIAK10VF",
+    "created": "2025-10-22T09:56:37.000Z",
+    "updated": "2025-10-22T09:56:37.000Z",
+    "producer": "LNFMAC-143356",
+    "vendor": "LNFMAC-143357",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>PIAK10VF - 10 mm Travel, Vacuum-Compatible Piezo Inertia Actuator, 1/4\"-100 Mounting Thread </p><p><a href=\"https://www.thorlabs.com/thorproduct.cfm?partnumber=PIAK10VF\">https://www.thorlabs.com/thorproduct.cfm?partnumber=PIAK10VF</a></p><p></p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

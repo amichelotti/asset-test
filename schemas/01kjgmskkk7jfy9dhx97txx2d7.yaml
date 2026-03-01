@@ -1,0 +1,13 @@
+{
+  "uid": "01kjgmskkk7jfy9dhx97txx2d7",
+  "name": "LNF Divisione Acceleratori",
+  "description": null,
+  "parentSchemaUid": null,
+  "isConcrete": true,
+  "attributes": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

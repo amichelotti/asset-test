@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmtfssvmsg8my09qz7mn69w",
+  "key": "LNFELINP-133708",
+  "name": "EVR01",
+  "type": "Timing",
+  "schemaUid": "01kjmtaekr3zh21z2dd4dr1hjy",
+  "attributes": {
+    "key": "LNFELINP-133708",
+    "name": "EVR01",
+    "created": "2025-02-26T12:30:53.000Z",
+    "updated": "2025-02-26T12:39:09.000Z",
+    "status": "Active",
+    "alias": "EVR_LAS"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

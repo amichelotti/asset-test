@@ -1,0 +1,27 @@
+{
+  "uid": "01kjmt5930k48fvarnx5b7xfbw",
+  "key": "LNFMAC-104841",
+  "name": "mtca-evr-300u",
+  "type": "Timing Models",
+  "schemaUid": "01kjmt378r04qwm9cn6kqa8q1t",
+  "attributes": {
+    "key": "LNFMAC-104841",
+    "name": "mtca-evr-300u",
+    "created": "2023-09-25T14:52:08.000Z",
+    "updated": "2025-09-02T13:25:36.000Z",
+    "producer": "LNFMAC-104839",
+    "vendor": "LNFMAC-104839",
+    "documentation": "http://mrf.fi/index.php/mtca-products/120-mtca-event-receiver-mtca-evr-300u",
+    "git_repo": "https://github.com/epics-modules/mrfioc2"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

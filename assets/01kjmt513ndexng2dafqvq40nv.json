@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmt513ndexng2dafqvq40nv",
+  "key": "LNFMAC-108777",
+  "name": "Libera Brilliance Single Pass",
+  "type": "BPM Models",
+  "schemaUid": "01kjmt37gme696kysxh20vr1q7",
+  "attributes": {
+    "key": "LNFMAC-108777",
+    "name": "Libera Brilliance Single Pass",
+    "created": "2023-10-03T16:07:15.000Z",
+    "updated": "2025-09-02T13:24:21.000Z",
+    "producer": "LNFMAC-108332",
+    "git_repo": "https://github.com/infn-epics/epics-support-template-infn/tree/main/libera/libera-sppp"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "uid": "01kjmt5ttr42qehrb9qcqv5vda",
+  "key": "LNFMAC-104896",
+  "name": "prl-2572",
+  "type": "Timing Models",
+  "schemaUid": "01kjmt378r04qwm9cn6kqa8q1t",
+  "attributes": {
+    "key": "LNFMAC-104896",
+    "name": "prl-2572",
+    "created": "2023-09-26T12:38:39.000Z",
+    "updated": "2023-09-27T10:19:05.000Z",
+    "producer": "LNFMAC-104895",
+    "documentation": "https://www.pulseresearchlab.com/products/prl-257-2?_pos=2&_sid=677c86880&_ss=r?variant=40597761196147",
+    "description": "<p>PRL-257-2 6 GHz PROGRAMMABLE 2φ FREQUENCY DIVIDER.</p><p>The PRL-257-2 is an AC-coupled input, manually programmable, two phase frequency divider with two sets of complementary NECL outputs. It is capable of running at input frequencies in excess of 6.6 GHz. It has a common divide-by-2 pre-scalar front end followed by two banks of independent manually programmable dividers, φ1and φ2. The f/2 pre-scalar output is further divided by 1, 2, 4, or 8 for the φ1 bank via D0 and D1 of a two-bit DIP switch, providing a maximum ratio of 16. It is divided by 2, 4, 8 or 16 for the φ2 bank via D2 and D3 of a second two-bit DIP switch, providing a maximum ratio of 32. All outputs are synchronous with the input frequency and are square waves (50% duty cycle) suitable for driving long lines terminated into 50 Ω/-2 V or AC-coupled 50 Ω loads. The PRL-257-2 is ideal for applications where a high frequency divider or pre-scalar is needed for triggering or downsampling. The two phases of output enable applications requiring two different ratios from a common reference frequency. Applications for the PRL-257-2 include data acquisition, test, measurement, R&amp;D, and system integration. The unit includes an AC adapter for ready-to-use convenience on the bench or in a system. All I/O connectors are SMA. The extruded aluminum housing is suitable for mounting with the optional brackets.</p>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

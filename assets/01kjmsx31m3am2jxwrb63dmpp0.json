@@ -1,0 +1,31 @@
+{
+  "uid": "01kjmsx31m3am2jxwrb63dmpp0",
+  "key": "LNFT2-147732",
+  "name": "FICTR1-V-PMP-CTR-006",
+  "type": "Secondary Pumps",
+  "schemaUid": "01kjmswhmc3djjwwnhkwr9j3nh",
+  "attributes": {
+    "key": "LNFT2-147732",
+    "name": "FICTR1-V-PMP-CTR-006",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Alimentatore della pompa FI8-V-PMP-TRB-001 della camera di Interazione di FLAME. Al momento si chiama 1 ed è in prossimità della camera e non del rack.</p></div>",
+    "created": "2026-02-24T09:42:51.000Z",
+    "updated": "2026-02-24T09:42:51.000Z",
+    "status": "Active",
+    "owner": "LNFMAC-143538",
+    "locations": "01kjmt7q7nk4amnxyhwvd9y6sh",
+    "facility": "01kjmt9j6j1mcv5trkvxxa882e",
+    "hw_model": "01kjmt4ms5nac64h8zvhrgkve5",
+    "hw_connection": "01kjmswxwjbfrtsge48eb6ac87",
+    "rack": "LNFMAC-147210"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

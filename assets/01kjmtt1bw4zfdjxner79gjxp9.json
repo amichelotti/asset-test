@@ -1,0 +1,27 @@
+{
+  "uid": "01kjmtt1bw4zfdjxner79gjxp9",
+  "key": "LNFELINP-111742",
+  "name": "LEL-VAC-VPCON4",
+  "type": "Vacuum Controller",
+  "schemaUid": "01kjmtahczktfqfcjwwjzkg7zf",
+  "attributes": {
+    "key": "LNFELINP-111742",
+    "name": "LEL-VAC-VPCON4",
+    "created": "2023-11-29T22:26:33.000Z",
+    "updated": "2025-11-14T09:13:29.000Z",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Ion pump 75 l/s Vacuum controller - Connected to moxa port 8</p><p></p></div>",
+    "location": "01kjmtf8m7fd1x5f4bs7s0jtpj",
+    "connector": "01kjmtyj6r8rnm1c0fmv614r2n",
+    "type": "VPC"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmt7g1z3rtf1p14cb8qx4z7",
+  "key": "LNFMAC-106301",
+  "name": "INTERACTION REGIONS - I2",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmt347jhyr9ke7ft6qbt0b5",
+  "attributes": {
+    "key": "LNFMAC-106301",
+    "name": "INTERACTION REGIONS - I2",
+    "created": "2023-09-30T17:12:55.000Z",
+    "updated": "2025-10-28T14:52:13.000Z",
+    "description": "<p>I2 Interaction Region</p>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

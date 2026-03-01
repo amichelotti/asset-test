@@ -1,0 +1,23 @@
+{
+  "uid": "01kjmt8833gx0xbp1p91pnn2vs",
+  "key": "LNFMAC-99538",
+  "name": "Sala Controllo SPARC - SR (Server Room)",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmt347jhyr9ke7ft6qbt0b5",
+  "attributes": {
+    "key": "LNFMAC-99538",
+    "name": "Sala Controllo SPARC - SR (Server Room)",
+    "created": "2023-05-16T14:31:03.000Z",
+    "updated": "2025-10-28T14:52:13.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

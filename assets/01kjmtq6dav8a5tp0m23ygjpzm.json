@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmtq6dav8a5tp0m23ygjpzm",
+  "key": "LNFELINP-138623",
+  "name": "M4-029",
+  "type": "Layout",
+  "schemaUid": "01kjmtag03qp3w41gkj3vpfwvh",
+  "attributes": {
+    "key": "LNFELINP-138623",
+    "name": "M4-029",
+    "created": "2025-06-18T15:14:36.000Z",
+    "updated": "2025-06-18T15:14:36.000Z",
+    "location": "01kjmtf8m7fd1x5f4bs7s0jtpj",
+    "module": "M4"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmt7n7230he9j8bx6q1j090",
+  "key": "LNFMAC-108755",
+  "name": "Linac C-Band",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmt347jhyr9ke7ft6qbt0b5",
+  "attributes": {
+    "key": "LNFMAC-108755",
+    "name": "Linac C-Band",
+    "created": "2023-10-03T15:35:49.000Z",
+    "updated": "2025-10-28T14:52:13.000Z",
+    "area": "01kjmt8r5348175bxgc2bn1t4r"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "uid": "01kjmtyndtj41r98sdjj2m21qt",
+  "key": "LNFELINP-138522",
+  "name": "LLRF-TSRF1-C01",
+  "type": "RF",
+  "schemaUid": "01kjmtac278n0ne8ptzsn7racf",
+  "attributes": {
+    "key": "LNFELINP-138522",
+    "name": "LLRF-TSRF1-C01",
+    "created": "2025-06-16T10:29:42.000Z",
+    "updated": "2025-06-16T10:29:42.000Z",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>LIBERA Analog F.E. C01 6 GHz</p><p>MAC:00:26:32:2F:90:00</p><p></p></div>",
+    "location": "01kjmtfg5ghmpcnb802eb23rgb",
+    "rack": "01kjmttqe4m22yv766847jzyew",
+    "model": "01kjmt51q5qkhn1ac425zbbx8q"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

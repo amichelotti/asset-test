@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmt8dz1fad7mxyvk31q149n",
+  "key": "LNFMAC-12815",
+  "name": "Sala LAT",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmt347jhyr9ke7ft6qbt0b5",
+  "attributes": {
+    "key": "LNFMAC-12815",
+    "name": "Sala LAT",
+    "created": "2023-04-20T12:44:20.000Z",
+    "updated": "2025-10-28T14:52:13.000Z",
+    "building": "Dafne",
+    "stanza": "41"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

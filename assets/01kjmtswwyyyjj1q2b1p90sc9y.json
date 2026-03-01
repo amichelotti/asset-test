@@ -1,0 +1,28 @@
+{
+  "uid": "01kjmtswwyyyjj1q2b1p90sc9y",
+  "key": "LNFELINP-111737",
+  "name": "LEL-VAC-VGCON02",
+  "type": "Vacuum Controller",
+  "schemaUid": "01kjmtahczktfqfcjwwjzkg7zf",
+  "attributes": {
+    "key": "LNFELINP-111737",
+    "name": "LEL-VAC-VGCON02",
+    "created": "2023-11-29T22:16:48.000Z",
+    "updated": "2026-02-08T18:35:03.000Z",
+    "status": "Active",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Cold cathode vacuum gauge - Agilent IMG300</p><p>&nbsp;</p><p>porta 3 seriale</p></div>.",
+    "location": "01kjmtf9v11symyfa7wqvhqdyq",
+    "rack": "01kjmttchb8rps7y8nqtvfk8d2",
+    "type": "VGC"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "uid": "01kjmtar7w96h64mtq8vwdpc6y",
+  "key": "LNFELINP-138354",
+  "name": "sw-oxgs-ssrip-dist4",
+  "type": "Switch",
+  "schemaUid": "01kjmtaa2e75vtt6n65kg6k6y4",
+  "attributes": {
+    "key": "LNFELINP-138354",
+    "name": "sw-oxgs-ssrip-dist4",
+    "created": "2025-06-11T08:54:15.000Z",
+    "updated": "2025-06-12T13:00:10.000Z",
+    "status": "Active",
+    "location": "01kjmtf9v11symyfa7wqvhqdyq",
+    "rack": "01kjmttfns9wrpmskvq83tfv6a",
+    "model": "01kjgmxk7nzs59skhw31ycazga"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

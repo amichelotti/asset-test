@@ -1,0 +1,23 @@
+{
+  "uid": "01kjmt977ak2f82xnac5xhxwam",
+  "key": "LNFMAC-12434",
+  "name": "ripippo",
+  "type": "Electrical",
+  "schemaUid": "01kjmt34vbf366zxcvxvnsa48v",
+  "attributes": {
+    "key": "LNFMAC-12434",
+    "name": "ripippo",
+    "created": "2023-03-22T22:40:43.000Z",
+    "updated": "2023-03-23T17:00:06.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

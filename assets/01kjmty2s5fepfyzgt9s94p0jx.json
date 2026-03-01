@@ -1,0 +1,30 @@
+{
+  "uid": "01kjmty2s5fepfyzgt9s94p0jx",
+  "key": "LNFELINP-111995",
+  "name": "VALVP01-CAB008",
+  "type": "Cabling",
+  "schemaUid": "01kjmswgzg2ysjf4bv45zx0f1h",
+  "attributes": {
+    "key": "LNFELINP-111995",
+    "name": "VALVP01-CAB008",
+    "created": "2023-11-30T12:23:16.000Z",
+    "updated": "2023-11-30T12:23:16.000Z",
+    "description": "Sector Vacuum valve (PNEUMATIC) VAT series 48. DN63",
+    "connector1_pair": "01kjmtbz9kntq2amc77yd91vj6",
+    "connector2_pair": "01kjmttchb8rps7y8nqtvfk8d2",
+    "connector1_desc": "Souriau RS 474-855",
+    "connector2_desc": "Morsettiera Blister",
+    "connection_type_desc": "pin Ni",
+    "cable_type_desc": "FG7H1OR 10x0.5mmq                                          (DEF STAN 8C 16/0.2 SCR)"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

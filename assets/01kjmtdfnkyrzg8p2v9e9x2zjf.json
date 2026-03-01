@@ -1,0 +1,29 @@
+{
+  "uid": "01kjmtdfnkyrzg8p2v9e9x2zjf",
+  "key": "LNFELINP-113221",
+  "name": "GEN-CS-GP08:IOC03",
+  "type": "Server",
+  "schemaUid": "01kjmtacgwbpmdxgxay93ac05r",
+  "attributes": {
+    "key": "LNFELINP-113221",
+    "name": "GEN-CS-GP08:IOC03",
+    "created": "2023-12-19T11:37:55.000Z",
+    "updated": "2025-11-18T10:41:33.000Z",
+    "status": "Action Needed",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>xeon E3 1220 x4</p><p>codac &nbsp; &nbsp; 1729 &nbsp; &nbsp; 1&nbsp; 0 12:01 ?&nbsp; &nbsp; &nbsp; &nbsp; 00:00:00 /opt/codac-4.1/epics/base/bin/linux-x86_64/iocLogServer</p><p>codac &nbsp; &nbsp; 1822 &nbsp; &nbsp; 1&nbsp; 0 12:01 ?&nbsp; &nbsp; &nbsp; &nbsp; 00:00:00 /usr/bin/SCREEN -S iocelinp-gp08-ioc03 -c /etc/opt/codac-4.1/ioc-screenrc -d -m /opt/codac-4.1/apps/elinp-gp08-ioc03/bin/linux-x86_64/elinp-gp08-ioc03 /opt/codac-4.1/apps/elinp-gp08-ioc03/iocBoot/iocelinp-gp08-ioc03/st.cmd</p><p>codac &nbsp; &nbsp; 1823&nbsp; 1822&nbsp; 0 12:01 pts/1&nbsp; &nbsp; 00:00:00 /opt/codac-4.1/apps/elinp-gp08-ioc03/bin/linux-x86_64/elinp-gp08-ioc03 /opt/codac-4.1/apps/elinp-gp08-ioc03/iocBoot/iocelinp-gp08-ioc03/st.cmd</p><p>&nbsp;</p></div>",
+    "mac": "54:9f:35:23:9a:82",
+    "ram": "4",
+    "cpu": "4",
+    "disk": "64"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

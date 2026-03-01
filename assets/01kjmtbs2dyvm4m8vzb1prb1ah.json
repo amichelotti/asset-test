@@ -1,0 +1,30 @@
+{
+  "uid": "01kjmtbs2dyvm4m8vzb1prb1ah",
+  "key": "LNFELINP-138626",
+  "name": "LEL-VAC-IONP14",
+  "type": "Vacuum",
+  "schemaUid": "01kjmswjq8ppnr5h1qksfse1wg",
+  "attributes": {
+    "key": "LNFELINP-138626",
+    "name": "LEL-VAC-IONP14",
+    "created": "2025-06-18T15:36:04.000Z",
+    "updated": "2025-11-23T21:00:27.000Z",
+    "status": "Active",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Ion pump 75 l/s</p></div>",
+    "location": "01kjmtf8m7fd1x5f4bs7s0jtpj",
+    "layout": "01kjmtpz216k76e0s4593h51ah",
+    "module": "M4",
+    "type": "IONP",
+    "controller": "01kjmtt1bw4zfdjxner79gjxp9"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

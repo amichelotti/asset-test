@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmttm58qp6mw6sdns1vk2hf",
+  "key": "LNFELINP-111836",
+  "name": "R_RUF_02",
+  "type": "Rack",
+  "schemaUid": "01kjmtahm5hjgyfjzbmkqhghzw",
+  "attributes": {
+    "key": "LNFELINP-111836",
+    "name": "R_RUF_02",
+    "created": "2023-11-30T09:30:33.000Z",
+    "updated": "2025-02-27T08:10:29.000Z",
+    "alias": "Control + Network ",
+    "location": "01kjmtfg5ghmpcnb802eb23rgb"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

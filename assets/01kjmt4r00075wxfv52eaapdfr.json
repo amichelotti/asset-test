@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmt4r00075wxfv52eaapdfr",
+  "key": "LNFMAC-128362",
+  "name": "HPE OfficeConnect 1420 24p  ",
+  "type": "Switch Models",
+  "schemaUid": "01kjmt3518n3qta2qjy9ca11t9",
+  "attributes": {
+    "key": "LNFMAC-128362",
+    "name": "HPE OfficeConnect 1420 24p  ",
+    "created": "2024-11-06T10:04:44.000Z",
+    "updated": "2024-11-06T10:04:44.000Z",
+    "producer": "LNFMAC-99200",
+    "port_number": "24"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

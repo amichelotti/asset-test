@@ -1,0 +1,23 @@
+{
+  "uid": "01kjmt7hz7chfezftyr6tbcnk2",
+  "key": "LNFMAC-100434",
+  "name": "Laser",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmt347jhyr9ke7ft6qbt0b5",
+  "attributes": {
+    "key": "LNFMAC-100434",
+    "name": "Laser",
+    "created": "2023-06-15T12:51:03.000Z",
+    "updated": "2025-10-28T14:52:13.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

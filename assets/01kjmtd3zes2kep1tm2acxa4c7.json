@@ -1,0 +1,18 @@
+{
+  "uid": "01kjmtd3zes2kep1tm2acxa4c7",
+  "key": "LNFELINP-111825",
+  "name": "LEL-RF-GCAV",
+  "type": "RF",
+  "schemaUid": "01kjmtac278n0ne8ptzsn7racf",
+  "attributes": {},
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

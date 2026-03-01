@@ -1,0 +1,30 @@
+{
+  "uid": "01kjmtce3jaa1tr66qsg5jrba0",
+  "key": "LNFELINP-144314",
+  "name": "pippone",
+  "type": "Vacuum",
+  "schemaUid": "01kjmswjq8ppnr5h1qksfse1wg",
+  "attributes": {
+    "key": "LNFELINP-144314",
+    "name": "pippone",
+    "created": "2025-11-24T06:47:09.000Z",
+    "updated": "2025-11-24T07:51:42.000Z",
+    "status": "Active",
+    "description": "new desc",
+    "location": "01kjmtfb1mn32m8532jnsynbf9",
+    "rack": "01kjmttchb8rps7y8nqtvfk8d2",
+    "module": "module pipppo",
+    "cavo": "LNFMAC-108808",
+    "controller": "01kjmtswwyyyjj1q2b1p90sc9y"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

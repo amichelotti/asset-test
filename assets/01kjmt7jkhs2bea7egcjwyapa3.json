@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmt7jkhs2bea7egcjwyapa3",
+  "key": "LNFMAC-108756",
+  "name": "Linac  PWFA",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmt347jhyr9ke7ft6qbt0b5",
+  "attributes": {
+    "key": "LNFMAC-108756",
+    "name": "Linac  PWFA",
+    "created": "2023-10-03T15:36:54.000Z",
+    "updated": "2025-10-28T14:52:13.000Z",
+    "area": "01kjmt8r5348175bxgc2bn1t4r"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

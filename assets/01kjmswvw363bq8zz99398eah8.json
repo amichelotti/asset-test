@@ -1,0 +1,28 @@
+{
+  "uid": "01kjmswvw363bq8zz99398eah8",
+  "key": "LNFT2-147218",
+  "name": "FI8-V-PMP-PRY-001",
+  "type": "Primary Pump",
+  "schemaUid": "01kjmswgbe5pyv1rdaymnr3byf",
+  "attributes": {
+    "key": "LNFT2-147218",
+    "name": "FI8-V-PMP-PRY-001",
+    "created": "2026-02-11T12:09:11.000Z",
+    "updated": "2026-02-11T12:09:11.000Z",
+    "status": "Active",
+    "owner": "LNFMAC-143538",
+    "locations": "01kjmt7q7nk4amnxyhwvd9y6sh",
+    "facility": "01kjmt9j6j1mcv5trkvxxa882e",
+    "hw_model": "01kjmt6jjsdebez359d7ff3bzz"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

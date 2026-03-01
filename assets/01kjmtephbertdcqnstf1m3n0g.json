@@ -1,0 +1,27 @@
+{
+  "uid": "01kjmtephbertdcqnstf1m3n0g",
+  "key": "LNFELINP-111908",
+  "name": "LEL-DIA-SCN01:CAM01",
+  "type": "Diagnostic",
+  "schemaUid": "01kjmtad6paddmzxzmxeb8eykb",
+  "attributes": {
+    "key": "LNFELINP-111908",
+    "name": "LEL-DIA-SCN01:CAM01",
+    "created": "2023-11-30T11:44:38.000Z",
+    "updated": "2023-12-01T13:15:07.000Z",
+    "description": "Screen camera",
+    "layout": "01kjmtnxpd47q6rcb7ze8rn8mm",
+    "module": "M1",
+    "type": "SCNCAM"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

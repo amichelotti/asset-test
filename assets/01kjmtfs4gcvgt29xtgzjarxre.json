@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmtfs4gcvgt29xtgzjarxre",
+  "key": "LNFELINP-133707",
+  "name": "EVG01",
+  "type": "Timing",
+  "schemaUid": "01kjmtaekr3zh21z2dd4dr1hjy",
+  "attributes": {
+    "key": "LNFELINP-133707",
+    "name": "EVG01",
+    "created": "2025-02-26T12:29:42.000Z",
+    "updated": "2025-02-26T12:29:42.000Z",
+    "status": "Active",
+    "alias": "Event Generator"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

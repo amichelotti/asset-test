@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmsyr048r83qva93p6y3nx1",
+  "key": "LNFT2-147231",
+  "name": "FI31-V-VLV-MAN-001",
+  "type": "Valves",
+  "schemaUid": "01kjmswgs0sd0jjg28kzg1p283",
+  "attributes": {
+    "key": "LNFT2-147231",
+    "name": "FI31-V-VLV-MAN-001",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Angular Manual Valve</p><p></p></div>",
+    "created": "2026-02-11T14:33:00.000Z",
+    "updated": "2026-02-11T14:37:11.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

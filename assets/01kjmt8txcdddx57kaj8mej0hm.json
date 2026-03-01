@@ -1,0 +1,26 @@
+{
+  "uid": "01kjmt8txcdddx57kaj8mej0hm",
+  "key": "LNFMAC-99007",
+  "name": "Stanza 117 (Acquario)",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmt347jhyr9ke7ft6qbt0b5",
+  "attributes": {
+    "key": "LNFMAC-99007",
+    "name": "Stanza 117 (Acquario)",
+    "created": "2023-05-02T17:33:06.000Z",
+    "updated": "2025-10-28T14:52:13.000Z",
+    "piano": "1",
+    "stanza": "117",
+    "note": "Laboratorio con Rack Beta, Switch Lab controlli e UPS"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

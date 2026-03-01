@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmt91nbw4bccv7fnwr62hc6",
+  "key": "LNFMAC-107965",
+  "name": "UNDEFINED",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmt347jhyr9ke7ft6qbt0b5",
+  "attributes": {
+    "key": "LNFMAC-107965",
+    "name": "UNDEFINED",
+    "created": "2023-10-02T16:00:57.000Z",
+    "updated": "2025-10-28T14:52:13.000Z",
+    "description": "<p>Undefined, not specified (spare?)</p>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

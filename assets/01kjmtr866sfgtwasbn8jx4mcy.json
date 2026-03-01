@@ -1,0 +1,23 @@
+{
+  "uid": "01kjmtr866sfgtwasbn8jx4mcy",
+  "key": "LNFELINP-128472",
+  "name": "LEL-MAG-POLREV01",
+  "type": "powersupply",
+  "schemaUid": "01kjmtagfw09vtfv9fgvxw86bk",
+  "attributes": {
+    "key": "LNFELINP-128472",
+    "name": "LEL-MAG-POLREV01",
+    "created": "2024-11-08T15:50:16.000Z",
+    "updated": "2024-11-08T15:50:16.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "uid": "01kjmt8en837cnxttzby3a9fhv",
+  "key": "LNFMAC-101205",
+  "name": "Sala LAT Armadio metallico destra",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmt347jhyr9ke7ft6qbt0b5",
+  "attributes": {
+    "key": "LNFMAC-101205",
+    "name": "Sala LAT Armadio metallico destra",
+    "created": "2023-07-05T12:28:24.000Z",
+    "updated": "2025-10-28T14:52:13.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

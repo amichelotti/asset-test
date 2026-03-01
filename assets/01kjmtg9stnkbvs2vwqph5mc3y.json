@@ -1,0 +1,28 @@
+{
+  "uid": "01kjmtg9stnkbvs2vwqph5mc3y",
+  "key": "LNFELINP-127555",
+  "name": "polarity inverter",
+  "type": "IO System",
+  "schemaUid": "01kjmswkefmyvnxbjpk9wxqy1e",
+  "attributes": {
+    "key": "LNFELINP-127555",
+    "name": "polarity inverter",
+    "created": "2024-10-11T13:25:17.000Z",
+    "updated": "2025-03-07T13:19:56.000Z",
+    "status": "Active",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>ddeliicp6r6i001</p><p>ddeliicp6r6i002</p></div>",
+    "location": "01kjmtf9v11symyfa7wqvhqdyq",
+    "rack": "01kjmttfns9wrpmskvq83tfv6a",
+    "modules": "01kjmtfycvcer77jw9tfcn1cqn"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmt13mcvhd04ajz6e3apbx5",
+  "key": "LNFT2-147433",
+  "name": "FP7-V-CHM-TRL-001",
+  "type": "Chambers",
+  "schemaUid": "01kjmswjg2m1bxrb12bv11q59y",
+  "attributes": {
+    "key": "LNFT2-147433",
+    "name": "FP7-V-CHM-TRL-001",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Camera di trasporto del PROBE</p></div>",
+    "created": "2026-02-16T13:51:31.000Z",
+    "updated": "2026-02-16T14:00:37.000Z",
+    "objects": "01kjmsx8j4g7gb0vhrdcg2w5wj"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

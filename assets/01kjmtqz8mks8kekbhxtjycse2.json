@@ -1,0 +1,31 @@
+{
+  "uid": "01kjmtqz8mks8kekbhxtjycse2",
+  "key": "LNFELINP-111616",
+  "name": "LEL-MAG-CPSU01",
+  "type": "powersupply",
+  "schemaUid": "01kjmtagfw09vtfv9fgvxw86bk",
+  "attributes": {
+    "key": "LNFELINP-111616",
+    "name": "LEL-MAG-CPSU01",
+    "created": "2023-11-28T23:56:05.000Z",
+    "updated": "2024-12-05T12:35:29.000Z",
+    "status": "Active",
+    "description": "<p>H &amp; V Corrector Magnet Type A - Hor. coil</p><p>LEL-MAG-HCOR01 CHANNEL 1</p><p>LEL-MAG-VCOR01 CHANNEL 2</p><p>LEL-MAG-HCOR02 CHANNEL 3</p><p>LEL-MAG-VCOR02 CHANNEL 4</p><p>LEL-MAG-HCOR03 CHANNEL 5</p><p>LEL-MAG-VCOR03 CHANNEL 6</p>",
+    "location": "01kjmtf9v11symyfa7wqvhqdyq",
+    "rack": "01kjmtte0t1cx8h7hcpkb08wz9",
+    "max_current": "18",
+    "voltage": "7",
+    "power": "0.1",
+    "registered": "LNFMAC-129101"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

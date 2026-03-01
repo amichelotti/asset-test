@@ -1,0 +1,29 @@
+{
+  "uid": "01kjmtxg1xm78rfxerakq6kbea",
+  "key": "LNFELINP-112046",
+  "name": "KLY-CAB059",
+  "type": "Cabling",
+  "schemaUid": "01kjmswgzg2ysjf4bv45zx0f1h",
+  "attributes": {
+    "key": "LNFELINP-112046",
+    "name": "KLY-CAB059",
+    "created": "2023-11-30T12:23:57.000Z",
+    "updated": "2025-02-27T08:31:10.000Z",
+    "description": "ScandiNova RF Power Unit 60MW",
+    "connector1_pair": "01kjmtd5ya0cv022tf7ra2be16",
+    "connector1_desc": "terminal strips inside Modulator",
+    "connector2_desc": "cable LUG",
+    "connection_type_desc": "bolted",
+    "cable_type_desc": "FG16R16 3(1x50)+1G25"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

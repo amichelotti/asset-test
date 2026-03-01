@@ -1,0 +1,13 @@
+{
+  "uid": "01kjmswf6d3qppde8bh2b02v2k",
+  "name": "EUAPS",
+  "description": null,
+  "parentSchemaUid": null,
+  "isConcrete": true,
+  "attributes": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "uid": "01kjmtf9v11symyfa7wqvhqdyq",
+  "key": "LNFELINP-112085",
+  "name": "Corridor GP",
+  "type": "Location",
+  "schemaUid": "01kjgmst8a6pt8z4bgznffsxk1",
+  "attributes": {
+    "key": "LNFELINP-112085",
+    "name": "Corridor GP",
+    "created": "2023-11-30T17:05:41.000Z",
+    "updated": "2023-11-30T17:05:41.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

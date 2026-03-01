@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmt56jxepwam21mppaga1kh",
+  "key": "LNFMAC-143730",
+  "name": "MERCURY",
+  "type": "Controller Motor Models",
+  "schemaUid": "01kjmt341qktgqwcsj9z4tv6bt",
+  "attributes": {
+    "key": "LNFMAC-143730",
+    "name": "MERCURY",
+    "created": "2025-11-03T17:01:20.000Z",
+    "updated": "2025-11-03T17:01:20.000Z",
+    "producer": "LNFMAC-143354",
+    "documentation": "https://www.physikinstrumente.com/en/products/controllers-and-drivers/motion-controllers-drivers-for-linear-torque-stepper-dc-servo-motors/c-66312-mercury-step-stepper-motor-controller-900553"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

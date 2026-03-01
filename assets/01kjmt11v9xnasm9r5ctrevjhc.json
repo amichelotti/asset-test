@@ -1,0 +1,28 @@
+{
+  "uid": "01kjmt11v9xnasm9r5ctrevjhc",
+  "key": "LNFT2-147430",
+  "name": "FP4-V-CHM-TRL-001",
+  "type": "Chambers",
+  "schemaUid": "01kjmswjg2m1bxrb12bv11q59y",
+  "attributes": {
+    "key": "LNFT2-147430",
+    "name": "FP4-V-CHM-TRL-001",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Camera di trasporto (MAIN) che intercetta il fascio in due posizioni:</p><ol start=\"1\" class=\"ak-ol\"><li><p>La slitta rotative è in posizione XXX ed il fascio corto va giù verso il bunker</p></li><li><p>La slitta rotativa è in posizione YYY ed il fascio lungo va giù verso il bunker</p></li></ol><p></p></div>",
+    "created": "2026-02-16T13:50:41.000Z",
+    "updated": "2026-02-16T13:56:47.000Z",
+    "status": "Active",
+    "owner": "LNFMAC-143538",
+    "locations": "01kjmt7r370xdn0j42yvjzveny",
+    "objects": "01kjmsy91pc4p2tzgfcf9ffgep"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

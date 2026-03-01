@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmt9gbx99tzd0brr1a879kr",
+  "key": "LNFMAC-12423",
+  "name": "Dafne",
+  "type": "Facility",
+  "schemaUid": "01kjgmsw9p7pdpnnzkd680cahy",
+  "attributes": {
+    "key": "LNFMAC-12423",
+    "name": "Dafne",
+    "created": "2023-03-22T15:42:23.000Z",
+    "updated": "2025-09-02T13:59:28.000Z",
+    "location": "01kjmt70ta6gfpvde01sy7xa0v",
+    "manager": false
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

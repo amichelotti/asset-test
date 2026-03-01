@@ -1,0 +1,29 @@
+{
+  "uid": "01kjmth931b9bjdm2stc6r7n86",
+  "key": "LNFELINP-112357",
+  "name": "LEL-MAG-HCOR04",
+  "type": "BeamLine",
+  "schemaUid": "01kjmtafhgpqjxbqskk11p4abx",
+  "attributes": {
+    "key": "LNFELINP-112357",
+    "name": "LEL-MAG-HCOR04",
+    "created": "2023-11-30T23:37:27.000Z",
+    "updated": "2023-12-01T13:24:12.000Z",
+    "module": "M3",
+    "layout": "01kjmtpera47hqkxc9ms1722g2",
+    "sequential": "42",
+    "previous_element": "01kjmthpqqeykpqf92akjt1zsd",
+    "next_element": "01kjmthjzsn1gmfxan7d042f05",
+    "element": "01kjmtcjm49c96x3dcj0ckstqc"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

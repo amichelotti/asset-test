@@ -1,0 +1,30 @@
+{
+  "uid": "01kjmtvkk23ppvwd5cvcwz3e6f",
+  "key": "LNFELINP-111988",
+  "name": "COIL01-CAB001",
+  "type": "Cabling",
+  "schemaUid": "01kjmswgzg2ysjf4bv45zx0f1h",
+  "attributes": {
+    "key": "LNFELINP-111988",
+    "name": "COIL01-CAB001",
+    "created": "2023-11-30T12:23:10.000Z",
+    "updated": "2023-11-30T12:23:10.000Z",
+    "description": "Solenoid A coil 1",
+    "connector1_pair": "01kjmtcqptfw3hdzg1q7zh0t71",
+    "connector2_pair": "01kjmttfns9wrpmskvq83tfv6a",
+    "connector1_desc": "cable lugs",
+    "connector2_desc": "cable lugs",
+    "connection_type_desc": "bolted",
+    "cable_type_desc": "2xFG7R 150mmq  (see X-sect)"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

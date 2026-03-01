@@ -1,0 +1,28 @@
+{
+  "uid": "01kjmsyv1vb3m1x1t035kzkcbz",
+  "key": "LNFT2-147236",
+  "name": "FI34-V-VLV-MAN-001",
+  "type": "Valves",
+  "schemaUid": "01kjmswgs0sd0jjg28kzg1p283",
+  "attributes": {
+    "key": "LNFT2-147236",
+    "name": "FI34-V-VLV-MAN-001",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Manual Angular Valve</p></div>",
+    "created": "2026-02-11T14:34:45.000Z",
+    "updated": "2026-02-11T14:38:47.000Z",
+    "status": "Active",
+    "owner": "LNFMAC-143538",
+    "locations": "01kjmt7q7nk4amnxyhwvd9y6sh",
+    "facility": "01kjmt9gz4b8xk8cqz1xea8sx2"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

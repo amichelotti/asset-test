@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmt7z8hwv25ayt899cbyy2z",
+  "key": "LNFMAC-106296",
+  "name": "POSITRONS MAIN RING - PL1",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmt347jhyr9ke7ft6qbt0b5",
+  "attributes": {
+    "key": "LNFMAC-106296",
+    "name": "POSITRONS MAIN RING - PL1",
+    "created": "2023-09-30T17:09:52.000Z",
+    "updated": "2025-10-28T14:52:13.000Z",
+    "description": "<p>Long arc from e+ injection to IR1</p>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

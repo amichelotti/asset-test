@@ -1,0 +1,26 @@
+{
+  "uid": "01kjmt4xmd0dgzgmn086a61m2x",
+  "key": "LNFMAC-143726",
+  "name": "KDC101",
+  "type": "Controller Motor Models",
+  "schemaUid": "01kjmt341qktgqwcsj9z4tv6bt",
+  "attributes": {
+    "key": "LNFMAC-143726",
+    "name": "KDC101",
+    "created": "2025-11-03T16:43:35.000Z",
+    "updated": "2025-11-03T16:43:35.000Z",
+    "producer": "LNFMAC-143356",
+    "vendor": "LNFMAC-143357",
+    "documentation": "https://www.thorlabs.com/thorproduct.cfm?partnumber=KDC101"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

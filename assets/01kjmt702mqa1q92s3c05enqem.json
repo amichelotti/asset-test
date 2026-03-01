@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmt702mqa1q92s3c05enqem",
+  "key": "LNFMAC-12825",
+  "name": "CHAOS_LAB (T46)",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmt347jhyr9ke7ft6qbt0b5",
+  "attributes": {
+    "key": "LNFMAC-12825",
+    "name": "CHAOS_LAB (T46)",
+    "created": "2023-04-21T08:25:56.000Z",
+    "updated": "2025-10-28T14:52:13.000Z",
+    "area": "01kjmt7enb58yge8g0je1cg6wn"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

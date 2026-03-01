@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmt5b6qhegf66scf0381myv",
+  "key": "LNFMAC-103782",
+  "name": "NAS SENZA HARD DISK",
+  "type": "NAS Models",
+  "schemaUid": "01kjmt370y8861yc7bnjbgfw1j",
+  "attributes": {
+    "key": "LNFMAC-103782",
+    "name": "NAS SENZA HARD DISK",
+    "created": "2023-09-06T08:35:40.000Z",
+    "updated": "2023-10-06T08:05:13.000Z",
+    "inventory": "30277"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

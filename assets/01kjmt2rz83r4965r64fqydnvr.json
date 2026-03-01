@@ -1,0 +1,28 @@
+{
+  "uid": "01kjmt2rz83r4965r64fqydnvr",
+  "key": "LNFT2-145350",
+  "name": "FP3-B-CAM-BAS-001",
+  "type": "Cameras",
+  "schemaUid": "01kjmswk7as6hm10h3tj66epaa",
+  "attributes": {
+    "key": "LNFT2-145350",
+    "name": "FP3-B-CAM-BAS-001",
+    "created": "2026-01-08T17:01:02.000Z",
+    "updated": "2026-01-08T17:01:02.000Z",
+    "status": "Uninstalled",
+    "owner": "LNFMAC-143535",
+    "locations": "01kjmt7r370xdn0j42yvjzveny",
+    "facility": "01kjmt9gz4b8xk8cqz1xea8sx2",
+    "hw_model": "01kjgmv2nvevgq2nw798crd184"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

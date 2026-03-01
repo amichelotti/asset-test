@@ -1,0 +1,28 @@
+{
+  "uid": "01kjmtg0ja7h2zd479q94pwekp",
+  "key": "LNFELINP-126786",
+  "name": "illuminatore",
+  "type": "IO System",
+  "schemaUid": "01kjmswkefmyvnxbjpk9wxqy1e",
+  "attributes": {
+    "key": "LNFELINP-126786",
+    "name": "illuminatore",
+    "created": "2024-09-13T13:52:39.000Z",
+    "updated": "2025-09-11T06:31:30.000Z",
+    "status": "Active",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Illuminatore con icp7060</p><p>&nbsp;10.16.4.66 from 00:0d:e0:65:ef:77</p><p>ddeliicpillum001</p><p>Led connessi a Pin0: ICPDAS Relay0</p></div>",
+    "location": "01kjmtf9v11symyfa7wqvhqdyq",
+    "rack": "01kjmttb4hxn9ps59sb9pd5wp1",
+    "modules": "01kjmtfzqdnrx5cht3qxe6kyvw"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

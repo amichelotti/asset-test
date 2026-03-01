@@ -1,0 +1,29 @@
+{
+  "uid": "01kjmty0vmk4szxynnadg4r3nk",
+  "key": "LNFELINP-112035",
+  "name": "QUAD03-CAB048",
+  "type": "Cabling",
+  "schemaUid": "01kjmswgzg2ysjf4bv45zx0f1h",
+  "attributes": {
+    "key": "LNFELINP-112035",
+    "name": "QUAD03-CAB048",
+    "created": "2023-11-30T12:23:49.000Z",
+    "updated": "2025-02-27T08:29:16.000Z",
+    "description": "QUAD Type D",
+    "connector1_pair": "01kjmtcq0a4fft4g324nsks875",
+    "connector1_desc": "cable lugs",
+    "connector2_desc": "cable lugs",
+    "connection_type_desc": "bolted",
+    "cable_type_desc": "2xFG7R 35mmq (see X-sect)"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

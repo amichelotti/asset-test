@@ -1,0 +1,27 @@
+{
+  "uid": "01kjmt51q5qkhn1ac425zbbx8q",
+  "key": "LNFMAC-138458",
+  "name": "Libera LLRF",
+  "type": "RF Models",
+  "schemaUid": "01kjmt38fw15enjvg6nnsns6rb",
+  "attributes": {
+    "key": "LNFMAC-138458",
+    "name": "Libera LLRF",
+    "created": "2025-06-13T04:27:39.000Z",
+    "updated": "2025-09-02T12:10:27.000Z",
+    "producer": "LNFMAC-109382",
+    "documentation": "https://www.i-tech.si/products/libera-llrf/",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Embedded IOC</p></div>",
+    "git_repo": "https://github.com/infn-epics/epics-support-template-infn/tree/main/libera/libera-llrf"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

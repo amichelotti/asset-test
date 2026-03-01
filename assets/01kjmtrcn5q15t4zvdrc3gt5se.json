@@ -1,0 +1,31 @@
+{
+  "uid": "01kjmtrcn5q15t4zvdrc3gt5se",
+  "key": "LNFELINP-111614",
+  "name": "LEL-MAG-SPSU01",
+  "type": "powersupply",
+  "schemaUid": "01kjmtagfw09vtfv9fgvxw86bk",
+  "attributes": {
+    "key": "LNFELINP-111614",
+    "name": "LEL-MAG-SPSU01",
+    "created": "2023-11-28T23:56:04.000Z",
+    "updated": "2024-12-05T12:28:33.000Z",
+    "status": "Active",
+    "description": "<p>Solenoid A coil 1</p>",
+    "location": "01kjmtf9v11symyfa7wqvhqdyq",
+    "rack": "01kjmtte0t1cx8h7hcpkb08wz9",
+    "max_current": "200",
+    "voltage": "20",
+    "power": "4",
+    "registered": "LNFMAC-129098"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

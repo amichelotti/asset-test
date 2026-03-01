@@ -1,0 +1,26 @@
+{
+  "uid": "01kjmtmm3dezczw67jbe9vycsc",
+  "key": "LNFELINP-112427",
+  "name": "M1-001",
+  "type": "Layout",
+  "schemaUid": "01kjmtag03qp3w41gkj3vpfwvh",
+  "attributes": {
+    "key": "LNFELINP-112427",
+    "name": "M1-001",
+    "created": "2023-12-01T12:53:52.000Z",
+    "updated": "2023-12-01T12:53:52.000Z",
+    "location": "01kjmtf8m7fd1x5f4bs7s0jtpj",
+    "module": "M1",
+    "region": "REGION 1"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

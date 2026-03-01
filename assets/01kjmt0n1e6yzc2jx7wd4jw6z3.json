@@ -1,0 +1,29 @@
+{
+  "uid": "01kjmt0n1e6yzc2jx7wd4jw6z3",
+  "key": "LNFT2-147251",
+  "name": "FI8-V-VUG-FR-001",
+  "type": "Gauges",
+  "schemaUid": "01kjmswhv8w26vdg8e83dn916b",
+  "attributes": {
+    "key": "LNFT2-147251",
+    "name": "FI8-V-VUG-FR-001",
+    "created": "2026-02-11T14:55:19.000Z",
+    "updated": "2026-02-11T14:55:19.000Z",
+    "status": "Active",
+    "owner": "LNFMAC-143538",
+    "locations": "01kjmt7q7nk4amnxyhwvd9y6sh",
+    "facility": "01kjmt9j6j1mcv5trkvxxa882e",
+    "hw_model": "01kjmt5q6afzg6a31qq2ks8yj9",
+    "controller": "01kjmt0qxqw2cdtejv7vgmcz89"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

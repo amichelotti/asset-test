@@ -1,0 +1,28 @@
+{
+  "uid": "01kjmsyq9t6w2j4e6n4wkwqzxa",
+  "key": "LNFT2-147230",
+  "name": "FI31-V-VLV-GATE-001",
+  "type": "Valves",
+  "schemaUid": "01kjmswgs0sd0jjg28kzg1p283",
+  "attributes": {
+    "key": "LNFT2-147230",
+    "name": "FI31-V-VLV-GATE-001",
+    "created": "2026-02-11T14:32:49.000Z",
+    "updated": "2026-02-13T14:58:32.000Z",
+    "status": "Active",
+    "owner": "LNFMAC-143538",
+    "locations": "01kjmt7q7nk4amnxyhwvd9y6sh",
+    "facility": "01kjmt9gz4b8xk8cqz1xea8sx2",
+    "hw_model": "01kjgmtp2j2yvd5m4n9e08s2j2"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

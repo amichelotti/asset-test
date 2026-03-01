@@ -1,0 +1,34 @@
+{
+  "uid": "01kjmtdzwapkj1sw2a8anpfmt8",
+  "key": "LNFELINP-113215",
+  "name": "plelievr001",
+  "type": "IO Controller",
+  "schemaUid": "01kjmtacqqs60ghvnmvregfx78",
+  "attributes": {
+    "key": "LNFELINP-113215",
+    "name": "plelievr001",
+    "created": "2023-12-19T09:18:08.000Z",
+    "updated": "2025-02-26T12:35:16.000Z",
+    "status": "Active",
+    "alias": "GEN-CS-GP06:IOC01",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>I7-3517UE CPU</p><p>&nbsp;EVR: LASER AMPLITUDE</p></div>",
+    "location": "01kjmtffhx8b9wtpnxnkz4dd8y",
+    "mac": "00:c0:88:01:43:60",
+    "registered": "LNFMAC-133672",
+    "os": "Scientific Linux 6.3",
+    "ram": "8",
+    "cpu": "4",
+    "disk": "120",
+    "cards": "01kjmtfssvmsg8my09qz7mn69w"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

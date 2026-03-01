@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmt898qyxmm8m6agx3tj3t4",
+  "key": "LNFMAC-12414",
+  "name": "Sala Dafne",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmt347jhyr9ke7ft6qbt0b5",
+  "attributes": {
+    "key": "LNFMAC-12414",
+    "name": "Sala Dafne",
+    "created": "2023-03-22T08:49:27.000Z",
+    "updated": "2025-10-28T14:52:13.000Z",
+    "area": "01kjmt70ta6gfpvde01sy7xa0v"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

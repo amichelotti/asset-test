@@ -1,0 +1,27 @@
+{
+  "uid": "01kjmtypw26anppc39yfxcxj2s",
+  "key": "LNFELINP-138520",
+  "name": "LLRF-TSRF1-S02",
+  "type": "RF",
+  "schemaUid": "01kjmtac278n0ne8ptzsn7racf",
+  "attributes": {
+    "key": "LNFELINP-138520",
+    "name": "LLRF-TSRF1-S02",
+    "created": "2025-06-16T09:55:35.000Z",
+    "updated": "2025-06-16T10:11:38.000Z",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>LIBERA Analog F.E. S02 3 GHz</p><p>MAC:00:26:32:2F:10:00</p><p></p></div>",
+    "location": "01kjmtfg5ghmpcnb802eb23rgb",
+    "rack": "01kjmtttmw3n9hx1599z9hrx0f",
+    "model": "01kjmt51q5qkhn1ac425zbbx8q"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

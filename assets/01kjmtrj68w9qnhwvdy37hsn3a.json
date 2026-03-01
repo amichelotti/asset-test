@@ -1,0 +1,27 @@
+{
+  "uid": "01kjmtrj68w9qnhwvdy37hsn3a",
+  "key": "LNFELINP-134119",
+  "name": "bdelilibera02",
+  "type": "BPM Controller",
+  "schemaUid": "01kjmtagy478d7asyj6qjwzhv3",
+  "attributes": {
+    "key": "LNFELINP-134119",
+    "name": "bdelilibera02",
+    "created": "2025-03-07T13:34:48.000Z",
+    "updated": "2025-06-13T13:17:49.000Z",
+    "status": "Active",
+    "location": "01kjmtf9v11symyfa7wqvhqdyq",
+    "rack": "01kjmttaf02z66k32rr97hpn0z",
+    "registered": "LNFMAC-133920"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

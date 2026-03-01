@@ -1,0 +1,29 @@
+{
+  "uid": "01kjmteyncntnqrdm226asq4ej",
+  "key": "LNFELINP-144095",
+  "name": "PLC Magnets",
+  "type": "Modular System",
+  "schemaUid": "01kjmtadmzn6fm0sans6mzb9f0",
+  "attributes": {
+    "key": "LNFELINP-144095",
+    "name": "PLC Magnets",
+    "created": "2025-11-14T10:50:59.000Z",
+    "updated": "2025-11-14T10:50:59.000Z",
+    "status": "Active",
+    "alias": "PLCMAG_CJ2M-CPU33",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>SYSMAC CJ Series CJ2M-CPU33 Unit with Ethernet Unit OMRON CJW-ETN21 </p><ul class=\"ak-ul\"><li><p>3 Expands of CJ1W-ID211 Omron</p></li><li><p>2 Expands of CJ1W-OC201 Omron</p></li></ul><p>IP : 10.16.4.170<br><strong>Gateway</strong>: 10.16.4.1<br><strong>Mask</strong>: 255.255.254.0<br><strong>DNS servers</strong>: 10.13.200.20, 10.13.200.21<br><strong>NTP&nbsp;servers</strong>: 10.13.200.4, 10.13.200.5</p><p></p></div>",
+    "location": "01kjmtf9v11symyfa7wqvhqdyq",
+    "rack": "01kjmttchb8rps7y8nqtvfk8d2",
+    "mac": "3C:F7:D1:35:EA:29"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

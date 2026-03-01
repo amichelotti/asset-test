@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmtmew1wfrv638aw1zywfrp",
+  "key": "LNFELINP-112545",
+  "name": "DA CONFERMARE IPOTESI TIMING PER LUCA-000",
+  "type": "Layout",
+  "schemaUid": "01kjmtag03qp3w41gkj3vpfwvh",
+  "attributes": {
+    "key": "LNFELINP-112545",
+    "name": "DA CONFERMARE IPOTESI TIMING PER LUCA-000",
+    "created": "2023-12-01T12:54:53.000Z",
+    "updated": "2023-12-01T12:54:53.000Z",
+    "module": "DA CONFERMARE IPOTESI TIMING PER LUCA"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmt90a8dfx6wwe9naxrnsy6",
+  "key": "LNFMAC-106282",
+  "name": "Transfer Line - TS",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmt347jhyr9ke7ft6qbt0b5",
+  "attributes": {
+    "key": "LNFMAC-106282",
+    "name": "Transfer Line - TS",
+    "created": "2023-09-30T15:33:16.000Z",
+    "updated": "2025-10-28T14:52:13.000Z",
+    "description": "<p>Spectrometer line</p>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

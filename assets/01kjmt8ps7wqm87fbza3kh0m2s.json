@@ -1,0 +1,23 @@
+{
+  "uid": "01kjmt8ps7wqm87fbza3kh0m2s",
+  "key": "LNFMAC-126657",
+  "name": "SELCED",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmt347jhyr9ke7ft6qbt0b5",
+  "attributes": {
+    "key": "LNFMAC-126657",
+    "name": "SELCED",
+    "created": "2024-09-06T10:50:15.000Z",
+    "updated": "2025-10-28T14:52:13.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

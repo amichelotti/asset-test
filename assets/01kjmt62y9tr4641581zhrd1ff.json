@@ -1,0 +1,26 @@
+{
+  "uid": "01kjmt62y9tr4641581zhrd1ff",
+  "key": "LNFMAC-128461",
+  "name": "START11",
+  "type": "Power Supplies Models",
+  "schemaUid": "01kjmt36jx7cs4z3ygwssn59v8",
+  "attributes": {
+    "key": "LNFMAC-128461",
+    "name": "START11",
+    "created": "2024-11-08T14:43:12.000Z",
+    "updated": "2025-09-02T12:03:12.000Z",
+    "producer": "LNFMAC-128459",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>55V 200A 1 channel</p></div>",
+    "git_repo": "https://github.com/infn-epics/sigmaPhiStart"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmtt9qncfq2zdhdraw9ce9x",
+  "key": "LNFELINP-129482",
+  "name": "R_COR_03",
+  "type": "Rack",
+  "schemaUid": "01kjmtahm5hjgyfjzbmkqhghzw",
+  "attributes": {
+    "key": "LNFELINP-129482",
+    "name": "R_COR_03",
+    "created": "2024-12-05T11:38:30.000Z",
+    "updated": "2025-06-13T12:48:11.000Z",
+    "alias": "Control + Network  COR",
+    "location": "01kjmtf9v11symyfa7wqvhqdyq"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

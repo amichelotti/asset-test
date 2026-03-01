@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmt50f1brzwk8xyd6s4xrjb",
+  "key": "LNFMAC-108334",
+  "name": "Libera Brilliance +",
+  "type": "BPM Models",
+  "schemaUid": "01kjmt37gme696kysxh20vr1q7",
+  "attributes": {
+    "key": "LNFMAC-108334",
+    "name": "Libera Brilliance +",
+    "created": "2023-10-03T07:36:07.000Z",
+    "updated": "2023-10-03T07:36:07.000Z",
+    "producer": "LNFMAC-108332",
+    "documentation": "https://www.i-tech.si/products/libera-brilliance-3/"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmtqcnxp18e72ybd9rdcm00",
+  "key": "LNFELINP-112542",
+  "name": "minirack laser room ANNEX-001",
+  "type": "Layout",
+  "schemaUid": "01kjmtag03qp3w41gkj3vpfwvh",
+  "attributes": {
+    "key": "LNFELINP-112542",
+    "name": "minirack laser room ANNEX-001",
+    "created": "2023-12-01T12:54:52.000Z",
+    "updated": "2023-12-01T12:54:52.000Z",
+    "module": "minirack laser room ANNEX"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

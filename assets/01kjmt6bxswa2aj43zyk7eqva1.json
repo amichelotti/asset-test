@@ -1,0 +1,23 @@
+{
+  "uid": "01kjmt6bxswa2aj43zyk7eqva1",
+  "key": "LNFMAC-143736",
+  "name": "TRL",
+  "type": "Vacuum Chamber Models",
+  "schemaUid": "01kjmt34ed3ebvv0x559k06bkv",
+  "attributes": {
+    "key": "LNFMAC-143736",
+    "name": "TRL",
+    "created": "2025-11-03T17:49:56.000Z",
+    "updated": "2025-11-03T17:49:56.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "uid": "01kjmtyszwmv8et40zfen6wnm8",
+  "key": "LNFELINP-138461",
+  "name": "llrf03",
+  "type": "RF",
+  "schemaUid": "01kjmtac278n0ne8ptzsn7racf",
+  "attributes": {
+    "key": "LNFELINP-138461",
+    "name": "llrf03",
+    "created": "2025-06-13T04:30:39.000Z",
+    "updated": "2025-06-13T09:58:44.000Z",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>ELI - S-BAND Libera LLRF3 </p></div>",
+    "location": "01kjmtfg5ghmpcnb802eb23rgb",
+    "rack": "01kjmttqe4m22yv766847jzyew",
+    "model": "01kjmt51q5qkhn1ac425zbbx8q"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

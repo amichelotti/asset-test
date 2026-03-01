@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmt7enb58yge8g0je1cg6wn",
+  "key": "LNFMAC-110355",
+  "name": "INFN-LNF",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmt347jhyr9ke7ft6qbt0b5",
+  "attributes": {
+    "key": "LNFMAC-110355",
+    "name": "INFN-LNF",
+    "created": "2023-10-18T09:26:11.000Z",
+    "updated": "2025-10-28T14:52:13.000Z",
+    "link": "https://w3.lnf.infn.it/wp-content/uploads/2017/07/Nuova_pianta_Laboratori_di_Frascati_LUGLIO_2017_compressed.pdf"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

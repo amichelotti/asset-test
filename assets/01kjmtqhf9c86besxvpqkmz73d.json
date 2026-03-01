@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmtqhf9c86besxvpqkmz73d",
+  "key": "LNFELINP-111597",
+  "name": "REGION 3",
+  "type": "Layout",
+  "schemaUid": "01kjmtag03qp3w41gkj3vpfwvh",
+  "attributes": {
+    "key": "LNFELINP-111597",
+    "name": "REGION 3",
+    "created": "2023-11-28T14:37:23.000Z",
+    "updated": "2023-11-30T16:02:43.000Z",
+    "location": "01kjmtf8m7fd1x5f4bs7s0jtpj",
+    "region": "REGION 3"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

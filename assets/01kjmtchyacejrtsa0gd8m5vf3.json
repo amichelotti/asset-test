@@ -1,0 +1,38 @@
+{
+  "uid": "01kjmtchyacejrtsa0gd8m5vf3",
+  "key": "LNFELINP-111719",
+  "name": "LEL-MAG-HCOR03",
+  "type": "Magnet",
+  "schemaUid": "01kjmtabk1mv0t04d7v4nwrz0y",
+  "attributes": {
+    "key": "LNFELINP-111719",
+    "name": "LEL-MAG-HCOR03",
+    "created": "2023-11-29T12:17:03.000Z",
+    "updated": "2023-12-01T13:15:13.000Z",
+    "description": "H Corrector Type B1 Single plane",
+    "layout": "01kjmtp6aq5z5neenjtwstt1cj",
+    "module": "M2",
+    "type": "HCOR",
+    "voltage": "1",
+    "current": "8",
+    "inlet_temp": "30",
+    "rise_temp": "1",
+    "water_pressure_drop": "4",
+    "water_coling_flow": "1",
+    "weight": "15",
+    "crosssection": "4",
+    "currentin": "8.8",
+    "powersupply": "01kjmtqz8mks8kekbhxtjycse2",
+    "power": "0.008"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

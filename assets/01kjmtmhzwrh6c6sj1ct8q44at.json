@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmtmhzwrh6c6sj1ct8q44at",
+  "key": "LNFELINP-112071",
+  "name": "LEL-RF-MS03",
+  "type": "Layout",
+  "schemaUid": "01kjmtag03qp3w41gkj3vpfwvh",
+  "attributes": {
+    "key": "LNFELINP-112071",
+    "name": "LEL-RF-MS03",
+    "created": "2023-11-30T16:09:55.000Z",
+    "updated": "2023-11-30T16:09:55.000Z",
+    "location": "01kjmtfg5ghmpcnb802eb23rgb",
+    "region": "LEL-RF-MS03:KLY​"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

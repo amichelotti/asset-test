@@ -1,0 +1,23 @@
+{
+  "uid": "01kjmtfaec80dhx12wq5sxcda0",
+  "key": "LNFELINP-119736",
+  "name": "Corridorio SPARC",
+  "type": "Location",
+  "schemaUid": "01kjgmst8a6pt8z4bgznffsxk1",
+  "attributes": {
+    "key": "LNFELINP-119736",
+    "name": "Corridorio SPARC",
+    "created": "2024-04-18T12:20:07.000Z",
+    "updated": "2024-04-18T12:20:07.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "uid": "01kjmtddhrwav19cv7dbcpd37q",
+  "key": "LNFELINP-130929",
+  "name": "dhcp-oxgs-ssrip",
+  "type": "Server",
+  "schemaUid": "01kjmtacgwbpmdxgxay93ac05r",
+  "attributes": {
+    "key": "LNFELINP-130929",
+    "name": "dhcp-oxgs-ssrip",
+    "created": "2025-01-13T10:35:42.000Z",
+    "updated": "2025-11-18T10:39:50.000Z",
+    "status": "Active",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>xeon E3 1220 x4</p><p>10.13.200.38</p><p>3l1us3r.2025</p></div>",
+    "location": "01kjmtf9v11symyfa7wqvhqdyq",
+    "mac": "54:9f:35:23:1a:54",
+    "ram": "4",
+    "cpu": "4",
+    "disk": "64",
+    "model": "01kjgmy60eg6djwfr1a8jw8vbv"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

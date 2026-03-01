@@ -1,0 +1,23 @@
+{
+  "uid": "01kjmt81wp4q4v1324n7kqp3ya",
+  "key": "LNFMAC-119369",
+  "name": "RF",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmt347jhyr9ke7ft6qbt0b5",
+  "attributes": {
+    "key": "LNFMAC-119369",
+    "name": "RF",
+    "created": "2024-04-09T13:00:47.000Z",
+    "updated": "2025-10-28T14:52:13.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

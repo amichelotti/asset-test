@@ -1,0 +1,29 @@
+{
+  "uid": "01kjmsz5nxte6xr15pacadcd40",
+  "key": "LNFT2-145553",
+  "name": "FI34-W-CTR-MOT-001",
+  "type": "Motor Controllers",
+  "schemaUid": "01kjmswhdfqem9cxq0amh8byd1",
+  "attributes": {
+    "key": "LNFT2-145553",
+    "name": "FI34-W-CTR-MOT-001",
+    "s/n": "97103154",
+    "created": "2026-01-12T17:55:52.000Z",
+    "updated": "2026-02-23T13:26:17.000Z",
+    "status": "Uninstalled",
+    "owner": "LNFMAC-143535",
+    "locations": "01kjmt7q7nk4amnxyhwvd9y6sh",
+    "facility": "01kjmt9gz4b8xk8cqz1xea8sx2",
+    "hw_model": "01kjmt4yahh31j383g1x4kxxed"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

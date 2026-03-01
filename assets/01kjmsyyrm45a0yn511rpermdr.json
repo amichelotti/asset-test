@@ -1,0 +1,27 @@
+{
+  "uid": "01kjmsyyrm45a0yn511rpermdr",
+  "key": "LNFT2-147347",
+  "name": "FI38-V-VLV-MAN-001",
+  "type": "Valves",
+  "schemaUid": "01kjmswgs0sd0jjg28kzg1p283",
+  "attributes": {
+    "key": "LNFT2-147347",
+    "name": "FI38-V-VLV-MAN-001",
+    "created": "2026-02-13T16:05:59.000Z",
+    "updated": "2026-02-13T16:05:59.000Z",
+    "status": "Active",
+    "owner": "LNFMAC-143538",
+    "locations": "01kjmt7q7nk4amnxyhwvd9y6sh",
+    "facility": "01kjmt9j6j1mcv5trkvxxa882e"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

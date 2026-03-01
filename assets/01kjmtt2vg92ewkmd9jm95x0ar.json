@@ -1,0 +1,28 @@
+{
+  "uid": "01kjmtt2vg92ewkmd9jm95x0ar",
+  "key": "LNFELINP-138464",
+  "name": "LEL-VAC-WGC09:VPCON18",
+  "type": "Vacuum Controller",
+  "schemaUid": "01kjmtahczktfqfcjwwjzkg7zf",
+  "attributes": {
+    "key": "LNFELINP-138464",
+    "name": "LEL-VAC-WGC09:VPCON18",
+    "created": "2025-06-13T11:39:00.000Z",
+    "updated": "2025-06-13T12:19:55.000Z",
+    "status": "Active",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Pump controller acceleratore moxa porta 7</p></div>",
+    "location": "01kjmtf8m7fd1x5f4bs7s0jtpj",
+    "connector": "01kjmtyjyrfsrtq0y83cfc4w8h",
+    "type": "VPC"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

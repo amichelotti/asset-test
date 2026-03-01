@@ -1,0 +1,27 @@
+{
+  "uid": "01kjmt2yjnwgmb0p0rwr7k6bvt",
+  "key": "LNFT2-145367",
+  "name": "SP6-B-CAM-BAS-001",
+  "type": "Cameras",
+  "schemaUid": "01kjmswk7as6hm10h3tj66epaa",
+  "attributes": {
+    "key": "LNFT2-145367",
+    "name": "SP6-B-CAM-BAS-001",
+    "created": "2026-01-08T17:39:39.000Z",
+    "updated": "2026-01-08T17:39:39.000Z",
+    "owner": "LNFMAC-143535",
+    "locations": "01kjmt8rvn194h47gp0tmsh57m",
+    "facility": "01kjmt9gz4b8xk8cqz1xea8sx2",
+    "hw_model": "01kjgmv6cd7rxdr66sdrdk6xyp"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

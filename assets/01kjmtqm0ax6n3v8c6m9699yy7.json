@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmtqm0ax6n3v8c6m9699yy7",
+  "key": "LNFELINP-112538",
+  "name": "WGC01-001",
+  "type": "Layout",
+  "schemaUid": "01kjmtag03qp3w41gkj3vpfwvh",
+  "attributes": {
+    "key": "LNFELINP-112538",
+    "name": "WGC01-001",
+    "created": "2023-12-01T12:54:50.000Z",
+    "updated": "2023-12-01T12:54:50.000Z",
+    "location": "01kjmtfg5ghmpcnb802eb23rgb",
+    "module": "WGC01"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

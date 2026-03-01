@@ -1,0 +1,29 @@
+{
+  "uid": "01kjmt5hs2f3pq9phb1qfeyea1",
+  "key": "LNFMAC-12811",
+  "name": "NUC7i5BNB",
+  "type": "Host Models",
+  "schemaUid": "01kjmt34m7g9xkmx752k21kgqc",
+  "attributes": {
+    "key": "LNFMAC-12811",
+    "name": "NUC7i5BNB",
+    "created": "2023-04-19T18:43:40.000Z",
+    "updated": "2024-04-22T16:24:53.000Z",
+    "vendor": "LNFMAC-12810",
+    "documentation": "https://www.intel.it/content/www/it/it/products/sku/95064/intel-nuc-board-nuc7i5bnb/specifications.html",
+    "cpu": "2",
+    "cpu_type": "I5-7260U Processor ",
+    "memory": "32",
+    "frequency": "3.4"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

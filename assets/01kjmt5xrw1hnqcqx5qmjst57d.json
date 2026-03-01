@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmt5xrw1hnqcqx5qmjst57d",
+  "key": "LNFMAC-104844",
+  "name": "RRE-SYNCRO",
+  "type": "Timing Models",
+  "schemaUid": "01kjmt378r04qwm9cn6kqa8q1t",
+  "attributes": {
+    "key": "LNFMAC-104844",
+    "name": "RRE-SYNCRO",
+    "created": "2023-09-25T15:56:59.000Z",
+    "updated": "2023-10-06T08:07:49.000Z",
+    "documentation": "https://indico.cern.ch/event/693310/contributions/2844886/attachments/1580697/2498321/MENLO_RRESYNCRO-D-EN_2017-11-07_3w.pdf"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

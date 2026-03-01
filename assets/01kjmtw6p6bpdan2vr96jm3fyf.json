@@ -1,0 +1,28 @@
+{
+  "uid": "01kjmtw6p6bpdan2vr96jm3fyf",
+  "key": "LNFELINP-112027",
+  "name": "GAUCC10-CAB040",
+  "type": "Cabling",
+  "schemaUid": "01kjmswgzg2ysjf4bv45zx0f1h",
+  "attributes": {
+    "key": "LNFELINP-112027",
+    "name": "GAUCC10-CAB040",
+    "created": "2023-11-30T12:23:42.000Z",
+    "updated": "2025-02-27T08:29:35.000Z",
+    "description": "Cold cathode vacuum gauge - Agilent IMG300",
+    "connector1_pair": "01kjmtbbj5jd0vtx473e90tn7d",
+    "connector1_desc": "SHV AMP 51426-5                                  TE 5051426-5",
+    "connector2_desc": "SHV AMP 51426-5                                  TE 5051426-5",
+    "cable_type_desc": "RG 59 U Belden 88241 7.5kV DC 75ohm"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

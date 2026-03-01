@@ -1,0 +1,28 @@
+{
+  "uid": "01kjmsxgtfh87j19f3e2bafxmm",
+  "key": "LNFT2-147310",
+  "name": "FI2-W-SLT-MPB-001",
+  "type": "Motors",
+  "schemaUid": "01kjmswg4nwcrbdqbzgsmkn5j2",
+  "attributes": {
+    "key": "LNFT2-147310",
+    "name": "FI2-W-SLT-MPB-001",
+    "created": "2026-02-13T10:40:04.000Z",
+    "updated": "2026-02-13T10:40:04.000Z",
+    "status": "Active",
+    "owner": "LNFMAC-143535",
+    "locations": "01kjmt7q7nk4amnxyhwvd9y6sh",
+    "facility": "01kjmt9j6j1mcv5trkvxxa882e",
+    "hw_model": "01kjmt6hygmqaz1dbe4vmjdva9"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

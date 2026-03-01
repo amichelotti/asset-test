@@ -1,0 +1,27 @@
+{
+  "uid": "01kjmt32drwqkvnyngg9bfqqq3",
+  "key": "LNFT2-147738",
+  "name": "FIRCK2-C-CNV-S2E-001",
+  "type": "Converter",
+  "schemaUid": "01kjmswmas20maassgqcbfftwn",
+  "attributes": {
+    "key": "LNFT2-147738",
+    "name": "FIRCK2-C-CNV-S2E-001",
+    "created": "2026-02-24T11:04:09.000Z",
+    "updated": "2026-02-24T11:04:09.000Z",
+    "owner": "LNFMAC-12817",
+    "locations": "LNFMAC-99550",
+    "facility": "LNFMAC-141978",
+    "hw_model": "LNFMAC-99949"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

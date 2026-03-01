@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmtffhx8b9wtpnxnkz4dd8y",
+  "key": "LNFELINP-133403",
+  "name": "Pella",
+  "type": "Location",
+  "schemaUid": "01kjgmst8a6pt8z4bgznffsxk1",
+  "attributes": {
+    "key": "LNFELINP-133403",
+    "name": "Pella",
+    "created": "2025-02-18T15:49:11.000Z",
+    "updated": "2025-02-21T09:42:09.000Z",
+    "building": "ED2",
+    "stanza": "22"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

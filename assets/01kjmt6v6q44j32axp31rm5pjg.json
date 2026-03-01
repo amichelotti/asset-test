@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmt6v6q44j32axp31rm5pjg",
+  "key": "LNFMAC-106234",
+  "name": "ACCUMULATOR - A1",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmt347jhyr9ke7ft6qbt0b5",
+  "attributes": {
+    "key": "LNFMAC-106234",
+    "name": "ACCUMULATOR - A1",
+    "created": "2023-09-29T16:13:58.000Z",
+    "updated": "2025-10-28T14:52:13.000Z",
+    "description": "<p>1st quadrant, clockwise direction, corresponding to e- injection</p>",
+    "area": "01kjmt70ta6gfpvde01sy7xa0v"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

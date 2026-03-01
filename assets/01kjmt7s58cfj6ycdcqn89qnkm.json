@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmt7s58cfj6ycdcqn89qnkm",
+  "key": "LNFMAC-99544",
+  "name": "LNF.D1.DE56.GF.BCA1",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmt347jhyr9ke7ft6qbt0b5",
+  "attributes": {
+    "key": "LNFMAC-99544",
+    "name": "LNF.D1.DE56.GF.BCA1",
+    "created": "2023-05-16T15:01:56.000Z",
+    "updated": "2026-01-08T17:18:18.000Z",
+    "building": "56",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>FLAME - Guiding station</p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

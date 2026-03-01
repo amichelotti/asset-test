@@ -1,0 +1,30 @@
+{
+  "uid": "01kjmtdgbx4t9vq4n6ck2sp7rq",
+  "key": "LNFELINP-113220",
+  "name": "GEN-CS-GP08:IOC04",
+  "type": "Server",
+  "schemaUid": "01kjmtacgwbpmdxgxay93ac05r",
+  "attributes": {
+    "key": "LNFELINP-113220",
+    "name": "GEN-CS-GP08:IOC04",
+    "created": "2023-12-19T11:21:02.000Z",
+    "updated": "2025-11-18T10:40:56.000Z",
+    "status": "Action Needed",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>xeon E3 1220 x4&nbsp;</p><p>/opt/codac-4.1/opi/boy/resources/One_Line_Diagram.opi</p><p>/opt/codac-4.1/opi/boy/resources/Civil_Engineering_Diagram.opi</p><p>/opt/codac-4.1/opi/boy/resources/PID_Water_Cooling.opi</p><p>/opt/codac-4.1/opi/boy/resources/Electronic_Diagram.opi</p><p>/opt/codac-4.1/opi/boy/resources/MV-2-Switchgear.opi</p><p>/opt/codac-4.1/opi/boy/resources/Fluid_Diagram.opi</p><p>/opt/codac-4.1/opi/boy/resources/IandC_Diagram.opi</p><p>/opt/codac-4.1/opi/boy/resources/IOschema.opi</p><p>[root@GEN-CS-GP08:IOC04 ~]# ps -fe |grep ioc</p><p>codac &nbsp; &nbsp; 1808 &nbsp; &nbsp; 1&nbsp; 0 11:48 ?&nbsp; &nbsp; &nbsp; &nbsp; 00:00:00 /opt/codac-4.1/epics/base/bin/linux-x86_64/iocLogServer</p><p>&nbsp;</p><p>&nbsp;</p></div>",
+    "mac": "54:9f:35:23:a5:d6",
+    "ram": "4",
+    "cpu": "4",
+    "disk": "64",
+    "model": "01kjgmy60eg6djwfr1a8jw8vbv"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "uid": "01kjmtr1bh0w4tps5m51tnpcwm",
+  "key": "LNFELINP-111621",
+  "name": "LEL-MAG-CPSU02",
+  "type": "powersupply",
+  "schemaUid": "01kjmtagfw09vtfv9fgvxw86bk",
+  "attributes": {
+    "key": "LNFELINP-111621",
+    "name": "LEL-MAG-CPSU02",
+    "created": "2023-11-28T23:56:08.000Z",
+    "updated": "2024-12-05T13:06:42.000Z",
+    "status": "Active",
+    "description": "<p>H Corrector Type B2 Single plane</p><p>LEL-MAG-HCOR04 CHANNEL 1</p><p>LEL-MAG-VCOR04 CHANNEL 2</p><p>LEL-MAG-HCOR05 CHANNEL 3</p><p>LEL-MAG-VCOR05 CHANNEL 4</p>",
+    "location": "01kjmtf9v11symyfa7wqvhqdyq",
+    "rack": "01kjmttd9r80xs3csrw1qadqqt",
+    "max_current": "10",
+    "voltage": "7",
+    "power": "0.1",
+    "registered": "LNFMAC-129097"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

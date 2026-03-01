@@ -1,0 +1,26 @@
+{
+  "uid": "01kjmt6b5x892mf16p6twe7j2x",
+  "key": "LNFMAC-143398",
+  "name": "TPR 270",
+  "type": "Vacuum Models",
+  "schemaUid": "01kjmt3898qx8hxgp39v30drcs",
+  "attributes": {
+    "key": "LNFMAC-143398",
+    "name": "TPR 270",
+    "created": "2025-10-23T09:49:50.000Z",
+    "updated": "2025-10-23T10:01:08.000Z",
+    "producer": "LNFMAC-143394",
+    "documentation": "https://vacuum-shop.com/shop/en_US/category/2073502/product/pt-r26770/tpr270-dn16iso-kf.html",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><h1>TPR&nbsp;270, DN&nbsp;16&nbsp;ISO-KF</h1><table data-number-column=\"false\" data-layout=\"default\" data-autosize=\"false\" data-table-local-id=\"ca6825fb-e3f1-46e0-bb30-982048f3362f\"><tbody><tr><th class=\"pm-table-header-content-wrap\"><p>Connection flange</p></th><td class=\"pm-table-cell-content-wrap\"><p>DN 16 ISO-KF</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Output signal: Measuring range</p></th><td class=\"pm-table-cell-content-wrap\"><p>1.5 – 8.5&nbsp;V</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Bakeout temperature at the flange</p></th><td class=\"pm-table-cell-content-wrap\"><p>≤ 80 °C</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Operating altitude, max.</p></th><td class=\"pm-table-cell-content-wrap\"><p>2000 m</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Operating site</p></th><td class=\"pm-table-cell-content-wrap\"><p>Indoor, weatherproof</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Seal</p></th><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>Metal</p></li></ul></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Pressure max.</p></th><td class=\"pm-table-cell-content-wrap\"><p>4 · 10<sup>3</sup> hPa</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Feedthrough</p></th><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>Glass</p></li></ul></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Attribute</p></th><td class=\"pm-table-cell-content-wrap\"><p>Stainless steel, metal sealed</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Mounting orientation</p></th><td class=\"pm-table-cell-content-wrap\"><p>Arbitrary</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Input voltage(s)</p></th><td class=\"pm-table-cell-content-wrap\"><p>15 – 30&nbsp;V&nbsp;DC</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Flange, material</p></th><td class=\"pm-table-cell-content-wrap\"><p>Stainless steel</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Precision</p></th><td class=\"pm-table-cell-content-wrap\"><p>&lt;1 · 10<sup>-2</sup>hPa: &lt;Factor 2</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Weight</p></th><td class=\"pm-table-cell-content-wrap\"><p>105 g</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Filament</p></th><td class=\"pm-table-cell-content-wrap\"><p>Tungsten</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Power consumption max.</p></th><td class=\"pm-table-cell-content-wrap\"><p>1 W</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Materials in contact with media</p></th><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>Stainless steel 1.4307 (AISI 304L)</p></li><li><p>Tungsten</p></li><li><p>Nickel</p></li></ul></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Measuring range</p></th><td class=\"pm-table-cell-content-wrap\"><p>1E-4&nbsp;–&nbsp;1E3&nbsp;hPa</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Accuracy of measurement in range 1</p></th><td class=\"pm-table-cell-content-wrap\"><p>10&nbsp;% (2E-3&nbsp;hPa – 2E1&nbsp;hPa)</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Accuracy of measurement in range 2</p></th><td class=\"pm-table-cell-content-wrap\"><p>30&nbsp;% (2E1&nbsp;hPa – 1E3&nbsp;hPa)</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Measurement cable length min.</p></th><td class=\"pm-table-cell-content-wrap\"><p>200 m</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Measuring method</p></th><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>Pulse-Pirani</p></li></ul></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Protection degree</p></th><td class=\"pm-table-cell-content-wrap\"><ul class=\"ak-ul\"><li><p>IP40</p></li></ul></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Ambient temperature</p></th><td class=\"pm-table-cell-content-wrap\"><p>5 – 60&nbsp;°C</p></td></tr><tr><th class=\"pm-table-header-content-wrap\"><p>Repeatability in range 1</p></th><td class=\"pm-table-cell-content-wrap\"><p>2&nbsp;% (2E-3&nbsp;hPa – 2E1&nbsp;hPa)</p></td></tr></tbody></table><p></p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

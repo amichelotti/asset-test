@@ -1,0 +1,26 @@
+{
+  "uid": "01kjmt099czce6zqsnchj6p8es",
+  "key": "LNFT2-147134",
+  "name": "SPRCK1-W-CTR-MOT-018",
+  "type": "Motor Controllers",
+  "schemaUid": "01kjmswhdfqem9cxq0amh8byd1",
+  "attributes": {
+    "key": "LNFT2-147134",
+    "name": "SPRCK1-W-CTR-MOT-018",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Al controller 18 connettiamo la frauhaber con il dateset 5101.07-174_175</p><p></p></div>",
+    "created": "2026-02-10T14:03:25.000Z",
+    "updated": "2026-02-17T10:34:30.000Z",
+    "facility": "01kjmt9gz4b8xk8cqz1xea8sx2",
+    "hw_model": "01kjmt56jxepwam21mppaga1kh"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

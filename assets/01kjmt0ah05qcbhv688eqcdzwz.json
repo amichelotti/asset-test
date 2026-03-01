@@ -1,0 +1,27 @@
+{
+  "uid": "01kjmt0ah05qcbhv688eqcdzwz",
+  "key": "LNFT2-147136",
+  "name": "SPRCK1-W-CTR-MOT-020",
+  "type": "Motor Controllers",
+  "schemaUid": "01kjmswhdfqem9cxq0amh8byd1",
+  "attributes": {
+    "key": "LNFT2-147136",
+    "name": "SPRCK1-W-CTR-MOT-020",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Connettiamo slitta lineare dipolo lunga</p><p>il data set si chiama 5101.10H-491_400MM</p></div>",
+    "created": "2026-02-10T14:03:33.000Z",
+    "updated": "2026-02-17T10:28:30.000Z",
+    "locations": "01kjmt8rvn194h47gp0tmsh57m",
+    "facility": "01kjmt9gz4b8xk8cqz1xea8sx2",
+    "hw_model": "01kjmt56jxepwam21mppaga1kh"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

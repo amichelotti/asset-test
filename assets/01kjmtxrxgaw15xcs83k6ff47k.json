@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmtxrxgaw15xcs83k6ff47k",
+  "key": "LNFELINP-142298",
+  "name": "NuovoConnettore",
+  "type": "Cabling",
+  "schemaUid": "01kjmswgzg2ysjf4bv45zx0f1h",
+  "attributes": {
+    "key": "LNFELINP-142298",
+    "name": "NuovoConnettore",
+    "created": "2025-09-12T09:20:51.000Z",
+    "updated": "2025-09-12T09:23:07.000Z",
+    "status": "Active",
+    "connector1_pair": "01kjmtfm316dzfp40f2jyrhsaz"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

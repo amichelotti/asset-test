@@ -1,0 +1,29 @@
+{
+  "uid": "01kjmtwg6bee4far3ram09g9r4",
+  "key": "LNFELINP-111925",
+  "name": "GCAV-CAB000",
+  "type": "Cabling",
+  "schemaUid": "01kjmswgzg2ysjf4bv45zx0f1h",
+  "attributes": {
+    "key": "LNFELINP-111925",
+    "name": "GCAV-CAB000",
+    "created": "2023-11-30T12:02:12.000Z",
+    "updated": "2023-11-30T12:02:12.000Z",
+    "description": "S-band RF Gun cavity",
+    "connector1_pair": "01kjmtd3zes2kep1tm2acxa4c7",
+    "connector2_pair": "01kjmttm58qp6mw6sdns1vk2hf",
+    "connector1_desc": "Andrew  Nmale  F2PNM-H",
+    "connector2_desc": "Andrew  Nmale  F2PNM-H",
+    "cable_type_desc": "n°4 Andrew FSJ2-50"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

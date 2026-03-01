@@ -1,0 +1,26 @@
+{
+  "uid": "01kjmt2bxs5j5htakfc4z9nemm",
+  "key": "LNFT2-145355",
+  "name": "FI2-B-CAM-BAS-001",
+  "type": "Cameras",
+  "schemaUid": "01kjmswk7as6hm10h3tj66epaa",
+  "attributes": {
+    "key": "LNFT2-145355",
+    "name": "FI2-B-CAM-BAS-001",
+    "created": "2026-01-08T17:05:46.000Z",
+    "updated": "2026-01-08T17:05:46.000Z",
+    "status": "Uninstalled",
+    "facility": "01kjmt9j6j1mcv5trkvxxa882e",
+    "hw_model": "01kjgmv2nvevgq2nw798crd184"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

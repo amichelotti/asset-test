@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmt7fbfwgr91prc8az0w3p6",
+  "key": "LNFMAC-106300",
+  "name": "INTERACTION REGIONS - I1",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmt347jhyr9ke7ft6qbt0b5",
+  "attributes": {
+    "key": "LNFMAC-106300",
+    "name": "INTERACTION REGIONS - I1",
+    "created": "2023-09-30T17:12:31.000Z",
+    "updated": "2025-10-28T14:52:13.000Z",
+    "description": "<p>I1 (KLOE/Siddharta) Interaction Region</p>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

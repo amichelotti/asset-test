@@ -1,0 +1,31 @@
+{
+  "uid": "01kjmtb275svqmxte99war0txq",
+  "key": "LNFELINP-119489",
+  "name": "plelico003",
+  "type": "Console",
+  "schemaUid": "01kjmtaa7t7fhdk0p8kb7t105h",
+  "attributes": {
+    "key": "LNFELINP-119489",
+    "name": "plelico003",
+    "created": "2024-04-11T10:45:14.000Z",
+    "updated": "2025-11-13T09:27:44.000Z",
+    "status": "Active",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>registered 10.16.2.27</p></div>",
+    "location": "01kjmtf9v11symyfa7wqvhqdyq",
+    "mac": "18:66:da:2a:8b:eb",
+    "registered": "LNFMAC-129536",
+    "os": "Ubuntu 24.04.1 LTS",
+    "ram": "8",
+    "cpu": "2"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

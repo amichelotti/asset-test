@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmvfs38sknckw9h81b4bb22",
+  "key": "LNFELINP-111851",
+  "name": "R_COR_05",
+  "type": "Rack",
+  "schemaUid": "01kjmv6re9534nvs3ntryap5js",
+  "attributes": {
+    "key": "LNFELINP-111851",
+    "name": "R_COR_05",
+    "created": "2023-11-30T09:30:38.000Z",
+    "updated": "2025-02-27T08:22:04.000Z",
+    "alias": "Diagnostic 2",
+    "location": "01kjmv9qrhzdnz11rytqvpvb3e"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uid": "01kjmv8k68qw9t6q2braat41x0",
+  "key": "LNFELINP-133404",
+  "name": "scelimxa16002",
+  "type": "Converter",
+  "schemaUid": "01kjmv6nsw1kmcfcm44n2jp0rr",
+  "attributes": {
+    "key": "LNFELINP-133404",
+    "name": "scelimxa16002",
+    "created": "2025-02-18T15:49:12.000Z",
+    "updated": "2025-02-18T15:49:12.000Z",
+    "status": "Active",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Serial converter for ELI vacuum&nbsp;</p></div>",
+    "location": "01kjmv9vz9zdpmhvyg6v95bkce",
+    "mac": "00:90:E8:56:E2:A9",
+    "registered": "LNFMAC-133400"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

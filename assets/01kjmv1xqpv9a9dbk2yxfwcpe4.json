@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmv1xqpv9a9dbk2yxfwcpe4",
+  "key": "LNFMAC-128466",
+  "name": "DPR 200 Magnet Polarity Module",
+  "type": "Power Supplies Models",
+  "schemaUid": "01kjmv19he5pfftw8861fe9311",
+  "attributes": {
+    "key": "LNFMAC-128466",
+    "name": "DPR 200 Magnet Polarity Module",
+    "created": "2024-11-08T15:34:55.000Z",
+    "updated": "2024-11-08T15:34:55.000Z",
+    "description": "<p>200 A</p>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "uid": "01kjmv6rp34zm0d5zrkp7qybxj",
+  "name": "Cabling",
+  "description": null,
+  "parentSchemaUid": "01kjmv6mzvsk183ra22r9yg5v2",
+  "isConcrete": true,
+  "attributes": [
+    {
+      "key": "key",
+      "name": "Key",
+      "type": "string",
+      "required": true,
+      "description": "Unique system-generated identifier",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "name",
+      "name": "Name",
+      "type": "string",
+      "required": true,
+      "description": "Object name",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "created",
+      "name": "Created",
+      "type": "datetime",
+      "required": true,
+      "description": "Creation timestamp",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "updated",
+      "name": "Updated",
+      "type": "datetime",
+      "required": true,
+      "description": "Last update timestamp",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "status",
+      "name": "Status",
+      "type": "status",
+      "required": false,
+      "description": "Asset lifecycle status",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "alias",
+      "name": "Alias",
+      "type": "string",
+      "required": false,
+      "description": "Alternative name",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "description",
+      "name": "Description",
+      "type": "text",
+      "required": false,
+      "description": "Description",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "location",
+      "name": "Location",
+      "type": "reference",
+      "required": false,
+      "description": "Location",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "serial",
+      "name": "Serial",
+      "type": "string",
+      "required": false,
+      "description": "ELI Serial ",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "rack",
+      "name": "Rack",
+      "type": "reference",
+      "required": false,
+      "description": "Rack",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "connector",
+      "name": "connector",
+      "type": "reference",
+      "required": false,
+      "description": "Cable connector",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "connector1_pair",
+      "name": "Connector1 Pair",
+      "type": "reference",
+      "required": false,
+      "description": "Module Connector",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "connector2_pair",
+      "name": "Connector2 Pair",
+      "type": "reference",
+      "required": false,
+      "description": "Module/Rack/Device Connector",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "connector1_desc",
+      "name": "Connector1 Desc",
+      "type": "text",
+      "required": false,
+      "description": "Connector 1 Description",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "connector2_desc",
+      "name": "Connector2 Desc",
+      "type": "text",
+      "required": false,
+      "description": "Module/Rack/Device Connector description",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "connection_type_desc",
+      "name": "Connection Type Desc",
+      "type": "text",
+      "required": false,
+      "description": "Connection Type Description",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "cable_type_desc",
+      "name": "Cable Type Desc",
+      "type": "text",
+      "required": false,
+      "description": "Cable Type Description",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "type",
+      "name": "Type",
+      "type": "enum",
+      "required": false,
+      "description": "Connector Type",
+      "defaultValue": null,
+      "options": [
+        "CAT5",
+        "NiM",
+        "Copper",
+        "RS232",
+        "RS485",
+        "RS422"
+      ]
+    },
+    {
+      "key": "lenght",
+      "name": "Lenght",
+      "type": "string",
+      "required": false,
+      "description": "Wiring Lenght",
+      "defaultValue": null,
+      "options": null
+    },
+    {
+      "key": "cross_section",
+      "name": "Cross Section",
+      "type": "string",
+      "required": false,
+      "description": "Cross Section area mm2",
+      "defaultValue": null,
+      "options": null
+    }
+  ],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

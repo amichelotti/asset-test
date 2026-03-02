@@ -1,0 +1,31 @@
+{
+  "uid": "01kjmvc229sr6kd5p60k51rmpp",
+  "key": "LNFELINP-111625",
+  "name": "LEL-MAG-QPSU03",
+  "type": "powersupply",
+  "schemaUid": "01kjmv6qvztcs41475w4v17vnh",
+  "attributes": {
+    "key": "LNFELINP-111625",
+    "name": "LEL-MAG-QPSU03",
+    "created": "2023-11-28T23:56:11.000Z",
+    "updated": "2025-06-13T12:35:41.000Z",
+    "status": "Active",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>QUAD Type D</p></div>",
+    "location": "01kjmv9qrhzdnz11rytqvpvb3e",
+    "rack": "01kjmvfw2vxm6svgvkptythhmm",
+    "max_current": "50",
+    "voltage": "10",
+    "power": "0.5",
+    "registered": "LNFMAC-129105"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

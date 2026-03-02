@@ -1,0 +1,26 @@
+{
+  "uid": "01kjmv2z9jjavdvjdpphzvtd9s",
+  "key": "LNFMAC-143727",
+  "name": "KIM101",
+  "type": "Controller Motor Models",
+  "schemaUid": "01kjmv189x2de1mfwkcpxc0ksh",
+  "attributes": {
+    "key": "LNFMAC-143727",
+    "name": "KIM101",
+    "created": "2025-11-03T16:58:14.000Z",
+    "updated": "2025-11-03T16:58:14.000Z",
+    "producer": "LNFMAC-143356",
+    "vendor": "LNFMAC-143357",
+    "documentation": "https://www.thorlabs.com/thorproduct.cfm?partnumber=KIM101"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

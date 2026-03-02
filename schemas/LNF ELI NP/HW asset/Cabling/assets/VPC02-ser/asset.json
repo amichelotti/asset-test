@@ -1,0 +1,27 @@
+{
+  "uid": "01kjmvjy1yth8531gmay4jcbz4",
+  "key": "LNFELINP-131875",
+  "name": "VPC02-ser",
+  "type": "Cabling",
+  "schemaUid": "01kjmv6rp34zm0d5zrkp7qybxj",
+  "attributes": {
+    "key": "LNFELINP-131875",
+    "name": "VPC02-ser",
+    "created": "2025-02-03T18:01:00.000Z",
+    "updated": "2025-02-03T18:02:02.000Z",
+    "status": "Active",
+    "connector1_pair": "01kjmvfh5vbdsv5hyd3ksqvvtb",
+    "connector2_pair": "01kjmv8knf5vg034753f0p1chs",
+    "connector2_desc": "<div class=\"created-with-ak-editor content-wrapper\"><p>port 2</p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmv3apd471sexe7g6p1jp1k",
+  "key": "LNFMAC-99949",
+  "name": "NPort 5650-16",
+  "type": "Converter Models",
+  "schemaUid": "01kjmv19a4ha2mac1y6w18wtqs",
+  "attributes": {
+    "key": "LNFMAC-99949",
+    "name": "NPort 5650-16",
+    "created": "2023-05-31T14:20:02.000Z",
+    "updated": "2024-12-04T16:02:32.000Z",
+    "producer": "LNFMAC-99945",
+    "documentation": "https://www.elmark.com.ro/shop/moxa/nport-5650?gad_source=1&gclid=CjwKCAiAmMC6BhA6EiwAdN5iLazYTJy5T6MsL8cU6-5kCLi-F7n-iu8GhLCPC-S0_-cEeB2fu11DdBoCoTAQAvD_BwE"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

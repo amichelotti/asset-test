@@ -1,0 +1,27 @@
+{
+  "uid": "01kjmv7ns5cf08hcs3marcprx5",
+  "key": "LNFELINP-111756",
+  "name": "LEL-VAC-VALVP01",
+  "type": "Vacuum",
+  "schemaUid": "01kjmv6mqn4hn27g8z656vqw8j",
+  "attributes": {
+    "key": "LNFELINP-111756",
+    "name": "LEL-VAC-VALVP01",
+    "created": "2023-11-29T22:57:38.000Z",
+    "updated": "2023-12-01T13:15:01.000Z",
+    "description": "Sector Vacuum valve (PNEUMATIC) VAT series 48. DN63",
+    "layout": "LNFELINP-112436",
+    "module": "M1",
+    "type": "VALVP"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

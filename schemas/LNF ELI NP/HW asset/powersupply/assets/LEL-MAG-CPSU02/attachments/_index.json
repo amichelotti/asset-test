@@ -1,0 +1,15 @@
+[
+  {
+    "uid": "01kjmvbwvvxpgrqcfgzdyjr8t0",
+    "assetUid": "01kjmvbvw8z46qd9shr9ends39",
+    "schemaUid": "01kjmv6qvztcs41475w4v17vnh",
+    "filename": "CPSU02.jpg",
+    "mimeType": "image/jpeg",
+    "fileSize": 3038613,
+    "author": "amichelo",
+    "created": "2025-06-12T16:55:00.000",
+    "binaryPath": "schemas/LNF ELI NP/HW asset/powersupply/assets/LEL-MAG-CPSU02/attachments/CPSU02.jpg",
+    "originBackendId": "2482",
+    "originUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2482/CPSU02.jpg"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "uid": "01kjmvfjrdqh12yfbjvc03pdts",
+    "assetUid": "01kjmvfjav5afrwny887vaxfbv",
+    "type": "26",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"26\"}",
+    "timestamp": "2025-11-14T10:13:30.000",
+    "backendId": "356358"
+  },
+  {
+    "uid": "01kjmvfjrh9x72s1p5a9tq9nf6",
+    "assetUid": "01kjmvfjav5afrwny887vaxfbv",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Ion pump 75 l/s C...\",\"newValue\":\"Ion pump 75 l/s V...\"}",
+    "timestamp": "2025-11-14T10:13:30.000",
+    "backendId": "356357"
+  },
+  {
+    "uid": "01kjmvfjrmbmqd7y50a67b51et",
+    "assetUid": "01kjmvfjav5afrwny887vaxfbv",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"LEL-VAC-VPCON10\",\"newValue\":\"LEL-VAC-VPCON4\"}",
+    "timestamp": "2025-11-07T15:10:42.000",
+    "backendId": "354896"
+  },
+  {
+    "uid": "01kjmvfjrnb0w3smg0fng9g944",
+    "assetUid": "01kjmvfjav5afrwny887vaxfbv",
+    "type": "25",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2025-06-18T14:27:26.000",
+    "backendId": "322588"
+  },
+  {
+    "uid": "01kjmvfjrr1wv2mzsc9yhy7bz4",
+    "assetUid": "01kjmvfjav5afrwny887vaxfbv",
+    "type": "4",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"4\",\"attribute\":\"connector\",\"oldValue\":\"\",\"newValue\":\"VPCON10-ser\"}",
+    "timestamp": "2025-06-18T14:27:26.000",
+    "backendId": "322587"
+  },
+  {
+    "uid": "01kjmvfjrt1c7khzqbjc6a3wmf",
+    "assetUid": "01kjmvfjav5afrwny887vaxfbv",
+    "type": "4",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
+    "timestamp": "2025-06-18T14:27:26.000",
+    "backendId": "322586"
+  },
+  {
+    "uid": "01kjmvfjrwx5z5k5aj4xtj8ph1",
+    "assetUid": "01kjmvfjav5afrwny887vaxfbv",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Ion pump 75 l/s C...\",\"newValue\":\"Ion pump 75 l/s C...\"}",
+    "timestamp": "2025-06-18T14:17:49.000",
+    "backendId": "322560"
+  },
+  {
+    "uid": "01kjmvfjryzy35sgpj2c2h2ews",
+    "assetUid": "01kjmvfjav5afrwny887vaxfbv",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Ion pump 75 l/s\",\"newValue\":\"Ion pump 75 l/s C...\"}",
+    "timestamp": "2025-06-18T12:32:42.000",
+    "backendId": "322546"
+  },
+  {
+    "uid": "01kjmvfjrznwhcxynx6gpjs810",
+    "assetUid": "01kjmvfjav5afrwny887vaxfbv",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"LEL-VAC-VPCON05\",\"newValue\":\"LEL-VAC-VPCON10\"}",
+    "timestamp": "2025-06-18T12:32:42.000",
+    "backendId": "322545"
+  },
+  {
+    "uid": "01kjmvfjs1tg1m4xf6gfvrb3m5",
+    "assetUid": "01kjmvfjav5afrwny887vaxfbv",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Type\",\"oldValue\":\"\",\"newValue\":\"VPC\"}",
+    "timestamp": "2023-11-29T23:29:58.000",
+    "backendId": "184071"
+  },
+  {
+    "uid": "01kjmvfjs3bcw1sez4h08w6tkg",
+    "assetUid": "01kjmvfjav5afrwny887vaxfbv",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-11-29T23:26:34.000",
+    "backendId": "184061"
+  }
+]

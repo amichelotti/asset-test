@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmv2rz9a22cy910v8t0xr1j",
+  "key": "LNFMAC-147731",
+  "name": "HiPace400 with TC400 CTR",
+  "type": "Vacuum Models",
+  "schemaUid": "01kjmv1a8chq7prqwhkverw3dk",
+  "attributes": {
+    "key": "LNFMAC-147731",
+    "name": "HiPace400 with TC400 CTR",
+    "created": "2026-02-24T09:39:28.000Z",
+    "updated": "2026-02-24T09:39:28.000Z",
+    "producer": "LNFMAC-143394",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Alimentatore della turbo HiPace400 con TC400</p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

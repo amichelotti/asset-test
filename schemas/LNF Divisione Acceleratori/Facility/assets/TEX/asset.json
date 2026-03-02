@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmv633c8j931a8arheqpkv6",
+  "key": "LNFMAC-141977",
+  "name": "TEX",
+  "type": "Facility",
+  "schemaUid": "01kjmv19db8wd49ympxdh8sq52",
+  "attributes": {
+    "key": "LNFMAC-141977",
+    "name": "TEX",
+    "created": "2025-09-02T14:31:09.000Z",
+    "updated": "2025-09-02T14:31:09.000Z",
+    "location": "01kjmv5m2g0t2bnjvrd8f1kgmh",
+    "manager": false
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

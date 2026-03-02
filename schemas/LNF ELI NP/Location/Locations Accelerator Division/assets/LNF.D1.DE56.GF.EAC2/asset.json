@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmv4y1nv1wj8br1cm2phvvq",
+  "key": "LNFMAC-145978",
+  "name": "LNF.D1.DE56.GF.EAC2",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmv18ds1cka02yedx7fp1mr",
+  "attributes": {
+    "key": "LNFMAC-145978",
+    "name": "LNF.D1.DE56.GF.EAC2",
+    "created": "2026-01-16T12:26:51.000Z",
+    "updated": "2026-01-16T12:26:51.000Z",
+    "building": "56",
+    "piano": "PIANO TERRA"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

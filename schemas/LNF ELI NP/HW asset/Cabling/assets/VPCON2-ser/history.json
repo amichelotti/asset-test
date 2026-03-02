@@ -1,0 +1,65 @@
+[
+  {
+    "uid": "01kjmvk0aft67e2zjzbwgh3y0t",
+    "assetUid": "01kjmvjzyzw7hrgf0mg671gt6b",
+    "type": "5",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"5\",\"attribute\":\"Connector2 Pair\",\"oldValue\":\"LEL-VAC-WGC10:VPC...\",\"newValue\":\"\"}",
+    "timestamp": "2025-06-18T14:37:59.000",
+    "backendId": "322604"
+  },
+  {
+    "uid": "01kjmvk0an9kwwxras1sh50c9n",
+    "assetUid": "01kjmvjzyzw7hrgf0mg671gt6b",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Connector1 Desc\",\"oldValue\":\"porta 4\",\"newValue\":\"porta 4\"}",
+    "timestamp": "2025-06-18T12:40:02.000",
+    "backendId": "322550"
+  },
+  {
+    "uid": "01kjmvk0aq9extbqbw7j5pzcp7",
+    "assetUid": "01kjmvjzyzw7hrgf0mg671gt6b",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"VPCON19-ser\",\"newValue\":\"VPCON2-ser\"}",
+    "timestamp": "2025-06-18T12:40:02.000",
+    "backendId": "322549"
+  },
+  {
+    "uid": "01kjmvk0atwvqqpd7ybs0k61ne",
+    "assetUid": "01kjmvjzyzw7hrgf0mg671gt6b",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Connector1 Desc\",\"oldValue\":\"\",\"newValue\":\"porta 4\"}",
+    "timestamp": "2024-12-06T09:05:53.000",
+    "backendId": "280584"
+  },
+  {
+    "uid": "01kjmvk0avskrsf6gafwnetrw6",
+    "assetUid": "01kjmvjzyzw7hrgf0mg671gt6b",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Connector2 Pair\",\"oldValue\":\"\",\"newValue\":\"LEL-VAC-WGC10:VPC...\"}",
+    "timestamp": "2024-12-06T09:05:53.000",
+    "backendId": "280583"
+  },
+  {
+    "uid": "01kjmvk0ax2djgd549w3w3r29m",
+    "assetUid": "01kjmvjzyzw7hrgf0mg671gt6b",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Connector1 Pair\",\"oldValue\":\"\",\"newValue\":\"scelimxa16001\"}",
+    "timestamp": "2024-12-06T09:05:53.000",
+    "backendId": "280582"
+  },
+  {
+    "uid": "01kjmvk0azc8vbc0eg0gs6g9mh",
+    "assetUid": "01kjmvjzyzw7hrgf0mg671gt6b",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-12-06T08:57:57.000",
+    "backendId": "280572"
+  }
+]

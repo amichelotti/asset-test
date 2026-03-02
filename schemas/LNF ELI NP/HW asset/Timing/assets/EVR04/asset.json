@@ -1,0 +1,26 @@
+{
+  "uid": "01kjmva671y7hn5jwg74v3vjwc",
+  "key": "LNFELINP-133711",
+  "name": "EVR04",
+  "type": "Timing",
+  "schemaUid": "01kjmv6q0j91qah5a8mqm3j0ay",
+  "attributes": {
+    "key": "LNFELINP-133711",
+    "name": "EVR04",
+    "created": "2025-02-26T12:33:10.000Z",
+    "updated": "2025-02-26T12:48:16.000Z",
+    "status": "Active",
+    "alias": "EVR_RFM",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>RF Modulator</p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

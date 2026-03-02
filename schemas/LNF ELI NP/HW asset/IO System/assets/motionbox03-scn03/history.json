@@ -1,0 +1,47 @@
+[
+  {
+    "uid": "01kjmvacz6c55sn3w276v7ajj9",
+    "assetUid": "01kjmvac7z7kx9h00dk7tttveg",
+    "type": "4",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"4\",\"attribute\":\"connector\",\"oldValue\":\"\",\"newValue\":\"MOTCON3-ser\"}",
+    "timestamp": "2025-06-13T14:45:01.000",
+    "backendId": "321824"
+  },
+  {
+    "uid": "01kjmvaczbty23v8n6yjkmvn3j",
+    "assetUid": "01kjmvac7z7kx9h00dk7tttveg",
+    "type": "7",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"7\",\"newValue\":\"Screenshot 2025-0...\"}",
+    "timestamp": "2025-06-11T14:29:25.000",
+    "backendId": "321217"
+  },
+  {
+    "uid": "01kjmvaczdj8afwxv9yb25rwxv",
+    "assetUid": "01kjmvac7z7kx9h00dk7tttveg",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"motionbox03-scn03_1\",\"newValue\":\"motionbox03-scn03\"}",
+    "timestamp": "2025-06-11T13:56:50.000",
+    "backendId": "321213"
+  },
+  {
+    "uid": "01kjmvaczfsa51amch3sep5se6",
+    "assetUid": "01kjmvac7z7kx9h00dk7tttveg",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"motionbox03\",\"newValue\":\"motionbox03-scn03_1\"}",
+    "timestamp": "2025-06-11T13:35:11.000",
+    "backendId": "321210"
+  },
+  {
+    "uid": "01kjmvaczhw0x21x4xsbn2f4m1",
+    "assetUid": "01kjmvac7z7kx9h00dk7tttveg",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-03-06T17:23:58.000",
+    "backendId": "300864"
+  }
+]

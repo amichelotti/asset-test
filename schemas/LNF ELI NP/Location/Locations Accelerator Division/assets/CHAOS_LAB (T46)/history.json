@@ -1,0 +1,65 @@
+[
+  {
+    "uid": "01kjmv4atv52yw1hfzwbdfr7gv",
+    "assetUid": "01kjmv4adr7mvg7f2xfgev9mpb",
+    "type": "29",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"29\"}",
+    "timestamp": "2025-10-28T15:52:12.000",
+    "backendId": "352606"
+  },
+  {
+    "uid": "01kjmv4av1yrm9v9q0cd71e9j9",
+    "assetUid": "01kjmv4adr7mvg7f2xfgev9mpb",
+    "type": "28",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"28\"}",
+    "timestamp": "2025-10-28T15:49:10.000",
+    "backendId": "352412"
+  },
+  {
+    "uid": "01kjmv4av26fg80ejv0edr12tw",
+    "assetUid": "01kjmv4adr7mvg7f2xfgev9mpb",
+    "type": "24",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"24\",\"oldValue\":\"Location\",\"newValue\":\"FLAME Ed 56\"}",
+    "timestamp": "2025-10-28T15:47:23.000",
+    "backendId": "352309"
+  },
+  {
+    "uid": "01kjmv4av4zkkkft8y1q62r9ry",
+    "assetUid": "01kjmv4adr7mvg7f2xfgev9mpb",
+    "type": "25",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2023-10-18T12:02:08.000",
+    "backendId": "176329"
+  },
+  {
+    "uid": "01kjmv4av62rthykswzrhcyrvf",
+    "assetUid": "01kjmv4adr7mvg7f2xfgev9mpb",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Area\",\"oldValue\":\"\",\"newValue\":\"INFN-LNF\"}",
+    "timestamp": "2023-10-18T12:02:07.000",
+    "backendId": "176328"
+  },
+  {
+    "uid": "01kjmv4av8e6xxmgkfrd4bqyth",
+    "assetUid": "01kjmv4adr7mvg7f2xfgev9mpb",
+    "type": "2",
+    "author": "Francesco Galletti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"CHAOS_LAB\",\"newValue\":\"CHAOS_LAB (T46)\"}",
+    "timestamp": "2023-04-21T10:28:59.000",
+    "backendId": "41196"
+  },
+  {
+    "uid": "01kjmv4ava4hfrqn5hnrhq9mea",
+    "assetUid": "01kjmv4adr7mvg7f2xfgev9mpb",
+    "type": "0",
+    "author": "Francesco Galletti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-04-21T10:25:56.000",
+    "backendId": "41193"
+  }
+]

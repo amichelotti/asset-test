@@ -1,0 +1,38 @@
+[
+  {
+    "uid": "01kjmvaeqbszdk3vj62vvrjahd",
+    "assetUid": "01kjmvadz5tcfbh2dn51whzwyk",
+    "type": "4",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"4\",\"attribute\":\"connector\",\"oldValue\":\"\",\"newValue\":\"MOTCON5-ser\"}",
+    "timestamp": "2025-06-13T14:48:31.000",
+    "backendId": "321839"
+  },
+  {
+    "uid": "01kjmvaeqfdk8jnmxy5t99ekrs",
+    "assetUid": "01kjmvadz5tcfbh2dn51whzwyk",
+    "type": "7",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"7\",\"newValue\":\"Screenshot 2025-0...\"}",
+    "timestamp": "2025-06-11T14:44:57.000",
+    "backendId": "321219"
+  },
+  {
+    "uid": "01kjmvaeqj4g2nxdmr584w50an",
+    "assetUid": "01kjmvadz5tcfbh2dn51whzwyk",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"motionbox05\",\"newValue\":\"motionbox05-scn05\"}",
+    "timestamp": "2025-06-11T13:57:18.000",
+    "backendId": "321215"
+  },
+  {
+    "uid": "01kjmvaeqm2vjgbjfn8hjghn17",
+    "assetUid": "01kjmvadz5tcfbh2dn51whzwyk",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-03-06T17:24:26.000",
+    "backendId": "300866"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "uid": "01kjmv8djj4sj8bbdznb79fkfj",
+  "key": "LNFELINP-111828",
+  "name": "LEL-RF-ACC03",
+  "type": "RF",
+  "schemaUid": "01kjmv6nnnzpmbaym76tak804v",
+  "attributes": {},
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

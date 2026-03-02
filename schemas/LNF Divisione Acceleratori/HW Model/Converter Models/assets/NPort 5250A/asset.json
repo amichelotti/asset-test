@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmv38g24m9yskb2m1n7h626",
+  "key": "LNFMAC-99946",
+  "name": "NPort 5250A",
+  "type": "Converter Models",
+  "schemaUid": "01kjmv19a4ha2mac1y6w18wtqs",
+  "attributes": {
+    "key": "LNFMAC-99946",
+    "name": "NPort 5250A",
+    "created": "2023-05-31T13:36:40.000Z",
+    "updated": "2023-05-31T13:36:48.000Z",
+    "producer": "LNFMAC-99945"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

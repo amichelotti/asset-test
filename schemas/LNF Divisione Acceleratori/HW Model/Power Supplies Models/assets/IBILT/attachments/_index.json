@@ -9,6 +9,7 @@
     "author": "amichelo",
     "created": "2024-11-08T17:28:53.000",
     "binaryPath": "schemas/LNF Divisione Acceleratori/HW Model/Power Supplies Models/assets/IBILT/attachments/BE2812_user_manual_1.2.pdf",
+    "_remoteUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2307/BE2812_user_manual_1.2.pdf",
     "originBackendId": "2307",
     "originUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2307/BE2812_user_manual_1.2.pdf"
   },
@@ -22,6 +23,7 @@
     "author": "amichelo",
     "created": "2024-11-08T17:28:06.000",
     "binaryPath": "schemas/LNF Divisione Acceleratori/HW Model/Power Supplies Models/assets/IBILT/attachments/BE2811_user_manual_1.2.pdf",
+    "_remoteUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2306/BE2811_user_manual_1.2.pdf",
     "originBackendId": "2306",
     "originUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2306/BE2811_user_manual_1.2.pdf"
   },
@@ -35,6 +37,7 @@
     "author": "amichelo",
     "created": "2024-11-08T17:27:20.000",
     "binaryPath": "schemas/LNF Divisione Acceleratori/HW Model/Power Supplies Models/assets/IBILT/attachments/Bilt_Prog_Manual.pdf",
+    "_remoteUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2305/Bilt_Prog_Manual.pdf",
     "originBackendId": "2305",
     "originUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2305/Bilt_Prog_Manual.pdf"
   },
@@ -48,6 +51,7 @@
     "author": "amichelo",
     "created": "2024-11-08T17:26:43.000",
     "binaryPath": "schemas/LNF Divisione Acceleratori/HW Model/Power Supplies Models/assets/IBILT/attachments/Bilt_User_Manual.pdf",
+    "_remoteUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2304/Bilt_User_Manual.pdf",
     "originBackendId": "2304",
     "originUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2304/Bilt_User_Manual.pdf"
   }

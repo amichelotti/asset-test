@@ -9,6 +9,7 @@
     "author": "amichelo",
     "created": "2024-12-09T10:02:05.000",
     "binaryPath": "schemas/LNF Divisione Acceleratori/HW Model/IO Models/assets/ET-7226/attachments/pet_et-7x00_user_manual_en.pdf",
+    "_remoteUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2324/pet_et-7x00_user_manual_en.pdf",
     "originBackendId": "2324",
     "originUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2324/pet_et-7x00_user_manual_en.pdf"
   },
@@ -22,6 +23,7 @@
     "author": "amichelo",
     "created": "2024-12-09T10:02:05.000",
     "binaryPath": "schemas/LNF Divisione Acceleratori/HW Model/IO Models/assets/ET-7226/attachments/pet_et7x00_register_table.pdf",
+    "_remoteUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2325/pet_et7x00_register_table.pdf",
     "originBackendId": "2325",
     "originUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2325/pet_et7x00_register_table.pdf"
   },
@@ -35,6 +37,7 @@
     "author": "amichelo",
     "created": "2024-12-09T10:02:04.000",
     "binaryPath": "schemas/LNF Divisione Acceleratori/HW Model/IO Models/assets/ET-7226/attachments/ET7026_V311.HEX",
+    "_remoteUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2323/ET7026_V311.HEX",
     "originBackendId": "2323",
     "originUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2323/ET7026_V311.HEX"
   }

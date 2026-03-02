@@ -9,6 +9,7 @@
     "author": "amichelo",
     "created": "2025-03-25T14:59:14.000",
     "binaryPath": "schemas/LNF Divisione Acceleratori/HW Model/Converter Models/assets/NPort 5410/attachments/moxa-nport-5400-series-firmware-v4.1.rom",
+    "_remoteUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2412/moxa-nport-5400-series-firmware-v4.1.rom",
     "originBackendId": "2412",
     "originUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2412/moxa-nport-5400-series-firmware-v4.1.rom"
   },
@@ -22,6 +23,7 @@
     "author": "amichelo",
     "created": "2025-02-20T10:42:52.000",
     "binaryPath": "schemas/LNF Divisione Acceleratori/HW Model/Converter Models/assets/NPort 5410/attachments/moxa-nport-5100a-series-firmware-v1.7.rom",
+    "_remoteUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2405/moxa-nport-5100a-series-firmware-v1.7.rom",
     "originBackendId": "2405",
     "originUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2405/moxa-nport-5100a-series-firmware-v1.7.rom"
   }

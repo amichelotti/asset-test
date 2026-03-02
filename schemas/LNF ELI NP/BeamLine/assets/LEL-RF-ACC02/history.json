@@ -5,8 +5,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Layout\",\"oldValue\":\"\",\"newValue\":\"M3-008\"}",
-    "timestamp": "2023-12-01T14:24:12.000",
-    "backendId": "186156"
+    "timestamp": "2023-12-01T14:24:12.000"
   },
   {
     "uid": "01kjmvb6xc1qj36fpe6jyvskcs",
@@ -14,8 +13,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Module\",\"oldValue\":\"\",\"newValue\":\"M3\"}",
-    "timestamp": "2023-12-01T00:56:10.000",
-    "backendId": "185530"
+    "timestamp": "2023-12-01T00:56:10.000"
   },
   {
     "uid": "01kjmvb6xerwm050rwm6cz8g2b",
@@ -23,8 +21,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Next Element\",\"oldValue\":\"\",\"newValue\":\"LEL-MAG-HCOR04\"}",
-    "timestamp": "2023-12-01T00:49:41.000",
-    "backendId": "185401"
+    "timestamp": "2023-12-01T00:49:41.000"
   },
   {
     "uid": "01kjmvb6xgjmtsv099vwe6bc6g",
@@ -32,8 +29,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Previous Element\",\"oldValue\":\"\",\"newValue\":\"LEL-VAC-IONP07\"}",
-    "timestamp": "2023-12-01T00:49:41.000",
-    "backendId": "185400"
+    "timestamp": "2023-12-01T00:49:41.000"
   },
   {
     "uid": "01kjmvb6xhyj2t1xh6ws0xg56s",
@@ -41,7 +37,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-12-01T00:37:27.000",
-    "backendId": "185272"
+    "timestamp": "2023-12-01T00:37:27.000"
   }
 ]

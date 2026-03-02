@@ -5,8 +5,7 @@
     "type": "25",
     "author": "Unknown",
     "details": "{\"type\":\"25\"}",
-    "timestamp": "2023-05-16T16:56:16.000",
-    "backendId": "141933"
+    "timestamp": "2023-05-16T16:56:16.000"
   },
   {
     "uid": "01kjmv1st9qxd4vt3a4qs1amme",
@@ -14,8 +13,7 @@
     "type": "24",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"24\",\"oldValue\":\"Switch Mod\",\"newValue\":\"Switch Models\"}",
-    "timestamp": "2023-04-19T20:37:14.000",
-    "backendId": "41148"
+    "timestamp": "2023-04-19T20:37:14.000"
   },
   {
     "uid": "01kjmv1st91y7tgpkn4ckq66j8",
@@ -23,7 +21,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-04-19T18:23:23.000",
-    "backendId": "41143"
+    "timestamp": "2023-04-19T18:23:23.000"
   }
 ]

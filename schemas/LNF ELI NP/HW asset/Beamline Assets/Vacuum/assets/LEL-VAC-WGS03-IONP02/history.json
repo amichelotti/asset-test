@@ -5,8 +5,7 @@
     "type": "2",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Vacuum Ion Pump\",\"newValue\":\"Vacuum Ion Pump C...\"}",
-    "timestamp": "2025-11-06T17:47:06.000",
-    "backendId": "354715"
+    "timestamp": "2025-11-06T17:47:06.000"
   },
   {
     "uid": "01kjmv7ynnpznbwywj7ct84z9t",
@@ -14,8 +13,7 @@
     "type": "5",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"5\",\"attribute\":\"Controller\",\"oldValue\":\"LEL-VAC-WGS03:VPC...\",\"newValue\":\"LEL-VAC-WGS01:VPC...\"}",
-    "timestamp": "2025-11-06T17:46:41.000",
-    "backendId": "354712"
+    "timestamp": "2025-11-06T17:46:41.000"
   },
   {
     "uid": "01kjmv7ynn157z6s7pxs8qt6a2",
@@ -23,8 +21,7 @@
     "type": "2",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Vacuum Ion Pump\",\"newValue\":\"Vacuum Ion Pump\"}",
-    "timestamp": "2025-11-06T17:46:41.000",
-    "backendId": "354711"
+    "timestamp": "2025-11-06T17:46:41.000"
   },
   {
     "uid": "01kjmv7ynp72r5rc0zhenw1pzh",
@@ -32,8 +29,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Layout\",\"oldValue\":\"\",\"newValue\":\"WGS03-001\"}",
-    "timestamp": "2023-12-01T14:15:41.000",
-    "backendId": "186095"
+    "timestamp": "2023-12-01T14:15:41.000"
   },
   {
     "uid": "01kjmv7ynq0tmp9rb7mz85etm0",
@@ -41,7 +37,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-11-30T13:48:22.000",
-    "backendId": "184737"
+    "timestamp": "2023-11-30T13:48:22.000"
   }
 ]

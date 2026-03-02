@@ -5,8 +5,7 @@
     "type": "26",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"26\"}",
-    "timestamp": "2025-06-16T12:11:38.000",
-    "backendId": "322159"
+    "timestamp": "2025-06-16T12:11:38.000"
   },
   {
     "uid": "01kjmvk2cwnkpj5x9ac5mhz1ea",
@@ -14,8 +13,7 @@
     "type": "2",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"LIBERA Analog F.E...\",\"newValue\":\"LIBERA Analog F.E...\"}",
-    "timestamp": "2025-06-16T12:11:38.000",
-    "backendId": "322158"
+    "timestamp": "2025-06-16T12:11:38.000"
   },
   {
     "uid": "01kjmvk2cydmkfzqa226570ndx",
@@ -23,8 +21,7 @@
     "type": "2",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"LLRF-TSRF1 - S02\",\"newValue\":\"LLRF-TSRF1-S02\"}",
-    "timestamp": "2025-06-16T12:01:45.000",
-    "backendId": "322157"
+    "timestamp": "2025-06-16T12:01:45.000"
   },
   {
     "uid": "01kjmvk2czq12kk8zdnja3rbby",
@@ -32,8 +29,7 @@
     "type": "25",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"25\"}",
-    "timestamp": "2025-06-16T12:01:33.000",
-    "backendId": "322156"
+    "timestamp": "2025-06-16T12:01:33.000"
   },
   {
     "uid": "01kjmvk2d2d4casvxdxhzxavng",
@@ -41,8 +37,7 @@
     "type": "2",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"LIBERA Analog F.E...\",\"newValue\":\"LIBERA Analog F.E...\"}",
-    "timestamp": "2025-06-16T12:01:33.000",
-    "backendId": "322155"
+    "timestamp": "2025-06-16T12:01:33.000"
   },
   {
     "uid": "01kjmvk2d4mrqwz05zzrj4cwq5",
@@ -50,8 +45,7 @@
     "type": "2",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"LLRF-TSRF1 S02\",\"newValue\":\"LLRF-TSRF1 - S02\"}",
-    "timestamp": "2025-06-16T12:01:33.000",
-    "backendId": "322154"
+    "timestamp": "2025-06-16T12:01:33.000"
   },
   {
     "uid": "01kjmvk2d6gzjw2mrw4b9kr0gv",
@@ -59,7 +53,6 @@
     "type": "0",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2025-06-16T11:55:36.000",
-    "backendId": "322152"
+    "timestamp": "2025-06-16T11:55:36.000"
   }
 ]

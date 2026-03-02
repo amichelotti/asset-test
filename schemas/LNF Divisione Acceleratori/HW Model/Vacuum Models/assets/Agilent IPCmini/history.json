@@ -5,8 +5,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"GIT repo\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
-    "timestamp": "2025-09-02T14:06:30.000",
-    "backendId": "341518"
+    "timestamp": "2025-09-02T14:06:30.000"
   },
   {
     "uid": "01kjmv1k88bhq1p9jraqnkan3t",
@@ -14,8 +13,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"Selection of posi...\"}",
-    "timestamp": "2025-05-20T15:40:52.000",
-    "backendId": "318143"
+    "timestamp": "2025-05-20T15:40:52.000"
   },
   {
     "uid": "01kjmv1k8bbr4fv0ax23ebr8vx",
@@ -23,8 +21,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Documentation\",\"oldValue\":\"\",\"newValue\":\"https://www.agile...\"}",
-    "timestamp": "2025-05-20T15:38:48.000",
-    "backendId": "318142"
+    "timestamp": "2025-05-20T15:38:48.000"
   },
   {
     "uid": "01kjmv1k8epsy9ymrh4fxv5zhr",
@@ -32,8 +29,7 @@
     "type": "7",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"7\",\"newValue\":\"data-sheet-ipcmin...\"}",
-    "timestamp": "2025-05-20T15:37:33.000",
-    "backendId": "318141"
+    "timestamp": "2025-05-20T15:37:33.000"
   },
   {
     "uid": "01kjmv1k8h6qaffck10skp88qw",
@@ -41,8 +37,7 @@
     "type": "8",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"8\",\"oldValue\":\"XGS-600 Gauge Con...\"}",
-    "timestamp": "2025-05-20T15:37:19.000",
-    "backendId": "318140"
+    "timestamp": "2025-05-20T15:37:19.000"
   },
   {
     "uid": "01kjmv1k8kwzv340bqbnh71dmb",
@@ -50,8 +45,7 @@
     "type": "7",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"7\",\"newValue\":\"XGS-600 Gauge Con...\"}",
-    "timestamp": "2025-05-20T15:37:04.000",
-    "backendId": "318139"
+    "timestamp": "2025-05-20T15:37:04.000"
   },
   {
     "uid": "01kjmv1k8ntfxsefsag5mh0096",
@@ -59,7 +53,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2025-05-20T15:37:03.000",
-    "backendId": "318138"
+    "timestamp": "2025-05-20T15:37:03.000"
   }
 ]

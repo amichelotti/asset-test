@@ -2,15 +2,12 @@
   {
     "uid": "01kjmv8zrxsbsn1v34rwhm54h3",
     "assetUid": "01kjmv8yfy16cp0c2g4h22ad8w",
-    "schemaUid": "01kjmv6p190eyfxsk45587e5vd",
     "filename": "evr_las.png",
     "mimeType": "image/png",
     "fileSize": 4145020,
     "author": "amichelo",
     "created": "2025-02-26T13:46:11.000",
     "binaryPath": "schemas/LNF ELI NP/HW asset/Network Assets/Host/IO Controller/assets/plelievr001/attachments/evr_las.png",
-    "_remoteUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2408/evr_las.png",
-    "originBackendId": "2408",
-    "originUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2408/evr_las.png"
+    "hasBinary": false
   }
 ]

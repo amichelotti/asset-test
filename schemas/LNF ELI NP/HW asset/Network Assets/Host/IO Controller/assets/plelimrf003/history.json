@@ -5,8 +5,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"I7-3517UE CPU EVR...\",\"newValue\":\"I7-3517UE CPU EVG...\"}",
-    "timestamp": "2025-06-03T13:28:51.000",
-    "backendId": "320074"
+    "timestamp": "2025-06-03T13:28:51.000"
   },
   {
     "uid": "01kjmv97amnm2ed5hstmd6qm4d",
@@ -14,8 +13,7 @@
     "type": "26",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"26\"}",
-    "timestamp": "2025-06-03T13:25:25.000",
-    "backendId": "320071"
+    "timestamp": "2025-06-03T13:25:25.000"
   },
   {
     "uid": "01kjmv97apq9vvertwfc3me1bs",
@@ -23,8 +21,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"plelievr003\",\"newValue\":\"plelimrf003\"}",
-    "timestamp": "2025-06-03T13:23:57.000",
-    "backendId": "320070"
+    "timestamp": "2025-06-03T13:23:57.000"
   },
   {
     "uid": "01kjmv97arapa0qv5exapc4w34",
@@ -32,8 +29,7 @@
     "type": "2",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"CLONE - plelievr003\",\"newValue\":\"plelievr003\"}",
-    "timestamp": "2025-05-15T15:09:48.000",
-    "backendId": "317667"
+    "timestamp": "2025-05-15T15:09:48.000"
   },
   {
     "uid": "01kjmv97atf3p465rcameht98r",
@@ -41,8 +37,7 @@
     "type": "7",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"7\",\"newValue\":\"evr_las.png\"}",
-    "timestamp": "2025-05-15T15:08:28.000",
-    "backendId": "317666"
+    "timestamp": "2025-05-15T15:08:28.000"
   },
   {
     "uid": "01kjmv97axyqyv2d0nx871dseq",
@@ -50,7 +45,6 @@
     "type": "0",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2025-05-15T15:08:28.000",
-    "backendId": "317665"
+    "timestamp": "2025-05-15T15:08:28.000"
   }
 ]

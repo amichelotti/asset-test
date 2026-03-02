@@ -2,15 +2,12 @@
   {
     "uid": "01kjmvabwxd16hxee4k0er7j7m",
     "assetUid": "01kjmvabb4vaj89c4e4zp01t5d",
-    "schemaUid": "01kjmv6q8jq07db1dft29n9yfs",
     "filename": "Screenshot 2025-06-11 133057.png",
     "mimeType": "image/png",
     "fileSize": 538517,
     "author": "JIRAUSER51951",
     "created": "2025-06-11T13:31:53.000",
     "binaryPath": "schemas/LNF ELI NP/HW asset/IO System/assets/motionbox02-scn02/attachments/Screenshot 2025-06-11 133057.png",
-    "_remoteUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2465/Screenshot 2025-06-11 133057.png",
-    "originBackendId": "2465",
-    "originUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2465/Screenshot 2025-06-11 133057.png"
+    "hasBinary": false
   }
 ]

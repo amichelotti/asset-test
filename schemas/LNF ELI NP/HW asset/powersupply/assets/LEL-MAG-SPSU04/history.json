@@ -5,8 +5,7 @@
     "type": "26",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"26\"}",
-    "timestamp": "2024-12-05T13:12:19.000",
-    "backendId": "280280"
+    "timestamp": "2024-12-05T13:12:19.000"
   },
   {
     "uid": "01kjmvc6de3yh1p5pp93rpcv63",
@@ -14,8 +13,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Registered\",\"oldValue\":\"\",\"newValue\":\"lel-mag-spsu04\"}",
-    "timestamp": "2024-12-05T13:11:53.000",
-    "backendId": "280279"
+    "timestamp": "2024-12-05T13:11:53.000"
   },
   {
     "uid": "01kjmvc6dghw52ys4k2v2h84dx",
@@ -23,8 +21,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_COR_10\"}",
-    "timestamp": "2024-12-05T13:11:53.000",
-    "backendId": "280278"
+    "timestamp": "2024-12-05T13:11:53.000"
   },
   {
     "uid": "01kjmvc6dhsywnzcz7mwqpy68z",
@@ -32,8 +29,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"START11\"}",
-    "timestamp": "2024-12-05T13:11:53.000",
-    "backendId": "280277"
+    "timestamp": "2024-12-05T13:11:53.000"
   },
   {
     "uid": "01kjmvc6dktstb99abyaf8q9wm",
@@ -41,8 +37,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"Corridor GP\"}",
-    "timestamp": "2024-12-05T13:11:53.000",
-    "backendId": "280276"
+    "timestamp": "2024-12-05T13:11:53.000"
   },
   {
     "uid": "01kjmvc6dn6ef2d5sh9tcw0z0t",
@@ -50,8 +45,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Solenoid B Set 2 ...\",\"newValue\":\"Solenoid B Set 2 ...\"}",
-    "timestamp": "2024-12-05T13:11:53.000",
-    "backendId": "280275"
+    "timestamp": "2024-12-05T13:11:53.000"
   },
   {
     "uid": "01kjmvc6dq7ef8yb8qp2e30srr",
@@ -59,8 +53,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
-    "timestamp": "2024-12-05T13:11:53.000",
-    "backendId": "280274"
+    "timestamp": "2024-12-05T13:11:53.000"
   },
   {
     "uid": "01kjmvc6dsxsx2gt3y9c18q867",
@@ -68,7 +61,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-11-29T00:56:07.000",
-    "backendId": "183825"
+    "timestamp": "2023-11-29T00:56:07.000"
   }
 ]

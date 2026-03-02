@@ -5,8 +5,7 @@
     "type": "29",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"29\"}",
-    "timestamp": "2025-10-28T15:52:12.000",
-    "backendId": "352606"
+    "timestamp": "2025-10-28T15:52:12.000"
   },
   {
     "uid": "01kjmv4av1yrm9v9q0cd71e9j9",
@@ -14,8 +13,7 @@
     "type": "28",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"28\"}",
-    "timestamp": "2025-10-28T15:49:10.000",
-    "backendId": "352412"
+    "timestamp": "2025-10-28T15:49:10.000"
   },
   {
     "uid": "01kjmv4av26fg80ejv0edr12tw",
@@ -23,8 +21,7 @@
     "type": "24",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"24\",\"oldValue\":\"Location\",\"newValue\":\"FLAME Ed 56\"}",
-    "timestamp": "2025-10-28T15:47:23.000",
-    "backendId": "352309"
+    "timestamp": "2025-10-28T15:47:23.000"
   },
   {
     "uid": "01kjmv4av4zkkkft8y1q62r9ry",
@@ -32,8 +29,7 @@
     "type": "25",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"25\"}",
-    "timestamp": "2023-10-18T12:02:08.000",
-    "backendId": "176329"
+    "timestamp": "2023-10-18T12:02:08.000"
   },
   {
     "uid": "01kjmv4av62rthykswzrhcyrvf",
@@ -41,8 +37,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Area\",\"oldValue\":\"\",\"newValue\":\"INFN-LNF\"}",
-    "timestamp": "2023-10-18T12:02:07.000",
-    "backendId": "176328"
+    "timestamp": "2023-10-18T12:02:07.000"
   },
   {
     "uid": "01kjmv4av8e6xxmgkfrd4bqyth",
@@ -50,8 +45,7 @@
     "type": "2",
     "author": "Francesco Galletti",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"CHAOS_LAB\",\"newValue\":\"CHAOS_LAB (T46)\"}",
-    "timestamp": "2023-04-21T10:28:59.000",
-    "backendId": "41196"
+    "timestamp": "2023-04-21T10:28:59.000"
   },
   {
     "uid": "01kjmv4ava4hfrqn5hnrhq9mea",
@@ -59,7 +53,6 @@
     "type": "0",
     "author": "Francesco Galletti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-04-21T10:25:56.000",
-    "backendId": "41193"
+    "timestamp": "2023-04-21T10:25:56.000"
   }
 ]

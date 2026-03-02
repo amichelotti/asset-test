@@ -5,8 +5,7 @@
     "type": "2",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"2\",\"attribute\":\"Module\",\"oldValue\":\"M4\",\"newValue\":\"M4A\"}",
-    "timestamp": "2025-06-18T17:26:28.000",
-    "backendId": "322687"
+    "timestamp": "2025-06-18T17:26:28.000"
   },
   {
     "uid": "01kjmv7jnqs27apyk7bhckxxsf",
@@ -14,8 +13,7 @@
     "type": "5",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"5\",\"attribute\":\"Layout\",\"oldValue\":\"M4-017\",\"newValue\":\"M4A-002\"}",
-    "timestamp": "2025-06-18T17:26:28.000",
-    "backendId": "322686"
+    "timestamp": "2025-06-18T17:26:28.000"
   },
   {
     "uid": "01kjmv7jnrg9k8nvgvzx498q3z",
@@ -23,8 +21,7 @@
     "type": "4",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
-    "timestamp": "2025-06-18T17:26:28.000",
-    "backendId": "322685"
+    "timestamp": "2025-06-18T17:26:28.000"
   },
   {
     "uid": "01kjmv7jnsb5ny8y7jqp2qmfyz",
@@ -32,8 +29,7 @@
     "type": "2",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Ion pump 75 l/s\",\"newValue\":\"Ion pump 75 l/s\"}",
-    "timestamp": "2025-06-18T17:26:28.000",
-    "backendId": "322684"
+    "timestamp": "2025-06-18T17:26:28.000"
   },
   {
     "uid": "01kjmv7jnt4jb9jwvxe6wneqet",
@@ -41,8 +37,7 @@
     "type": "2",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"LEL-VAC-IONP20\",\"newValue\":\"LEL-VAC-IONP15\"}",
-    "timestamp": "2025-06-18T17:26:28.000",
-    "backendId": "322683"
+    "timestamp": "2025-06-18T17:26:28.000"
   },
   {
     "uid": "01kjmv7jntptzs59zqt98w54bp",
@@ -50,8 +45,7 @@
     "type": "5",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"5\",\"attribute\":\"Layout\",\"oldValue\":\"REGION 4\",\"newValue\":\"M4-017\"}",
-    "timestamp": "2023-12-01T14:15:27.000",
-    "backendId": "186065"
+    "timestamp": "2023-12-01T14:15:27.000"
   },
   {
     "uid": "01kjmv7jnvdnmka6nc2rensvwx",
@@ -59,8 +53,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
-    "timestamp": "2023-11-30T13:39:49.000",
-    "backendId": "184721"
+    "timestamp": "2023-11-30T13:39:49.000"
   },
   {
     "uid": "01kjmv7jnwqvx0tpzxkvjxgcqj",
@@ -68,8 +61,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Controller\",\"oldValue\":\"\",\"newValue\":\"LEL-VAC-VPCON4\"}",
-    "timestamp": "2023-11-30T12:19:24.000",
-    "backendId": "184511"
+    "timestamp": "2023-11-30T12:19:24.000"
   },
   {
     "uid": "01kjmv7jnwpwjb28115z3gheqe",
@@ -77,8 +69,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Type\",\"oldValue\":\"\",\"newValue\":\"IONP\"}",
-    "timestamp": "2023-11-30T12:08:29.000",
-    "backendId": "184497"
+    "timestamp": "2023-11-30T12:08:29.000"
   },
   {
     "uid": "01kjmv7jnxrj7b0y13pb2m3zdj",
@@ -86,7 +77,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-11-29T23:57:51.000",
-    "backendId": "184178"
+    "timestamp": "2023-11-29T23:57:51.000"
   }
 ]

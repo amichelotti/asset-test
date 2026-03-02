@@ -5,8 +5,7 @@
     "type": "2",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"TPR 270, DN 16 IS...\",\"newValue\":\"TPR 270, DN 16 IS...\"}",
-    "timestamp": "2025-10-23T12:01:09.000",
-    "backendId": "351327"
+    "timestamp": "2025-10-23T12:01:09.000"
   },
   {
     "uid": "01kjmv3x818ejp4z0kw84t4x08",
@@ -14,8 +13,7 @@
     "type": "1",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"1\",\"attribute\":\"Documentation\",\"oldValue\":\"\",\"newValue\":\"https://vacuum-sh...\"}",
-    "timestamp": "2025-10-23T12:01:09.000",
-    "backendId": "351326"
+    "timestamp": "2025-10-23T12:01:09.000"
   },
   {
     "uid": "01kjmv3x83f51rhv56vvz2bck3",
@@ -23,7 +21,6 @@
     "type": "0",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2025-10-23T11:49:51.000",
-    "backendId": "351311"
+    "timestamp": "2025-10-23T11:49:51.000"
   }
 ]

@@ -5,8 +5,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"GIT repo\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
-    "timestamp": "2025-09-02T14:10:28.000",
-    "backendId": "341522"
+    "timestamp": "2025-09-02T14:10:28.000"
   },
   {
     "uid": "01kjmv31xy6tytf6f05yqspprc",
@@ -14,8 +13,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"Embedded IOC\"}",
-    "timestamp": "2025-09-02T14:09:15.000",
-    "backendId": "341521"
+    "timestamp": "2025-09-02T14:09:15.000"
   },
   {
     "uid": "01kjmv31y1a4z72jbj7d27dyv4",
@@ -23,7 +21,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2025-06-13T06:27:40.000",
-    "backendId": "321699"
+    "timestamp": "2025-06-13T06:27:40.000"
   }
 ]

@@ -5,8 +5,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Stanza\",\"oldValue\":\"\",\"newValue\":\"22\"}",
-    "timestamp": "2025-02-21T10:42:10.000",
-    "backendId": "298254"
+    "timestamp": "2025-02-21T10:42:10.000"
   },
   {
     "uid": "01kjmv9w9wjbfgqhzrdf0wbx2z",
@@ -14,8 +13,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Building\",\"oldValue\":\"\",\"newValue\":\"ED2\"}",
-    "timestamp": "2025-02-21T10:42:10.000",
-    "backendId": "298253"
+    "timestamp": "2025-02-21T10:42:10.000"
   },
   {
     "uid": "01kjmv9w9z2cag674f4ej79fg7",
@@ -23,7 +21,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2025-02-18T16:49:12.000",
-    "backendId": "297676"
+    "timestamp": "2025-02-18T16:49:12.000"
   }
 ]

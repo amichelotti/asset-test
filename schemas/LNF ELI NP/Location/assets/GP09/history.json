@@ -5,8 +5,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Note\",\"oldValue\":\"\",\"newValue\":\"Sala controllo\"}",
-    "timestamp": "2023-12-05T12:56:16.000",
-    "backendId": "187351"
+    "timestamp": "2023-12-05T12:56:16.000"
   },
   {
     "uid": "01kjmv9tmq2114bexyyewznmdj",
@@ -14,8 +13,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Stanza\",\"oldValue\":\"\",\"newValue\":\"Annex\"}",
-    "timestamp": "2023-12-05T12:56:16.000",
-    "backendId": "187350"
+    "timestamp": "2023-12-05T12:56:16.000"
   },
   {
     "uid": "01kjmv9tmrmmcqzqcryta2gbrp",
@@ -23,7 +21,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-11-30T10:53:56.000",
-    "backendId": "184419"
+    "timestamp": "2023-11-30T10:53:56.000"
   }
 ]

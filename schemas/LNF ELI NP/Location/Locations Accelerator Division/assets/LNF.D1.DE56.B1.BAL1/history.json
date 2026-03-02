@@ -5,8 +5,7 @@
     "type": "7",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"7\",\"newValue\":\"Ed. 56 bozza codi...\"}",
-    "timestamp": "2026-01-08T18:22:49.000",
-    "backendId": "368252"
+    "timestamp": "2026-01-08T18:22:49.000"
   },
   {
     "uid": "01kjmv4v6s3d986f4r861v89gz",
@@ -14,8 +13,7 @@
     "type": "1",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"1\",\"attribute\":\"Alias\",\"oldValue\":\"\",\"newValue\":\"FLAME - INFERNO\"}",
-    "timestamp": "2026-01-08T18:22:42.000",
-    "backendId": "368251"
+    "timestamp": "2026-01-08T18:22:42.000"
   },
   {
     "uid": "01kjmv4v6tks9wgcm9ykcc87cp",
@@ -23,8 +21,7 @@
     "type": "2",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"FLAME - INFERNO\",\"newValue\":\"LNF.D1.DE56.B1.BAL1\"}",
-    "timestamp": "2026-01-08T18:22:42.000",
-    "backendId": "368250"
+    "timestamp": "2026-01-08T18:22:42.000"
   },
   {
     "uid": "01kjmv4v6w9cwbc59j1qd92drr",
@@ -32,8 +29,7 @@
     "type": "24",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"24\",\"oldValue\":\"Ed 56 - FLAME\",\"newValue\":\"Locations Acceler...\"}",
-    "timestamp": "2025-11-18T18:01:08.000",
-    "backendId": "358476"
+    "timestamp": "2025-11-18T18:01:08.000"
   },
   {
     "uid": "01kjmv4v6yavn1wbj3t42s90fm",
@@ -41,8 +37,7 @@
     "type": "24",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"24\",\"oldValue\":\"Locations Acceler...\",\"newValue\":\"Ed 56 - FLAME\"}",
-    "timestamp": "2025-10-28T16:32:20.000",
-    "backendId": "352620"
+    "timestamp": "2025-10-28T16:32:20.000"
   },
   {
     "uid": "01kjmv4v70ayek84kcjqd2br9g",
@@ -50,8 +45,7 @@
     "type": "29",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"29\"}",
-    "timestamp": "2025-10-28T15:52:12.000",
-    "backendId": "352589"
+    "timestamp": "2025-10-28T15:52:12.000"
   },
   {
     "uid": "01kjmv4v72s9a2j69v0chdz2vs",
@@ -59,8 +53,7 @@
     "type": "28",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"28\"}",
-    "timestamp": "2025-10-28T15:49:10.000",
-    "backendId": "352436"
+    "timestamp": "2025-10-28T15:49:10.000"
   },
   {
     "uid": "01kjmv4v74c5p2yczvgs2xqehk",
@@ -68,8 +61,7 @@
     "type": "24",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"24\",\"oldValue\":\"Location\",\"newValue\":\"FLAME Ed 56\"}",
-    "timestamp": "2025-10-28T15:47:26.000",
-    "backendId": "352330"
+    "timestamp": "2025-10-28T15:47:26.000"
   },
   {
     "uid": "01kjmv4v76nyqmsd1kyxr6414q",
@@ -77,8 +69,7 @@
     "type": "1",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"1\",\"attribute\":\"Building\",\"oldValue\":\"\",\"newValue\":\"56\"}",
-    "timestamp": "2025-10-28T13:52:25.000",
-    "backendId": "352268"
+    "timestamp": "2025-10-28T13:52:25.000"
   },
   {
     "uid": "01kjmv4v78z6y2n782xmwzr9dg",
@@ -86,8 +77,7 @@
     "type": "2",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"FLAME - Ed. 56 - ...\",\"newValue\":\"FLAME - INFERNO\"}",
-    "timestamp": "2025-10-28T13:52:25.000",
-    "backendId": "352267"
+    "timestamp": "2025-10-28T13:52:25.000"
   },
   {
     "uid": "01kjmv4v7bv7evj2a1r5v3xc6m",
@@ -95,8 +85,7 @@
     "type": "2",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"Flame - ICH zone\",\"newValue\":\"FLAME - Ed. 56 - ...\"}",
-    "timestamp": "2025-10-28T13:35:46.000",
-    "backendId": "352255"
+    "timestamp": "2025-10-28T13:35:46.000"
   },
   {
     "uid": "01kjmv4v7c9d26nsg0vgc5zh85",
@@ -104,7 +93,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-05-16T17:05:20.000",
-    "backendId": "141941"
+    "timestamp": "2023-05-16T17:05:20.000"
   }
 ]

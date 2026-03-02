@@ -5,8 +5,7 @@
     "type": "4",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"DELL PowerEdge R220\"}",
-    "timestamp": "2025-11-18T11:40:57.000",
-    "backendId": "358461"
+    "timestamp": "2025-11-18T11:40:57.000"
   },
   {
     "uid": "01kjmv8pkmnzq4273ge4z0tkj7",
@@ -14,8 +13,7 @@
     "type": "2",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"xeon E3 1220 x4 /...\",\"newValue\":\"xeon E3 1220 x4 /...\"}",
-    "timestamp": "2025-11-18T11:40:57.000",
-    "backendId": "358460"
+    "timestamp": "2025-11-18T11:40:57.000"
   },
   {
     "uid": "01kjmv8pkncym37rh0254qtb01",
@@ -23,8 +21,7 @@
     "type": "26",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"26\"}",
-    "timestamp": "2023-12-19T12:22:25.000",
-    "backendId": "189175"
+    "timestamp": "2023-12-19T12:22:25.000"
   },
   {
     "uid": "01kjmv8pkneppfeppmethqhv39",
@@ -32,8 +29,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"xeon E3 1220 x4\",\"newValue\":\"xeon E3 1220 x4 /...\"}",
-    "timestamp": "2023-12-19T12:22:25.000",
-    "backendId": "189174"
+    "timestamp": "2023-12-19T12:22:25.000"
   },
   {
     "uid": "01kjmv8pkpxkmf9jc0cxdhx07d",
@@ -41,7 +37,6 @@
     "type": "0",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-12-19T12:21:03.000",
-    "backendId": "189173"
+    "timestamp": "2023-12-19T12:21:03.000"
   }
 ]

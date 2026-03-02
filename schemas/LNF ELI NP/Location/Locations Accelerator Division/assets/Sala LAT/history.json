@@ -5,8 +5,7 @@
     "type": "29",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"29\"}",
-    "timestamp": "2025-10-28T15:52:12.000",
-    "backendId": "352607"
+    "timestamp": "2025-10-28T15:52:12.000"
   },
   {
     "uid": "01kjmv5ay3hpgq1yk68rhx2c56",
@@ -14,8 +13,7 @@
     "type": "28",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"28\"}",
-    "timestamp": "2025-10-28T15:49:10.000",
-    "backendId": "352479"
+    "timestamp": "2025-10-28T15:49:10.000"
   },
   {
     "uid": "01kjmv5ay6wsrc8v9q36e722s0",
@@ -23,8 +21,7 @@
     "type": "24",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"24\",\"oldValue\":\"Location\",\"newValue\":\"FLAME Ed 56\"}",
-    "timestamp": "2025-10-28T15:47:30.000",
-    "backendId": "352375"
+    "timestamp": "2025-10-28T15:47:30.000"
   },
   {
     "uid": "01kjmv5ay8k2vya9d3h57d3833",
@@ -32,8 +29,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Stanza\",\"oldValue\":\"\",\"newValue\":\"41\"}",
-    "timestamp": "2024-02-02T10:54:29.000",
-    "backendId": "201117"
+    "timestamp": "2024-02-02T10:54:29.000"
   },
   {
     "uid": "01kjmv5aya8mmfz22pw7rbkfdc",
@@ -41,8 +37,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Building\",\"oldValue\":\"\",\"newValue\":\"Dafne\"}",
-    "timestamp": "2024-02-02T10:54:29.000",
-    "backendId": "201116"
+    "timestamp": "2024-02-02T10:54:29.000"
   },
   {
     "uid": "01kjmv5ayc0ssm2w12qqk5nkcy",
@@ -50,7 +45,6 @@
     "type": "0",
     "author": "Francesco Galletti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-04-20T14:44:20.000",
-    "backendId": "41165"
+    "timestamp": "2023-04-20T14:44:20.000"
   }
 ]

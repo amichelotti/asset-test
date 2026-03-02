@@ -5,8 +5,7 @@
     "type": "29",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"29\"}",
-    "timestamp": "2025-10-28T15:52:12.000",
-    "backendId": "352523"
+    "timestamp": "2025-10-28T15:52:12.000"
   },
   {
     "uid": "01kjmv4pfrrfkxvt0jzxdja7ck",
@@ -14,8 +13,7 @@
     "type": "28",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"28\"}",
-    "timestamp": "2025-10-28T15:49:10.000",
-    "backendId": "352442"
+    "timestamp": "2025-10-28T15:49:10.000"
   },
   {
     "uid": "01kjmv4pftbf7b8yqweswkc7fx",
@@ -23,8 +21,7 @@
     "type": "24",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"24\",\"oldValue\":\"Location\",\"newValue\":\"FLAME Ed 56\"}",
-    "timestamp": "2025-10-28T15:47:27.000",
-    "backendId": "352339"
+    "timestamp": "2025-10-28T15:47:27.000"
   },
   {
     "uid": "01kjmv4pfxbvqwmrqd08bs0tpk",
@@ -32,8 +29,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Area\",\"oldValue\":\"\",\"newValue\":\"Edificio 2\"}",
-    "timestamp": "2023-10-18T12:09:35.000",
-    "backendId": "176333"
+    "timestamp": "2023-10-18T12:09:35.000"
   },
   {
     "uid": "01kjmv4pfzfprwdmb4jtfwd3wj",
@@ -41,8 +37,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Stanza\",\"oldValue\":\"\",\"newValue\":\"117\"}",
-    "timestamp": "2023-10-18T12:09:35.000",
-    "backendId": "176332"
+    "timestamp": "2023-10-18T12:09:35.000"
   },
   {
     "uid": "01kjmv4pg0avqaam0ctw22y9v1",
@@ -50,8 +45,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Piano\",\"oldValue\":\"\",\"newValue\":\"2\"}",
-    "timestamp": "2023-10-18T12:09:35.000",
-    "backendId": "176331"
+    "timestamp": "2023-10-18T12:09:35.000"
   },
   {
     "uid": "01kjmv4pg28k6h9ksdhqqe9wpv",
@@ -59,8 +53,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"Lab. Controlli 117\",\"newValue\":\"Lab. Controlli Di...\"}",
-    "timestamp": "2023-10-18T12:09:35.000",
-    "backendId": "176330"
+    "timestamp": "2023-10-18T12:09:35.000"
   },
   {
     "uid": "01kjmv4pg4258s7nr185h77der",
@@ -68,7 +61,6 @@
     "type": "0",
     "author": "Unknown",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-10-09T14:10:36.000",
-    "backendId": "173965"
+    "timestamp": "2023-10-09T14:10:36.000"
   }
 ]

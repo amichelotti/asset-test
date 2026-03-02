@@ -5,8 +5,7 @@
     "type": "5",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"5\",\"attribute\":\"connector\",\"oldValue\":\"NuovoConnettore\",\"newValue\":\"pippopluto\"}",
-    "timestamp": "2025-09-12T11:28:35.000",
-    "backendId": "343010"
+    "timestamp": "2025-09-12T11:28:35.000"
   },
   {
     "uid": "01kjmva2p1tfak3dcbwbqfxm22",
@@ -14,8 +13,7 @@
     "type": "5",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"5\",\"attribute\":\"Location\",\"oldValue\":\"AB1\",\"newValue\":\"Nuovaps\"}",
-    "timestamp": "2025-09-12T11:21:15.000",
-    "backendId": "343006"
+    "timestamp": "2025-09-12T11:21:15.000"
   },
   {
     "uid": "01kjmva2p3bk5ys10x5w1w4hnc",
@@ -23,7 +21,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2025-09-12T11:20:52.000",
-    "backendId": "343004"
+    "timestamp": "2025-09-12T11:20:52.000"
   }
 ]

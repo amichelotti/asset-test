@@ -5,8 +5,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"ROOF\"}",
-    "timestamp": "2023-11-30T13:33:03.000",
-    "backendId": "184666"
+    "timestamp": "2023-11-30T13:33:03.000"
   },
   {
     "uid": "01kjmv8c5hd646d67qbdh54zbd",
@@ -14,8 +13,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Type\",\"oldValue\":\"\",\"newValue\":\"FILTER\"}",
-    "timestamp": "2023-11-30T10:12:25.000",
-    "backendId": "184375"
+    "timestamp": "2023-11-30T10:12:25.000"
   },
   {
     "uid": "01kjmv8c5hkvqdzhq134sjg01k",
@@ -23,7 +21,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-11-30T10:10:23.000",
-    "backendId": "184373"
+    "timestamp": "2023-11-30T10:10:23.000"
   }
 ]

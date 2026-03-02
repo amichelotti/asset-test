@@ -5,8 +5,7 @@
     "type": "25",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"25\"}",
-    "timestamp": "2025-11-13T11:05:05.000",
-    "backendId": "356155"
+    "timestamp": "2025-11-13T11:05:05.000"
   },
   {
     "uid": "01kjmv8sz5dwfhbnjy3sjynd6j",
@@ -14,8 +13,7 @@
     "type": "2",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"2\",\"attribute\":\"OS\",\"oldValue\":\"AlmaLinux 9.5\",\"newValue\":\"AlmaLinux 9.6\"}",
-    "timestamp": "2025-11-13T11:02:00.000",
-    "backendId": "356154"
+    "timestamp": "2025-11-13T11:02:00.000"
   },
   {
     "uid": "01kjmv8sz50vxzv8cdcscvv4h1",
@@ -23,7 +21,6 @@
     "type": "0",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2025-11-13T10:57:13.000",
-    "backendId": "356153"
+    "timestamp": "2025-11-13T10:57:13.000"
   }
 ]

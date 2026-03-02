@@ -5,8 +5,7 @@
     "type": "1",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"QRcode label atta...\"}",
-    "timestamp": "2025-06-12T11:06:33.000",
-    "backendId": "321481"
+    "timestamp": "2025-06-12T11:06:33.000"
   },
   {
     "uid": "01kjmvg61sd6jgvwd4txcrdtqh",
@@ -14,8 +13,7 @@
     "type": "1",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"1\",\"attribute\":\"Documentation\",\"oldValue\":\"\",\"newValue\":\"https://rda.dsi.i...\"}",
-    "timestamp": "2025-06-12T10:27:44.000",
-    "backendId": "321473"
+    "timestamp": "2025-06-12T10:27:44.000"
   },
   {
     "uid": "01kjmvg621t8a3b3cd986eqa2d",
@@ -23,8 +21,7 @@
     "type": "5",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"5\",\"attribute\":\"Blade\",\"oldValue\":\"plelinpdom001\",\"newValue\":\"plelinpdom001, pl...\"}",
-    "timestamp": "2025-06-12T10:23:11.000",
-    "backendId": "321472"
+    "timestamp": "2025-06-12T10:23:11.000"
   },
   {
     "uid": "01kjmvg626fbtqx3cq7rbp6172",
@@ -32,8 +29,7 @@
     "type": "4",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_COR_04\"}",
-    "timestamp": "2025-06-12T10:23:11.000",
-    "backendId": "321471"
+    "timestamp": "2025-06-12T10:23:11.000"
   },
   {
     "uid": "01kjmvg628bzp52405gwbr151e",
@@ -41,8 +37,7 @@
     "type": "4",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"Corridor GP\"}",
-    "timestamp": "2025-06-12T10:23:11.000",
-    "backendId": "321470"
+    "timestamp": "2025-06-12T10:23:11.000"
   },
   {
     "uid": "01kjmvg62c8q3ydjew03aza09t",
@@ -50,8 +45,7 @@
     "type": "4",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"4\",\"attribute\":\"Blade\",\"oldValue\":\"\",\"newValue\":\"plelinpdom001\"}",
-    "timestamp": "2025-06-12T10:07:46.000",
-    "backendId": "321459"
+    "timestamp": "2025-06-12T10:07:46.000"
   },
   {
     "uid": "01kjmvg62ec3v5xnfy0v8h4r2f",
@@ -59,8 +53,7 @@
     "type": "6",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"6\",\"attribute\":\"Model\",\"oldValue\":\" AS -2124BT-HNTR\",\"newValue\":\"\"}",
-    "timestamp": "2025-06-12T09:36:31.000",
-    "backendId": "321457"
+    "timestamp": "2025-06-12T09:36:31.000"
   },
   {
     "uid": "01kjmvg62hm619cj93cx1zmdhj",
@@ -68,7 +61,6 @@
     "type": "0",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2025-06-12T09:35:54.000",
-    "backendId": "321456"
+    "timestamp": "2025-06-12T09:35:54.000"
   }
 ]

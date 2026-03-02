@@ -5,8 +5,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Next Element\",\"oldValue\":\"\",\"newValue\":\"LEL-AC-FILTER02\"}",
-    "timestamp": "2023-12-01T00:50:13.000",
-    "backendId": "185486"
+    "timestamp": "2023-12-01T00:50:13.000"
   },
   {
     "uid": "01kjmvajmee87f1w859w6622ez",
@@ -14,8 +13,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Previous Element\",\"oldValue\":\"\",\"newValue\":\"LEL-RF-MC01:KLY\"}",
-    "timestamp": "2023-12-01T00:50:13.000",
-    "backendId": "185485"
+    "timestamp": "2023-12-01T00:50:13.000"
   },
   {
     "uid": "01kjmvajmgg5dw29k3k1xcpb4y",
@@ -23,7 +21,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-12-01T00:48:45.000",
-    "backendId": "185316"
+    "timestamp": "2023-12-01T00:48:45.000"
   }
 ]

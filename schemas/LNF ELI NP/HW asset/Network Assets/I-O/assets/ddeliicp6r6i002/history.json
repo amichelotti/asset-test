@@ -5,8 +5,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"ET-7060\"}",
-    "timestamp": "2025-06-12T14:25:40.000",
-    "backendId": "321518"
+    "timestamp": "2025-06-12T14:25:40.000"
   },
   {
     "uid": "01kjmva8wjhaff6fz9385e2yg6",
@@ -14,8 +13,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"Inside Polarity i...\"}",
-    "timestamp": "2025-06-11T10:50:28.000",
-    "backendId": "321182"
+    "timestamp": "2025-06-11T10:50:28.000"
   },
   {
     "uid": "01kjmva8wm22twa95w0xsazea2",
@@ -23,8 +21,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Registered\",\"oldValue\":\"\",\"newValue\":\"ddeliicp6r6i002\"}",
-    "timestamp": "2025-03-07T14:26:26.000",
-    "backendId": "301037"
+    "timestamp": "2025-03-07T14:26:26.000"
   },
   {
     "uid": "01kjmva8wpf4z550z70j3k3wpj",
@@ -32,8 +29,7 @@
     "type": "24",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"24\",\"oldValue\":\"IO System\",\"newValue\":\"I/O\"}",
-    "timestamp": "2025-03-07T14:26:03.000",
-    "backendId": "301036"
+    "timestamp": "2025-03-07T14:26:03.000"
   },
   {
     "uid": "01kjmva8wrw87mhs55xyts03cm",
@@ -41,7 +37,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2025-03-07T14:19:36.000",
-    "backendId": "301032"
+    "timestamp": "2025-03-07T14:19:36.000"
   }
 ]

@@ -5,8 +5,7 @@
     "type": "25",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"25\"}",
-    "timestamp": "2024-12-04T17:02:32.000",
-    "backendId": "280060"
+    "timestamp": "2024-12-04T17:02:32.000"
   },
   {
     "uid": "01kjmv3b0ayxtn5zwrss3yc28v",
@@ -14,8 +13,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Documentation\",\"oldValue\":\"\",\"newValue\":\"https://www.elmar...\"}",
-    "timestamp": "2024-12-04T17:02:32.000",
-    "backendId": "280059"
+    "timestamp": "2024-12-04T17:02:32.000"
   },
   {
     "uid": "01kjmv3b0de5h5jxk34at5awd2",
@@ -23,8 +21,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Producer\",\"oldValue\":\"\",\"newValue\":\"Moxa\"}",
-    "timestamp": "2024-12-04T17:02:32.000",
-    "backendId": "280058"
+    "timestamp": "2024-12-04T17:02:32.000"
   },
   {
     "uid": "01kjmv3b0f8aaacb0bkyx62whx",
@@ -32,7 +29,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-05-31T16:20:03.000",
-    "backendId": "144107"
+    "timestamp": "2023-05-31T16:20:03.000"
   }
 ]

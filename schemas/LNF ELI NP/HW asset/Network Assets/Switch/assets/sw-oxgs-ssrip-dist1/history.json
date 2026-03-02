@@ -5,8 +5,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"cisco catalyst 92...\"}",
-    "timestamp": "2025-06-12T14:57:16.000",
-    "backendId": "321532"
+    "timestamp": "2025-06-12T14:57:16.000"
   },
   {
     "uid": "01kjmv6vpp0kmmhftj5nwy8hv2",
@@ -14,8 +13,7 @@
     "type": "25",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"25\"}",
-    "timestamp": "2025-06-12T13:20:53.000",
-    "backendId": "321486"
+    "timestamp": "2025-06-12T13:20:53.000"
   },
   {
     "uid": "01kjmv6vppmhx326jgjqstftgd",
@@ -23,7 +21,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2025-06-11T11:02:52.000",
-    "backendId": "321190"
+    "timestamp": "2025-06-11T11:02:52.000"
   }
 ]

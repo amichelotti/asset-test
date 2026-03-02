@@ -5,8 +5,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Connector2 Desc\",\"oldValue\":\"\",\"newValue\":\"port 1\"}",
-    "timestamp": "2025-02-03T18:58:53.000",
-    "backendId": "293203"
+    "timestamp": "2025-02-03T18:58:53.000"
   },
   {
     "uid": "01kjmvjxya85gvawppm7rc0vem",
@@ -14,8 +13,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Connector2 Pair\",\"oldValue\":\"\",\"newValue\":\"scelimxa8001\"}",
-    "timestamp": "2025-02-03T18:58:53.000",
-    "backendId": "293202"
+    "timestamp": "2025-02-03T18:58:53.000"
   },
   {
     "uid": "01kjmvjxycrzt1wx1ft9t4t4qs",
@@ -23,8 +21,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Connector1 Pair\",\"oldValue\":\"\",\"newValue\":\"LEL-VAC-VPCON01\"}",
-    "timestamp": "2025-02-03T18:58:53.000",
-    "backendId": "293201"
+    "timestamp": "2025-02-03T18:58:53.000"
   },
   {
     "uid": "01kjmvjxyebqrhecrtrjq3r6qt",
@@ -32,8 +29,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"ROOF\"}",
-    "timestamp": "2025-02-03T18:58:53.000",
-    "backendId": "293200"
+    "timestamp": "2025-02-03T18:58:53.000"
   },
   {
     "uid": "01kjmvjxyfv1h456k22vqw8xg9",
@@ -41,8 +37,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
-    "timestamp": "2025-02-03T18:58:53.000",
-    "backendId": "293199"
+    "timestamp": "2025-02-03T18:58:53.000"
   },
   {
     "uid": "01kjmvjxyhprgf39yy3fmh343x",
@@ -50,7 +45,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2025-02-03T18:56:43.000",
-    "backendId": "293196"
+    "timestamp": "2025-02-03T18:56:43.000"
   }
 ]

@@ -5,8 +5,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"Corridor GP\"}",
-    "timestamp": "2025-02-27T09:22:04.000",
-    "backendId": "299178"
+    "timestamp": "2025-02-27T09:22:04.000"
   },
   {
     "uid": "01kjmvfsdsjkc4ymw751atwhsb",
@@ -14,8 +13,7 @@
     "type": "25",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"25\"}",
-    "timestamp": "2025-02-27T09:21:57.000",
-    "backendId": "299177"
+    "timestamp": "2025-02-27T09:21:57.000"
   },
   {
     "uid": "01kjmvfsdvkrzkpk5bbaj6yd56",
@@ -23,8 +21,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Alias\",\"oldValue\":\"\",\"newValue\":\"Diagnostic 2\"}",
-    "timestamp": "2025-02-27T09:21:57.000",
-    "backendId": "299176"
+    "timestamp": "2025-02-27T09:21:57.000"
   },
   {
     "uid": "01kjmvfsdxthnp5246kdks83tg",
@@ -32,8 +29,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"R_GP08_INFN20/21\",\"newValue\":\"R_COR_05\"}",
-    "timestamp": "2025-02-27T09:21:57.000",
-    "backendId": "299175"
+    "timestamp": "2025-02-27T09:21:57.000"
   },
   {
     "uid": "01kjmvfsdzdxvb5ep5pjae3m7d",
@@ -41,8 +37,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"GP08\"}",
-    "timestamp": "2023-11-30T10:52:08.000",
-    "backendId": "184413"
+    "timestamp": "2023-11-30T10:52:08.000"
   },
   {
     "uid": "01kjmvfse18pxmhtfkzat8xwev",
@@ -50,7 +45,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-11-30T10:30:39.000",
-    "backendId": "184393"
+    "timestamp": "2023-11-30T10:30:39.000"
   }
 ]

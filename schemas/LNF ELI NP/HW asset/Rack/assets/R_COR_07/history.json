@@ -5,8 +5,7 @@
     "type": "25",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"25\"}",
-    "timestamp": "2025-02-27T09:23:21.000",
-    "backendId": "299181"
+    "timestamp": "2025-02-27T09:23:21.000"
   },
   {
     "uid": "01kjmvfswe3hn6k1wr6apg05n8",
@@ -14,8 +13,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Alias\",\"oldValue\":\"\",\"newValue\":\"MPS2\"}",
-    "timestamp": "2025-02-27T09:23:21.000",
-    "backendId": "299180"
+    "timestamp": "2025-02-27T09:23:21.000"
   },
   {
     "uid": "01kjmvfswjbqy9efkwbqpn6rcp",
@@ -23,8 +21,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"R_GP08_INFN22\",\"newValue\":\"R_COR_07\"}",
-    "timestamp": "2025-02-27T09:23:21.000",
-    "backendId": "299179"
+    "timestamp": "2025-02-27T09:23:21.000"
   },
   {
     "uid": "01kjmvfswp1rxy0dgtk0d7e7cp",
@@ -32,8 +29,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"GP08\"}",
-    "timestamp": "2023-11-30T10:52:05.000",
-    "backendId": "184406"
+    "timestamp": "2023-11-30T10:52:05.000"
   },
   {
     "uid": "01kjmvfswrbbq4xvgt2kj4bqgf",
@@ -41,7 +37,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-11-30T10:30:35.000",
-    "backendId": "184382"
+    "timestamp": "2023-11-30T10:30:35.000"
   }
 ]

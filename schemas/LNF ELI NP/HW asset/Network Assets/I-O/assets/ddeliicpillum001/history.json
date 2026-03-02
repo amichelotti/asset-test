@@ -5,8 +5,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"ET-7267/PET-7267\"}",
-    "timestamp": "2025-06-12T14:25:09.000",
-    "backendId": "321515"
+    "timestamp": "2025-06-12T14:25:09.000"
   },
   {
     "uid": "01kjmva9a6xapfr4ywxcc45g5t",
@@ -14,7 +13,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2025-03-07T14:27:24.000",
-    "backendId": "301039"
+    "timestamp": "2025-03-07T14:27:24.000"
   }
 ]

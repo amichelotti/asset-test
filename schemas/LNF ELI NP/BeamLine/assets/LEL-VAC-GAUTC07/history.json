@@ -5,8 +5,7 @@
     "type": "5",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"5\",\"attribute\":\"Layout\",\"oldValue\":\"M3-003\",\"newValue\":\"M4-026\"}",
-    "timestamp": "2025-06-18T16:25:02.000",
-    "backendId": "322640"
+    "timestamp": "2025-06-18T16:25:02.000"
   },
   {
     "uid": "01kjmvbe9xdfqr4xed801q8wh2",
@@ -14,8 +13,7 @@
     "type": "2",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"2\",\"attribute\":\"Module\",\"oldValue\":\"M3\",\"newValue\":\"M4\"}",
-    "timestamp": "2025-06-18T16:25:02.000",
-    "backendId": "322639"
+    "timestamp": "2025-06-18T16:25:02.000"
   },
   {
     "uid": "01kjmvbe9zbqbhxmv4wptf4y69",
@@ -23,8 +21,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Layout\",\"oldValue\":\"\",\"newValue\":\"M3-003\"}",
-    "timestamp": "2023-12-01T14:24:08.000",
-    "backendId": "186151"
+    "timestamp": "2023-12-01T14:24:08.000"
   },
   {
     "uid": "01kjmvbea1wbdyrbjwvr2r1bd6",
@@ -32,8 +29,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Module\",\"oldValue\":\"\",\"newValue\":\"M3\"}",
-    "timestamp": "2023-12-01T00:56:07.000",
-    "backendId": "185525"
+    "timestamp": "2023-12-01T00:56:07.000"
   },
   {
     "uid": "01kjmvbea3hy59tycc21trwfsq",
@@ -41,8 +37,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Next Element\",\"oldValue\":\"\",\"newValue\":\"LEL-VAC-GAUCC08\"}",
-    "timestamp": "2023-12-01T00:49:38.000",
-    "backendId": "185391"
+    "timestamp": "2023-12-01T00:49:38.000"
   },
   {
     "uid": "01kjmvbea4pre77cnjctq1ydf5",
@@ -50,8 +45,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Previous Element\",\"oldValue\":\"\",\"newValue\":\"LEL-VAC-GAUCC06\"}",
-    "timestamp": "2023-12-01T00:49:38.000",
-    "backendId": "185390"
+    "timestamp": "2023-12-01T00:49:38.000"
   },
   {
     "uid": "01kjmvbea6ymns6xs93r4wzy18",
@@ -59,7 +53,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-12-01T00:37:24.000",
-    "backendId": "185267"
+    "timestamp": "2023-12-01T00:37:24.000"
   }
 ]

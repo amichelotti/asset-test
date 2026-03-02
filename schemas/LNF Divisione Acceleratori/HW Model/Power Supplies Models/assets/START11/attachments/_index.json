@@ -2,15 +2,12 @@
   {
     "uid": "01kjmv3rs61dth6jymt98g5h6s",
     "assetUid": "01kjmv3r2sb8hze3gtkyvnejd0",
-    "schemaUid": "01kjmv19he5pfftw8861fe9311",
     "filename": "14 - START Power Supplies - User Manual.pdf",
     "mimeType": "application/pdf",
     "fileSize": 2014059,
     "author": "amichelo",
     "created": "2024-11-08T17:25:49.000",
     "binaryPath": "schemas/LNF Divisione Acceleratori/HW Model/Power Supplies Models/assets/START11/attachments/14 - START Power Supplies - User Manual.pdf",
-    "_remoteUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2303/14 - START Power Supplies - User Manual.pdf",
-    "originBackendId": "2303",
-    "originUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2303/14 - START Power Supplies - User Manual.pdf"
+    "hasBinary": false
   }
 ]

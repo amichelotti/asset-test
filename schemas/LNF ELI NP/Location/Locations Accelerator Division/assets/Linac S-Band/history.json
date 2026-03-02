@@ -5,8 +5,7 @@
     "type": "29",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"29\"}",
-    "timestamp": "2025-10-28T15:52:12.000",
-    "backendId": "352529"
+    "timestamp": "2025-10-28T15:52:12.000"
   },
   {
     "uid": "01kjmv4tfa4armz5n3m772yq48",
@@ -14,8 +13,7 @@
     "type": "28",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"28\"}",
-    "timestamp": "2025-10-28T15:49:10.000",
-    "backendId": "352451"
+    "timestamp": "2025-10-28T15:49:10.000"
   },
   {
     "uid": "01kjmv4tfcz6xncxqms834wwym",
@@ -23,8 +21,7 @@
     "type": "24",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"24\",\"oldValue\":\"Location\",\"newValue\":\"FLAME Ed 56\"}",
-    "timestamp": "2025-10-28T15:47:28.000",
-    "backendId": "352346"
+    "timestamp": "2025-10-28T15:47:28.000"
   },
   {
     "uid": "01kjmv4tfdycbzrh02cqq0p2gc",
@@ -32,8 +29,7 @@
     "type": "25",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"25\"}",
-    "timestamp": "2023-10-03T17:34:46.000",
-    "backendId": "171525"
+    "timestamp": "2023-10-03T17:34:46.000"
   },
   {
     "uid": "01kjmv4tff8mz2k8gmec0pnwg4",
@@ -41,8 +37,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Area\",\"oldValue\":\"\",\"newValue\":\"Sparc - bunker\"}",
-    "timestamp": "2023-10-03T17:34:46.000",
-    "backendId": "171524"
+    "timestamp": "2023-10-03T17:34:46.000"
   },
   {
     "uid": "01kjmv4tfhbhyj2qvhepcqjm87",
@@ -50,7 +45,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-10-03T17:29:56.000",
-    "backendId": "171521"
+    "timestamp": "2023-10-03T17:29:56.000"
   }
 ]

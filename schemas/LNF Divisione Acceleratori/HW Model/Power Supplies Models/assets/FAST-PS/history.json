@@ -5,8 +5,7 @@
     "type": "3",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"3\",\"attribute\":\"Control SW\",\"oldValue\":\"https://github.co...\",\"newValue\":\"\"}",
-    "timestamp": "2025-09-02T13:52:58.000",
-    "backendId": "341502"
+    "timestamp": "2025-09-02T13:52:58.000"
   },
   {
     "uid": "01kjmv2j4tbwtz67cqqfd74kky",
@@ -14,8 +13,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"GIT repo\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
-    "timestamp": "2025-09-02T13:52:58.000",
-    "backendId": "341501"
+    "timestamp": "2025-09-02T13:52:58.000"
   },
   {
     "uid": "01kjmv2j4wg2p4z0v3hzejdzbq",
@@ -23,7 +21,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2025-09-02T12:59:34.000",
-    "backendId": "341484"
+    "timestamp": "2025-09-02T12:59:34.000"
   }
 ]

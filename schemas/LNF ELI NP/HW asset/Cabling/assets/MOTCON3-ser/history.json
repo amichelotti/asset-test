@@ -5,8 +5,7 @@
     "type": "1",
     "author": "Riccardo Esposito",
     "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
-    "timestamp": "2025-06-13T14:48:14.000",
-    "backendId": "321837"
+    "timestamp": "2025-06-13T14:48:14.000"
   },
   {
     "uid": "01kjmvjchsmt3kcqb0e4qr8azw",
@@ -14,8 +13,7 @@
     "type": "1",
     "author": "Riccardo Esposito",
     "details": "{\"type\":\"1\",\"attribute\":\"Type\",\"oldValue\":\"\",\"newValue\":\"RS232\"}",
-    "timestamp": "2025-06-13T14:45:46.000",
-    "backendId": "321828"
+    "timestamp": "2025-06-13T14:45:46.000"
   },
   {
     "uid": "01kjmvjchvxhp9yb20v6nx9kt9",
@@ -23,8 +21,7 @@
     "type": "4",
     "author": "Riccardo Esposito",
     "details": "{\"type\":\"4\",\"attribute\":\"Connector2 Pair\",\"oldValue\":\"\",\"newValue\":\"motionbox04-scn04\"}",
-    "timestamp": "2025-06-13T14:45:46.000",
-    "backendId": "321827"
+    "timestamp": "2025-06-13T14:45:46.000"
   },
   {
     "uid": "01kjmvjchxcnqr6jjzjtpxexsv",
@@ -32,8 +29,7 @@
     "type": "4",
     "author": "Riccardo Esposito",
     "details": "{\"type\":\"4\",\"attribute\":\"Connector1 Pair\",\"oldValue\":\"\",\"newValue\":\"motionbox03-scn03\"}",
-    "timestamp": "2025-06-13T14:45:46.000",
-    "backendId": "321826"
+    "timestamp": "2025-06-13T14:45:46.000"
   },
   {
     "uid": "01kjmvjchz8fv849n9m6rrp06a",
@@ -41,7 +37,6 @@
     "type": "0",
     "author": "Riccardo Esposito",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2025-06-13T14:45:01.000",
-    "backendId": "321823"
+    "timestamp": "2025-06-13T14:45:01.000"
   }
 ]

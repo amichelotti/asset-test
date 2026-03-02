@@ -5,8 +5,7 @@
     "type": "7",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"7\",\"newValue\":\"R_RUF_02.jpg\"}",
-    "timestamp": "2025-06-12T16:38:35.000",
-    "backendId": "321544"
+    "timestamp": "2025-06-12T16:38:35.000"
   },
   {
     "uid": "01kjmvg0ajfmwsy5xreep3haq2",
@@ -14,8 +13,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Alias\",\"oldValue\":\"\",\"newValue\":\"Control + Network \"}",
-    "timestamp": "2025-02-27T09:10:29.000",
-    "backendId": "299143"
+    "timestamp": "2025-02-27T09:10:29.000"
   },
   {
     "uid": "01kjmvg0andedmr3d8yxt3r0b1",
@@ -23,8 +21,7 @@
     "type": "7",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"7\",\"newValue\":\"Screenshot 2025-0...\"}",
-    "timestamp": "2025-02-26T13:59:45.000",
-    "backendId": "298973"
+    "timestamp": "2025-02-26T13:59:45.000"
   },
   {
     "uid": "01kjmvg0aqdpwgys89y8j07vp4",
@@ -32,8 +29,7 @@
     "type": "25",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"25\"}",
-    "timestamp": "2025-02-26T13:58:58.000",
-    "backendId": "298972"
+    "timestamp": "2025-02-26T13:58:58.000"
   },
   {
     "uid": "01kjmvg0at3mhpfep1zaz3te5q",
@@ -41,8 +37,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"ROOF\"}",
-    "timestamp": "2025-02-26T13:58:58.000",
-    "backendId": "298971"
+    "timestamp": "2025-02-26T13:58:58.000"
   },
   {
     "uid": "01kjmvg0awwjvh4nvtvvk4avg9",
@@ -50,8 +45,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"R_ROF_02\",\"newValue\":\"R_RUF_02\"}",
-    "timestamp": "2025-02-26T13:58:58.000",
-    "backendId": "298970"
+    "timestamp": "2025-02-26T13:58:58.000"
   },
   {
     "uid": "01kjmvg0aye4e4ytxy04y9wpr6",
@@ -59,8 +53,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"R_ROOF_INFN02\",\"newValue\":\"R_ROF_02\"}",
-    "timestamp": "2025-02-26T13:54:43.000",
-    "backendId": "298969"
+    "timestamp": "2025-02-26T13:54:43.000"
   },
   {
     "uid": "01kjmvg0b1q8ede18jnde5rzmw",
@@ -68,8 +61,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"ROOF\"}",
-    "timestamp": "2023-11-30T10:52:03.000",
-    "backendId": "184402"
+    "timestamp": "2023-11-30T10:52:03.000"
   },
   {
     "uid": "01kjmvg0b56r5vb2h6qd5r7zny",
@@ -77,7 +69,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-11-30T10:30:33.000",
-    "backendId": "184378"
+    "timestamp": "2023-11-30T10:30:33.000"
   }
 ]

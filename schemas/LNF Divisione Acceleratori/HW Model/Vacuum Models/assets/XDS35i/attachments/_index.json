@@ -2,15 +2,12 @@
   {
     "uid": "01kjmv42g3x59097tzzre35rp6",
     "assetUid": "01kjmv41rvrxz76spghhq6mtmh",
-    "schemaUid": "01kjmv1a8chq7prqwhkverw3dk",
     "filename": "3601-0452-01-XDS35i-datasheet.pdf",
     "mimeType": "application/pdf",
     "fileSize": 1952846,
     "author": "md206925",
     "created": "2025-10-23T13:58:36.000",
     "binaryPath": "schemas/LNF Divisione Acceleratori/HW Model/Vacuum Models/assets/XDS35i/attachments/3601-0452-01-XDS35i-datasheet.pdf",
-    "_remoteUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2571/3601-0452-01-XDS35i-datasheet.pdf",
-    "originBackendId": "2571",
-    "originUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2571/3601-0452-01-XDS35i-datasheet.pdf"
+    "hasBinary": false
   }
 ]

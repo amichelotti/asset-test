@@ -5,8 +5,7 @@
     "type": "5",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"5\",\"attribute\":\"Controller\",\"oldValue\":\"\",\"newValue\":\"LEL-VAC-VPCON01\"}",
-    "timestamp": "2025-11-07T14:41:18.000",
-    "backendId": "354867"
+    "timestamp": "2025-11-07T14:41:18.000"
   },
   {
     "uid": "01kjmv7cy8zez08q112et0y2kh",
@@ -14,8 +13,7 @@
     "type": "4",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
-    "timestamp": "2025-11-07T14:41:18.000",
-    "backendId": "354866"
+    "timestamp": "2025-11-07T14:41:18.000"
   },
   {
     "uid": "01kjmv7cyayf7q0aje5g9aqx1r",
@@ -23,8 +21,7 @@
     "type": "2",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Ion pump 75 l/s\",\"newValue\":\"Ion pump 75 l/s\"}",
-    "timestamp": "2025-11-07T14:41:18.000",
-    "backendId": "354865"
+    "timestamp": "2025-11-07T14:41:18.000"
   },
   {
     "uid": "01kjmv7cyc3q6vh4w7zr4p3728",
@@ -32,8 +29,7 @@
     "type": "5",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"5\",\"attribute\":\"Layout\",\"oldValue\":\"REGION 1\",\"newValue\":\"M1-004\"}",
-    "timestamp": "2023-12-01T14:14:58.000",
-    "backendId": "186002"
+    "timestamp": "2023-12-01T14:14:58.000"
   },
   {
     "uid": "01kjmv7cyct2w92f6fqmw7qtf9",
@@ -41,8 +37,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
-    "timestamp": "2023-11-30T13:39:41.000",
-    "backendId": "184693"
+    "timestamp": "2023-11-30T13:39:41.000"
   },
   {
     "uid": "01kjmv7cydee2fyyhm435kh5h8",
@@ -50,8 +45,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Type\",\"oldValue\":\"\",\"newValue\":\"IONP\"}",
-    "timestamp": "2023-11-30T12:07:05.000",
-    "backendId": "184469"
+    "timestamp": "2023-11-30T12:07:05.000"
   },
   {
     "uid": "01kjmv7cydz5x6e3qd48cxb60j",
@@ -59,7 +53,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-11-29T23:57:35.000",
-    "backendId": "184150"
+    "timestamp": "2023-11-29T23:57:35.000"
   }
 ]

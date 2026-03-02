@@ -5,8 +5,7 @@
     "type": "5",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"5\",\"attribute\":\"Layout\",\"oldValue\":\"REGION 4\",\"newValue\":\"M4-002\"}",
-    "timestamp": "2023-12-01T14:15:21.000",
-    "backendId": "186050"
+    "timestamp": "2023-12-01T14:15:21.000"
   },
   {
     "uid": "01kjmv8b2p7kzb9gh8fm3h96k1",
@@ -14,8 +13,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
-    "timestamp": "2023-11-30T13:33:42.000",
-    "backendId": "184685"
+    "timestamp": "2023-11-30T13:33:42.000"
   },
   {
     "uid": "01kjmv8b2pje42ec41d69k6dsb",
@@ -23,8 +21,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Module\",\"oldValue\":\"\",\"newValue\":\"M4\"}",
-    "timestamp": "2023-11-29T23:50:53.000",
-    "backendId": "184112"
+    "timestamp": "2023-11-29T23:50:53.000"
   },
   {
     "uid": "01kjmv8b2q21417hj8r6a300jr",
@@ -32,8 +29,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Layout\",\"oldValue\":\"\",\"newValue\":\"REGION 4\"}",
-    "timestamp": "2023-11-29T23:50:53.000",
-    "backendId": "184111"
+    "timestamp": "2023-11-29T23:50:53.000"
   },
   {
     "uid": "01kjmv8b2r7tqxt616fd7yk54q",
@@ -41,7 +37,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-11-29T13:17:17.000",
-    "backendId": "184045"
+    "timestamp": "2023-11-29T13:17:17.000"
   }
 ]

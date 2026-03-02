@@ -5,8 +5,7 @@
     "type": "25",
     "author": "Riccardo Esposito",
     "details": "{\"type\":\"25\"}",
-    "timestamp": "2025-06-12T14:27:13.000",
-    "backendId": "321524"
+    "timestamp": "2025-06-12T14:27:13.000"
   },
   {
     "uid": "01kjmva1tq7v70s6t7a7695cwc",
@@ -14,8 +13,7 @@
     "type": "5",
     "author": "Riccardo Esposito",
     "details": "{\"type\":\"5\",\"attribute\":\"Location\",\"oldValue\":\"Selced\",\"newValue\":\"AB1\"}",
-    "timestamp": "2025-06-12T14:27:12.000",
-    "backendId": "321523"
+    "timestamp": "2025-06-12T14:27:12.000"
   },
   {
     "uid": "01kjmva1ttpy7qj1jfda0gn8s8",
@@ -23,8 +21,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Registered\",\"oldValue\":\"\",\"newValue\":\"ccelicam06\"}",
-    "timestamp": "2025-06-12T14:23:03.000",
-    "backendId": "321506"
+    "timestamp": "2025-06-12T14:23:03.000"
   },
   {
     "uid": "01kjmva1txyc49p4r67y8e6q9t",
@@ -32,8 +29,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Camera setup2 tes...\",\"newValue\":\"Camera setup2 tes...\"}",
-    "timestamp": "2025-06-12T14:23:03.000",
-    "backendId": "321505"
+    "timestamp": "2025-06-12T14:23:03.000"
   },
   {
     "uid": "01kjmva1tzq26jd9qqmx3r8ppy",
@@ -41,8 +37,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Status\",\"oldValue\":\"Action Needed\",\"newValue\":\"Active\"}",
-    "timestamp": "2025-06-12T14:23:03.000",
-    "backendId": "321504"
+    "timestamp": "2025-06-12T14:23:03.000"
   },
   {
     "uid": "01kjmva1v0qm9cm0qvdh9dtyw9",
@@ -50,7 +45,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2024-11-15T14:08:53.000",
-    "backendId": "259470"
+    "timestamp": "2024-11-15T14:08:53.000"
   }
 ]

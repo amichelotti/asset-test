@@ -5,8 +5,7 @@
     "type": "7",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"7\",\"newValue\":\"Screenshot 2025-0...\"}",
-    "timestamp": "2025-06-11T14:57:40.000",
-    "backendId": "321227"
+    "timestamp": "2025-06-11T14:57:40.000"
   },
   {
     "uid": "01kjmvafjbepc49yrw4v315arx",
@@ -14,8 +13,7 @@
     "type": "2",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"motionbox06\",\"newValue\":\"motionbox06-scn06\"}",
-    "timestamp": "2025-06-11T13:57:27.000",
-    "backendId": "321216"
+    "timestamp": "2025-06-11T13:57:27.000"
   },
   {
     "uid": "01kjmvafje8r8th7a3ad23y9eg",
@@ -23,7 +21,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2025-03-06T17:25:02.000",
-    "backendId": "300867"
+    "timestamp": "2025-03-06T17:25:02.000"
   }
 ]

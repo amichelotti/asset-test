@@ -2,15 +2,12 @@
   {
     "uid": "01kjmv1hwvaymnt0b7sw7fc869",
     "assetUid": "01kjmv1gcxwxatddsxttsw1jnx",
-    "schemaUid": "01kjmv1a8chq7prqwhkverw3dk",
     "filename": "4UHV.pdf",
     "mimeType": "application/pdf",
     "fileSize": 4622611,
     "author": "amichelo",
     "created": "2024-12-05T15:41:43.000",
     "binaryPath": "schemas/LNF Divisione Acceleratori/HW Model/Vacuum Models/assets/Agilent 4UHV Ion Pump Controller/attachments/4UHV.pdf",
-    "_remoteUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2320/4UHV.pdf",
-    "originBackendId": "2320",
-    "originUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2320/4UHV.pdf"
+    "hasBinary": false
   }
 ]

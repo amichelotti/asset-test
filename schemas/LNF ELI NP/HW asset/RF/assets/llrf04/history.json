@@ -5,8 +5,7 @@
     "type": "26",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"26\"}",
-    "timestamp": "2025-06-13T12:01:53.000",
-    "backendId": "321732"
+    "timestamp": "2025-06-13T12:01:53.000"
   },
   {
     "uid": "01kjmvk4rhfv5qr8b4ebdfqnes",
@@ -14,8 +13,7 @@
     "type": "25",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"25\"}",
-    "timestamp": "2025-06-13T10:01:54.000",
-    "backendId": "321723"
+    "timestamp": "2025-06-13T10:01:54.000"
   },
   {
     "uid": "01kjmvk4rkp1prjxs3w3q2zmhr",
@@ -23,8 +21,7 @@
     "type": "2",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"ELI - C BAND Libe...\",\"newValue\":\"ELI - C-BAND Libe...\"}",
-    "timestamp": "2025-06-13T09:53:22.000",
-    "backendId": "321713"
+    "timestamp": "2025-06-13T09:53:22.000"
   },
   {
     "uid": "01kjmvk4rnfjzpbnc9b0c02v3p",
@@ -32,7 +29,6 @@
     "type": "0",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2025-06-13T09:52:10.000",
-    "backendId": "321710"
+    "timestamp": "2025-06-13T09:52:10.000"
   }
 ]

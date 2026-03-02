@@ -5,8 +5,7 @@
     "type": "26",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"26\"}",
-    "timestamp": "2024-04-22T18:24:53.000",
-    "backendId": "217859"
+    "timestamp": "2024-04-22T18:24:53.000"
   },
   {
     "uid": "01kjmv3ctaej8deewc9gm7ex87",
@@ -14,8 +13,7 @@
     "type": "25",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"25\"}",
-    "timestamp": "2023-10-10T14:26:05.000",
-    "backendId": "174149"
+    "timestamp": "2023-10-10T14:26:05.000"
   },
   {
     "uid": "01kjmv3ctcmaxgfpys36ec2vhw",
@@ -23,8 +21,7 @@
     "type": "1",
     "author": "Unknown",
     "details": "{\"type\":\"1\",\"attribute\":\"Memory\",\"oldValue\":\"\",\"newValue\":\"32\"}",
-    "timestamp": "2023-05-16T11:27:54.000",
-    "backendId": "141903"
+    "timestamp": "2023-05-16T11:27:54.000"
   },
   {
     "uid": "01kjmv3cte89dnv39jexr15ta0",
@@ -32,8 +29,7 @@
     "type": "1",
     "author": "Unknown",
     "details": "{\"type\":\"1\",\"attribute\":\"CPU type\",\"oldValue\":\"\",\"newValue\":\"I5-7260U Processor \"}",
-    "timestamp": "2023-05-16T11:27:54.000",
-    "backendId": "141902"
+    "timestamp": "2023-05-16T11:27:54.000"
   },
   {
     "uid": "01kjmv3ctgannfsk3g733972hx",
@@ -41,7 +37,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-04-19T20:43:40.000",
-    "backendId": "41150"
+    "timestamp": "2023-04-19T20:43:40.000"
   }
 ]

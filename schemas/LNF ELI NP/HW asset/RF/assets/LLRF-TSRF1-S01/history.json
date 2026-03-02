@@ -5,8 +5,7 @@
     "type": "2",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"Libera LLRF-TSRF1\",\"newValue\":\"LLRF-TSRF1-S01\"}",
-    "timestamp": "2025-06-16T11:56:25.000",
-    "backendId": "322153"
+    "timestamp": "2025-06-16T11:56:25.000"
   },
   {
     "uid": "01kjmvk1xn812z1w35bmgcfccp",
@@ -14,8 +13,7 @@
     "type": "26",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"26\"}",
-    "timestamp": "2025-06-16T11:49:49.000",
-    "backendId": "322151"
+    "timestamp": "2025-06-16T11:49:49.000"
   },
   {
     "uid": "01kjmvk1xq3443gced33sy9s7n",
@@ -23,8 +21,7 @@
     "type": "2",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"LIBERA Analog F.E...\",\"newValue\":\"LIBERA Analog F.E...\"}",
-    "timestamp": "2025-06-16T11:44:38.000",
-    "backendId": "322150"
+    "timestamp": "2025-06-16T11:44:38.000"
   },
   {
     "uid": "01kjmvk1xs6znpa2ye7grvvgr4",
@@ -32,7 +29,6 @@
     "type": "0",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2025-06-16T11:42:48.000",
-    "backendId": "322149"
+    "timestamp": "2025-06-16T11:42:48.000"
   }
 ]

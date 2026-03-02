@@ -5,8 +5,7 @@
     "type": "25",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"25\"}",
-    "timestamp": "2023-12-19T13:44:38.000",
-    "backendId": "189199"
+    "timestamp": "2023-12-19T13:44:38.000"
   },
   {
     "uid": "01kjmv9814r275fb7xcx2zg7n4",
@@ -14,8 +13,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"4T*7 disk raw ......\",\"newValue\":\"4T*7 disk raw ......\"}",
-    "timestamp": "2023-12-19T13:44:38.000",
-    "backendId": "189198"
+    "timestamp": "2023-12-19T13:44:38.000"
   },
   {
     "uid": "01kjmv9816efvjypr0htvke53m",
@@ -23,8 +21,7 @@
     "type": "2",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"4T*7 disk raw 24 ...\",\"newValue\":\"4T*7 disk raw ......\"}",
-    "timestamp": "2023-12-19T13:43:10.000",
-    "backendId": "189197"
+    "timestamp": "2023-12-19T13:43:10.000"
   },
   {
     "uid": "01kjmv98174q69cdmj43bdrctj",
@@ -32,8 +29,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"4T*7 disk raw 24 ...\",\"newValue\":\"4T*7 disk raw 24 ...\"}",
-    "timestamp": "2023-12-19T13:36:48.000",
-    "backendId": "189196"
+    "timestamp": "2023-12-19T13:36:48.000"
   },
   {
     "uid": "01kjmv9819mw4s2nxhv9w0sqxq",
@@ -41,8 +37,7 @@
     "type": "2",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"4T*12 disk\",\"newValue\":\"4T*7 disk raw 24 ...\"}",
-    "timestamp": "2023-12-19T13:34:37.000",
-    "backendId": "189195"
+    "timestamp": "2023-12-19T13:34:37.000"
   },
   {
     "uid": "01kjmv981b5d1emv4a1htna72t",
@@ -50,8 +45,7 @@
     "type": "1",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"1\",\"attribute\":\"MAC\",\"oldValue\":\"\",\"newValue\":\"0c:c4:7a:53:12:f8\"}",
-    "timestamp": "2023-12-19T13:33:49.000",
-    "backendId": "189194"
+    "timestamp": "2023-12-19T13:33:49.000"
   },
   {
     "uid": "01kjmv981c5ax0xrttma19e523",
@@ -59,7 +53,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-12-19T13:25:17.000",
-    "backendId": "189193"
+    "timestamp": "2023-12-19T13:25:17.000"
   }
 ]

@@ -5,8 +5,7 @@
     "type": "1",
     "author": "Unknown",
     "details": "{\"type\":\"1\",\"attribute\":\"CPU type\",\"oldValue\":\"\",\"newValue\":\"i5\"}",
-    "timestamp": "2023-05-16T11:25:31.000",
-    "backendId": "141901"
+    "timestamp": "2023-05-16T11:25:31.000"
   },
   {
     "uid": "01kjmv346agbt0hfckfq5j6nb8",
@@ -14,8 +13,7 @@
     "type": "25",
     "author": "Unknown",
     "details": "{\"type\":\"25\"}",
-    "timestamp": "2023-05-16T11:21:39.000",
-    "backendId": "141900"
+    "timestamp": "2023-05-16T11:21:39.000"
   },
   {
     "uid": "01kjmv346bwhbmntfz1rd16dm7",
@@ -23,7 +21,6 @@
     "type": "0",
     "author": "Unknown",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-05-16T11:21:21.000",
-    "backendId": "141899"
+    "timestamp": "2023-05-16T11:21:21.000"
   }
 ]

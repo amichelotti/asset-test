@@ -5,8 +5,7 @@
     "type": "1",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"General Product I...\"}",
-    "timestamp": "2025-10-23T14:01:37.000",
-    "backendId": "351340"
+    "timestamp": "2025-10-23T14:01:37.000"
   },
   {
     "uid": "01kjmv42p6m0n9rpbny5jg6mhf",
@@ -14,8 +13,7 @@
     "type": "1",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"1\",\"attribute\":\"Documentation\",\"oldValue\":\"\",\"newValue\":\"https://it.my.edw...\"}",
-    "timestamp": "2025-10-23T14:01:37.000",
-    "backendId": "351339"
+    "timestamp": "2025-10-23T14:01:37.000"
   },
   {
     "uid": "01kjmv42p6szks18hdrx8bmhbn",
@@ -23,8 +21,7 @@
     "type": "7",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"7\",\"newValue\":\"3601-0452-01-XDS3...\"}",
-    "timestamp": "2025-10-23T13:58:36.000",
-    "backendId": "351338"
+    "timestamp": "2025-10-23T13:58:36.000"
   },
   {
     "uid": "01kjmv42p7r4adwtfx1p07a92t",
@@ -32,7 +29,6 @@
     "type": "0",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2025-10-23T12:26:32.000",
-    "backendId": "351334"
+    "timestamp": "2025-10-23T12:26:32.000"
   }
 ]

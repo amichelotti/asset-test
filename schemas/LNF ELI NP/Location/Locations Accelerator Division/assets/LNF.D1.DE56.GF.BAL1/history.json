@@ -5,8 +5,7 @@
     "type": "7",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"7\",\"newValue\":\"Ed. 56 bozza codi...\"}",
-    "timestamp": "2026-01-08T18:22:56.000",
-    "backendId": "368253"
+    "timestamp": "2026-01-08T18:22:56.000"
   },
   {
     "uid": "01kjmv4vy9vyk0bpce64jd3tf3",
@@ -14,8 +13,7 @@
     "type": "1",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"1\",\"attribute\":\"Alias\",\"oldValue\":\"\",\"newValue\":\"FLAME PARADISO\"}",
-    "timestamp": "2026-01-08T18:19:24.000",
-    "backendId": "368247"
+    "timestamp": "2026-01-08T18:19:24.000"
   },
   {
     "uid": "01kjmv4vybx8esmyy2h3wp58te",
@@ -23,8 +21,7 @@
     "type": "1",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"FLAME PARADISO\"}",
-    "timestamp": "2026-01-08T18:19:24.000",
-    "backendId": "368246"
+    "timestamp": "2026-01-08T18:19:24.000"
   },
   {
     "uid": "01kjmv4vyespvpvbbp1eegt9ya",
@@ -32,8 +29,7 @@
     "type": "2",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"FLAME - PARADISO\",\"newValue\":\"LNF.D1.DE56.GF.BAL1\"}",
-    "timestamp": "2026-01-08T18:19:24.000",
-    "backendId": "368245"
+    "timestamp": "2026-01-08T18:19:24.000"
   },
   {
     "uid": "01kjmv4vygn3z0n58f2pwx02n5",
@@ -41,8 +37,7 @@
     "type": "24",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"24\",\"oldValue\":\"Ed 56 - FLAME\",\"newValue\":\"Locations Acceler...\"}",
-    "timestamp": "2025-11-18T18:01:09.000",
-    "backendId": "358478"
+    "timestamp": "2025-11-18T18:01:09.000"
   },
   {
     "uid": "01kjmv4vyjwhv60wv4snatr4ah",
@@ -50,8 +45,7 @@
     "type": "24",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"24\",\"oldValue\":\"Locations Acceler...\",\"newValue\":\"Ed 56 - FLAME\"}",
-    "timestamp": "2025-10-28T16:33:02.000",
-    "backendId": "352621"
+    "timestamp": "2025-10-28T16:33:02.000"
   },
   {
     "uid": "01kjmv4vymvs1xs926wrc4sdd5",
@@ -59,8 +53,7 @@
     "type": "29",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"29\"}",
-    "timestamp": "2025-10-28T15:52:12.000",
-    "backendId": "352590"
+    "timestamp": "2025-10-28T15:52:12.000"
   },
   {
     "uid": "01kjmv4vyp9zxd396h00x4x0ga",
@@ -68,8 +61,7 @@
     "type": "28",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"28\"}",
-    "timestamp": "2025-10-28T15:49:10.000",
-    "backendId": "352437"
+    "timestamp": "2025-10-28T15:49:10.000"
   },
   {
     "uid": "01kjmv4vyr0skjp3q4yp9xv3m3",
@@ -77,8 +69,7 @@
     "type": "24",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"24\",\"oldValue\":\"Location\",\"newValue\":\"FLAME Ed 56\"}",
-    "timestamp": "2025-10-28T15:47:26.000",
-    "backendId": "352331"
+    "timestamp": "2025-10-28T15:47:26.000"
   },
   {
     "uid": "01kjmv4vyshdx6w2zfmpqpt396",
@@ -86,8 +77,7 @@
     "type": "1",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"1\",\"attribute\":\"Building\",\"oldValue\":\"\",\"newValue\":\"56\"}",
-    "timestamp": "2025-10-28T13:53:06.000",
-    "backendId": "352271"
+    "timestamp": "2025-10-28T13:53:06.000"
   },
   {
     "uid": "01kjmv4vyw3kkryee8dvz36717",
@@ -95,8 +85,7 @@
     "type": "2",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"FLAME - Ed. 56 - ...\",\"newValue\":\"FLAME - PARADISO\"}",
-    "timestamp": "2025-10-28T13:53:06.000",
-    "backendId": "352270"
+    "timestamp": "2025-10-28T13:53:06.000"
   },
   {
     "uid": "01kjmv4vyxxnjpm8f77pjjfgy3",
@@ -104,8 +93,7 @@
     "type": "2",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"Flame - CMP zone\",\"newValue\":\"FLAME - Ed. 56 - ...\"}",
-    "timestamp": "2025-10-28T13:41:12.000",
-    "backendId": "352257"
+    "timestamp": "2025-10-28T13:41:12.000"
   },
   {
     "uid": "01kjmv4vyz9harghsedcfypg7e",
@@ -113,7 +101,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-05-16T17:04:19.000",
-    "backendId": "141939"
+    "timestamp": "2023-05-16T17:04:19.000"
   }
 ]

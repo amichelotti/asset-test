@@ -5,8 +5,7 @@
     "type": "25",
     "author": "Riccardo Esposito",
     "details": "{\"type\":\"25\"}",
-    "timestamp": "2025-06-12T14:24:45.000",
-    "backendId": "321514"
+    "timestamp": "2025-06-12T14:24:45.000"
   },
   {
     "uid": "01kjmv9zf4f35f8mhh6f728n7q",
@@ -14,8 +13,7 @@
     "type": "5",
     "author": "Riccardo Esposito",
     "details": "{\"type\":\"5\",\"attribute\":\"Location\",\"oldValue\":\"Selced\",\"newValue\":\"AB1\"}",
-    "timestamp": "2025-06-12T14:24:45.000",
-    "backendId": "321513"
+    "timestamp": "2025-06-12T14:24:45.000"
   },
   {
     "uid": "01kjmv9zf69pextf348r94bfqd",
@@ -23,8 +21,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Registered\",\"oldValue\":\"\",\"newValue\":\"ccelicam02\"}",
-    "timestamp": "2025-06-12T14:15:53.000",
-    "backendId": "321494"
+    "timestamp": "2025-06-12T14:15:53.000"
   },
   {
     "uid": "01kjmv9zf9kbact3vw1zj90hx4",
@@ -32,8 +29,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Camera setup2 tes...\",\"newValue\":\"Camera setup2 tes...\"}",
-    "timestamp": "2025-06-12T14:15:53.000",
-    "backendId": "321493"
+    "timestamp": "2025-06-12T14:15:53.000"
   },
   {
     "uid": "01kjmv9zfb94z42dmmwfya7w5d",
@@ -41,8 +37,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Serial\",\"oldValue\":\"\",\"newValue\":\"Basler-a2A1920-51...\"}",
-    "timestamp": "2024-11-15T14:00:41.000",
-    "backendId": "259466"
+    "timestamp": "2024-11-15T14:00:41.000"
   },
   {
     "uid": "01kjmv9zfd2zxhg5x9tm18e8tr",
@@ -50,7 +45,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2024-09-06T12:20:37.000",
-    "backendId": "241830"
+    "timestamp": "2024-09-06T12:20:37.000"
   }
 ]

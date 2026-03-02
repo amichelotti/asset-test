@@ -2,29 +2,23 @@
   {
     "uid": "01kjmv8xypnrtmajhs0k9htb8w",
     "assetUid": "01kjmv8w8kaczrjpzbtk9yr2ve",
-    "schemaUid": "01kjmv6p190eyfxsk45587e5vd",
     "filename": "evg.png",
     "mimeType": "image/png",
     "fileSize": 2494351,
     "author": "amichelo",
     "created": "2025-02-26T13:46:21.000",
     "binaryPath": "schemas/LNF ELI NP/HW asset/Network Assets/Host/IO Controller/assets/plelievg001/attachments/evg.png",
-    "_remoteUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2409/evg.png",
-    "originBackendId": "2409",
-    "originUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2409/evg.png"
+    "hasBinary": false
   },
   {
     "uid": "01kjmv8x89abm7pet4f2p1n8qv",
     "assetUid": "01kjmv8w8kaczrjpzbtk9yr2ve",
-    "schemaUid": "01kjmv6p190eyfxsk45587e5vd",
     "filename": "IMG_20240409_163442584.jpg",
     "mimeType": "image/jpeg",
     "fileSize": 2446159,
     "author": "amichelo",
     "created": "2024-04-09T16:37:24.000",
     "binaryPath": "schemas/LNF ELI NP/HW asset/Network Assets/Host/IO Controller/assets/plelievg001/attachments/IMG_20240409_163442584.jpg",
-    "_remoteUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/1461/IMG_20240409_163442584.jpg",
-    "originBackendId": "1461",
-    "originUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/1461/IMG_20240409_163442584.jpg"
+    "hasBinary": false
   }
 ]

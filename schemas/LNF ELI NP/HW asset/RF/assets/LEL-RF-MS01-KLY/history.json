@@ -5,8 +5,7 @@
     "type": "5",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"5\",\"attribute\":\"Layout\",\"oldValue\":\"LEL-RF-MS01\",\"newValue\":\"RICCI-000\"}",
-    "timestamp": "2023-12-01T14:15:33.000",
-    "backendId": "186079"
+    "timestamp": "2023-12-01T14:15:33.000"
   },
   {
     "uid": "01kjmv8f4yr7qeqqhek2wt4v6b",
@@ -14,8 +13,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Layout\",\"oldValue\":\"\",\"newValue\":\"LEL-RF-MS01\"}",
-    "timestamp": "2023-11-30T17:12:52.000",
-    "backendId": "184758"
+    "timestamp": "2023-11-30T17:12:52.000"
   },
   {
     "uid": "01kjmv8f4zy45sdc8nx2f06jsv",
@@ -23,8 +21,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"ScandiNova RF Pow...\",\"newValue\":\"ScandiNova RF Pow...\"}",
-    "timestamp": "2023-11-30T17:12:52.000",
-    "backendId": "184757"
+    "timestamp": "2023-11-30T17:12:52.000"
   },
   {
     "uid": "01kjmv8f4zxqp9tk1jrvzc7vg7",
@@ -32,8 +29,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"ROOF\"}",
-    "timestamp": "2023-11-30T13:33:02.000",
-    "backendId": "184662"
+    "timestamp": "2023-11-30T13:33:02.000"
   },
   {
     "uid": "01kjmv8f50sr097mc14gn5afh9",
@@ -41,7 +37,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-11-30T10:10:22.000",
-    "backendId": "184369"
+    "timestamp": "2023-11-30T10:10:22.000"
   }
 ]

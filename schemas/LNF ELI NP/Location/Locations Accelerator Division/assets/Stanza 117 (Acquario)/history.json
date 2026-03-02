@@ -5,8 +5,7 @@
     "type": "29",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"29\"}",
-    "timestamp": "2025-10-28T15:52:12.000",
-    "backendId": "352604"
+    "timestamp": "2025-10-28T15:52:12.000"
   },
   {
     "uid": "01kjmv5ky2brjfg27v9gm1p5mq",
@@ -14,8 +13,7 @@
     "type": "28",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"28\"}",
-    "timestamp": "2025-10-28T15:49:10.000",
-    "backendId": "352498"
+    "timestamp": "2025-10-28T15:49:10.000"
   },
   {
     "uid": "01kjmv5ky4q1kfwz3aq1sss5cf",
@@ -23,8 +21,7 @@
     "type": "24",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"24\",\"oldValue\":\"Location\",\"newValue\":\"FLAME Ed 56\"}",
-    "timestamp": "2025-10-28T15:47:32.000",
-    "backendId": "352394"
+    "timestamp": "2025-10-28T15:47:32.000"
   },
   {
     "uid": "01kjmv5ky79ysnjmzet3q8ypyj",
@@ -32,7 +29,6 @@
     "type": "0",
     "author": "Francesco Galletti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-05-02T19:33:07.000",
-    "backendId": "139139"
+    "timestamp": "2023-05-02T19:33:07.000"
   }
 ]

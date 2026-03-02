@@ -5,8 +5,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"ET-7060\"}",
-    "timestamp": "2025-06-12T14:25:30.000",
-    "backendId": "321516"
+    "timestamp": "2025-06-12T14:25:30.000"
   },
   {
     "uid": "01kjmva8e8kqee6en5a7864ncp",
@@ -14,8 +13,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"Inside Polarity i...\"}",
-    "timestamp": "2025-06-11T10:50:20.000",
-    "backendId": "321181"
+    "timestamp": "2025-06-11T10:50:20.000"
   },
   {
     "uid": "01kjmva8ebf9xfjy4s4a7cc6tc",
@@ -23,8 +21,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Registered\",\"oldValue\":\"\",\"newValue\":\"ddeliicp6r6i001\"}",
-    "timestamp": "2025-03-07T14:26:38.000",
-    "backendId": "301038"
+    "timestamp": "2025-03-07T14:26:38.000"
   },
   {
     "uid": "01kjmva8edqqjay1jq7b9dwr89",
@@ -32,8 +29,7 @@
     "type": "24",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"24\",\"oldValue\":\"IO\",\"newValue\":\"I/O\"}",
-    "timestamp": "2025-03-07T14:24:52.000",
-    "backendId": "301035"
+    "timestamp": "2025-03-07T14:24:52.000"
   },
   {
     "uid": "01kjmva8egfgvdhv2rxfzgm9w6",
@@ -41,8 +37,7 @@
     "type": "24",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"24\",\"oldValue\":\"IO System\",\"newValue\":\"IO\"}",
-    "timestamp": "2025-03-07T14:24:07.000",
-    "backendId": "301034"
+    "timestamp": "2025-03-07T14:24:07.000"
   },
   {
     "uid": "01kjmva8ej2atjansp4jbghvjq",
@@ -50,7 +45,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2025-03-07T14:19:00.000",
-    "backendId": "301031"
+    "timestamp": "2025-03-07T14:19:00.000"
   }
 ]

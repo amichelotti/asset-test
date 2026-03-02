@@ -5,8 +5,7 @@
     "type": "5",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"5\",\"attribute\":\"Rack\",\"oldValue\":\"R_COR_05\",\"newValue\":\"R_ANX_04\"}",
-    "timestamp": "2025-06-13T15:09:52.000",
-    "backendId": "321864"
+    "timestamp": "2025-06-13T15:09:52.000"
   },
   {
     "uid": "01kjmv942mhdqp4zm8rfg7kjnb",
@@ -14,8 +13,7 @@
     "type": "5",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"5\",\"attribute\":\"Rack\",\"oldValue\":\"R_RUF_02\",\"newValue\":\"R_COR_05\"}",
-    "timestamp": "2025-06-12T14:48:29.000",
-    "backendId": "321529"
+    "timestamp": "2025-06-12T14:48:29.000"
   },
   {
     "uid": "01kjmv942p6ag37mdprr6m4vb1",
@@ -23,8 +21,7 @@
     "type": "5",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"5\",\"attribute\":\"Location\",\"oldValue\":\"Pella\",\"newValue\":\"Corridor GP\"}",
-    "timestamp": "2025-06-12T14:48:29.000",
-    "backendId": "321528"
+    "timestamp": "2025-06-12T14:48:29.000"
   },
   {
     "uid": "01kjmv942rexbfrwxsmmvkxcyt",
@@ -32,8 +29,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"I7-3517UE CPU IP0...\",\"newValue\":\"I7-3517UE CPU IP0...\"}",
-    "timestamp": "2025-05-13T17:06:43.000",
-    "backendId": "317158"
+    "timestamp": "2025-05-13T17:06:43.000"
   },
   {
     "uid": "01kjmv942tqmr9m47h44s8ha3b",
@@ -41,8 +37,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"plelievrkey002\",\"newValue\":\"plelievrkey001\"}",
-    "timestamp": "2025-05-13T17:05:50.000",
-    "backendId": "317157"
+    "timestamp": "2025-05-13T17:05:50.000"
   },
   {
     "uid": "01kjmv942x71zqjfhjjakj0kw4",
@@ -50,8 +45,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"plelievr002\",\"newValue\":\"plelievrkey002\"}",
-    "timestamp": "2025-05-13T17:04:49.000",
-    "backendId": "317155"
+    "timestamp": "2025-05-13T17:04:49.000"
   },
   {
     "uid": "01kjmv942zrfbg9wpdetwj7dtp",
@@ -59,8 +53,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_RUF_02\"}",
-    "timestamp": "2025-02-26T14:00:26.000",
-    "backendId": "298974"
+    "timestamp": "2025-02-26T14:00:26.000"
   },
   {
     "uid": "01kjmv9431t029qekvz8qjgc14",
@@ -68,8 +61,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"I7-3517UE CPU IP0...\",\"newValue\":\"I7-3517UE CPU IP0...\"}",
-    "timestamp": "2025-02-26T13:51:57.000",
-    "backendId": "298968"
+    "timestamp": "2025-02-26T13:51:57.000"
   },
   {
     "uid": "01kjmv94339bxrn4grbmgjf61f",
@@ -77,8 +69,7 @@
     "type": "7",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"7\",\"newValue\":\"evr2.png\"}",
-    "timestamp": "2025-02-26T13:45:53.000",
-    "backendId": "298951"
+    "timestamp": "2025-02-26T13:45:53.000"
   },
   {
     "uid": "01kjmv94351zz8zxk3em50p8nb",
@@ -86,8 +77,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Cards\",\"oldValue\":\"\",\"newValue\":\"EVR02, EVR03, EVR04\"}",
-    "timestamp": "2025-02-26T13:35:50.000",
-    "backendId": "298946"
+    "timestamp": "2025-02-26T13:35:50.000"
   },
   {
     "uid": "01kjmv9437cwt9vgfd41ktntth",
@@ -95,8 +85,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"I7-3517UE CPU IP0...\",\"newValue\":\"I7-3517UE CPU IP0...\"}",
-    "timestamp": "2025-02-26T13:03:57.000",
-    "backendId": "298929"
+    "timestamp": "2025-02-26T13:03:57.000"
   },
   {
     "uid": "01kjmv943857gtzv748me4ge94",
@@ -104,8 +93,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"I7-3517UE CPU IP0...\",\"newValue\":\"I7-3517UE CPU IP0...\"}",
-    "timestamp": "2025-02-26T12:45:32.000",
-    "backendId": "298928"
+    "timestamp": "2025-02-26T12:45:32.000"
   },
   {
     "uid": "01kjmv943a6p62ansj1148x3dv",
@@ -113,8 +101,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Registered\",\"oldValue\":\"\",\"newValue\":\"plelievrkey001\"}",
-    "timestamp": "2025-02-25T11:13:36.000",
-    "backendId": "298735"
+    "timestamp": "2025-02-25T11:13:36.000"
   },
   {
     "uid": "01kjmv943cmnxm6dbt1qfcm29w",
@@ -122,8 +109,7 @@
     "type": "26",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"26\"}",
-    "timestamp": "2025-02-25T11:12:02.000",
-    "backendId": "298732"
+    "timestamp": "2025-02-25T11:12:02.000"
   },
   {
     "uid": "01kjmv943e0nhjfznkedsk3qcj",
@@ -131,8 +117,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"I7-3517UE CPU IP0...\",\"newValue\":\"I7-3517UE CPU IP0...\"}",
-    "timestamp": "2025-02-25T11:11:27.000",
-    "backendId": "298731"
+    "timestamp": "2025-02-25T11:11:27.000"
   },
   {
     "uid": "01kjmv943gz617nwhvkw1n3w43",
@@ -140,8 +125,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"plelimrfkey001\",\"newValue\":\"plelievr002\"}",
-    "timestamp": "2025-02-25T11:11:27.000",
-    "backendId": "298730"
+    "timestamp": "2025-02-25T11:11:27.000"
   },
   {
     "uid": "01kjmv943jd2garscw2h3xr2j9",
@@ -149,8 +133,7 @@
     "type": "5",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"5\",\"attribute\":\"Location\",\"oldValue\":\"Selced\",\"newValue\":\"Pella\"}",
-    "timestamp": "2025-02-20T12:25:52.000",
-    "backendId": "298059"
+    "timestamp": "2025-02-20T12:25:52.000"
   },
   {
     "uid": "01kjmv943m1vqj2h9phwrvc9wg",
@@ -158,8 +141,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Serial\",\"oldValue\":\"\",\"newValue\":\"ELI2420\"}",
-    "timestamp": "2025-01-30T16:57:21.000",
-    "backendId": "292585"
+    "timestamp": "2025-01-30T16:57:21.000"
   },
   {
     "uid": "01kjmv943qvfb19bdtz52f22ek",
@@ -167,8 +149,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"I7-3517UE CPU IP0...\",\"newValue\":\"I7-3517UE CPU IP0...\"}",
-    "timestamp": "2025-01-30T16:57:21.000",
-    "backendId": "292584"
+    "timestamp": "2025-01-30T16:57:21.000"
   },
   {
     "uid": "01kjmv943sfma4qcj9dx80zr8f",
@@ -176,8 +157,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"I7-3517UE CPU IP0...\",\"newValue\":\"I7-3517UE CPU IP0...\"}",
-    "timestamp": "2024-11-21T11:16:15.000",
-    "backendId": "260401"
+    "timestamp": "2024-11-21T11:16:15.000"
   },
   {
     "uid": "01kjmv943vkwfb9enqf4wnyckr",
@@ -185,8 +165,7 @@
     "type": "5",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"5\",\"attribute\":\"Location\",\"oldValue\":\"Laboratorio Contr...\",\"newValue\":\"Selced\"}",
-    "timestamp": "2024-11-21T11:09:44.000",
-    "backendId": "260399"
+    "timestamp": "2024-11-21T11:09:44.000"
   },
   {
     "uid": "01kjmv943wzcde2mkzggvn3zjx",
@@ -194,8 +173,7 @@
     "type": "26",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"26\"}",
-    "timestamp": "2024-11-21T11:05:38.000",
-    "backendId": "260396"
+    "timestamp": "2024-11-21T11:05:38.000"
   },
   {
     "uid": "01kjmv943ywejq4hbfj4j2pa9m",
@@ -203,8 +181,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"gen-cs-gp08-ioc06\",\"newValue\":\"plelimrfkey001\"}",
-    "timestamp": "2024-11-21T11:04:59.000",
-    "backendId": "260395"
+    "timestamp": "2024-11-21T11:04:59.000"
   },
   {
     "uid": "01kjmv9440r1cat60j314pmwpy",
@@ -212,8 +189,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"GEN-CS-GP08:IOC06\",\"newValue\":\"gen-cs-gp08-ioc06\"}",
-    "timestamp": "2024-11-21T10:53:41.000",
-    "backendId": "260388"
+    "timestamp": "2024-11-21T10:53:41.000"
   },
   {
     "uid": "01kjmv9441ky37chzvh7d3dv72",
@@ -221,8 +197,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"I7-3517UE CPU IP0...\",\"newValue\":\"I7-3517UE CPU IP0...\"}",
-    "timestamp": "2024-04-09T17:53:09.000",
-    "backendId": "215444"
+    "timestamp": "2024-04-09T17:53:09.000"
   },
   {
     "uid": "01kjmv9443gzm10zhmfyt5a24v",
@@ -230,8 +205,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"I7-3517UE CPU IP0...\",\"newValue\":\"I7-3517UE CPU IP0...\"}",
-    "timestamp": "2024-04-09T17:52:58.000",
-    "backendId": "215443"
+    "timestamp": "2024-04-09T17:52:58.000"
   },
   {
     "uid": "01kjmv9445db3tdpf83wnyxrtx",
@@ -239,8 +213,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Alias\",\"oldValue\":\"\",\"newValue\":\"gen-cs-gp08-ioc6\"}",
-    "timestamp": "2024-04-09T17:52:58.000",
-    "backendId": "215442"
+    "timestamp": "2024-04-09T17:52:58.000"
   },
   {
     "uid": "01kjmv9447se105jppyc0h3ptz",
@@ -248,8 +221,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Status\",\"oldValue\":\"Action Needed\",\"newValue\":\"Active\"}",
-    "timestamp": "2024-04-09T17:52:58.000",
-    "backendId": "215441"
+    "timestamp": "2024-04-09T17:52:58.000"
   },
   {
     "uid": "01kjmv944934acxckqsccj6kab",
@@ -257,8 +229,7 @@
     "type": "8",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"8\",\"oldValue\":\"IMG_20240409_1634...\"}",
-    "timestamp": "2024-04-09T16:37:12.000",
-    "backendId": "215437"
+    "timestamp": "2024-04-09T16:37:12.000"
   },
   {
     "uid": "01kjmv944b9padet490cyt5kza",
@@ -266,8 +237,7 @@
     "type": "7",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"7\",\"newValue\":\"IMG_20240409_1634...\"}",
-    "timestamp": "2024-04-09T16:36:49.000",
-    "backendId": "215436"
+    "timestamp": "2024-04-09T16:36:49.000"
   },
   {
     "uid": "01kjmv944dkfjkztz9zcv7ja0e",
@@ -275,8 +245,7 @@
     "type": "7",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"7\",\"newValue\":\"IMG_20240409_1634...\"}",
-    "timestamp": "2024-04-09T16:35:42.000",
-    "backendId": "215435"
+    "timestamp": "2024-04-09T16:35:42.000"
   },
   {
     "uid": "01kjmv944fk08mscqspsh94ht6",
@@ -284,7 +253,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2024-04-09T16:33:47.000",
-    "backendId": "215434"
+    "timestamp": "2024-04-09T16:33:47.000"
   }
 ]

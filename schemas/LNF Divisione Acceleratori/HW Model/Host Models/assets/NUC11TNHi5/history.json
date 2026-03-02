@@ -5,8 +5,7 @@
     "type": "1",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"1\",\"attribute\":\"Frequency\",\"oldValue\":\"\",\"newValue\":\"2.4\"}",
-    "timestamp": "2024-04-22T15:19:14.000",
-    "backendId": "217852"
+    "timestamp": "2024-04-22T15:19:14.000"
   },
   {
     "uid": "01kjmv3bxsc3q5sr5khvgwsfp6",
@@ -14,8 +13,7 @@
     "type": "1",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"1\",\"attribute\":\"Disk\",\"oldValue\":\"\",\"newValue\":\"512\"}",
-    "timestamp": "2024-04-22T15:19:14.000",
-    "backendId": "217851"
+    "timestamp": "2024-04-22T15:19:14.000"
   },
   {
     "uid": "01kjmv3bxwrbg85gx39fvjecz0",
@@ -23,8 +21,7 @@
     "type": "1",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"1\",\"attribute\":\"Memory\",\"oldValue\":\"\",\"newValue\":\"16\"}",
-    "timestamp": "2024-04-22T15:19:14.000",
-    "backendId": "217850"
+    "timestamp": "2024-04-22T15:19:14.000"
   },
   {
     "uid": "01kjmv3bxykscbpq9fmvsw153q",
@@ -32,8 +29,7 @@
     "type": "1",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"1\",\"attribute\":\"CPU type\",\"oldValue\":\"\",\"newValue\":\"11th Gen Intel(R)...\"}",
-    "timestamp": "2024-04-22T15:19:14.000",
-    "backendId": "217849"
+    "timestamp": "2024-04-22T15:19:14.000"
   },
   {
     "uid": "01kjmv3by0x142zhabvs5yny61",
@@ -41,8 +37,7 @@
     "type": "1",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"1\",\"attribute\":\"CPU\",\"oldValue\":\"\",\"newValue\":\"4\"}",
-    "timestamp": "2024-04-22T15:19:14.000",
-    "backendId": "217848"
+    "timestamp": "2024-04-22T15:19:14.000"
   },
   {
     "uid": "01kjmv3by2gakjzyyz2mc8hwat",
@@ -50,8 +45,7 @@
     "type": "4",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"4\",\"attribute\":\"Producer\",\"oldValue\":\"\",\"newValue\":\"Intel\"}",
-    "timestamp": "2024-04-22T15:19:14.000",
-    "backendId": "217847"
+    "timestamp": "2024-04-22T15:19:14.000"
   },
   {
     "uid": "01kjmv3by4rhn8sxq63ks3vwc4",
@@ -59,8 +53,7 @@
     "type": "25",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"25\"}",
-    "timestamp": "2024-04-22T15:17:24.000",
-    "backendId": "217846"
+    "timestamp": "2024-04-22T15:17:24.000"
   },
   {
     "uid": "01kjmv3by6c111h6egxqsn0p2m",
@@ -68,7 +61,6 @@
     "type": "0",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2024-04-22T14:37:25.000",
-    "backendId": "217835"
+    "timestamp": "2024-04-22T14:37:25.000"
   }
 ]

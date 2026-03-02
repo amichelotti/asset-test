@@ -5,8 +5,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"RF Driver\"}",
-    "timestamp": "2025-02-26T13:47:53.000",
-    "backendId": "298958"
+    "timestamp": "2025-02-26T13:47:53.000"
   },
   {
     "uid": "01kjmva62ne3dezhcy3mckn939",
@@ -14,8 +13,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Alias\",\"oldValue\":\"\",\"newValue\":\"EVR_RFD\"}",
-    "timestamp": "2025-02-26T13:47:53.000",
-    "backendId": "298957"
+    "timestamp": "2025-02-26T13:47:53.000"
   },
   {
     "uid": "01kjmva62qw2kzhqbj6nt8490w",
@@ -23,8 +21,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
-    "timestamp": "2025-02-26T13:47:53.000",
-    "backendId": "298956"
+    "timestamp": "2025-02-26T13:47:53.000"
   },
   {
     "uid": "01kjmva62ss5acs1h6z5wb0ffw",
@@ -32,7 +29,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2025-02-26T13:32:51.000",
-    "backendId": "298939"
+    "timestamp": "2025-02-26T13:32:51.000"
   }
 ]

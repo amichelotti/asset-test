@@ -5,8 +5,7 @@
     "type": "25",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"25\"}",
-    "timestamp": "2025-02-27T09:27:21.000",
-    "backendId": "299199"
+    "timestamp": "2025-02-27T09:27:21.000"
   },
   {
     "uid": "01kjmvfvzb3pnf5z2hx24nhc07",
@@ -14,8 +13,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"Corridor GP\"}",
-    "timestamp": "2025-02-27T09:27:21.000",
-    "backendId": "299198"
+    "timestamp": "2025-02-27T09:27:21.000"
   },
   {
     "uid": "01kjmvfvzdchwdpzvba3dfxnex",
@@ -23,8 +21,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Alias\",\"oldValue\":\"\",\"newValue\":\"Magnets 3\"}",
-    "timestamp": "2025-02-27T09:27:21.000",
-    "backendId": "299197"
+    "timestamp": "2025-02-27T09:27:21.000"
   },
   {
     "uid": "01kjmvfvzfe20e5nta9dey3m0k",
@@ -32,8 +29,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
-    "timestamp": "2025-02-27T09:27:21.000",
-    "backendId": "299196"
+    "timestamp": "2025-02-27T09:27:21.000"
   },
   {
     "uid": "01kjmvfvzgsqsfs7csa8w7daa0",
@@ -41,8 +37,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"R_GP08_INFN28\",\"newValue\":\"R_COR_11\"}",
-    "timestamp": "2025-02-27T09:27:21.000",
-    "backendId": "299195"
+    "timestamp": "2025-02-27T09:27:21.000"
   },
   {
     "uid": "01kjmvfvzj6trfqshqk55f6tw8",
@@ -50,8 +45,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"GP08\"}",
-    "timestamp": "2023-11-30T10:52:04.000",
-    "backendId": "184404"
+    "timestamp": "2023-11-30T10:52:04.000"
   },
   {
     "uid": "01kjmvfvzmd9n81p3ekhdr6rbs",
@@ -59,7 +53,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-11-30T10:30:34.000",
-    "backendId": "184380"
+    "timestamp": "2023-11-30T10:30:34.000"
   }
 ]

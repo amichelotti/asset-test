@@ -5,8 +5,7 @@
     "type": "5",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"5\",\"attribute\":\"Rack\",\"oldValue\":\"R_COR_03\",\"newValue\":\"R_COR_12\"}",
-    "timestamp": "2025-06-13T14:39:29.000",
-    "backendId": "321808"
+    "timestamp": "2025-06-13T14:39:29.000"
   },
   {
     "uid": "01kjmvc0e6av77nbt40tgd86kn",
@@ -14,8 +13,7 @@
     "type": "2",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Polarity CH1 -> C...\",\"newValue\":\"Polarity CH1 -> C...\"}",
-    "timestamp": "2025-06-13T14:39:29.000",
-    "backendId": "321807"
+    "timestamp": "2025-06-13T14:39:29.000"
   },
   {
     "uid": "01kjmvc0e889pfeate284ytwsw",
@@ -23,8 +21,7 @@
     "type": "5",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"5\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_COR_03\"}",
-    "timestamp": "2024-12-05T14:41:01.000",
-    "backendId": "280338"
+    "timestamp": "2024-12-05T14:41:01.000"
   },
   {
     "uid": "01kjmvc0eatmd9bq165hxtdqs6",
@@ -32,8 +29,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"Corridor GP\"}",
-    "timestamp": "2024-12-05T14:41:01.000",
-    "backendId": "280337"
+    "timestamp": "2024-12-05T14:41:01.000"
   },
   {
     "uid": "01kjmvc0ec196wqnmzs5fj32gh",
@@ -41,8 +37,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
-    "timestamp": "2024-12-05T14:41:01.000",
-    "backendId": "280336"
+    "timestamp": "2024-12-05T14:41:01.000"
   },
   {
     "uid": "01kjmvc0ee7555jmj3ycxph51z",
@@ -50,8 +45,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"LEL-MAG-QPRC01/02\",\"newValue\":\"LEL-MAG-QPRC01-02\"}",
-    "timestamp": "2024-11-08T16:54:24.000",
-    "backendId": "258149"
+    "timestamp": "2024-11-08T16:54:24.000"
   },
   {
     "uid": "01kjmvc0efbw2gfzgbe1zt361p",
@@ -59,8 +53,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"CLONE - LEL-MAG-Q...\",\"newValue\":\"LEL-MAG-QPRC01/02\"}",
-    "timestamp": "2024-11-08T16:48:25.000",
-    "backendId": "258147"
+    "timestamp": "2024-11-08T16:48:25.000"
   },
   {
     "uid": "01kjmvc0ehh2gttc8aamywsavn",
@@ -68,7 +61,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2024-11-08T16:47:15.000",
-    "backendId": "258146"
+    "timestamp": "2024-11-08T16:47:15.000"
   }
 ]

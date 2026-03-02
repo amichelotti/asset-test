@@ -5,8 +5,7 @@
     "type": "25",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"25\"}",
-    "timestamp": "2025-02-27T09:24:10.000",
-    "backendId": "299185"
+    "timestamp": "2025-02-27T09:24:10.000"
   },
   {
     "uid": "01kjmvftbgrtbnkd50gskstb1y",
@@ -14,8 +13,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"Corridor GP\"}",
-    "timestamp": "2025-02-27T09:24:10.000",
-    "backendId": "299184"
+    "timestamp": "2025-02-27T09:24:10.000"
   },
   {
     "uid": "01kjmvftbktz1w9p7330t8js0w",
@@ -23,8 +21,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Alias\",\"oldValue\":\"\",\"newValue\":\"Vacuum pump\"}",
-    "timestamp": "2025-02-27T09:24:10.000",
-    "backendId": "299183"
+    "timestamp": "2025-02-27T09:24:10.000"
   },
   {
     "uid": "01kjmvftbnc0p8bem41petkehq",
@@ -32,8 +29,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"R_GP08_INFN27\",\"newValue\":\"R_COR_08\"}",
-    "timestamp": "2025-02-27T09:24:10.000",
-    "backendId": "299182"
+    "timestamp": "2025-02-27T09:24:10.000"
   },
   {
     "uid": "01kjmvftbq57nc1pbrwr9cdrkq",
@@ -41,8 +37,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"GP08\"}",
-    "timestamp": "2023-11-30T10:52:04.000",
-    "backendId": "184405"
+    "timestamp": "2023-11-30T10:52:04.000"
   },
   {
     "uid": "01kjmvftbsadf2vy0f31aph38g",
@@ -50,7 +45,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-11-30T10:30:34.000",
-    "backendId": "184381"
+    "timestamp": "2023-11-30T10:30:34.000"
   }
 ]

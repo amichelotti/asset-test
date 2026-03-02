@@ -5,8 +5,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Alias\",\"oldValue\":\"\",\"newValue\":\"Magnets 1\"}",
-    "timestamp": "2025-02-27T09:25:43.000",
-    "backendId": "299190"
+    "timestamp": "2025-02-27T09:25:43.000"
   },
   {
     "uid": "01kjmvfv3f9rwnvgj54jscff8v",
@@ -14,8 +13,7 @@
     "type": "26",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"26\"}",
-    "timestamp": "2025-02-27T09:25:01.000",
-    "backendId": "299189"
+    "timestamp": "2025-02-27T09:25:01.000"
   },
   {
     "uid": "01kjmvfv3hwjt8t49m04p357cz",
@@ -23,8 +21,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"Corridor GP\"}",
-    "timestamp": "2025-02-27T09:25:01.000",
-    "backendId": "299188"
+    "timestamp": "2025-02-27T09:25:01.000"
   },
   {
     "uid": "01kjmvfv3khwjg6qq80m4zg5ns",
@@ -32,8 +29,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
-    "timestamp": "2025-02-27T09:25:01.000",
-    "backendId": "299187"
+    "timestamp": "2025-02-27T09:25:01.000"
   },
   {
     "uid": "01kjmvfv3mrfabw3ppsdhvmve4",
@@ -41,8 +37,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"R_COR_9\",\"newValue\":\"R_COR_09\"}",
-    "timestamp": "2025-02-27T09:25:01.000",
-    "backendId": "299186"
+    "timestamp": "2025-02-27T09:25:01.000"
   },
   {
     "uid": "01kjmvfv3qgq9qgqhp20c9hsb1",
@@ -50,8 +45,7 @@
     "type": "26",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"26\"}",
-    "timestamp": "2024-12-05T13:40:38.000",
-    "backendId": "280304"
+    "timestamp": "2024-12-05T13:40:38.000"
   },
   {
     "uid": "01kjmvfv3sjp6hn4b0km696xn8",
@@ -59,7 +53,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2024-12-05T13:40:38.000",
-    "backendId": "280303"
+    "timestamp": "2024-12-05T13:40:38.000"
   }
 ]

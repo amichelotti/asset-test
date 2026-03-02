@@ -5,8 +5,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Illuminatore con ...\",\"newValue\":\"Illuminatore con ...\"}",
-    "timestamp": "2025-09-11T08:31:30.000",
-    "backendId": "342818"
+    "timestamp": "2025-09-11T08:31:30.000"
   },
   {
     "uid": "01kjmvaa7v9mxxks6mmzwssegv",
@@ -14,8 +13,7 @@
     "type": "2",
     "author": "Thomas De Nardis",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Illuminatore con ...\",\"newValue\":\"Illuminatore con ...\"}",
-    "timestamp": "2025-09-10T14:59:20.000",
-    "backendId": "342662"
+    "timestamp": "2025-09-10T14:59:20.000"
   },
   {
     "uid": "01kjmvaa7xzg9cb4qvre4w5kfc",
@@ -23,8 +21,7 @@
     "type": "7",
     "author": "Thomas De Nardis",
     "details": "{\"type\":\"7\",\"newValue\":\"Schematic_Control...\"}",
-    "timestamp": "2025-09-10T14:58:08.000",
-    "backendId": "342661"
+    "timestamp": "2025-09-10T14:58:08.000"
   },
   {
     "uid": "01kjmvaa7z5d2zm4edr3qvkreg",
@@ -32,8 +29,7 @@
     "type": "26",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"26\"}",
-    "timestamp": "2025-06-12T15:19:31.000",
-    "backendId": "321542"
+    "timestamp": "2025-06-12T15:19:31.000"
   },
   {
     "uid": "01kjmvaa81f7tkj1y9a6swnxn5",
@@ -41,8 +37,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_COR_05\"}",
-    "timestamp": "2025-06-12T14:07:30.000",
-    "backendId": "321490"
+    "timestamp": "2025-06-12T14:07:30.000"
   },
   {
     "uid": "01kjmvaa840m8t2z4exf2mtnp6",
@@ -50,8 +45,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Modules\",\"oldValue\":\"\",\"newValue\":\"ddeliicpillum001\"}",
-    "timestamp": "2025-03-07T14:31:24.000",
-    "backendId": "301040"
+    "timestamp": "2025-03-07T14:31:24.000"
   },
   {
     "uid": "01kjmvaa8602rwg5w1x377z1nf",
@@ -59,8 +53,7 @@
     "type": "5",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"5\",\"attribute\":\"Location\",\"oldValue\":\"Selced\",\"newValue\":\"Corridor GP\"}",
-    "timestamp": "2025-03-07T14:08:55.000",
-    "backendId": "301029"
+    "timestamp": "2025-03-07T14:08:55.000"
   },
   {
     "uid": "01kjmvaa88bx233332hdw0hmbh",
@@ -68,8 +61,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Illuminatore con ...\",\"newValue\":\"Illuminatore con ...\"}",
-    "timestamp": "2025-03-07T14:08:55.000",
-    "backendId": "301028"
+    "timestamp": "2025-03-07T14:08:55.000"
   },
   {
     "uid": "01kjmvaa89derd786zkg2tfm3k",
@@ -77,8 +69,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Status\",\"oldValue\":\"Uninstalled\",\"newValue\":\"Active\"}",
-    "timestamp": "2025-03-07T14:08:55.000",
-    "backendId": "301027"
+    "timestamp": "2025-03-07T14:08:55.000"
   },
   {
     "uid": "01kjmvaa8b7a4dhjqfjv8wdpcq",
@@ -86,7 +77,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2024-09-13T15:52:39.000",
-    "backendId": "242497"
+    "timestamp": "2024-09-13T15:52:39.000"
   }
 ]

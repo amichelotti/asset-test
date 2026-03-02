@@ -5,8 +5,7 @@
     "type": "2",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"CLONE - LEL-VAC-W...\",\"newValue\":\"LEL-VAC-WGC01:IONP05\"}",
-    "timestamp": "2025-11-06T17:33:22.000",
-    "backendId": "354692"
+    "timestamp": "2025-11-06T17:33:22.000"
   },
   {
     "uid": "01kjmv7rr0geshpga1atfyj96f",
@@ -14,7 +13,6 @@
     "type": "0",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2025-11-06T17:31:02.000",
-    "backendId": "354691"
+    "timestamp": "2025-11-06T17:31:02.000"
   }
 ]

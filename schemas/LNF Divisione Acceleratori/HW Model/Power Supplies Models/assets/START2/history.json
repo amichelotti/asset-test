@@ -5,8 +5,7 @@
     "type": "3",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"3\",\"attribute\":\"Control SW\",\"oldValue\":\"https://github.co...\",\"newValue\":\"\"}",
-    "timestamp": "2025-09-02T14:03:31.000",
-    "backendId": "341516"
+    "timestamp": "2025-09-02T14:03:31.000"
   },
   {
     "uid": "01kjmv3sf094m7x70pvwtdcby0",
@@ -14,8 +13,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"GIT repo\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
-    "timestamp": "2025-09-02T14:03:31.000",
-    "backendId": "341515"
+    "timestamp": "2025-09-02T14:03:31.000"
   },
   {
     "uid": "01kjmv3sf261k7w4b530np06a7",
@@ -23,8 +21,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Control SW\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
-    "timestamp": "2025-09-02T12:44:18.000",
-    "backendId": "341481"
+    "timestamp": "2025-09-02T12:44:18.000"
   },
   {
     "uid": "01kjmv3sf5rxnfh2pm1dwvbp6g",
@@ -32,8 +29,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"1 channel 15V 135A\",\"newValue\":\"1 channel 15V 135A\"}",
-    "timestamp": "2025-09-02T12:44:18.000",
-    "backendId": "341480"
+    "timestamp": "2025-09-02T12:44:18.000"
   },
   {
     "uid": "01kjmv3sf79nvzs7p9cfpk6gat",
@@ -41,7 +37,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2024-11-08T15:42:24.000",
-    "backendId": "258129"
+    "timestamp": "2024-11-08T15:42:24.000"
   }
 ]

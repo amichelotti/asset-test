@@ -5,8 +5,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"GIT repo\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
-    "timestamp": "2025-09-02T15:19:29.000",
-    "backendId": "341536"
+    "timestamp": "2025-09-02T15:19:29.000"
   },
   {
     "uid": "01kjmv23a6zrs8b933j0r6ggnh",
@@ -14,8 +13,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"The ET-7026 is a ...\",\"newValue\":\"The ET-7026 is a ...\"}",
-    "timestamp": "2025-09-02T15:19:29.000",
-    "backendId": "341535"
+    "timestamp": "2025-09-02T15:19:29.000"
   },
   {
     "uid": "01kjmv23a9e0ktkpftgn5jrpvw",
@@ -23,8 +21,7 @@
     "type": "7",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"7\",\"newValue\":\"pet_et7x00_regist...\"}",
-    "timestamp": "2024-07-25T09:46:47.000",
-    "backendId": "237101"
+    "timestamp": "2024-07-25T09:46:47.000"
   },
   {
     "uid": "01kjmv23ab7wttqmhy8jfw4w8a",
@@ -32,8 +29,7 @@
     "type": "7",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"7\",\"newValue\":\"pet_et-7x00_user_...\"}",
-    "timestamp": "2024-07-25T09:43:43.000",
-    "backendId": "237100"
+    "timestamp": "2024-07-25T09:43:43.000"
   },
   {
     "uid": "01kjmv23aeq03ctf8drgywt1fp",
@@ -41,8 +37,7 @@
     "type": "7",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"7\",\"newValue\":\"ET7026_V311.HEX\"}",
-    "timestamp": "2024-07-24T14:17:56.000",
-    "backendId": "236850"
+    "timestamp": "2024-07-24T14:17:56.000"
   },
   {
     "uid": "01kjmv23ag45cnawmjgkfwvkrd",
@@ -50,8 +45,7 @@
     "type": "25",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"25\"}",
-    "timestamp": "2024-07-24T14:17:32.000",
-    "backendId": "236848"
+    "timestamp": "2024-07-24T14:17:32.000"
   },
   {
     "uid": "01kjmv23ajfb3cafhnkzf2kgs3",
@@ -59,8 +53,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"The ET-7026 is a ...\"}",
-    "timestamp": "2024-07-24T14:17:32.000",
-    "backendId": "236847"
+    "timestamp": "2024-07-24T14:17:32.000"
   },
   {
     "uid": "01kjmv23am867f8zf3jvx48jkn",
@@ -68,8 +61,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Documentation\",\"oldValue\":\"\",\"newValue\":\"https://www.icpda...\"}",
-    "timestamp": "2024-07-24T14:17:32.000",
-    "backendId": "236846"
+    "timestamp": "2024-07-24T14:17:32.000"
   },
   {
     "uid": "01kjmv23aptzmrytresxevwtvp",
@@ -77,8 +69,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Producer\",\"oldValue\":\"\",\"newValue\":\"ICPDAS\"}",
-    "timestamp": "2024-07-24T14:17:32.000",
-    "backendId": "236845"
+    "timestamp": "2024-07-24T14:17:32.000"
   },
   {
     "uid": "01kjmv23arnqma5veq993ahzyh",
@@ -86,8 +77,7 @@
     "type": "24",
     "author": "Unknown",
     "details": "{\"type\":\"24\",\"oldValue\":\"icpdas sparc\",\"newValue\":\"ADC Models\"}",
-    "timestamp": "2023-06-09T16:34:48.000",
-    "backendId": "146164"
+    "timestamp": "2023-06-09T16:34:48.000"
   },
   {
     "uid": "01kjmv23ate9h51fb8ftrdxx1d",
@@ -95,7 +85,6 @@
     "type": "0",
     "author": "Unknown",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-06-07T11:11:39.000",
-    "backendId": "145802"
+    "timestamp": "2023-06-07T11:11:39.000"
   }
 ]

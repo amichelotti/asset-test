@@ -5,8 +5,7 @@
     "type": "2",
     "author": "Riccardo Esposito",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Serial converter ...\",\"newValue\":\"Serial converter ...\"}",
-    "timestamp": "2025-11-14T14:42:14.000",
-    "backendId": "356374"
+    "timestamp": "2025-11-14T14:42:14.000"
   },
   {
     "uid": "01kjmv8m1ny9m8v409qnzzgt1q",
@@ -14,8 +13,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Registered\",\"oldValue\":\"\",\"newValue\":\"scelimxa8001\"}",
-    "timestamp": "2024-12-05T16:36:06.000",
-    "backendId": "280403"
+    "timestamp": "2024-12-05T16:36:06.000"
   },
   {
     "uid": "01kjmv8m1rd3760wja2dr312fk",
@@ -23,8 +21,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_RUF_06\"}",
-    "timestamp": "2024-12-05T16:32:47.000",
-    "backendId": "280393"
+    "timestamp": "2024-12-05T16:32:47.000"
   },
   {
     "uid": "01kjmv8m1vx62b33h2tchc3mbs",
@@ -32,8 +29,7 @@
     "type": "5",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"5\",\"attribute\":\"Location\",\"oldValue\":\"AB1\",\"newValue\":\"ROOF\"}",
-    "timestamp": "2024-12-05T16:32:47.000",
-    "backendId": "280392"
+    "timestamp": "2024-12-05T16:32:47.000"
   },
   {
     "uid": "01kjmv8m1wmgy5fa6pan3v5kdr",
@@ -41,7 +37,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2024-12-04T17:03:48.000",
-    "backendId": "280062"
+    "timestamp": "2024-12-04T17:03:48.000"
   }
 ]

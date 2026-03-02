@@ -5,8 +5,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Layout\",\"oldValue\":\"\",\"newValue\":\"M1-019\"}",
-    "timestamp": "2023-12-01T14:23:16.000",
-    "backendId": "186133"
+    "timestamp": "2023-12-01T14:23:16.000"
   },
   {
     "uid": "01kjmvapnvt2ar8603w50rd1ps",
@@ -14,8 +13,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Module\",\"oldValue\":\"\",\"newValue\":\"M1\"}",
-    "timestamp": "2023-12-01T00:55:58.000",
-    "backendId": "185507"
+    "timestamp": "2023-12-01T00:55:58.000"
   },
   {
     "uid": "01kjmvapnywykeyh3va4jsyw6t",
@@ -23,8 +21,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Next Element\",\"oldValue\":\"\",\"newValue\":\"LEL-DIA-SCN01:CAM01\"}",
-    "timestamp": "2023-12-01T00:49:26.000",
-    "backendId": "185355"
+    "timestamp": "2023-12-01T00:49:26.000"
   },
   {
     "uid": "01kjmvapp07k0cdec5mgy1sk81",
@@ -32,8 +29,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Previous Element\",\"oldValue\":\"\",\"newValue\":\"LEL-VAC-VALVF02\"}",
-    "timestamp": "2023-12-01T00:49:26.000",
-    "backendId": "185354"
+    "timestamp": "2023-12-01T00:49:26.000"
   },
   {
     "uid": "01kjmvapp2wdfg46g8ry4v17q8",
@@ -41,7 +37,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-12-01T00:37:12.000",
-    "backendId": "185249"
+    "timestamp": "2023-12-01T00:37:12.000"
   }
 ]

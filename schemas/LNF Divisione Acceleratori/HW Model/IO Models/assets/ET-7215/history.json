@@ -5,8 +5,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"GIT repo\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
-    "timestamp": "2025-09-02T15:19:44.000",
-    "backendId": "341540"
+    "timestamp": "2025-09-02T15:19:44.000"
   },
   {
     "uid": "01kjmv24apfc6g0c54gx12r094",
@@ -14,8 +13,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"The ET-7215 is sp...\",\"newValue\":\"The ET-7215 is sp...\"}",
-    "timestamp": "2025-09-02T15:19:44.000",
-    "backendId": "341539"
+    "timestamp": "2025-09-02T15:19:44.000"
   },
   {
     "uid": "01kjmv24asv5qjbshzp9wc7f2f",
@@ -23,8 +21,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"The ET-7215 is sp...\"}",
-    "timestamp": "2024-07-24T14:20:59.000",
-    "backendId": "236852"
+    "timestamp": "2024-07-24T14:20:59.000"
   },
   {
     "uid": "01kjmv24aw1kjtfny16sk23k37",
@@ -32,7 +29,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-04-20T12:54:53.000",
-    "backendId": "41156"
+    "timestamp": "2023-04-20T12:54:53.000"
   }
 ]

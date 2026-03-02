@@ -5,8 +5,7 @@
     "type": "7",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"7\",\"newValue\":\"moxa-nport-5400-s...\"}",
-    "timestamp": "2025-03-25T14:59:14.000",
-    "backendId": "310593"
+    "timestamp": "2025-03-25T14:59:14.000"
   },
   {
     "uid": "01kjmv3a3mm607cqz6cyx8awj9",
@@ -14,8 +13,7 @@
     "type": "7",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"7\",\"newValue\":\"moxa-nport-5100a-...\"}",
-    "timestamp": "2025-02-20T10:42:52.000",
-    "backendId": "298056"
+    "timestamp": "2025-02-20T10:42:52.000"
   },
   {
     "uid": "01kjmv3a3m2nwj93cc5h6jnyzc",
@@ -23,8 +21,7 @@
     "type": "25",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"25\"}",
-    "timestamp": "2024-12-10T12:14:53.000",
-    "backendId": "281259"
+    "timestamp": "2024-12-10T12:14:53.000"
   },
   {
     "uid": "01kjmv3a3n64hvpagrmmcq7gdq",
@@ -32,8 +29,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"Introduction NPor...\"}",
-    "timestamp": "2024-12-10T12:14:53.000",
-    "backendId": "281258"
+    "timestamp": "2024-12-10T12:14:53.000"
   },
   {
     "uid": "01kjmv3a3nbt687qs0z2mz3wc9",
@@ -41,8 +37,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Documentation\",\"oldValue\":\"\",\"newValue\":\"https://www.moxa....\"}",
-    "timestamp": "2024-12-10T12:14:53.000",
-    "backendId": "281257"
+    "timestamp": "2024-12-10T12:14:53.000"
   },
   {
     "uid": "01kjmv3a3pxcc5rchdwehamv4v",
@@ -50,8 +45,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Producer\",\"oldValue\":\"\",\"newValue\":\"Moxa\"}",
-    "timestamp": "2024-12-10T12:14:53.000",
-    "backendId": "281256"
+    "timestamp": "2024-12-10T12:14:53.000"
   },
   {
     "uid": "01kjmv3a3qqcj4xd17rqsq4eyv",
@@ -59,7 +53,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2024-12-10T12:12:04.000",
-    "backendId": "281254"
+    "timestamp": "2024-12-10T12:12:04.000"
   }
 ]

@@ -5,8 +5,7 @@
     "type": "1",
     "author": "Riccardo Esposito",
     "details": "{\"type\":\"1\",\"attribute\":\"RAM\",\"oldValue\":\"\",\"newValue\":\"12\"}",
-    "timestamp": "2025-10-01T14:07:12.000",
-    "backendId": "345392"
+    "timestamp": "2025-10-01T14:07:12.000"
   },
   {
     "uid": "01kjmv74f0xhgjb73wkq61drks",
@@ -14,8 +13,7 @@
     "type": "2",
     "author": "Riccardo Esposito",
     "details": "{\"type\":\"2\",\"attribute\":\"OS\",\"oldValue\":\"Windows\",\"newValue\":\"Ubuntu 20.04\"}",
-    "timestamp": "2025-10-01T14:07:12.000",
-    "backendId": "345391"
+    "timestamp": "2025-10-01T14:07:12.000"
   },
   {
     "uid": "01kjmv74f1fze3s0mdp6g3s8vs",
@@ -23,8 +21,7 @@
     "type": "1",
     "author": "Riccardo Esposito",
     "details": "{\"type\":\"1\",\"attribute\":\"MAC\",\"oldValue\":\"\",\"newValue\":\"18:66:DA:2A:09:69\"}",
-    "timestamp": "2025-10-01T14:07:12.000",
-    "backendId": "345390"
+    "timestamp": "2025-10-01T14:07:12.000"
   },
   {
     "uid": "01kjmv74f12z3wexs1qvhc1p9h",
@@ -32,8 +29,7 @@
     "type": "5",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"5\",\"attribute\":\"Location\",\"oldValue\":\"ufficio andrea\",\"newValue\":\"Laboratorio Contr...\"}",
-    "timestamp": "2025-09-30T15:45:13.000",
-    "backendId": "344952"
+    "timestamp": "2025-09-30T15:45:13.000"
   },
   {
     "uid": "01kjmv74f2t3sd3sk0hakj99n5",
@@ -41,8 +37,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"EX windows in lab...\"}",
-    "timestamp": "2025-09-30T15:45:13.000",
-    "backendId": "344951"
+    "timestamp": "2025-09-30T15:45:13.000"
   },
   {
     "uid": "01kjmv74f36qrxn926yg1vtxmt",
@@ -50,8 +45,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"pweli001\",\"newValue\":\"plelico007\"}",
-    "timestamp": "2025-09-30T15:45:13.000",
-    "backendId": "344950"
+    "timestamp": "2025-09-30T15:45:13.000"
   },
   {
     "uid": "01kjmv74f4jy0ykv8xrkdenvz0",
@@ -59,8 +53,7 @@
     "type": "5",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"5\",\"attribute\":\"Location\",\"oldValue\":\"sala lat\",\"newValue\":\"ufficio andrea\"}",
-    "timestamp": "2025-01-31T11:27:36.000",
-    "backendId": "292794"
+    "timestamp": "2025-01-31T11:27:36.000"
   },
   {
     "uid": "01kjmv74f4acwr7ahw4d5eb9b2",
@@ -68,7 +61,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2024-04-11T13:23:25.000",
-    "backendId": "216090"
+    "timestamp": "2024-04-11T13:23:25.000"
   }
 ]

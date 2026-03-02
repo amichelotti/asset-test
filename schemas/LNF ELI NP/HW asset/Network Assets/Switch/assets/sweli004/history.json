@@ -5,8 +5,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"sweli073\",\"newValue\":\"sweli004\"}",
-    "timestamp": "2023-12-05T11:08:06.000",
-    "backendId": "187338"
+    "timestamp": "2023-12-05T11:08:06.000"
   },
   {
     "uid": "01kjmv6zw3y6me4vk0s5ae02v3",
@@ -14,7 +13,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-12-05T10:55:33.000",
-    "backendId": "187324"
+    "timestamp": "2023-12-05T10:55:33.000"
   }
 ]

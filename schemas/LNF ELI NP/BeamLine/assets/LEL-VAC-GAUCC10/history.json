@@ -5,8 +5,7 @@
     "type": "2",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"LEL-VAC-GAUCC10\",\"newValue\":\"LEL-VAC-GAUCC10???\"}",
-    "timestamp": "2025-06-18T16:41:02.000",
-    "backendId": "322656"
+    "timestamp": "2025-06-18T16:41:02.000"
   },
   {
     "uid": "01kjmvbcj4ayhpc921f27m2hy1",
@@ -14,8 +13,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Layout\",\"oldValue\":\"\",\"newValue\":\"M4-005\"}",
-    "timestamp": "2023-12-01T14:24:20.000",
-    "backendId": "186169"
+    "timestamp": "2023-12-01T14:24:20.000"
   },
   {
     "uid": "01kjmvbcj50d3sbr6jztgsq1zy",
@@ -23,8 +21,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Module\",\"oldValue\":\"\",\"newValue\":\"M4\"}",
-    "timestamp": "2023-12-01T00:56:17.000",
-    "backendId": "185543"
+    "timestamp": "2023-12-01T00:56:17.000"
   },
   {
     "uid": "01kjmvbcj8kt22rvzscekn0r3b",
@@ -32,8 +29,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Next Element\",\"oldValue\":\"\",\"newValue\":\"LEL-VAC-GAUTC11???\"}",
-    "timestamp": "2023-12-01T00:49:49.000",
-    "backendId": "185427"
+    "timestamp": "2023-12-01T00:49:49.000"
   },
   {
     "uid": "01kjmvbcja8bvcbt199928k0x0",
@@ -41,8 +37,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Previous Element\",\"oldValue\":\"\",\"newValue\":\"LEL-DIA-SCN03:CAM01\"}",
-    "timestamp": "2023-12-01T00:49:49.000",
-    "backendId": "185426"
+    "timestamp": "2023-12-01T00:49:49.000"
   },
   {
     "uid": "01kjmvbcjck83hzffe2gsdrjqy",
@@ -50,7 +45,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-12-01T00:37:40.000",
-    "backendId": "185285"
+    "timestamp": "2023-12-01T00:37:40.000"
   }
 ]

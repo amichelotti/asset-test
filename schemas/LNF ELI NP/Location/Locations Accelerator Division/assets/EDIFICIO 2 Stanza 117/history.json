@@ -5,8 +5,7 @@
     "type": "29",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"29\"}",
-    "timestamp": "2025-10-28T15:52:12.000",
-    "backendId": "352588"
+    "timestamp": "2025-10-28T15:52:12.000"
   },
   {
     "uid": "01kjmv4g600fhyycgk4gf6qxc4",
@@ -14,8 +13,7 @@
     "type": "28",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"28\"}",
-    "timestamp": "2025-10-28T15:49:10.000",
-    "backendId": "352424"
+    "timestamp": "2025-10-28T15:49:10.000"
   },
   {
     "uid": "01kjmv4g62d8fsavj2v2e886qq",
@@ -23,8 +21,7 @@
     "type": "24",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"24\",\"oldValue\":\"Location\",\"newValue\":\"FLAME Ed 56\"}",
-    "timestamp": "2025-10-28T15:47:25.000",
-    "backendId": "352317"
+    "timestamp": "2025-10-28T15:47:25.000"
   },
   {
     "uid": "01kjmv4g64gegnpwjkc7njy71g",
@@ -32,8 +29,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Area\",\"oldValue\":\"\",\"newValue\":\"Edificio 2\"}",
-    "timestamp": "2023-10-19T14:01:05.000",
-    "backendId": "176496"
+    "timestamp": "2023-10-19T14:01:05.000"
   },
   {
     "uid": "01kjmv4g67wxwgd96fk3wj5tg8",
@@ -41,8 +37,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Alias\",\"oldValue\":\"\",\"newValue\":\"Laboratorio Contr...\"}",
-    "timestamp": "2023-10-18T11:33:56.000",
-    "backendId": "176325"
+    "timestamp": "2023-10-18T11:33:56.000"
   },
   {
     "uid": "01kjmv4g69w98mb0bvvhxd26d6",
@@ -50,7 +45,6 @@
     "type": "0",
     "author": "Unknown",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-05-18T16:43:19.000",
-    "backendId": "142414"
+    "timestamp": "2023-05-18T16:43:19.000"
   }
 ]

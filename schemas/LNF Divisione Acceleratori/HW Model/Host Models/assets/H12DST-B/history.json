@@ -5,8 +5,7 @@
     "type": "1",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"1\",\"attribute\":\"Memory\",\"oldValue\":\"\",\"newValue\":\"128\"}",
-    "timestamp": "2025-05-07T18:39:22.000",
-    "backendId": "316477"
+    "timestamp": "2025-05-07T18:39:22.000"
   },
   {
     "uid": "01kjmv2jm269b7xxncxrgwt201",
@@ -14,8 +13,7 @@
     "type": "1",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"1\",\"attribute\":\"CPU type\",\"oldValue\":\"\",\"newValue\":\"AMD EPYC 7282 16-...\"}",
-    "timestamp": "2025-05-07T18:39:22.000",
-    "backendId": "316476"
+    "timestamp": "2025-05-07T18:39:22.000"
   },
   {
     "uid": "01kjmv2jm44y6kn7y5j92b611x",
@@ -23,8 +21,7 @@
     "type": "1",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"1\",\"attribute\":\"CPU\",\"oldValue\":\"\",\"newValue\":\"2\"}",
-    "timestamp": "2025-05-07T18:39:22.000",
-    "backendId": "316475"
+    "timestamp": "2025-05-07T18:39:22.000"
   },
   {
     "uid": "01kjmv2jm6emwe9dajfzsk3pz4",
@@ -32,8 +29,7 @@
     "type": "25",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"25\"}",
-    "timestamp": "2024-09-18T14:08:48.000",
-    "backendId": "250785"
+    "timestamp": "2024-09-18T14:08:48.000"
   },
   {
     "uid": "01kjmv2jm86tv3x7czgg8t622a",
@@ -41,7 +37,6 @@
     "type": "0",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2024-09-18T14:00:07.000",
-    "backendId": "250781"
+    "timestamp": "2024-09-18T14:00:07.000"
   }
 ]

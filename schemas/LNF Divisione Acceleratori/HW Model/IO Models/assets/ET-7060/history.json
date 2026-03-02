@@ -5,8 +5,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"GIT repo\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
-    "timestamp": "2025-09-02T15:19:36.000",
-    "backendId": "341538"
+    "timestamp": "2025-09-02T15:19:36.000"
   },
   {
     "uid": "01kjmv23tmghneak2etf0aceb1",
@@ -14,8 +13,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"The ET-7060 provi...\",\"newValue\":\"The ET-7060 provi...\"}",
-    "timestamp": "2025-09-02T15:19:36.000",
-    "backendId": "341537"
+    "timestamp": "2025-09-02T15:19:36.000"
   },
   {
     "uid": "01kjmv23tp7r9kfhw8p5ratyk1",
@@ -23,8 +21,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"The ET-7060 provi...\",\"newValue\":\"The ET-7060 provi...\"}",
-    "timestamp": "2024-07-24T23:34:25.000",
-    "backendId": "236967"
+    "timestamp": "2024-07-24T23:34:25.000"
   },
   {
     "uid": "01kjmv23tshnjj8r96fmj10j8k",
@@ -32,8 +29,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Documentation\",\"oldValue\":\"\",\"newValue\":\"https://www.icpda...\"}",
-    "timestamp": "2024-07-24T23:34:25.000",
-    "backendId": "236966"
+    "timestamp": "2024-07-24T23:34:25.000"
   },
   {
     "uid": "01kjmv23tvg4yyzmn6e504qpfd",
@@ -41,8 +37,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"The ET-7060 provi...\",\"newValue\":\"The ET-7060 provi...\"}",
-    "timestamp": "2024-07-24T23:33:27.000",
-    "backendId": "236965"
+    "timestamp": "2024-07-24T23:33:27.000"
   },
   {
     "uid": "01kjmv23tx3p7z46618hcmja7q",
@@ -50,8 +45,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Vendor\",\"oldValue\":\"\",\"newValue\":\"RS COMPONENTS SRL\"}",
-    "timestamp": "2024-07-24T23:33:27.000",
-    "backendId": "236964"
+    "timestamp": "2024-07-24T23:33:27.000"
   },
   {
     "uid": "01kjmv23tzg022sjw68njdfpey",
@@ -59,7 +53,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2024-07-24T14:33:52.000",
-    "backendId": "236882"
+    "timestamp": "2024-07-24T14:33:52.000"
   }
 ]

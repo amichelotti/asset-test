@@ -5,8 +5,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Alias\",\"oldValue\":\"\",\"newValue\":\"EVR_BPM\"}",
-    "timestamp": "2025-02-26T13:49:05.000",
-    "backendId": "298963"
+    "timestamp": "2025-02-26T13:49:05.000"
   },
   {
     "uid": "01kjmva6y84zvcnh977nc491bf",
@@ -14,8 +13,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
-    "timestamp": "2025-02-26T13:49:05.000",
-    "backendId": "298962"
+    "timestamp": "2025-02-26T13:49:05.000"
   },
   {
     "uid": "01kjmva6yctax5b07m06qprq7z",
@@ -23,7 +21,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2025-02-26T13:33:26.000",
-    "backendId": "298941"
+    "timestamp": "2025-02-26T13:33:26.000"
   }
 ]

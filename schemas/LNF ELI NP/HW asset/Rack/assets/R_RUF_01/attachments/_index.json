@@ -2,15 +2,12 @@
   {
     "uid": "01kjmvfy1pee1aymvpfa9ym9r3",
     "assetUid": "01kjmvfwhxmcehqmj5dpq2ftvg",
-    "schemaUid": "01kjmv6re9534nvs3ntryap5js",
     "filename": "R_RUF_01.jpg",
     "mimeType": "image/jpeg",
     "fileSize": 5699048,
     "author": "JIRAUSER51951",
     "created": "2025-06-12T16:38:03.000",
     "binaryPath": "schemas/LNF ELI NP/HW asset/Rack/assets/R_RUF_01/attachments/R_RUF_01.jpg",
-    "_remoteUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2476/R_RUF_01.jpg",
-    "originBackendId": "2476",
-    "originUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2476/R_RUF_01.jpg"
+    "hasBinary": false
   }
 ]

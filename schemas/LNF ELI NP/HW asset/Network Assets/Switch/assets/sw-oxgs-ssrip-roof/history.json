@@ -5,8 +5,7 @@
     "type": "5",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"5\",\"attribute\":\"Model\",\"oldValue\":\"cisco catalyst 92...\",\"newValue\":\"cisco catalyst 92...\"}",
-    "timestamp": "2025-06-13T09:45:05.000",
-    "backendId": "321705"
+    "timestamp": "2025-06-13T09:45:05.000"
   },
   {
     "uid": "01kjmv6y2y6wjsq2hbdgk3ngpq",
@@ -14,8 +13,7 @@
     "type": "25",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"25\"}",
-    "timestamp": "2025-06-13T08:34:39.000",
-    "backendId": "321704"
+    "timestamp": "2025-06-13T08:34:39.000"
   },
   {
     "uid": "01kjmv6y2zrwmbw76mftgw3s12",
@@ -23,8 +21,7 @@
     "type": "5",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"5\",\"attribute\":\"Rack\",\"oldValue\":\"R_RUF_01\",\"newValue\":\"R_RUF_02\"}",
-    "timestamp": "2025-06-12T16:48:04.000",
-    "backendId": "321548"
+    "timestamp": "2025-06-12T16:48:04.000"
   },
   {
     "uid": "01kjmv6y3038r90q9scp3n536s",
@@ -32,8 +29,7 @@
     "type": "27",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"27\"}",
-    "timestamp": "2025-06-12T15:00:22.000",
-    "backendId": "321541"
+    "timestamp": "2025-06-12T15:00:22.000"
   },
   {
     "uid": "01kjmv6y31865vtn5zb0m71eny",
@@ -41,7 +37,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2025-06-12T14:59:23.000",
-    "backendId": "321538"
+    "timestamp": "2025-06-12T14:59:23.000"
   }
 ]

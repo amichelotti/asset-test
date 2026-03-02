@@ -5,8 +5,7 @@
     "type": "4",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"TS-H1886XU-RP-R2-...\"}",
-    "timestamp": "2025-11-18T12:46:56.000",
-    "backendId": "358471"
+    "timestamp": "2025-11-18T12:46:56.000"
   },
   {
     "uid": "01kjmv98yr9hsqyxxnspy26eym",
@@ -14,8 +13,7 @@
     "type": "4",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_COR_05\"}",
-    "timestamp": "2025-11-13T11:45:22.000",
-    "backendId": "356170"
+    "timestamp": "2025-11-13T11:45:22.000"
   },
   {
     "uid": "01kjmv98ysvyw6r3b3dfeh9vak",
@@ -23,8 +21,7 @@
     "type": "1",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"1\",\"attribute\":\"IP - IPMI\",\"oldValue\":\"\",\"newValue\":\"10.16.2.111\"}",
-    "timestamp": "2025-11-13T11:44:17.000",
-    "backendId": "356169"
+    "timestamp": "2025-11-13T11:44:17.000"
   },
   {
     "uid": "01kjmv98ytrkfsmnstmndrqa22",
@@ -32,8 +29,7 @@
     "type": "1",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"1\",\"attribute\":\"IPMI - MAC\",\"oldValue\":\"\",\"newValue\":\"24:5E:BE:8D:BF:66\"}",
-    "timestamp": "2025-11-13T11:44:17.000",
-    "backendId": "356168"
+    "timestamp": "2025-11-13T11:44:17.000"
   },
   {
     "uid": "01kjmv98ytnm51wbkmxrh02s8f",
@@ -41,7 +37,6 @@
     "type": "0",
     "author": "Riccardo Gargana",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2025-11-13T11:32:17.000",
-    "backendId": "356162"
+    "timestamp": "2025-11-13T11:32:17.000"
   }
 ]

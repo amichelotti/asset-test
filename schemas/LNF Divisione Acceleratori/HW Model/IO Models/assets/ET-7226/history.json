@@ -5,8 +5,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"GIT repo\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
-    "timestamp": "2025-09-02T15:19:59.000",
-    "backendId": "341544"
+    "timestamp": "2025-09-02T15:19:59.000"
   },
   {
     "uid": "01kjmv28ma44wp3x0pgr4b1v5d",
@@ -14,8 +13,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"The ET-7226 is a ...\",\"newValue\":\"The ET-7226 is a ...\"}",
-    "timestamp": "2025-09-02T15:19:59.000",
-    "backendId": "341543"
+    "timestamp": "2025-09-02T15:19:59.000"
   },
   {
     "uid": "01kjmv28mcsymtjjm28e86s0q5",
@@ -23,8 +21,7 @@
     "type": "7",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"7\",\"newValue\":\"pet_et7x00_regist...\"}",
-    "timestamp": "2024-12-09T10:02:06.000",
-    "backendId": "280734"
+    "timestamp": "2024-12-09T10:02:06.000"
   },
   {
     "uid": "01kjmv28metssw7yfqnwm3z5kn",
@@ -32,8 +29,7 @@
     "type": "7",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"7\",\"newValue\":\"pet_et-7x00_user_...\"}",
-    "timestamp": "2024-12-09T10:02:05.000",
-    "backendId": "280733"
+    "timestamp": "2024-12-09T10:02:05.000"
   },
   {
     "uid": "01kjmv28mgzcz2sp21bf36qtr4",
@@ -41,8 +37,7 @@
     "type": "7",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"7\",\"newValue\":\"ET7026_V311.HEX\"}",
-    "timestamp": "2024-12-09T10:02:05.000",
-    "backendId": "280732"
+    "timestamp": "2024-12-09T10:02:05.000"
   },
   {
     "uid": "01kjmv28mjwm5f3tmca64vn96g",
@@ -50,7 +45,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2024-12-09T10:02:05.000",
-    "backendId": "280731"
+    "timestamp": "2024-12-09T10:02:05.000"
   }
 ]

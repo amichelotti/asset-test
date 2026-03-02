@@ -5,8 +5,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"PD2705Q-T\",\"newValue\":\"BENQ PD2705Q-T\"}",
-    "timestamp": "2024-02-02T13:16:16.000",
-    "backendId": "201281"
+    "timestamp": "2024-02-02T13:16:16.000"
   },
   {
     "uid": "01kjmv1pgng5tq97s2kn3m3rq1",
@@ -14,8 +13,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"PD2705Q\",\"newValue\":\"PD2705Q-T\"}",
-    "timestamp": "2023-05-09T17:52:09.000",
-    "backendId": "140520"
+    "timestamp": "2023-05-09T17:52:09.000"
   },
   {
     "uid": "01kjmv1pgrpkxyajdty68gfmst",
@@ -23,8 +21,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"PD705Q\",\"newValue\":\"PD2705Q\"}",
-    "timestamp": "2023-05-09T17:52:00.000",
-    "backendId": "140519"
+    "timestamp": "2023-05-09T17:52:00.000"
   },
   {
     "uid": "01kjmv1pgva59xebkk5rtcvt74",
@@ -32,8 +29,7 @@
     "type": "1",
     "author": "Alessandro Stecchi",
     "details": "{\"type\":\"1\",\"attribute\":\"IO Description\",\"oldValue\":\"\",\"newValue\":\"1 porta INPUT HDM...\"}",
-    "timestamp": "2023-05-09T15:57:07.000",
-    "backendId": "140420"
+    "timestamp": "2023-05-09T15:57:07.000"
   },
   {
     "uid": "01kjmv1pgx08htt2mzhp10x3ex",
@@ -41,7 +37,6 @@
     "type": "0",
     "author": "Alessandro Stecchi",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-05-09T15:53:14.000",
-    "backendId": "140418"
+    "timestamp": "2023-05-09T15:53:14.000"
   }
 ]

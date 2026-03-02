@@ -5,8 +5,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Cost\",\"oldValue\":\"\",\"newValue\":\"1000.4\"}",
-    "timestamp": "2025-10-10T11:35:36.000",
-    "backendId": "346777"
+    "timestamp": "2025-10-10T11:35:36.000"
   },
   {
     "uid": "01kjmv44ddn1vpfa1d3cct5q36",
@@ -14,8 +13,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"GIT repo\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
-    "timestamp": "2025-09-02T14:07:32.000",
-    "backendId": "341519"
+    "timestamp": "2025-09-02T14:07:32.000"
   },
   {
     "uid": "01kjmv44dg5sqspvhkx6zvy4ct",
@@ -23,8 +21,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"The XGS-600 gauge...\"}",
-    "timestamp": "2025-05-20T15:41:50.000",
-    "backendId": "318145"
+    "timestamp": "2025-05-20T15:41:50.000"
   },
   {
     "uid": "01kjmv44dk62ev4tzjczpac251",
@@ -32,8 +29,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Documentation\",\"oldValue\":\"\",\"newValue\":\"https://www.agile...\"}",
-    "timestamp": "2025-05-20T15:41:50.000",
-    "backendId": "318144"
+    "timestamp": "2025-05-20T15:41:50.000"
   },
   {
     "uid": "01kjmv44dnzdz0abjyqq8q6a7j",
@@ -41,8 +37,7 @@
     "type": "7",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"7\",\"newValue\":\"XGS-600 Gauge Con...\"}",
-    "timestamp": "2024-12-05T15:42:01.000",
-    "backendId": "280344"
+    "timestamp": "2024-12-05T15:42:01.000"
   },
   {
     "uid": "01kjmv44dqvwxn0nw0ztqv4cw7",
@@ -50,7 +45,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2024-12-05T15:40:56.000",
-    "backendId": "280342"
+    "timestamp": "2024-12-05T15:40:56.000"
   }
 ]

@@ -5,8 +5,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"GIT repo\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
-    "timestamp": "2025-09-02T15:20:05.000",
-    "backendId": "341546"
+    "timestamp": "2025-09-02T15:20:05.000"
   },
   {
     "uid": "01kjmv294wskqd5n8y2wse0ev7",
@@ -14,8 +13,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"The ET-7226 is a ...\",\"newValue\":\"The ET-7226 is a ...\"}",
-    "timestamp": "2025-09-02T15:20:05.000",
-    "backendId": "341545"
+    "timestamp": "2025-09-02T15:20:05.000"
   },
   {
     "uid": "01kjmv294ze1y90hvmtxv6x3jr",
@@ -23,8 +21,7 @@
     "type": "25",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"25\"}",
-    "timestamp": "2024-07-24T14:26:47.000",
-    "backendId": "236870"
+    "timestamp": "2024-07-24T14:26:47.000"
   },
   {
     "uid": "01kjmv29511dfqvj77p7t8vfzv",
@@ -32,8 +29,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"The ET-7226 is a ...\"}",
-    "timestamp": "2024-07-24T14:26:47.000",
-    "backendId": "236869"
+    "timestamp": "2024-07-24T14:26:47.000"
   },
   {
     "uid": "01kjmv2954ja5vxhrqs42fz42n",
@@ -41,8 +37,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Producer\",\"oldValue\":\"\",\"newValue\":\"ICPDAS\"}",
-    "timestamp": "2024-07-24T14:26:47.000",
-    "backendId": "236868"
+    "timestamp": "2024-07-24T14:26:47.000"
   },
   {
     "uid": "01kjmv2956y1964x4ghbnyrvky",
@@ -50,8 +45,7 @@
     "type": "24",
     "author": "Unknown",
     "details": "{\"type\":\"24\",\"oldValue\":\"icpdas sparc\",\"newValue\":\"ADC Models\"}",
-    "timestamp": "2023-06-09T16:34:48.000",
-    "backendId": "146165"
+    "timestamp": "2023-06-09T16:34:48.000"
   },
   {
     "uid": "01kjmv2959w2xy90knwpkfw457",
@@ -59,7 +53,6 @@
     "type": "0",
     "author": "Unknown",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-06-07T11:13:32.000",
-    "backendId": "145803"
+    "timestamp": "2023-06-07T11:13:32.000"
   }
 ]

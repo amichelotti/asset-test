@@ -5,8 +5,7 @@
     "type": "2",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"LEL-VAC-WGC01:VPC...\",\"newValue\":\"LEL-VAC-WGC01:VPC...\"}",
-    "timestamp": "2025-11-06T17:22:27.000",
-    "backendId": "354679"
+    "timestamp": "2025-11-06T17:22:27.000"
   },
   {
     "uid": "01kjmvfk93z938xvbv6xyaz6m8",
@@ -14,8 +13,7 @@
     "type": "2",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Vacuum Ion Pump\",\"newValue\":\"Vacuum Ion Pump C...\"}",
-    "timestamp": "2025-11-06T17:21:04.000",
-    "backendId": "354676"
+    "timestamp": "2025-11-06T17:21:04.000"
   },
   {
     "uid": "01kjmvfk95sjw7g2cfxg2r12pq",
@@ -23,8 +21,7 @@
     "type": "2",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"LEL-VAC-WGS01:VPC...\",\"newValue\":\"LEL-VAC-WGC01:VPC...\"}",
-    "timestamp": "2025-11-06T17:21:04.000",
-    "backendId": "354675"
+    "timestamp": "2025-11-06T17:21:04.000"
   },
   {
     "uid": "01kjmvfk984t3xw3vg5jgev09s",
@@ -32,8 +29,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_RUF_06\"}",
-    "timestamp": "2024-12-05T16:34:14.000",
-    "backendId": "280397"
+    "timestamp": "2024-12-05T16:34:14.000"
   },
   {
     "uid": "01kjmvfk9b42zkj3pb3gah01vw",
@@ -41,8 +37,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"CLONE - LEL-VAC-W...\",\"newValue\":\"LEL-VAC-WGS01:VPC...\"}",
-    "timestamp": "2024-12-05T15:51:16.000",
-    "backendId": "280367"
+    "timestamp": "2024-12-05T15:51:16.000"
   },
   {
     "uid": "01kjmvfk9d0m83amzbs0er5z2j",
@@ -50,7 +45,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2024-12-05T15:50:23.000",
-    "backendId": "280365"
+    "timestamp": "2024-12-05T15:50:23.000"
   }
 ]

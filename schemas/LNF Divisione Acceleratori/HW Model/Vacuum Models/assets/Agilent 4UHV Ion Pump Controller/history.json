@@ -5,8 +5,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"GIT repo\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
-    "timestamp": "2025-09-02T14:08:14.000",
-    "backendId": "341520"
+    "timestamp": "2025-09-02T14:08:14.000"
   },
   {
     "uid": "01kjmv1j68zrepvx6e08ferr4p",
@@ -14,8 +13,7 @@
     "type": "7",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"7\",\"newValue\":\"4UHV.pdf\"}",
-    "timestamp": "2024-12-05T15:41:44.000",
-    "backendId": "280343"
+    "timestamp": "2024-12-05T15:41:44.000"
   },
   {
     "uid": "01kjmv1j6a035ny5jwk75xn23y",
@@ -23,7 +21,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2024-12-05T15:37:42.000",
-    "backendId": "280341"
+    "timestamp": "2024-12-05T15:37:42.000"
   }
 ]

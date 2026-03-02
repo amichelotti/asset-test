@@ -5,8 +5,7 @@
     "type": "4",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
-    "timestamp": "2025-06-18T16:38:57.000",
-    "backendId": "322653"
+    "timestamp": "2025-06-18T16:38:57.000"
   },
   {
     "uid": "01kjmv7bk2a2vw7983xwkxwbjy",
@@ -14,8 +13,7 @@
     "type": "5",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"5\",\"attribute\":\"Controller\",\"oldValue\":\"LEL-VAC-VGCON02\",\"newValue\":\"LEL-VAC-VGCON01\"}",
-    "timestamp": "2025-06-18T16:24:14.000",
-    "backendId": "322638"
+    "timestamp": "2025-06-18T16:24:14.000"
   },
   {
     "uid": "01kjmv7bk30tevz27yrbexkgbe",
@@ -23,8 +21,7 @@
     "type": "2",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"2\",\"attribute\":\"Module\",\"oldValue\":\"M3\",\"newValue\":\"M4\"}",
-    "timestamp": "2025-06-18T16:24:14.000",
-    "backendId": "322637"
+    "timestamp": "2025-06-18T16:24:14.000"
   },
   {
     "uid": "01kjmv7bk36d37hr8n7fdve7k5",
@@ -32,8 +29,7 @@
     "type": "5",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"5\",\"attribute\":\"Layout\",\"oldValue\":\"M3-003\",\"newValue\":\"M4-026\"}",
-    "timestamp": "2025-06-18T16:24:14.000",
-    "backendId": "322636"
+    "timestamp": "2025-06-18T16:24:14.000"
   },
   {
     "uid": "01kjmv7bk479bvj3sq62bt5pqe",
@@ -41,8 +37,7 @@
     "type": "2",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Thermal conductiv...\",\"newValue\":\"Thermal conductiv...\"}",
-    "timestamp": "2025-06-18T16:24:14.000",
-    "backendId": "322635"
+    "timestamp": "2025-06-18T16:24:14.000"
   },
   {
     "uid": "01kjmv7bk56xpymp75gmz8mna0",
@@ -50,8 +45,7 @@
     "type": "5",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"5\",\"attribute\":\"Layout\",\"oldValue\":\"REGION 3\",\"newValue\":\"M3-003\"}",
-    "timestamp": "2023-12-01T14:15:16.000",
-    "backendId": "186035"
+    "timestamp": "2023-12-01T14:15:16.000"
   },
   {
     "uid": "01kjmv7bk54271vr9q0bpgpvy4",
@@ -59,8 +53,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
-    "timestamp": "2023-11-30T13:39:46.000",
-    "backendId": "184709"
+    "timestamp": "2023-11-30T13:39:46.000"
   },
   {
     "uid": "01kjmv7bk6dbapkcstt3bvvztb",
@@ -68,8 +61,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Type\",\"oldValue\":\"\",\"newValue\":\"GAUTC\"}",
-    "timestamp": "2023-11-30T12:08:26.000",
-    "backendId": "184485"
+    "timestamp": "2023-11-30T12:08:26.000"
   },
   {
     "uid": "01kjmv7bk6wck4fxb1tbf0jj7t",
@@ -77,7 +69,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-11-29T23:57:44.000",
-    "backendId": "184166"
+    "timestamp": "2023-11-29T23:57:44.000"
   }
 ]

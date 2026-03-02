@@ -5,8 +5,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Type\",\"oldValue\":\"\",\"newValue\":\"Copper\"}",
-    "timestamp": "2025-02-01T12:22:47.000",
-    "backendId": "293016"
+    "timestamp": "2025-02-01T12:22:47.000"
   },
   {
     "uid": "01kjmvjx0vjxhzet8mv6me97jt",
@@ -14,8 +13,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Connector1 Desc\",\"oldValue\":\"\",\"newValue\":\"port1\"}",
-    "timestamp": "2025-02-01T12:22:47.000",
-    "backendId": "293015"
+    "timestamp": "2025-02-01T12:22:47.000"
   },
   {
     "uid": "01kjmvjx0xg7y7g988kgntb3bh",
@@ -23,8 +21,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Connector2 Pair\",\"oldValue\":\"\",\"newValue\":\"LEL-VAC-VGCON01\"}",
-    "timestamp": "2025-02-01T12:22:47.000",
-    "backendId": "293014"
+    "timestamp": "2025-02-01T12:22:47.000"
   },
   {
     "uid": "01kjmvjx0zf2d90ky4hx009qc7",
@@ -32,8 +29,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Connector1 Pair\",\"oldValue\":\"\",\"newValue\":\"scelimxa16001\"}",
-    "timestamp": "2025-02-01T12:22:47.000",
-    "backendId": "293013"
+    "timestamp": "2025-02-01T12:22:47.000"
   },
   {
     "uid": "01kjmvjx11s67d9cwwfer6pn57",
@@ -41,8 +37,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
-    "timestamp": "2025-02-01T12:22:47.000",
-    "backendId": "293012"
+    "timestamp": "2025-02-01T12:22:47.000"
   },
   {
     "uid": "01kjmvjx12wqp7zqphefxf9vc6",
@@ -50,8 +45,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
-    "timestamp": "2025-02-01T12:22:47.000",
-    "backendId": "293011"
+    "timestamp": "2025-02-01T12:22:47.000"
   },
   {
     "uid": "01kjmvjx14z48ezqpjn45hy96z",
@@ -59,7 +53,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2025-02-01T12:20:57.000",
-    "backendId": "293007"
+    "timestamp": "2025-02-01T12:20:57.000"
   }
 ]

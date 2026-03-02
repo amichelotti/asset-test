@@ -5,8 +5,7 @@
     "type": "26",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"26\"}",
-    "timestamp": "2025-06-13T12:00:19.000",
-    "backendId": "321731"
+    "timestamp": "2025-06-13T12:00:19.000"
   },
   {
     "uid": "01kjmvk3b9r1t00z1bzgc2wffj",
@@ -14,8 +13,7 @@
     "type": "25",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"25\"}",
-    "timestamp": "2025-06-13T10:38:24.000",
-    "backendId": "321724"
+    "timestamp": "2025-06-13T10:38:24.000"
   },
   {
     "uid": "01kjmvk3bdsbmv0qywf1jkn45p",
@@ -23,8 +21,7 @@
     "type": "4",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"Libera LLRF\"}",
-    "timestamp": "2025-06-13T09:56:09.000",
-    "backendId": "321721"
+    "timestamp": "2025-06-13T09:56:09.000"
   },
   {
     "uid": "01kjmvk3bfpfzy1xwd8vt10scv",
@@ -32,8 +29,7 @@
     "type": "4",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_RUF_04\"}",
-    "timestamp": "2025-06-13T09:56:09.000",
-    "backendId": "321720"
+    "timestamp": "2025-06-13T09:56:09.000"
   },
   {
     "uid": "01kjmvk3bh00dy9pwedvw7wvm6",
@@ -41,8 +37,7 @@
     "type": "4",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"ROOF\"}",
-    "timestamp": "2025-06-13T09:56:09.000",
-    "backendId": "321719"
+    "timestamp": "2025-06-13T09:56:09.000"
   },
   {
     "uid": "01kjmvk3bkjv8cs7y6zmhgn2w9",
@@ -50,8 +45,7 @@
     "type": "1",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"ELI - S-BAND Libe...\"}",
-    "timestamp": "2025-06-13T09:56:09.000",
-    "backendId": "321718"
+    "timestamp": "2025-06-13T09:56:09.000"
   },
   {
     "uid": "01kjmvk3bnftk05tnm47jx03jt",
@@ -59,7 +53,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2025-06-13T06:30:26.000",
-    "backendId": "321700"
+    "timestamp": "2025-06-13T06:30:26.000"
   }
 ]

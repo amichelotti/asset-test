@@ -5,8 +5,7 @@
     "type": "2",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Vacuum Ion Pump\",\"newValue\":\"Vacuum Ion Pump C...\"}",
-    "timestamp": "2025-11-06T17:22:13.000",
-    "backendId": "354678"
+    "timestamp": "2025-11-06T17:22:13.000"
   },
   {
     "uid": "01kjmvfmbavpcxzavqx1sza0bj",
@@ -14,8 +13,7 @@
     "type": "2",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"LEL-VAC-WGC01:VPC...\",\"newValue\":\"LEL-VAC-WGS01:VPC...\"}",
-    "timestamp": "2025-11-06T17:22:13.000",
-    "backendId": "354677"
+    "timestamp": "2025-11-06T17:22:13.000"
   },
   {
     "uid": "01kjmvfmbc5k8yqgq23xz6eqcx",
@@ -23,8 +21,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_RUF_06\"}",
-    "timestamp": "2024-12-05T16:33:18.000",
-    "backendId": "280394"
+    "timestamp": "2024-12-05T16:33:18.000"
   },
   {
     "uid": "01kjmvfmbfby0gap07wsa02n0c",
@@ -32,8 +29,7 @@
     "type": "25",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"25\"}",
-    "timestamp": "2024-12-05T15:54:05.000",
-    "backendId": "280373"
+    "timestamp": "2024-12-05T15:54:05.000"
   },
   {
     "uid": "01kjmvfmbh4y5qsc07hfnkbkxt",
@@ -41,8 +37,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"Agilent 4UHV Ion ...\"}",
-    "timestamp": "2024-12-05T15:54:05.000",
-    "backendId": "280372"
+    "timestamp": "2024-12-05T15:54:05.000"
   },
   {
     "uid": "01kjmvfmbkzskz1mb5bwz8f50w",
@@ -50,8 +45,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"ROOF\"}",
-    "timestamp": "2024-12-05T15:54:05.000",
-    "backendId": "280371"
+    "timestamp": "2024-12-05T15:54:05.000"
   },
   {
     "uid": "01kjmvfmbn5espv1nms3e72814",
@@ -59,8 +53,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Vacuum Ion Pump\",\"newValue\":\"Vacuum Ion Pump\"}",
-    "timestamp": "2024-12-05T15:54:05.000",
-    "backendId": "280370"
+    "timestamp": "2024-12-05T15:54:05.000"
   },
   {
     "uid": "01kjmvfmbr0y7v14vqp5242216",
@@ -68,8 +61,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
-    "timestamp": "2024-12-05T15:54:05.000",
-    "backendId": "280369"
+    "timestamp": "2024-12-05T15:54:05.000"
   },
   {
     "uid": "01kjmvfmbtdkraamt5179q7hhz",
@@ -77,8 +69,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Type\",\"oldValue\":\"\",\"newValue\":\"VPC\"}",
-    "timestamp": "2023-11-29T23:34:09.000",
-    "backendId": "184076"
+    "timestamp": "2023-11-29T23:34:09.000"
   },
   {
     "uid": "01kjmvfmbwpmsva58e3t6wewqv",
@@ -86,7 +77,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-11-29T23:26:37.000",
-    "backendId": "184067"
+    "timestamp": "2023-11-29T23:26:37.000"
   }
 ]

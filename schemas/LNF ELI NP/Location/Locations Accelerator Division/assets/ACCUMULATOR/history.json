@@ -5,8 +5,7 @@
     "type": "29",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"29\"}",
-    "timestamp": "2025-10-28T15:52:12.000",
-    "backendId": "352535"
+    "timestamp": "2025-10-28T15:52:12.000"
   },
   {
     "uid": "01kjmv472qjj3cenczv7dmxvxq",
@@ -14,8 +13,7 @@
     "type": "28",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"28\"}",
-    "timestamp": "2025-10-28T15:49:10.000",
-    "backendId": "352404"
+    "timestamp": "2025-10-28T15:49:10.000"
   },
   {
     "uid": "01kjmv472v3w6vw9zvkyfq3zz4",
@@ -23,8 +21,7 @@
     "type": "24",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"24\",\"oldValue\":\"Location\",\"newValue\":\"FLAME Ed 56\"}",
-    "timestamp": "2025-10-28T15:47:23.000",
-    "backendId": "352300"
+    "timestamp": "2025-10-28T15:47:23.000"
   },
   {
     "uid": "01kjmv472wp7459g6y5sh6z4rt",
@@ -32,8 +29,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Parent\",\"oldValue\":\"\",\"newValue\":\"Dafne\"}",
-    "timestamp": "2023-10-03T13:10:06.000",
-    "backendId": "171077"
+    "timestamp": "2023-10-03T13:10:06.000"
   },
   {
     "uid": "01kjmv472ysds50eqx5ps3sjm2",
@@ -41,8 +37,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"- ACCUMULATOR\",\"newValue\":\"ACCUMULATOR\"}",
-    "timestamp": "2023-10-02T17:50:07.000",
-    "backendId": "169235"
+    "timestamp": "2023-10-02T17:50:07.000"
   },
   {
     "uid": "01kjmv4730sgy0a7r0eaaht415",
@@ -50,7 +45,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-10-02T17:38:43.000",
-    "backendId": "169175"
+    "timestamp": "2023-10-02T17:38:43.000"
   }
 ]

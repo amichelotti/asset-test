@@ -5,8 +5,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"Cisco C9500-40X-A...\"}",
-    "timestamp": "2025-06-12T14:58:42.000",
-    "backendId": "321537"
+    "timestamp": "2025-06-12T14:58:42.000"
   },
   {
     "uid": "01kjmv6t1y6t6a3vdgpk1134a2",
@@ -14,8 +13,7 @@
     "type": "25",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"25\"}",
-    "timestamp": "2025-06-12T12:51:43.000",
-    "backendId": "321485"
+    "timestamp": "2025-06-12T12:51:43.000"
   },
   {
     "uid": "01kjmv6t1zk7zbdw4xhsxr8qcq",
@@ -23,7 +21,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2025-06-11T11:09:30.000",
-    "backendId": "321193"
+    "timestamp": "2025-06-11T11:09:30.000"
   }
 ]

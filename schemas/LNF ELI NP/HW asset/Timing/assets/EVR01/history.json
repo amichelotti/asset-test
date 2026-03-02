@@ -5,8 +5,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Alias\",\"oldValue\":\"\",\"newValue\":\"EVR_LAS\"}",
-    "timestamp": "2025-02-26T13:39:09.000",
-    "backendId": "298949"
+    "timestamp": "2025-02-26T13:39:09.000"
   },
   {
     "uid": "01kjmva5795vbzr449d5jsj6n6",
@@ -14,8 +13,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
-    "timestamp": "2025-02-26T13:39:09.000",
-    "backendId": "298948"
+    "timestamp": "2025-02-26T13:39:09.000"
   },
   {
     "uid": "01kjmva57bdrhn2tvmag23qwhe",
@@ -23,8 +21,7 @@
     "type": "2",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"EVR_LLRF\",\"newValue\":\"EVR01\"}",
-    "timestamp": "2025-02-26T13:32:00.000",
-    "backendId": "298938"
+    "timestamp": "2025-02-26T13:32:00.000"
   },
   {
     "uid": "01kjmva57d56yqdz51108gaxep",
@@ -32,7 +29,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2025-02-26T13:30:54.000",
-    "backendId": "298936"
+    "timestamp": "2025-02-26T13:30:54.000"
   }
 ]

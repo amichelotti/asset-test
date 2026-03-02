@@ -5,8 +5,7 @@
     "type": "2",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"IKR 251, FPM sealed\",\"newValue\":\"IKR 251\"}",
-    "timestamp": "2025-10-23T11:59:21.000",
-    "backendId": "351323"
+    "timestamp": "2025-10-23T11:59:21.000"
   },
   {
     "uid": "01kjmv2y9t2tz9mvsvm450e1pa",
@@ -14,8 +13,7 @@
     "type": "2",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"IKR 251, FPM seal...\",\"newValue\":\"IKR 251, FPM seal...\"}",
-    "timestamp": "2025-10-23T11:58:36.000",
-    "backendId": "351319"
+    "timestamp": "2025-10-23T11:58:36.000"
   },
   {
     "uid": "01kjmv2y9thv25ngd1kr35xamy",
@@ -23,8 +21,7 @@
     "type": "1",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"1\",\"attribute\":\"Documentation\",\"oldValue\":\"\",\"newValue\":\"https://vacuum-sh...\"}",
-    "timestamp": "2025-10-23T11:58:36.000",
-    "backendId": "351318"
+    "timestamp": "2025-10-23T11:58:36.000"
   },
   {
     "uid": "01kjmv2y9vwg2fbfcy6kp9kfg0",
@@ -32,7 +29,6 @@
     "type": "0",
     "author": "Martina Del Giorno",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2025-10-23T11:48:10.000",
-    "backendId": "351310"
+    "timestamp": "2025-10-23T11:48:10.000"
   }
 ]

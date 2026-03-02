@@ -5,8 +5,7 @@
     "type": "2",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"2\",\"attribute\":\"Module\",\"oldValue\":\"M2\",\"newValue\":\"M3\"}",
-    "timestamp": "2025-06-18T16:06:54.000",
-    "backendId": "322630"
+    "timestamp": "2025-06-18T16:06:54.000"
   },
   {
     "uid": "01kjmv77r8vq6y4rt8e69zhbqj",
@@ -14,8 +13,7 @@
     "type": "5",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"5\",\"attribute\":\"Layout\",\"oldValue\":\"M2-012\",\"newValue\":\"M3-002\"}",
-    "timestamp": "2025-06-18T16:06:54.000",
-    "backendId": "322629"
+    "timestamp": "2025-06-18T16:06:54.000"
   },
   {
     "uid": "01kjmv77r94ctgwrgnv0b5sw1t",
@@ -23,8 +21,7 @@
     "type": "2",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"2\",\"attribute\":\"Module\",\"oldValue\":\"M3\",\"newValue\":\"M2\"}",
-    "timestamp": "2025-06-18T15:25:19.000",
-    "backendId": "322628"
+    "timestamp": "2025-06-18T15:25:19.000"
   },
   {
     "uid": "01kjmv77rageqabfy3a9r7jhca",
@@ -32,8 +29,7 @@
     "type": "5",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"5\",\"attribute\":\"Layout\",\"oldValue\":\"M3-002\",\"newValue\":\"M2-012\"}",
-    "timestamp": "2025-06-18T15:25:19.000",
-    "backendId": "322627"
+    "timestamp": "2025-06-18T15:25:19.000"
   },
   {
     "uid": "01kjmv77rb45nh1a4grx4ypqce",
@@ -41,8 +37,7 @@
     "type": "4",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
-    "timestamp": "2025-06-18T15:25:19.000",
-    "backendId": "322626"
+    "timestamp": "2025-06-18T15:25:19.000"
   },
   {
     "uid": "01kjmv77rbt9ajyecxxewkrx29",
@@ -50,8 +45,7 @@
     "type": "2",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Cold cathode vacu...\",\"newValue\":\"Cold cathode vacu...\"}",
-    "timestamp": "2025-06-18T15:25:19.000",
-    "backendId": "322625"
+    "timestamp": "2025-06-18T15:25:19.000"
   },
   {
     "uid": "01kjmv77rc1wxf2krqfnty0exz",
@@ -59,8 +53,7 @@
     "type": "5",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"5\",\"attribute\":\"Layout\",\"oldValue\":\"REGION 3\",\"newValue\":\"M3-002\"}",
-    "timestamp": "2023-12-01T14:15:15.000",
-    "backendId": "186034"
+    "timestamp": "2023-12-01T14:15:15.000"
   },
   {
     "uid": "01kjmv77rc7zkthv1ta069bje4",
@@ -68,8 +61,7 @@
     "type": "4",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
-    "timestamp": "2023-11-30T13:39:46.000",
-    "backendId": "184708"
+    "timestamp": "2023-11-30T13:39:46.000"
   },
   {
     "uid": "01kjmv77rdrsmezxydsa6mc586",
@@ -77,8 +69,7 @@
     "type": "1",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"1\",\"attribute\":\"Type\",\"oldValue\":\"\",\"newValue\":\"GAUCC\"}",
-    "timestamp": "2023-11-30T12:08:26.000",
-    "backendId": "184484"
+    "timestamp": "2023-11-30T12:08:26.000"
   },
   {
     "uid": "01kjmv77re7jcqrwtae7h62bd7",
@@ -86,7 +77,6 @@
     "type": "0",
     "author": "Andrea Michelotti",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2023-11-29T23:57:44.000",
-    "backendId": "184165"
+    "timestamp": "2023-11-29T23:57:44.000"
   }
 ]

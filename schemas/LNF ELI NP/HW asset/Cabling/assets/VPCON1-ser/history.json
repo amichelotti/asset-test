@@ -5,8 +5,7 @@
     "type": "5",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"5\",\"attribute\":\"Connector1 Pair\",\"oldValue\":\"LEL-VAC-WGC09:VPC...\",\"newValue\":\"\"}",
-    "timestamp": "2025-06-18T14:36:21.000",
-    "backendId": "322603"
+    "timestamp": "2025-06-18T14:36:21.000"
   },
   {
     "uid": "01kjmvjyvzse70sg5tpstq1v12",
@@ -14,8 +13,7 @@
     "type": "2",
     "author": "Georgios Zachariadis",
     "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"VPCON16-ser\",\"newValue\":\"VPCON1-ser\"}",
-    "timestamp": "2025-06-18T12:36:13.000",
-    "backendId": "322548"
+    "timestamp": "2025-06-18T12:36:13.000"
   },
   {
     "uid": "01kjmvjyw1w47f9g34s6gah1nh",
@@ -23,8 +21,7 @@
     "type": "1",
     "author": "Riccardo Esposito",
     "details": "{\"type\":\"1\",\"attribute\":\"Lenght\",\"oldValue\":\"\",\"newValue\":\"3\"}",
-    "timestamp": "2025-06-13T14:17:40.000",
-    "backendId": "321771"
+    "timestamp": "2025-06-13T14:17:40.000"
   },
   {
     "uid": "01kjmvjyw393wvbr7y7x46ev68",
@@ -32,8 +29,7 @@
     "type": "1",
     "author": "Riccardo Esposito",
     "details": "{\"type\":\"1\",\"attribute\":\"Type\",\"oldValue\":\"\",\"newValue\":\"RS232\"}",
-    "timestamp": "2025-06-13T14:17:40.000",
-    "backendId": "321770"
+    "timestamp": "2025-06-13T14:17:40.000"
   },
   {
     "uid": "01kjmvjyw5tgnc1c1qx919j0an",
@@ -41,8 +37,7 @@
     "type": "1",
     "author": "Riccardo Esposito",
     "details": "{\"type\":\"1\",\"attribute\":\"Cable Type Desc\",\"oldValue\":\"\",\"newValue\":\"3 meter long\"}",
-    "timestamp": "2025-06-13T14:17:40.000",
-    "backendId": "321769"
+    "timestamp": "2025-06-13T14:17:40.000"
   },
   {
     "uid": "01kjmvjyw7vgx1x6yf03h3zxnh",
@@ -50,8 +45,7 @@
     "type": "1",
     "author": "Riccardo Esposito",
     "details": "{\"type\":\"1\",\"attribute\":\"Connector2 Desc\",\"oldValue\":\"\",\"newValue\":\"port 6\"}",
-    "timestamp": "2025-06-13T14:17:40.000",
-    "backendId": "321768"
+    "timestamp": "2025-06-13T14:17:40.000"
   },
   {
     "uid": "01kjmvjyw9ba0wbh9x24gs2ndk",
@@ -59,8 +53,7 @@
     "type": "4",
     "author": "Riccardo Esposito",
     "details": "{\"type\":\"4\",\"attribute\":\"Connector2 Pair\",\"oldValue\":\"\",\"newValue\":\"scelimxa16001\"}",
-    "timestamp": "2025-06-13T14:17:40.000",
-    "backendId": "321767"
+    "timestamp": "2025-06-13T14:17:40.000"
   },
   {
     "uid": "01kjmvjywcgmx507y8rceq3z1e",
@@ -68,8 +61,7 @@
     "type": "4",
     "author": "Riccardo Esposito",
     "details": "{\"type\":\"4\",\"attribute\":\"Connector1 Pair\",\"oldValue\":\"\",\"newValue\":\"LEL-VAC-WGC09:VPC...\"}",
-    "timestamp": "2025-06-13T14:17:40.000",
-    "backendId": "321766"
+    "timestamp": "2025-06-13T14:17:40.000"
   },
   {
     "uid": "01kjmvjywenmy9dbzf1pdmxp5h",
@@ -77,8 +69,7 @@
     "type": "4",
     "author": "Riccardo Esposito",
     "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
-    "timestamp": "2025-06-13T14:17:40.000",
-    "backendId": "321765"
+    "timestamp": "2025-06-13T14:17:40.000"
   },
   {
     "uid": "01kjmvjywh3cp0ha5v8ypqapb3",
@@ -86,8 +77,7 @@
     "type": "1",
     "author": "Riccardo Esposito",
     "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
-    "timestamp": "2025-06-13T14:17:40.000",
-    "backendId": "321764"
+    "timestamp": "2025-06-13T14:17:40.000"
   },
   {
     "uid": "01kjmvjywjdy7rrs4ydfka5e3x",
@@ -95,7 +85,6 @@
     "type": "0",
     "author": "Riccardo Esposito",
     "details": "{\"type\":\"0\"}",
-    "timestamp": "2025-06-13T14:12:41.000",
-    "backendId": "321756"
+    "timestamp": "2025-06-13T14:12:41.000"
   }
 ]

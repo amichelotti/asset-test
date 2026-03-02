@@ -1,0 +1,236 @@
+[
+  {
+    "uid": "01kjmv900x2m2esd125sv8pwgq",
+    "assetUid": "01kjmv8yfy16cp0c2g4h22ad8w",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"evr_las.png\"}",
+    "timestamp": "2025-02-26T13:46:12.000",
+    "backendId": "298952"
+  },
+  {
+    "uid": "01kjmv9010rdep3vtkj1za8q14",
+    "assetUid": "01kjmv8yfy16cp0c2g4h22ad8w",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Cards\",\"oldValue\":\"\",\"newValue\":\"EVR01\"}",
+    "timestamp": "2025-02-26T13:35:16.000",
+    "backendId": "298945"
+  },
+  {
+    "uid": "01kjmv9012yr38vsz00xr28btr",
+    "assetUid": "01kjmv8yfy16cp0c2g4h22ad8w",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"I7-3517UE CPU 1 EVR\",\"newValue\":\"I7-3517UE CPU EVR...\"}",
+    "timestamp": "2025-02-26T13:06:55.000",
+    "backendId": "298931"
+  },
+  {
+    "uid": "01kjmv9015vgmc891ew2rdh6ks",
+    "assetUid": "01kjmv8yfy16cp0c2g4h22ad8w",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"I7-3517UE CPU cod...\",\"newValue\":\"I7-3517UE CPU 1 EVR\"}",
+    "timestamp": "2025-02-25T11:37:42.000",
+    "backendId": "298740"
+  },
+  {
+    "uid": "01kjmv9016hzyqxfgdcw3dr71x",
+    "assetUid": "01kjmv8yfy16cp0c2g4h22ad8w",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Registered\",\"oldValue\":\"\",\"newValue\":\"plelievr001\"}",
+    "timestamp": "2025-02-25T10:47:15.000",
+    "backendId": "298729"
+  },
+  {
+    "uid": "01kjmv9019t1c7fmtyerrp2yn3",
+    "assetUid": "01kjmv8yfy16cp0c2g4h22ad8w",
+    "type": "26",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"26\"}",
+    "timestamp": "2025-02-25T10:42:28.000",
+    "backendId": "298727"
+  },
+  {
+    "uid": "01kjmv901aky754c0f7wdazyrd",
+    "assetUid": "01kjmv8yfy16cp0c2g4h22ad8w",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Location\",\"oldValue\":\"sala lat\",\"newValue\":\"Pella\"}",
+    "timestamp": "2025-02-25T10:39:53.000",
+    "backendId": "298726"
+  },
+  {
+    "uid": "01kjmv901cbwqmba4307pr62tk",
+    "assetUid": "01kjmv8yfy16cp0c2g4h22ad8w",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"OS\",\"oldValue\":\"\",\"newValue\":\"Scientific Linux 6.3\"}",
+    "timestamp": "2025-02-25T10:39:13.000",
+    "backendId": "298725"
+  },
+  {
+    "uid": "01kjmv901exjt3186k4q0ffh80",
+    "assetUid": "01kjmv8yfy16cp0c2g4h22ad8w",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"MAC\",\"oldValue\":\"00:c0:88:01:00:00\",\"newValue\":\"00:c0:88:01:43:60\"}",
+    "timestamp": "2025-02-25T10:39:13.000",
+    "backendId": "298724"
+  },
+  {
+    "uid": "01kjmv901g6k7jry0yprr0x7j0",
+    "assetUid": "01kjmv8yfy16cp0c2g4h22ad8w",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Alias\",\"oldValue\":\"\",\"newValue\":\"GEN-CS-GP06:IOC01\"}",
+    "timestamp": "2025-02-25T10:39:13.000",
+    "backendId": "298723"
+  },
+  {
+    "uid": "01kjmv901k80bc1725ten24mk8",
+    "assetUid": "01kjmv8yfy16cp0c2g4h22ad8w",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Status\",\"oldValue\":\"Action Needed\",\"newValue\":\"Active\"}",
+    "timestamp": "2025-02-25T10:39:13.000",
+    "backendId": "298722"
+  },
+  {
+    "uid": "01kjmv901mk9dqfz2j44j3rdw3",
+    "assetUid": "01kjmv8yfy16cp0c2g4h22ad8w",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"GEN-CS-GP06:IOC01\",\"newValue\":\"plelievr001\"}",
+    "timestamp": "2025-02-25T10:39:13.000",
+    "backendId": "298721"
+  },
+  {
+    "uid": "01kjmv901p5yvj7y7b58m9891q",
+    "assetUid": "01kjmv8yfy16cp0c2g4h22ad8w",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"sala lat\"}",
+    "timestamp": "2025-01-29T09:51:47.000",
+    "backendId": "292414"
+  },
+  {
+    "uid": "01kjmv901q4c0rhjdgaqg9pjn0",
+    "assetUid": "01kjmv8yfy16cp0c2g4h22ad8w",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"I7-3517UE CPU cod...\",\"newValue\":\"I7-3517UE CPU cod...\"}",
+    "timestamp": "2025-01-29T09:51:47.000",
+    "backendId": "292413"
+  },
+  {
+    "uid": "01kjmv901sebjbnc991xcbnvnf",
+    "assetUid": "01kjmv8yfy16cp0c2g4h22ad8w",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"I7-3517UE CPU\",\"newValue\":\"I7-3517UE CPU cod...\"}",
+    "timestamp": "2023-12-19T13:04:36.000",
+    "backendId": "189188"
+  },
+  {
+    "uid": "01kjmv901vjv6gs4qgb78kspwj",
+    "assetUid": "01kjmv8yfy16cp0c2g4h22ad8w",
+    "type": "26",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"26\"}",
+    "timestamp": "2023-12-19T13:03:12.000",
+    "backendId": "189187"
+  },
+  {
+    "uid": "01kjmv901wg3ag3e04e6mn3c3b",
+    "assetUid": "01kjmv8yfy16cp0c2g4h22ad8w",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"MAC\",\"oldValue\":\"00:c0:88:01:43:60\",\"newValue\":\"00:c0:88:01:00:00\"}",
+    "timestamp": "2023-12-19T13:03:12.000",
+    "backendId": "189186"
+  },
+  {
+    "uid": "01kjmv901yz17bh35b4xe1qf4p",
+    "assetUid": "01kjmv8yfy16cp0c2g4h22ad8w",
+    "type": "2",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"2\",\"attribute\":\"MAC\",\"oldValue\":\"00:c0:88:01:00:00\",\"newValue\":\"00:c0:88:01:43:60\"}",
+    "timestamp": "2023-12-19T13:02:56.000",
+    "backendId": "189185"
+  },
+  {
+    "uid": "01kjmv9020qk5rhf99n7hyd9jh",
+    "assetUid": "01kjmv8yfy16cp0c2g4h22ad8w",
+    "type": "2",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"2\",\"attribute\":\"MAC\",\"oldValue\":\"00:c0:88:01:43:68\",\"newValue\":\"00:c0:88:01:00:00\"}",
+    "timestamp": "2023-12-19T10:59:49.000",
+    "backendId": "189168"
+  },
+  {
+    "uid": "01kjmv9022h2m63n42x8wy1jg4",
+    "assetUid": "01kjmv8yfy16cp0c2g4h22ad8w",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"Disk\",\"oldValue\":\"\",\"newValue\":\"120\"}",
+    "timestamp": "2023-12-19T10:55:00.000",
+    "backendId": "189166"
+  },
+  {
+    "uid": "01kjmv902460b9xz5ax6rqgcje",
+    "assetUid": "01kjmv8yfy16cp0c2g4h22ad8w",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"CPU\",\"oldValue\":\"\",\"newValue\":\"4\"}",
+    "timestamp": "2023-12-19T10:55:00.000",
+    "backendId": "189165"
+  },
+  {
+    "uid": "01kjmv90251q6y5q8e3fsp187z",
+    "assetUid": "01kjmv8yfy16cp0c2g4h22ad8w",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"RAM\",\"oldValue\":\"\",\"newValue\":\"8\"}",
+    "timestamp": "2023-12-19T10:55:00.000",
+    "backendId": "189164"
+  },
+  {
+    "uid": "01kjmv90277v43hzat412wbref",
+    "assetUid": "01kjmv8yfy16cp0c2g4h22ad8w",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"MAC\",\"oldValue\":\"\",\"newValue\":\"00:c0:88:01:43:68\"}",
+    "timestamp": "2023-12-19T10:55:00.000",
+    "backendId": "189163"
+  },
+  {
+    "uid": "01kjmv9028xypsb8pqwtpb6829",
+    "assetUid": "01kjmv8yfy16cp0c2g4h22ad8w",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"I7-3517UE CPU\"}",
+    "timestamp": "2023-12-19T10:55:00.000",
+    "backendId": "189162"
+  },
+  {
+    "uid": "01kjmv902bettqkc046pr5kggb",
+    "assetUid": "01kjmv8yfy16cp0c2g4h22ad8w",
+    "type": "2",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"GEN-CS-GP06\",\"newValue\":\"GEN-CS-GP06:IOC01\"}",
+    "timestamp": "2023-12-19T10:55:00.000",
+    "backendId": "189161"
+  },
+  {
+    "uid": "01kjmv902c9pbxkbjahz27wde4",
+    "assetUid": "01kjmv8yfy16cp0c2g4h22ad8w",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-12-19T10:18:08.000",
+    "backendId": "189157"
+  }
+]

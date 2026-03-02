@@ -1,0 +1,47 @@
+[
+  {
+    "uid": "01kjmvbp3sn8qav9ky3h6n581b",
+    "assetUid": "01kjmvbntn77j17ercae13k2ps",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Layout\",\"oldValue\":\"\",\"newValue\":\"M1-006\"}",
+    "timestamp": "2023-12-01T14:23:05.000",
+    "backendId": "186120"
+  },
+  {
+    "uid": "01kjmvbp3war6b6dbm3ej6cqb1",
+    "assetUid": "01kjmvbntn77j17ercae13k2ps",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Module\",\"oldValue\":\"\",\"newValue\":\"M1\"}",
+    "timestamp": "2023-12-01T00:55:51.000",
+    "backendId": "185494"
+  },
+  {
+    "uid": "01kjmvbp3zkwxf75m9ttkckp3e",
+    "assetUid": "01kjmvbntn77j17ercae13k2ps",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Next Element\",\"oldValue\":\"\",\"newValue\":\"LEL-VAC-GAUCC01\"}",
+    "timestamp": "2023-12-01T00:49:17.000",
+    "backendId": "185329"
+  },
+  {
+    "uid": "01kjmvbp423rx1yck3yzw1275j",
+    "assetUid": "01kjmvbntn77j17ercae13k2ps",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Previous Element\",\"oldValue\":\"\",\"newValue\":\"LEL-VAC-VALVM01\"}",
+    "timestamp": "2023-12-01T00:49:17.000",
+    "backendId": "185328"
+  },
+  {
+    "uid": "01kjmvbp436mftvaq6m5vgkgh0",
+    "assetUid": "01kjmvbntn77j17ercae13k2ps",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-12-01T00:37:04.000",
+    "backendId": "185236"
+  }
+]

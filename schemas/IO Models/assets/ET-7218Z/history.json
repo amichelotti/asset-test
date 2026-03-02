@@ -1,0 +1,47 @@
+[
+  {
+    "uid": "01kjmv24ty0crma7jp0rtzsty7",
+    "assetUid": "01kjmv24eehdywc88kks3kv10n",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"GIT repo\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
+    "timestamp": "2025-09-02T15:19:53.000",
+    "backendId": "341542"
+  },
+  {
+    "uid": "01kjmv24v33zdwgf0m9s2hmks7",
+    "assetUid": "01kjmv24eehdywc88kks3kv10n",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"The “Z” version i...\",\"newValue\":\"The “Z” version i...\"}",
+    "timestamp": "2025-09-02T15:19:53.000",
+    "backendId": "341541"
+  },
+  {
+    "uid": "01kjmv24v55qvv2ze0s1fzmzdh",
+    "assetUid": "01kjmv24eehdywc88kks3kv10n",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Producer\",\"oldValue\":\"\",\"newValue\":\"ICPDAS\"}",
+    "timestamp": "2024-07-24T14:24:45.000",
+    "backendId": "236863"
+  },
+  {
+    "uid": "01kjmv24v873sgbwzgkf7qgqs9",
+    "assetUid": "01kjmv24eehdywc88kks3kv10n",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"The “Z” version i...\"}",
+    "timestamp": "2024-07-24T14:24:33.000",
+    "backendId": "236862"
+  },
+  {
+    "uid": "01kjmv24va4z0t133mxfz553qe",
+    "assetUid": "01kjmv24eehdywc88kks3kv10n",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-04-20T12:56:13.000",
+    "backendId": "41157"
+  }
+]

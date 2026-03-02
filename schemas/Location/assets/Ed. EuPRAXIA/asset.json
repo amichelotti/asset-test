@@ -1,0 +1,23 @@
+{
+  "uid": "01kjmv5z1cn50r6rk5k9dgrt0d",
+  "key": "LNFMAC-144180",
+  "name": "Ed. EuPRAXIA",
+  "type": "Location",
+  "schemaUid": "01kjmv1961h4t7c3wk3bq342c2",
+  "attributes": {
+    "key": "LNFMAC-144180",
+    "name": "Ed. EuPRAXIA",
+    "created": "2025-11-18T09:46:57.000Z",
+    "updated": "2025-11-18T09:46:57.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

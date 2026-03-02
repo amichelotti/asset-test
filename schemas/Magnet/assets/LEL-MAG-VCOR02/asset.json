@@ -1,0 +1,38 @@
+{
+  "uid": "01kjmv88zcvye31vc0j87n749t",
+  "key": "LNFELINP-111714",
+  "name": "LEL-MAG-VCOR02",
+  "type": "Magnet",
+  "schemaUid": "01kjmv6ndwdhp37p2e7623kaxc",
+  "attributes": {
+    "key": "LNFELINP-111714",
+    "name": "LEL-MAG-VCOR02",
+    "created": "2023-11-29T12:16:58.000Z",
+    "updated": "2023-12-01T13:15:11.000Z",
+    "description": "V Corrector Type B1 Single plane",
+    "layout": "LNFELINP-112453",
+    "module": "M2",
+    "type": "VCOR",
+    "voltage": "1",
+    "current": "18",
+    "inlet_temp": "30",
+    "rise_temp": "1",
+    "water_pressure_drop": "4",
+    "water_coling_flow": "1",
+    "weight": "15",
+    "crosssection": "6+6",
+    "currentin": "19.8",
+    "powersupply": "01kjmvbtag73brgbg3nna4d1gz",
+    "power": "0.018"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

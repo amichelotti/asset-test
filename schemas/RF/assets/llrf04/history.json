@@ -1,0 +1,38 @@
+[
+  {
+    "uid": "01kjmvk4rdcpa884vgrweaqxkg",
+    "assetUid": "01kjmvk4e1kc6tpxmm2k2k14h6",
+    "type": "26",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"26\"}",
+    "timestamp": "2025-06-13T12:01:53.000",
+    "backendId": "321732"
+  },
+  {
+    "uid": "01kjmvk4rhfv5qr8b4ebdfqnes",
+    "assetUid": "01kjmvk4e1kc6tpxmm2k2k14h6",
+    "type": "25",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2025-06-13T10:01:54.000",
+    "backendId": "321723"
+  },
+  {
+    "uid": "01kjmvk4rkp1prjxs3w3q2zmhr",
+    "assetUid": "01kjmvk4e1kc6tpxmm2k2k14h6",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"ELI - C BAND Libe...\",\"newValue\":\"ELI - C-BAND Libe...\"}",
+    "timestamp": "2025-06-13T09:53:22.000",
+    "backendId": "321713"
+  },
+  {
+    "uid": "01kjmvk4rnfjzpbnc9b0c02v3p",
+    "assetUid": "01kjmvk4e1kc6tpxmm2k2k14h6",
+    "type": "0",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-06-13T09:52:10.000",
+    "backendId": "321710"
+  }
+]

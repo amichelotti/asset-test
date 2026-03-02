@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmvfsj9yyc66ahn2kg0pwph",
+  "key": "LNFELINP-111840",
+  "name": "R_COR_07",
+  "type": "Rack",
+  "schemaUid": "01kjmv6re9534nvs3ntryap5js",
+  "attributes": {
+    "key": "LNFELINP-111840",
+    "name": "R_COR_07",
+    "created": "2023-11-30T09:30:34.000Z",
+    "updated": "2025-02-27T08:23:21.000Z",
+    "alias": "MPS2"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

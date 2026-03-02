@@ -1,0 +1,38 @@
+[
+  {
+    "uid": "01kjmv2t5gqmt2xvxp1xjr8839",
+    "assetUid": "01kjmv2scttfbm2b2zgpjkmx2f",
+    "type": "3",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"3\",\"attribute\":\"Control SW\",\"oldValue\":\"https://github.co...\",\"newValue\":\"\"}",
+    "timestamp": "2025-09-02T13:53:29.000",
+    "backendId": "341508"
+  },
+  {
+    "uid": "01kjmv2t5nmr5vy5x4gsnx6nh8",
+    "assetUid": "01kjmv2scttfbm2b2zgpjkmx2f",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"GIT repo\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
+    "timestamp": "2025-09-02T13:53:29.000",
+    "backendId": "341507"
+  },
+  {
+    "uid": "01kjmv2t5q4tdw2ggn871xc5xf",
+    "assetUid": "01kjmv2scttfbm2b2zgpjkmx2f",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"HiStar Commands.pdf\"}",
+    "timestamp": "2025-09-02T12:55:01.000",
+    "backendId": "341483"
+  },
+  {
+    "uid": "01kjmv2t5s6n1fj3c4nxr3g5de",
+    "assetUid": "01kjmv2scttfbm2b2zgpjkmx2f",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-09-02T12:54:12.000",
+    "backendId": "341482"
+  }
+]

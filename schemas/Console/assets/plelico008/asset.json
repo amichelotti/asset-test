@@ -1,0 +1,26 @@
+{
+  "uid": "01kjmv74kcy8g2kv9249krcf1y",
+  "key": "LNFELINP-142717",
+  "name": "plelico008",
+  "type": "Console",
+  "schemaUid": "01kjmv6mkgdkdtgf8bqs12khnj",
+  "attributes": {
+    "key": "LNFELINP-142717",
+    "name": "plelico008",
+    "created": "2025-09-30T13:46:44.000Z",
+    "updated": "2025-09-30T13:46:44.000Z",
+    "status": "Uninstalled",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"></div>",
+    "location": "01kjmv9wv36q0gsr7pbj861ak2"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

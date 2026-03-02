@@ -1,0 +1,30 @@
+{
+  "uid": "01kjmvgdzgxw3n4dbgjsknhdtr",
+  "key": "LNFELINP-111979",
+  "name": "BPM05-CAB050",
+  "type": "Cabling",
+  "schemaUid": "01kjmv6rp34zm0d5zrkp7qybxj",
+  "attributes": {
+    "key": "LNFELINP-111979",
+    "name": "BPM05-CAB050",
+    "created": "2023-11-30T12:02:56.000Z",
+    "updated": "2023-11-30T12:02:56.000Z",
+    "description": "BPM",
+    "connector1_pair": "01kjmv9b0tr0abt0ar4v000e74",
+    "connector2_pair": "01kjmvfrmadd7aedfcyshwtc2t",
+    "connector1_desc": "Co-tor <Andrew F1PNF-BHC> N female 1/4'  FSJ1",
+    "connector2_desc": "Co-tor <Andrew F1PNF-BHC> N female 1/4'  FSJ1",
+    "connection_type_desc": "solder",
+    "cable_type_desc": "n4 Andrew FSJ1-50A"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

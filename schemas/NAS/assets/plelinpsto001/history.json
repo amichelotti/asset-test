@@ -1,0 +1,65 @@
+[
+  {
+    "uid": "01kjmv98fpy6w9p0p09p9kqq89",
+    "assetUid": "01kjmv9861kgrmtxbwyxepp5fn",
+    "type": "4",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"TS-H1886XU-RP-R2-...\"}",
+    "timestamp": "2025-11-18T12:46:46.000",
+    "backendId": "358470"
+  },
+  {
+    "uid": "01kjmv98fw5m0dc8vrse6nx62s",
+    "assetUid": "01kjmv9861kgrmtxbwyxepp5fn",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"IP - IPMI\",\"oldValue\":\"\",\"newValue\":\"10.16.2.110\"}",
+    "timestamp": "2025-11-13T11:42:59.000",
+    "backendId": "356167"
+  },
+  {
+    "uid": "01kjmv98fx9c2gnb8mvfkfw1ra",
+    "assetUid": "01kjmv9861kgrmtxbwyxepp5fn",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"IPMI - MAC\",\"oldValue\":\"\",\"newValue\":\"24:5E:BE:8D:AC:E8\"}",
+    "timestamp": "2025-11-13T11:42:59.000",
+    "backendId": "356166"
+  },
+  {
+    "uid": "01kjmv98fy7rwbtxavye9gpwhc",
+    "assetUid": "01kjmv9861kgrmtxbwyxepp5fn",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"MAC\",\"oldValue\":\"\",\"newValue\":\"24:5E:BE:8D:A5:9E\"}",
+    "timestamp": "2025-11-13T11:35:34.000",
+    "backendId": "356165"
+  },
+  {
+    "uid": "01kjmv98fy0yz58y87j98nkf2v",
+    "assetUid": "01kjmv9861kgrmtxbwyxepp5fn",
+    "type": "4",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_COR_05\"}",
+    "timestamp": "2025-11-13T11:35:34.000",
+    "backendId": "356164"
+  },
+  {
+    "uid": "01kjmv98fz7jt20gn0p46f40dx",
+    "assetUid": "01kjmv9861kgrmtxbwyxepp5fn",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"Serial\",\"oldValue\":\"\",\"newValue\":\"QPH9913873A\"}",
+    "timestamp": "2025-11-13T11:35:34.000",
+    "backendId": "356163"
+  },
+  {
+    "uid": "01kjmv98fzb2agghjjba14rn4d",
+    "assetUid": "01kjmv9861kgrmtxbwyxepp5fn",
+    "type": "0",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-11-13T11:26:19.000",
+    "backendId": "356160"
+  }
+]

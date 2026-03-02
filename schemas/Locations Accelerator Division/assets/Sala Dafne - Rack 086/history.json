@@ -1,0 +1,56 @@
+[
+  {
+    "uid": "01kjmv593wwxpdwqk2sxe7xs7f",
+    "assetUid": "01kjmv58rpjzqf487qjtp2wt1h",
+    "type": "29",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"29\"}",
+    "timestamp": "2025-10-28T15:52:12.000",
+    "backendId": "352611"
+  },
+  {
+    "uid": "01kjmv5941ay2f9x5bjf98r8g6",
+    "assetUid": "01kjmv58rpjzqf487qjtp2wt1h",
+    "type": "28",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"28\"}",
+    "timestamp": "2025-10-28T15:49:10.000",
+    "backendId": "352475"
+  },
+  {
+    "uid": "01kjmv5944mnsv7qx4qzwdk1qn",
+    "assetUid": "01kjmv58rpjzqf487qjtp2wt1h",
+    "type": "24",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"24\",\"oldValue\":\"Location\",\"newValue\":\"FLAME Ed 56\"}",
+    "timestamp": "2025-10-28T15:47:30.000",
+    "backendId": "352369"
+  },
+  {
+    "uid": "01kjmv5947d326tyan869b5vex",
+    "assetUid": "01kjmv58rpjzqf487qjtp2wt1h",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Area\",\"oldValue\":\"\",\"newValue\":\"Dafne\"}",
+    "timestamp": "2023-10-03T16:42:06.000",
+    "backendId": "171109"
+  },
+  {
+    "uid": "01kjmv5949x0eyqczrbd9p0anm",
+    "assetUid": "01kjmv58rpjzqf487qjtp2wt1h",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"Sala Dafne - Rack 86\",\"newValue\":\"Sala Dafne - Rack...\"}",
+    "timestamp": "2023-03-22T16:59:02.000",
+    "backendId": "39751"
+  },
+  {
+    "uid": "01kjmv594bvvtewx3a3ty4byyf",
+    "assetUid": "01kjmv58rpjzqf487qjtp2wt1h",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-03-22T16:56:01.000",
+    "backendId": "39748"
+  }
+]

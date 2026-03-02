@@ -1,0 +1,56 @@
+[
+  {
+    "uid": "01kjmv3rzk85snn3awxdqcpdym",
+    "assetUid": "01kjmv3r2sb8hze3gtkyvnejd0",
+    "type": "3",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"3\",\"attribute\":\"Control SW\",\"oldValue\":\"https://github.co...\",\"newValue\":\"\"}",
+    "timestamp": "2025-09-02T14:03:12.000",
+    "backendId": "341514"
+  },
+  {
+    "uid": "01kjmv3rzqe6benfb3v4ydy0r6",
+    "assetUid": "01kjmv3r2sb8hze3gtkyvnejd0",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"GIT repo\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
+    "timestamp": "2025-09-02T14:03:12.000",
+    "backendId": "341513"
+  },
+  {
+    "uid": "01kjmv3rztzk102tk0k1zda7rt",
+    "assetUid": "01kjmv3r2sb8hze3gtkyvnejd0",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Control SW\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
+    "timestamp": "2025-09-02T12:44:11.000",
+    "backendId": "341479"
+  },
+  {
+    "uid": "01kjmv3rzwppfqrk50839rn9eq",
+    "assetUid": "01kjmv3r2sb8hze3gtkyvnejd0",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"55V 200A 1 channel\",\"newValue\":\"55V 200A 1 channel\"}",
+    "timestamp": "2025-09-02T12:44:11.000",
+    "backendId": "341478"
+  },
+  {
+    "uid": "01kjmv3rzxdhyk6zrkw2w0m2g7",
+    "assetUid": "01kjmv3r2sb8hze3gtkyvnejd0",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"14 - START Power ...\"}",
+    "timestamp": "2024-11-08T17:25:49.000",
+    "backendId": "258158"
+  },
+  {
+    "uid": "01kjmv3rzz2yyjg4zb73vxpgm8",
+    "assetUid": "01kjmv3r2sb8hze3gtkyvnejd0",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-11-08T15:43:13.000",
+    "backendId": "258130"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "uid": "01kjmv1rfagq49dx3rk2vh7b7n",
+  "key": "LNFMAC-142181",
+  "name": "Cisco 2960X",
+  "type": "Switch Models",
+  "schemaUid": "01kjmv18tj5wg3v692ddgkjj2g",
+  "attributes": {
+    "key": "LNFMAC-142181",
+    "name": "Cisco 2960X",
+    "created": "2025-09-09T12:08:13.000Z",
+    "updated": "2025-09-09T12:08:13.000Z",
+    "producer": "LNFMAC-12583",
+    "vendor": "LNFMAC-12583",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Layer 2 switching, DHCP support, PoE, auto-negotiation, ARP support, VLAN support, auto-uplink (auto MDI/MDI-X), IGMP snooping, IDS, IPv6 support, RSTP support, MSTP support, DTP support, PAgP support, TFTP support, ACL support, RADIUS support, SSH support, Jumbo Frames support, MLD snooping, DAI, PoE+, Cisco EnergyWise technology, URPF, UDLD, Rapid PVST+, IPv4 support, SRR, LACP, MAC Address Notification, RSPAN, NetFlow, HSRP support, Energy Efficient Ethernet, MVR, CoS, Cisco FlexStack Plus</p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

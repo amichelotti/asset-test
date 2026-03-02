@@ -1,0 +1,26 @@
+{
+  "uid": "01kjmv3a7zxyrj2cc3yhc7d8xx",
+  "key": "LNFMAC-137631",
+  "name": "NPort 5450",
+  "type": "Converter Models",
+  "schemaUid": "01kjmv19a4ha2mac1y6w18wtqs",
+  "attributes": {
+    "key": "LNFMAC-137631",
+    "name": "NPort 5450",
+    "created": "2025-05-20T14:23:32.000Z",
+    "updated": "2025-05-20T14:23:32.000Z",
+    "producer": "LNFMAC-99945",
+    "vendor": "LNFMAC-99945",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Il <strong>NPort 5450</strong> rappresenta una soluzione ideale per l’integrazione di dispositivi seriali in reti Ethernet, garantendo affidabilità e versatilità. Questo server di dispositivi permette di collegare fino a quattro dispositivi seriali, operando indipendentemente ogni porta per massimizzare la flessibilità applicativa. Ad esempio, è possibile configurare la porta 1 in modalità Driver, la porta 2 in modalità TCP Server, e le porte 3 e 4 in modalità TCP Client.</p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

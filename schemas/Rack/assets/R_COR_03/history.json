@@ -1,0 +1,65 @@
+[
+  {
+    "uid": "01kjmvfrfrwjm11fvphcp7mf5w",
+    "assetUid": "01kjmvfr4g0mbbf02g704bp2nx",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"R_COR_033\",\"newValue\":\"R_COR_03\"}",
+    "timestamp": "2025-06-13T14:48:11.000",
+    "backendId": "321836"
+  },
+  {
+    "uid": "01kjmvfrfxxjmx9dz6yk53fdg7",
+    "assetUid": "01kjmvfr4g0mbbf02g704bp2nx",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"R_COR_03\",\"newValue\":\"R_COR_033\"}",
+    "timestamp": "2025-06-13T14:45:08.000",
+    "backendId": "321825"
+  },
+  {
+    "uid": "01kjmvfrfzpa5ces4etf1x9sse",
+    "assetUid": "01kjmvfr4g0mbbf02g704bp2nx",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Alias\",\"oldValue\":\"\",\"newValue\":\"Control + Network...\"}",
+    "timestamp": "2025-02-27T09:19:55.000",
+    "backendId": "299170"
+  },
+  {
+    "uid": "01kjmvfrg06g4bmaegtrayxxmr",
+    "assetUid": "01kjmvfr4g0mbbf02g704bp2nx",
+    "type": "25",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2025-02-27T09:19:40.000",
+    "backendId": "299169"
+  },
+  {
+    "uid": "01kjmvfrg2em0t2fvr4xjq9e06",
+    "assetUid": "01kjmvfr4g0mbbf02g704bp2nx",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"Corridor GP\"}",
+    "timestamp": "2025-02-27T09:19:40.000",
+    "backendId": "299168"
+  },
+  {
+    "uid": "01kjmvfrg36qafzf17szv1t9a3",
+    "assetUid": "01kjmvfr4g0mbbf02g704bp2nx",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"R_COR_12\",\"newValue\":\"R_COR_03\"}",
+    "timestamp": "2025-02-27T09:19:40.000",
+    "backendId": "299167"
+  },
+  {
+    "uid": "01kjmvfrg5ewqhzc0zrka9wvya",
+    "assetUid": "01kjmvfr4g0mbbf02g704bp2nx",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-12-05T12:38:31.000",
+    "backendId": "280239"
+  }
+]

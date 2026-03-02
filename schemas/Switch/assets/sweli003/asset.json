@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmv6z52m3ztvdb56cswybjz",
+  "key": "LNFELINP-112862",
+  "name": "sweli003",
+  "type": "Switch",
+  "schemaUid": "01kjmv6mg97wrncsk6z03qhdh6",
+  "attributes": {
+    "key": "LNFELINP-112862",
+    "name": "sweli003",
+    "created": "2023-12-05T10:00:24.000Z",
+    "updated": "2023-12-05T10:07:57.000Z",
+    "status": "Uninstalled"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

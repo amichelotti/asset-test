@@ -1,0 +1,74 @@
+[
+  {
+    "uid": "01kjmv76vd5rmmp6a1fv3fh5p9",
+    "assetUid": "01kjmv76gt7sedcpse6xtys51r",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Type\",\"oldValue\":\"GAUTC\",\"newValue\":\"GAUCC\"}",
+    "timestamp": "2025-06-18T15:04:59.000",
+    "backendId": "322618"
+  },
+  {
+    "uid": "01kjmv76vgqddxnz9bzqa2cap1",
+    "assetUid": "01kjmv76gt7sedcpse6xtys51r",
+    "type": "4",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
+    "timestamp": "2025-06-18T15:04:59.000",
+    "backendId": "322617"
+  },
+  {
+    "uid": "01kjmv76vgam3w37mf236v54p4",
+    "assetUid": "01kjmv76gt7sedcpse6xtys51r",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Thermal conductiv...\",\"newValue\":\"Cold cathode vacu...\"}",
+    "timestamp": "2025-06-18T15:04:59.000",
+    "backendId": "322616"
+  },
+  {
+    "uid": "01kjmv76vhj3dxgmnzgntkwe0f",
+    "assetUid": "01kjmv76gt7sedcpse6xtys51r",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"LEL-VAC-GAUTC03\",\"newValue\":\"LEL-VAC-GAUCC03\"}",
+    "timestamp": "2025-06-18T15:04:59.000",
+    "backendId": "322615"
+  },
+  {
+    "uid": "01kjmv76vhmrwg9h2y2vhy4yn0",
+    "assetUid": "01kjmv76gt7sedcpse6xtys51r",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Layout\",\"oldValue\":\"REGION 1\",\"newValue\":\"M1-009\"}",
+    "timestamp": "2023-12-01T14:15:01.000",
+    "backendId": "186007"
+  },
+  {
+    "uid": "01kjmv76vjvw682rdt0wdbpmab",
+    "assetUid": "01kjmv76gt7sedcpse6xtys51r",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
+    "timestamp": "2023-11-30T13:39:43.000",
+    "backendId": "184698"
+  },
+  {
+    "uid": "01kjmv76vk84m9z86tqpd43cks",
+    "assetUid": "01kjmv76gt7sedcpse6xtys51r",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Type\",\"oldValue\":\"\",\"newValue\":\"GAUTC\"}",
+    "timestamp": "2023-11-30T12:07:06.000",
+    "backendId": "184474"
+  },
+  {
+    "uid": "01kjmv76vmxsaww4r9g54wg8j6",
+    "assetUid": "01kjmv76gt7sedcpse6xtys51r",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-11-29T23:57:38.000",
+    "backendId": "184155"
+  }
+]

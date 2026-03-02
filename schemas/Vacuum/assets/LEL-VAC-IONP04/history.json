@@ -1,0 +1,65 @@
+[
+  {
+    "uid": "01kjmv7dsrbksdjkz32p2cp2aj",
+    "assetUid": "01kjmv7dg0bbqx8wyn87qdaetp",
+    "type": "5",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"5\",\"attribute\":\"Controller\",\"oldValue\":\"\",\"newValue\":\"LEL-VAC-VPCON01\"}",
+    "timestamp": "2025-11-07T14:41:55.000",
+    "backendId": "354873"
+  },
+  {
+    "uid": "01kjmv7dstb922jv684gnfqrg6",
+    "assetUid": "01kjmv7dg0bbqx8wyn87qdaetp",
+    "type": "4",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
+    "timestamp": "2025-11-07T14:41:55.000",
+    "backendId": "354872"
+  },
+  {
+    "uid": "01kjmv7dstm003pk54jm9w95d5",
+    "assetUid": "01kjmv7dg0bbqx8wyn87qdaetp",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Ion pump 75 l/s\",\"newValue\":\"Ion pump 75 l/s\"}",
+    "timestamp": "2025-11-07T14:41:55.000",
+    "backendId": "354871"
+  },
+  {
+    "uid": "01kjmv7dsvve068wjxzdp92sj4",
+    "assetUid": "01kjmv7dg0bbqx8wyn87qdaetp",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Layout\",\"oldValue\":\"REGION 2\",\"newValue\":\"M1-014\"}",
+    "timestamp": "2023-12-01T14:15:04.000",
+    "backendId": "186012"
+  },
+  {
+    "uid": "01kjmv7dsvgkayybj7v49zt2wg",
+    "assetUid": "01kjmv7dg0bbqx8wyn87qdaetp",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
+    "timestamp": "2023-11-30T13:39:43.000",
+    "backendId": "184701"
+  },
+  {
+    "uid": "01kjmv7dsw0c5dgxs3zz2cqez9",
+    "assetUid": "01kjmv7dg0bbqx8wyn87qdaetp",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Type\",\"oldValue\":\"\",\"newValue\":\"IONP\"}",
+    "timestamp": "2023-11-30T12:07:07.000",
+    "backendId": "184477"
+  },
+  {
+    "uid": "01kjmv7dsx3qrhezsgn9c2snaj",
+    "assetUid": "01kjmv7dg0bbqx8wyn87qdaetp",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-11-29T23:57:40.000",
+    "backendId": "184158"
+  }
+]

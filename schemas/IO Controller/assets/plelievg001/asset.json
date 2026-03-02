@@ -1,0 +1,36 @@
+{
+  "uid": "01kjmv8w8kaczrjpzbtk9yr2ve",
+  "key": "LNFELINP-113217",
+  "name": "plelievg001",
+  "type": "IO Controller",
+  "schemaUid": "01kjmv6p190eyfxsk45587e5vd",
+  "attributes": {
+    "key": "LNFELINP-113217",
+    "name": "plelievg001",
+    "created": "2023-12-19T09:59:24.000Z",
+    "updated": "2025-06-12T12:46:18.000Z",
+    "status": "Active",
+    "alias": "Timing Generator",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>I7-3517UE CPU</p><p>former GEN-CS-GP09:IOC01</p><p>&nbsp;</p><p>second interface&nbsp;00:c0:88:01:43:69</p><p>PXI EVG 230</p><p>root12</p></div>",
+    "location": "01kjmv9qrhzdnz11rytqvpvb3e",
+    "serial": "ELI2413",
+    "rack": "01kjmvfr4g0mbbf02g704bp2nx",
+    "mac": "00:c0:88:01:43:68",
+    "registered": "LNFMAC-133671",
+    "os": "Scientific Linux 6.3",
+    "ram": "8",
+    "cpu": "4",
+    "disk": "120",
+    "cards": "01kjmva3bg92tgars2nw0yfg59"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

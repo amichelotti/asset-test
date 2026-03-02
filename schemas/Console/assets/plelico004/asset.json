@@ -1,0 +1,30 @@
+{
+  "uid": "01kjmv72sy1gqbdkv21xnam0qx",
+  "key": "LNFELINP-119490",
+  "name": "plelico004",
+  "type": "Console",
+  "schemaUid": "01kjmv6mkgdkdtgf8bqs12khnj",
+  "attributes": {
+    "key": "LNFELINP-119490",
+    "name": "plelico004",
+    "created": "2024-04-11T10:48:36.000Z",
+    "updated": "2026-02-17T10:35:31.000Z",
+    "status": "Active",
+    "alias": "GEN-CS-GP06:OPI03",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>ip addr&nbsp;10.16.2.28</p></div>",
+    "mac": "98:90:96:ad:fb:5c",
+    "os": "Ubuntu 20.04",
+    "ram": "16",
+    "cpu": "2"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

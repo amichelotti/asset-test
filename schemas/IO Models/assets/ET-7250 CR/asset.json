@@ -1,0 +1,28 @@
+{
+  "uid": "01kjmv298nrpa2bb4eb1ts102j",
+  "key": "LNFMAC-126908",
+  "name": "ET-7250 CR",
+  "type": "IO Models",
+  "schemaUid": "01kjmv18ya5jjw6gxdf9r6e48e",
+  "attributes": {
+    "key": "LNFMAC-126908",
+    "name": "ET-7250 CR",
+    "created": "2024-09-18T07:56:28.000Z",
+    "updated": "2025-09-02T13:20:27.000Z",
+    "producer": "LNFMAC-12430",
+    "vendor": "LNFMAC-109180",
+    "documentation": "https://icpdas-europe.com/it/Modulo-I-O-remoto/ModbusTCP/ET-7250A-CR?srsltid=AfmBOop2wYrre3fIhVZeUFWVtb4xzP8ys0taZnmrmvrfVDoqMlUgQZq6",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>La serie ET-7000/ET-7200 offre una capacità di collegamento in rete completa e una varietà di funzioni di I/O, oltre a moduli di monitoraggio e controllo I/O Ethernet basati sul Web, il che significa che i moduli possono essere controllati a distanza su una rete Ethernet utilizzando il protocollo Modbus TCP/UDP. In questo modo la serie ET-7000/ET-7200 consente l'integrazione con HMI, SCADA, PLC e altri sistemi software di controllo industriale. L'ET-7250A è dotato di due porte switch Ethernet integrate, che contribuiscono a ridurre i costi di implementazione eliminando la necessità di installare uno switch aggiuntivo per collegare in cascata le porte o estendere la rete sulla linea Ethernet. L'ET-7250A dispone di 6 canali di uscita digitale con design a lavello e 12 canali di ingresso digitale con design a contatto umido, ognuno dei quali può essere utilizzato come contatore a 32 bit. Inoltre, ogni ingresso digitale dell'ET-7250A accetta un contatto secco o un contatto umido.</p><ul class=\"ak-ul\"><li><p>12 digital Inputs</p></li><li><p>&nbsp;6 digital Outputs</p></li><li><p>&nbsp;2 LAN Ports</p></li><li><p>&nbsp;Temperature: -25 ~ +75 °C</p></li></ul></div>",
+    "git_repo": "https://github.com/infn-epics/icpdas"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

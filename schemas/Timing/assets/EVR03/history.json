@@ -1,0 +1,38 @@
+[
+  {
+    "uid": "01kjmva62h1vz2mztb7nj8n2tw",
+    "assetUid": "01kjmva5rzrs6kge07a92gwrf8",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"RF Driver\"}",
+    "timestamp": "2025-02-26T13:47:53.000",
+    "backendId": "298958"
+  },
+  {
+    "uid": "01kjmva62ne3dezhcy3mckn939",
+    "assetUid": "01kjmva5rzrs6kge07a92gwrf8",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Alias\",\"oldValue\":\"\",\"newValue\":\"EVR_RFD\"}",
+    "timestamp": "2025-02-26T13:47:53.000",
+    "backendId": "298957"
+  },
+  {
+    "uid": "01kjmva62qw2kzhqbj6nt8490w",
+    "assetUid": "01kjmva5rzrs6kge07a92gwrf8",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2025-02-26T13:47:53.000",
+    "backendId": "298956"
+  },
+  {
+    "uid": "01kjmva62ss5acs1h6z5wb0ffw",
+    "assetUid": "01kjmva5rzrs6kge07a92gwrf8",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-02-26T13:32:51.000",
+    "backendId": "298939"
+  }
+]

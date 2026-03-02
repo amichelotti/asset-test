@@ -1,0 +1,29 @@
+{
+  "uid": "01kjmva1c3cfv892rvrv1zwjf7",
+  "key": "LNFELINP-128744",
+  "name": "ccelicam06",
+  "type": "Camera",
+  "schemaUid": "01kjmv6pw9afvv35xy3r9rps1x",
+  "attributes": {
+    "key": "LNFELINP-128744",
+    "name": "ccelicam06",
+    "created": "2024-11-15T13:08:53.000Z",
+    "updated": "2025-06-12T12:27:12.000Z",
+    "status": "Active",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Camera setup2 test:A2A1920-51gcB</p></div>",
+    "location": "01kjmv9pxmw7rmrevnrn2s7g9d",
+    "serial": "404588517",
+    "mac": "00:30:53:36:15:80",
+    "registered": "LNFMAC-128740"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

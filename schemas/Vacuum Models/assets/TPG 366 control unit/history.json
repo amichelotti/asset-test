@@ -1,0 +1,38 @@
+[
+  {
+    "uid": "01kjmv3wmyj7s44382xj7w0y2h",
+    "assetUid": "01kjmv3vtwrvnd2czb3t5a8kyn",
+    "type": "2",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"TPG 366 control u...\",\"newValue\":\"TPG 366 control u...\"}",
+    "timestamp": "2025-10-23T12:00:00.000",
+    "backendId": "351325"
+  },
+  {
+    "uid": "01kjmv3wn2a8prqzpv10jy5yhv",
+    "assetUid": "01kjmv3vtwrvnd2czb3t5a8kyn",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Documentation\",\"oldValue\":\"\",\"newValue\":\"https://vacuum-sh...\"}",
+    "timestamp": "2025-10-23T12:00:00.000",
+    "backendId": "351324"
+  },
+  {
+    "uid": "01kjmv3wn568wh4x2hmbb8wt7a",
+    "assetUid": "01kjmv3vtwrvnd2czb3t5a8kyn",
+    "type": "7",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"7\",\"newValue\":\"TPG366-Pfiffer.pdf\"}",
+    "timestamp": "2025-10-23T11:42:50.000",
+    "backendId": "351308"
+  },
+  {
+    "uid": "01kjmv3wn7dq1hmadw1jdvdfwf",
+    "assetUid": "01kjmv3vtwrvnd2czb3t5a8kyn",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-10-23T11:42:35.000",
+    "backendId": "351307"
+  }
+]

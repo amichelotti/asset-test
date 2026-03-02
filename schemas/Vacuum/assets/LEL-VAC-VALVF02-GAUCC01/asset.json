@@ -1,0 +1,27 @@
+{
+  "uid": "01kjmv7kn693g4dcysjxvdpzbx",
+  "key": "LNFELINP-111986",
+  "name": "LEL-VAC-VALVF02:GAUCC01",
+  "type": "Vacuum",
+  "schemaUid": "01kjmv6mqn4hn27g8z656vqw8j",
+  "attributes": {
+    "key": "LNFELINP-111986",
+    "name": "LEL-VAC-VALVF02:GAUCC01",
+    "created": "2023-11-30T12:20:21.000Z",
+    "updated": "2023-12-01T13:15:33.000Z",
+    "description": "VAT High Vacuum Sensor (HV) for fast valve LEL-VAC-VALVFP02",
+    "layout": "LNFELINP-112506",
+    "module": "M6",
+    "type": "VALVF"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

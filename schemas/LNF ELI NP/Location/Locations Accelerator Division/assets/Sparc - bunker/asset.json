@@ -1,0 +1,24 @@
+{
+  "uid": "01kjmv5htq91p8dwc6tpvp205c",
+  "key": "LNFMAC-105057",
+  "name": "Sparc - bunker",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmv18ds1cka02yedx7fp1mr",
+  "attributes": {
+    "key": "LNFMAC-105057",
+    "name": "Sparc - bunker",
+    "created": "2023-09-27T14:06:03.000Z",
+    "updated": "2025-10-28T14:52:13.000Z",
+    "area": "01kjmv5h9es8tfvebmbx13d674"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

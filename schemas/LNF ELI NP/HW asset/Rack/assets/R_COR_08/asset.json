@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmvft1agf1qak4yfr5c1gk6",
+  "key": "LNFELINP-111839",
+  "name": "R_COR_08",
+  "type": "Rack",
+  "schemaUid": "01kjmv6re9534nvs3ntryap5js",
+  "attributes": {
+    "key": "LNFELINP-111839",
+    "name": "R_COR_08",
+    "created": "2023-11-30T09:30:34.000Z",
+    "updated": "2025-02-27T08:24:09.000Z",
+    "alias": "Vacuum pump",
+    "location": "01kjmv9qrhzdnz11rytqvpvb3e"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

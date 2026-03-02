@@ -1,0 +1,110 @@
+[
+  {
+    "uid": "01kjmv8gx2zn7pvxn46wm2dw2r",
+    "assetUid": "01kjmv8gcgwwjpp2s2ykn2vm1t",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"connector\",\"oldValue\":\"\",\"newValue\":\"ciccio, ciccio2\"}",
+    "timestamp": "2025-10-10T11:49:35.000",
+    "backendId": "346780"
+  },
+  {
+    "uid": "01kjmv8gx5qtnch7k1pa0j3eq2",
+    "assetUid": "01kjmv8gcgwwjpp2s2ykn2vm1t",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Location\",\"oldValue\":\"Pella\",\"newValue\":\"AB1\"}",
+    "timestamp": "2025-02-28T16:30:45.000",
+    "backendId": "299556"
+  },
+  {
+    "uid": "01kjmv8gx6xsybmf5n66knhd9x",
+    "assetUid": "01kjmv8gcgwwjpp2s2ykn2vm1t",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Serial converter ...\",\"newValue\":\"Serial converter ...\"}",
+    "timestamp": "2025-02-28T16:30:45.000",
+    "backendId": "299555"
+  },
+  {
+    "uid": "01kjmv8gx6c0wgrzy4qrnn3aqq",
+    "assetUid": "01kjmv8gcgwwjpp2s2ykn2vm1t",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Registered\",\"oldValue\":\"\",\"newValue\":\"scelimxa1001\"}",
+    "timestamp": "2025-02-25T11:55:31.000",
+    "backendId": "298743"
+  },
+  {
+    "uid": "01kjmv8gx7fzmkwft6gsrcgr0r",
+    "assetUid": "01kjmv8gcgwwjpp2s2ykn2vm1t",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"scelinport5110A001\",\"newValue\":\"scelimxa1001\"}",
+    "timestamp": "2025-02-25T11:54:07.000",
+    "backendId": "298741"
+  },
+  {
+    "uid": "01kjmv8gx7sh0j13dp249dvzz8",
+    "assetUid": "01kjmv8gcgwwjpp2s2ykn2vm1t",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Location\",\"oldValue\":\"Selced\",\"newValue\":\"Pella\"}",
+    "timestamp": "2025-02-20T10:46:26.000",
+    "backendId": "298058"
+  },
+  {
+    "uid": "01kjmv8gx8av02kwtr88b20n6d",
+    "assetUid": "01kjmv8gcgwwjpp2s2ykn2vm1t",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Serial converter ...\",\"newValue\":\"Serial converter ...\"}",
+    "timestamp": "2025-02-20T10:46:26.000",
+    "backendId": "298057"
+  },
+  {
+    "uid": "01kjmv8gx8v88zrjmyaz3d958f",
+    "assetUid": "01kjmv8gcgwwjpp2s2ykn2vm1t",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"NPort 5410\"}",
+    "timestamp": "2025-02-20T10:37:12.000",
+    "backendId": "298051"
+  },
+  {
+    "uid": "01kjmv8gx9yrhn6vgqaxctmje0",
+    "assetUid": "01kjmv8gcgwwjpp2s2ykn2vm1t",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Serial\",\"oldValue\":\"ELI107118-081\",\"newValue\":\"ELI2404\"}",
+    "timestamp": "2025-01-30T17:15:52.000",
+    "backendId": "292587"
+  },
+  {
+    "uid": "01kjmv8gxasdvqktb7q8w49t39",
+    "assetUid": "01kjmv8gcgwwjpp2s2ykn2vm1t",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Serial converter ...\",\"newValue\":\"Serial converter ...\"}",
+    "timestamp": "2025-01-30T17:15:52.000",
+    "backendId": "292586"
+  },
+  {
+    "uid": "01kjmv8gxacmcx7zx265xz9tgn",
+    "assetUid": "01kjmv8gcgwwjpp2s2ykn2vm1t",
+    "type": "25",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2024-09-06T11:18:30.000",
+    "backendId": "241827"
+  },
+  {
+    "uid": "01kjmv8gxbeasj2gd692q1yrw1",
+    "assetUid": "01kjmv8gcgwwjpp2s2ykn2vm1t",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-09-06T11:16:43.000",
+    "backendId": "241826"
+  }
+]

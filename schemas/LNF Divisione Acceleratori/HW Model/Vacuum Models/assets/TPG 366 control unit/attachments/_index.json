@@ -1,0 +1,15 @@
+[
+  {
+    "uid": "01kjmv3wecnq8pr43xp7wvqsp9",
+    "assetUid": "01kjmv3vtwrvnd2czb3t5a8kyn",
+    "schemaUid": "01kjmv1a8chq7prqwhkverw3dk",
+    "filename": "TPG366-Pfiffer.pdf",
+    "mimeType": "application/pdf",
+    "fileSize": 785335,
+    "author": "md206925",
+    "created": "2025-10-23T11:42:49.000",
+    "binaryPath": "schemas/LNF Divisione Acceleratori/HW Model/Vacuum Models/assets/TPG 366 control unit/attachments/TPG366-Pfiffer.pdf",
+    "originBackendId": "2570",
+    "originUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2570/TPG366-Pfiffer.pdf"
+  }
+]

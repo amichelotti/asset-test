@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmv1weqc6qrz8k48fk0q2s7",
+  "key": "LNFMAC-128462",
+  "name": "DELL PowerEdge R220",
+  "type": "Host Models",
+  "schemaUid": "01kjmv18nxwqmykyq9x9jbms14",
+  "attributes": {
+    "key": "LNFMAC-128462",
+    "name": "DELL PowerEdge R220",
+    "created": "2024-11-08T15:20:50.000Z",
+    "updated": "2024-11-08T15:20:50.000Z",
+    "producer": "LNFMAC-109093",
+    "description": "<p>&nbsp;</p><p>https://i.dell.com/sites/doccontent/shared-content/data-sheets/en/Documents/PowerEdge_R220_Spec_Sheet.pdf</p>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "uid": "01kjmv2dr7yzz6rr7w40par3dh",
+    "assetUid": "01kjmv298nrpa2bb4eb1ts102j",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"GIT repo\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
+    "timestamp": "2025-09-02T15:20:28.000",
+    "backendId": "341548"
+  },
+  {
+    "uid": "01kjmv2drbvqf4cv198kb5ne93",
+    "assetUid": "01kjmv298nrpa2bb4eb1ts102j",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"La serie ET-7000/...\",\"newValue\":\"La serie ET-7000/...\"}",
+    "timestamp": "2025-09-02T15:20:28.000",
+    "backendId": "341547"
+  },
+  {
+    "uid": "01kjmv2drewtt6wa1qewtxwwr2",
+    "assetUid": "01kjmv298nrpa2bb4eb1ts102j",
+    "type": "26",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"26\"}",
+    "timestamp": "2024-09-18T09:58:14.000",
+    "backendId": "250778"
+  },
+  {
+    "uid": "01kjmv2drhvbk167nd3y5anr5y",
+    "assetUid": "01kjmv298nrpa2bb4eb1ts102j",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"La serie ET-7000/...\",\"newValue\":\"La serie ET-7000/...\"}",
+    "timestamp": "2024-09-18T09:58:14.000",
+    "backendId": "250777"
+  },
+  {
+    "uid": "01kjmv2drkxra3c7v4vchgs6p4",
+    "assetUid": "01kjmv298nrpa2bb4eb1ts102j",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"pet_et7x00_regist...\"}",
+    "timestamp": "2024-09-18T09:56:30.000",
+    "backendId": "250776"
+  },
+  {
+    "uid": "01kjmv2drntc2dczjtz80fwdwm",
+    "assetUid": "01kjmv298nrpa2bb4eb1ts102j",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"pet_et-7x00_user_...\"}",
+    "timestamp": "2024-09-18T09:56:29.000",
+    "backendId": "250775"
+  },
+  {
+    "uid": "01kjmv2drqs7tj2pkv7kxpx4ba",
+    "assetUid": "01kjmv298nrpa2bb4eb1ts102j",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-09-18T09:56:28.000",
+    "backendId": "250774"
+  }
+]

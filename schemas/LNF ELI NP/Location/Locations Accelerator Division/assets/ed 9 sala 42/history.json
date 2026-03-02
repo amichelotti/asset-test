@@ -1,0 +1,65 @@
+[
+  {
+    "uid": "01kjmv4ebc4x7nhweyz0ar8c9m",
+    "assetUid": "01kjmv4e0wk4d0x2qmjn70by3v",
+    "type": "29",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"29\"}",
+    "timestamp": "2025-10-28T15:52:12.000",
+    "backendId": "352567"
+  },
+  {
+    "uid": "01kjmv4ebg5vw0gbqv8nx66hdt",
+    "assetUid": "01kjmv4e0wk4d0x2qmjn70by3v",
+    "type": "28",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"28\"}",
+    "timestamp": "2025-10-28T15:49:10.000",
+    "backendId": "352420"
+  },
+  {
+    "uid": "01kjmv4ebjq7vwh96hvvrmsk9s",
+    "assetUid": "01kjmv4e0wk4d0x2qmjn70by3v",
+    "type": "24",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"24\",\"oldValue\":\"Location\",\"newValue\":\"FLAME Ed 56\"}",
+    "timestamp": "2025-10-28T15:47:24.000",
+    "backendId": "352316"
+  },
+  {
+    "uid": "01kjmv4ebm6gzssrwc41gfjx5d",
+    "assetUid": "01kjmv4e0wk4d0x2qmjn70by3v",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Area\",\"oldValue\":\"\",\"newValue\":\"Dafne\"}",
+    "timestamp": "2023-10-18T14:28:56.000",
+    "backendId": "176336"
+  },
+  {
+    "uid": "01kjmv4ebqptrh0jwxxdcn01j4",
+    "assetUid": "01kjmv4e0wk4d0x2qmjn70by3v",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Stanza\",\"oldValue\":\"\",\"newValue\":\"42\"}",
+    "timestamp": "2023-10-18T14:28:56.000",
+    "backendId": "176335"
+  },
+  {
+    "uid": "01kjmv4ebrn4t29600za7ty0kb",
+    "assetUid": "01kjmv4e0wk4d0x2qmjn70by3v",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Building\",\"oldValue\":\"\",\"newValue\":\"9\"}",
+    "timestamp": "2023-10-18T14:28:56.000",
+    "backendId": "176334"
+  },
+  {
+    "uid": "01kjmv4ebt1wnxgj8j593fxpzz",
+    "assetUid": "01kjmv4e0wk4d0x2qmjn70by3v",
+    "type": "0",
+    "author": "Unknown",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-09-08T09:20:53.000",
+    "backendId": "160492"
+  }
+]

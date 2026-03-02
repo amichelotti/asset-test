@@ -1,0 +1,83 @@
+[
+  {
+    "uid": "01kjmv4f6veg5p1at63wrbx7dd",
+    "assetUid": "01kjmv4ew9y2zyebw5xaq7v5vn",
+    "type": "29",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"29\"}",
+    "timestamp": "2025-10-28T15:52:12.000",
+    "backendId": "352521"
+  },
+  {
+    "uid": "01kjmv4f6yy82nb6dg66rtfh90",
+    "assetUid": "01kjmv4ew9y2zyebw5xaq7v5vn",
+    "type": "28",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"28\"}",
+    "timestamp": "2025-10-28T15:49:10.000",
+    "backendId": "352422"
+  },
+  {
+    "uid": "01kjmv4f7149f6r34pb2x6vryy",
+    "assetUid": "01kjmv4ew9y2zyebw5xaq7v5vn",
+    "type": "24",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"24\",\"oldValue\":\"Location\",\"newValue\":\"FLAME Ed 56\"}",
+    "timestamp": "2025-10-28T15:47:25.000",
+    "backendId": "352318"
+  },
+  {
+    "uid": "01kjmv4f72jq1az5q3s4fepvsh",
+    "assetUid": "01kjmv4ew9y2zyebw5xaq7v5vn",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Area\",\"oldValue\":\"\",\"newValue\":\"Edificio 2\"}",
+    "timestamp": "2023-10-18T11:59:29.000",
+    "backendId": "176327"
+  },
+  {
+    "uid": "01kjmv4f74bhxsvwhrp09d9nan",
+    "assetUid": "01kjmv4ew9y2zyebw5xaq7v5vn",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Alias\",\"oldValue\":\"\",\"newValue\":\"Stanza Michelotti...\"}",
+    "timestamp": "2023-10-18T11:12:53.000",
+    "backendId": "176323"
+  },
+  {
+    "uid": "01kjmv4f77mrjcq75cgth47xba",
+    "assetUid": "01kjmv4ew9y2zyebw5xaq7v5vn",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Note\",\"oldValue\":\"\",\"newValue\":\"Stanza Michelotti\"}",
+    "timestamp": "2023-10-18T11:12:53.000",
+    "backendId": "176322"
+  },
+  {
+    "uid": "01kjmv4f7cggbrppttm4qhrexm",
+    "assetUid": "01kjmv4ew9y2zyebw5xaq7v5vn",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Stanza\",\"oldValue\":\"\",\"newValue\":\"120\"}",
+    "timestamp": "2023-10-18T11:12:53.000",
+    "backendId": "176321"
+  },
+  {
+    "uid": "01kjmv4f7e4v8vr8f9rp1shtjn",
+    "assetUid": "01kjmv4ew9y2zyebw5xaq7v5vn",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Building\",\"oldValue\":\"\",\"newValue\":\"Divisione Acceler...\"}",
+    "timestamp": "2023-10-18T11:12:53.000",
+    "backendId": "176320"
+  },
+  {
+    "uid": "01kjmv4f7gfe4cysn5qe1t22y4",
+    "assetUid": "01kjmv4ew9y2zyebw5xaq7v5vn",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-10-10T14:33:51.000",
+    "backendId": "174151"
+  }
+]

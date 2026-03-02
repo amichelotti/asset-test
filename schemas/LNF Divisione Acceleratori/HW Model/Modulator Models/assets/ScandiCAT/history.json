@@ -1,0 +1,38 @@
+[
+  {
+    "uid": "01kjmv3pz6knwxcn5wd08zhvq7",
+    "assetUid": "01kjmv3nah5yf0wsrjtkpfjj53",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"ScandiCAT User ma...\"}",
+    "timestamp": "2025-09-02T17:30:07.000",
+    "backendId": "341576"
+  },
+  {
+    "uid": "01kjmv3pza16crqwhzwy9mjejn",
+    "assetUid": "01kjmv3nah5yf0wsrjtkpfjj53",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"ScandiCAT general...\"}",
+    "timestamp": "2025-09-02T17:30:07.000",
+    "backendId": "341575"
+  },
+  {
+    "uid": "01kjmv3pzdcb99nc8z4f0pfe5v",
+    "assetUid": "01kjmv3nah5yf0wsrjtkpfjj53",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"TCP modbus spec 2...\"}",
+    "timestamp": "2025-09-02T17:30:06.000",
+    "backendId": "341574"
+  },
+  {
+    "uid": "01kjmv3pze42rhy9822ns9frtv",
+    "assetUid": "01kjmv3nah5yf0wsrjtkpfjj53",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-09-02T17:29:48.000",
+    "backendId": "341573"
+  }
+]

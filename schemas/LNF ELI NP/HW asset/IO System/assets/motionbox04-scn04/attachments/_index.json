@@ -1,0 +1,15 @@
+[
+  {
+    "uid": "01kjmvadmb103yke27a3xe21fp",
+    "assetUid": "01kjmvad42t9dpamscqm81p8tr",
+    "schemaUid": "01kjmv6q8jq07db1dft29n9yfs",
+    "filename": "Screenshot 2025-06-11 143124.png",
+    "mimeType": "image/png",
+    "fileSize": 552772,
+    "author": "JIRAUSER51951",
+    "created": "2025-06-11T14:31:54.000",
+    "binaryPath": "schemas/LNF ELI NP/HW asset/IO System/assets/motionbox04-scn04/attachments/Screenshot 2025-06-11 143124.png",
+    "originBackendId": "2468",
+    "originUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2468/Screenshot 2025-06-11 143124.png"
+  }
+]

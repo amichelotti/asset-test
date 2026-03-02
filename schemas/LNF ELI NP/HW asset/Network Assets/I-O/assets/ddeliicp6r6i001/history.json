@@ -1,0 +1,56 @@
+[
+  {
+    "uid": "01kjmva8e4wq12dfmx4b1s6mka",
+    "assetUid": "01kjmva83nfza9gea23a6v31xm",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"ET-7060\"}",
+    "timestamp": "2025-06-12T14:25:30.000",
+    "backendId": "321516"
+  },
+  {
+    "uid": "01kjmva8e8kqee6en5a7864ncp",
+    "assetUid": "01kjmva83nfza9gea23a6v31xm",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"Inside Polarity i...\"}",
+    "timestamp": "2025-06-11T10:50:20.000",
+    "backendId": "321181"
+  },
+  {
+    "uid": "01kjmva8ebf9xfjy4s4a7cc6tc",
+    "assetUid": "01kjmva83nfza9gea23a6v31xm",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Registered\",\"oldValue\":\"\",\"newValue\":\"ddeliicp6r6i001\"}",
+    "timestamp": "2025-03-07T14:26:38.000",
+    "backendId": "301038"
+  },
+  {
+    "uid": "01kjmva8edqqjay1jq7b9dwr89",
+    "assetUid": "01kjmva83nfza9gea23a6v31xm",
+    "type": "24",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"24\",\"oldValue\":\"IO\",\"newValue\":\"I/O\"}",
+    "timestamp": "2025-03-07T14:24:52.000",
+    "backendId": "301035"
+  },
+  {
+    "uid": "01kjmva8egfgvdhv2rxfzgm9w6",
+    "assetUid": "01kjmva83nfza9gea23a6v31xm",
+    "type": "24",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"24\",\"oldValue\":\"IO System\",\"newValue\":\"IO\"}",
+    "timestamp": "2025-03-07T14:24:07.000",
+    "backendId": "301034"
+  },
+  {
+    "uid": "01kjmva8ej2atjansp4jbghvjq",
+    "assetUid": "01kjmva83nfza9gea23a6v31xm",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-03-07T14:19:00.000",
+    "backendId": "301031"
+  }
+]

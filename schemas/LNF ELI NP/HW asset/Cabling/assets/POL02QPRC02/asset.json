@@ -1,0 +1,27 @@
+{
+  "uid": "01kjmvjew7p29jyektw8jw808c",
+  "key": "LNFELINP-128474",
+  "name": "POL02QPRC02",
+  "type": "Cabling",
+  "schemaUid": "01kjmv6rp34zm0d5zrkp7qybxj",
+  "attributes": {
+    "key": "LNFELINP-128474",
+    "name": "POL02QPRC02",
+    "created": "2024-11-08T15:58:38.000Z",
+    "updated": "2024-11-08T15:58:38.000Z",
+    "connector1_pair": "01kjmvbznj1n092s0x18wbsh9h",
+    "connector2_pair": "01kjmvc04a43h3kc996tm4t1jb",
+    "connector1_desc": "<p>porta 2</p>",
+    "connector2_desc": "<p>porta 2</p>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

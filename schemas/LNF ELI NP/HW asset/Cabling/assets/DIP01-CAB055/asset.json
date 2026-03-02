@@ -1,0 +1,30 @@
+{
+  "uid": "01kjmvgmayaqcyyqr00wk0j4e6",
+  "key": "LNFELINP-111984",
+  "name": "DIP01-CAB055",
+  "type": "Cabling",
+  "schemaUid": "01kjmv6rp34zm0d5zrkp7qybxj",
+  "attributes": {
+    "key": "LNFELINP-111984",
+    "name": "DIP01-CAB055",
+    "created": "2023-11-30T12:03:00.000Z",
+    "updated": "2023-11-30T12:03:00.000Z",
+    "description": "Dipole A",
+    "connector1_pair": "01kjmv80nf0fjkrt66wm5w52mb",
+    "connector2_pair": "01kjmvfq6w9v7gtyx5j2g35ckp",
+    "connector1_desc": "cable lugs",
+    "connector2_desc": "cable lugs",
+    "connection_type_desc": "bolted",
+    "cable_type_desc": "2xFG7R 95mmq (see X-sect)"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

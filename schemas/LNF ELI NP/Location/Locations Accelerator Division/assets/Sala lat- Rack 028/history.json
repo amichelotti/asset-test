@@ -1,0 +1,38 @@
+[
+  {
+    "uid": "01kjmv5bsg3aj7zkd24gxy4wrq",
+    "assetUid": "01kjmv5bfnts0526d7qh58aang",
+    "type": "29",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"29\"}",
+    "timestamp": "2025-10-28T15:52:12.000",
+    "backendId": "352586"
+  },
+  {
+    "uid": "01kjmv5bsk8bgmsvyntkphcj4s",
+    "assetUid": "01kjmv5bfnts0526d7qh58aang",
+    "type": "28",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"28\"}",
+    "timestamp": "2025-10-28T15:49:10.000",
+    "backendId": "352481"
+  },
+  {
+    "uid": "01kjmv5bsn85mt0caq8091e6fq",
+    "assetUid": "01kjmv5bfnts0526d7qh58aang",
+    "type": "24",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"24\",\"oldValue\":\"Location\",\"newValue\":\"FLAME Ed 56\"}",
+    "timestamp": "2025-10-28T15:47:30.000",
+    "backendId": "352374"
+  },
+  {
+    "uid": "01kjmv5bsq317hw89p6ffawgzg",
+    "assetUid": "01kjmv5bfnts0526d7qh58aang",
+    "type": "0",
+    "author": "Unknown",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-06-12T15:16:48.000",
+    "backendId": "146434"
+  }
+]

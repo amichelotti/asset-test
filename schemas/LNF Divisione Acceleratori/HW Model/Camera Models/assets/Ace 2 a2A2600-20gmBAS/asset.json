@@ -1,0 +1,27 @@
+{
+  "uid": "01kjmv1fxefqfx94g384ke6ttw",
+  "key": "LNFMAC-143349",
+  "name": "Ace 2 a2A2600-20gmBAS",
+  "type": "Camera Models",
+  "schemaUid": "01kjmv1ar8vwe2mp989sv8ay5t",
+  "attributes": {
+    "key": "LNFMAC-143349",
+    "name": "Ace 2 a2A2600-20gmBAS",
+    "created": "2025-10-22T09:38:42.000Z",
+    "updated": "2025-10-22T09:38:42.000Z",
+    "producer": "LNFMAC-143346",
+    "vendor": "LNFMAC-143347",
+    "documentation": "https://www.baslerweb.com/en/shop/a2a2600-20gmbas/",
+    "cost": "269"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

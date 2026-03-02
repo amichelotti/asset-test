@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmvg5e8y0ndmx602brmk3m0",
+  "key": "LNFELINP-144034",
+  "name": "Fusion Server 2288H V7 R",
+  "type": "Chassis",
+  "schemaUid": "01kjmv6rjkfcd0mv1pnt85jbyq",
+  "attributes": {
+    "key": "LNFELINP-144034",
+    "name": "Fusion Server 2288H V7 R",
+    "created": "2025-11-13T09:50:17.000Z",
+    "updated": "2025-11-13T09:50:17.000Z",
+    "location": "01kjmv9qrhzdnz11rytqvpvb3e",
+    "vendor": "LNFELINP-144033"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

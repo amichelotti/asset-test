@@ -1,0 +1,56 @@
+[
+  {
+    "uid": "01kjmv8mp21570gz2ykgq56njz",
+    "assetUid": "01kjmv8mctwtgbj4gfx8e3rj5m",
+    "type": "4",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"DELL PowerEdge R220\"}",
+    "timestamp": "2025-11-18T11:39:50.000",
+    "backendId": "358457"
+  },
+  {
+    "uid": "01kjmv8mp5d6xwhdhefa5v4tmb",
+    "assetUid": "01kjmv8mctwtgbj4gfx8e3rj5m",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"xeon E3 1220 x4 1...\",\"newValue\":\"xeon E3 1220 x4 1...\"}",
+    "timestamp": "2025-03-06T17:43:27.000",
+    "backendId": "300870"
+  },
+  {
+    "uid": "01kjmv8mpbnvh52j617f6pa1px",
+    "assetUid": "01kjmv8mctwtgbj4gfx8e3rj5m",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"xeon E3 1220 x4\",\"newValue\":\"xeon E3 1220 x4 1...\"}",
+    "timestamp": "2025-03-06T17:35:54.000",
+    "backendId": "300869"
+  },
+  {
+    "uid": "01kjmv8mpc3cb1t67sptktnxb4",
+    "assetUid": "01kjmv8mctwtgbj4gfx8e3rj5m",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"DELL PowerEdge R220\"}",
+    "timestamp": "2025-01-13T16:32:11.000",
+    "backendId": "289385"
+  },
+  {
+    "uid": "01kjmv8mpd3d0m09sr8s2t9yzw",
+    "assetUid": "01kjmv8mctwtgbj4gfx8e3rj5m",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"xeon E3 1220 x4\",\"newValue\":\"xeon E3 1220 x4\"}",
+    "timestamp": "2025-01-13T16:32:11.000",
+    "backendId": "289384"
+  },
+  {
+    "uid": "01kjmv8mpd3tncrmztes3f3ydk",
+    "assetUid": "01kjmv8mctwtgbj4gfx8e3rj5m",
+    "type": "0",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-01-13T11:35:43.000",
+    "backendId": "289229"
+  }
+]

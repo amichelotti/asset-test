@@ -1,0 +1,92 @@
+[
+  {
+    "uid": "01kjmv7b4wsrh2vmhst5p4avdv",
+    "assetUid": "01kjmv7aswvsqytm4dv3agzhp7",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Module\",\"oldValue\":\"M2\",\"newValue\":\"M3\"}",
+    "timestamp": "2025-06-18T16:13:21.000",
+    "backendId": "322632"
+  },
+  {
+    "uid": "01kjmv7b4zybhpj8rrxqnm8nz3",
+    "assetUid": "01kjmv7aswvsqytm4dv3agzhp7",
+    "type": "5",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"5\",\"attribute\":\"Layout\",\"oldValue\":\"M2-011\",\"newValue\":\"M3-016\"}",
+    "timestamp": "2025-06-18T16:13:21.000",
+    "backendId": "322631"
+  },
+  {
+    "uid": "01kjmv7b502jn6rs5p22g8bm9k",
+    "assetUid": "01kjmv7aswvsqytm4dv3agzhp7",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Module\",\"oldValue\":\"M1\",\"newValue\":\"M2\"}",
+    "timestamp": "2025-06-18T15:24:21.000",
+    "backendId": "322624"
+  },
+  {
+    "uid": "01kjmv7b50v1hkwajswpj76aw7",
+    "assetUid": "01kjmv7aswvsqytm4dv3agzhp7",
+    "type": "5",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"5\",\"attribute\":\"Layout\",\"oldValue\":\"M1-017\",\"newValue\":\"M2-011\"}",
+    "timestamp": "2025-06-18T15:24:21.000",
+    "backendId": "322623"
+  },
+  {
+    "uid": "01kjmv7b51tykreb2xqm56mm4b",
+    "assetUid": "01kjmv7aswvsqytm4dv3agzhp7",
+    "type": "4",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
+    "timestamp": "2025-06-18T15:24:21.000",
+    "backendId": "322622"
+  },
+  {
+    "uid": "01kjmv7b51n1kkfyvap1x8pw7t",
+    "assetUid": "01kjmv7aswvsqytm4dv3agzhp7",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Thermal conductiv...\",\"newValue\":\"Thermal conductiv...\"}",
+    "timestamp": "2025-06-18T15:24:21.000",
+    "backendId": "322621"
+  },
+  {
+    "uid": "01kjmv7b51sh591rd7p9der9bn",
+    "assetUid": "01kjmv7aswvsqytm4dv3agzhp7",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Layout\",\"oldValue\":\"REGION 2\",\"newValue\":\"M1-017\"}",
+    "timestamp": "2023-12-01T14:15:06.000",
+    "backendId": "186015"
+  },
+  {
+    "uid": "01kjmv7b52vztaayne9qgnr7km",
+    "assetUid": "01kjmv7aswvsqytm4dv3agzhp7",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
+    "timestamp": "2023-11-30T13:39:44.000",
+    "backendId": "184704"
+  },
+  {
+    "uid": "01kjmv7b52f4cb008gkywv3kn6",
+    "assetUid": "01kjmv7aswvsqytm4dv3agzhp7",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Type\",\"oldValue\":\"\",\"newValue\":\"GAUTC\"}",
+    "timestamp": "2023-11-30T12:07:08.000",
+    "backendId": "184480"
+  },
+  {
+    "uid": "01kjmv7b53fncd4fpas0pz841s",
+    "assetUid": "01kjmv7aswvsqytm4dv3agzhp7",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-11-29T23:57:41.000",
+    "backendId": "184161"
+  }
+]

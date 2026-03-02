@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmv4fvknrmhwg1wexcsh4c5",
+  "key": "LNFMAC-99631",
+  "name": "EDIFICIO 2 Stanza 117",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjmv18ds1cka02yedx7fp1mr",
+  "attributes": {
+    "key": "LNFMAC-99631",
+    "name": "EDIFICIO 2 Stanza 117",
+    "created": "2023-05-18T14:43:19.000Z",
+    "updated": "2025-10-28T14:52:13.000Z",
+    "alias": "Laboratorio Controlli",
+    "area": "01kjmv4fatwa6zx7b155pcrzk0"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

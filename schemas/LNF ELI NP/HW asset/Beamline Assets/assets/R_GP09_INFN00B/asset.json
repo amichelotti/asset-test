@@ -1,0 +1,25 @@
+{
+  "uid": "01kjmvfamnxqxtx0tzfj4rb68q",
+  "key": "LNFELINP-112558",
+  "name": "R_GP09_INFN00B",
+  "type": "Beamline Assets",
+  "schemaUid": "01kjmv6r6vq5tv7vmd30vr3x41",
+  "attributes": {
+    "key": "LNFELINP-112558",
+    "name": "R_GP09_INFN00B",
+    "created": "2023-12-01T13:15:47.000Z",
+    "updated": "2023-12-01T13:15:47.000Z",
+    "layout": "LNFELINP-112543",
+    "module": "minirack laser room ANNEX"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

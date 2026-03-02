@@ -1,0 +1,29 @@
+{
+  "uid": "01kjmvgsqrhhqw1t302y9hb2sd",
+  "key": "LNFELINP-112044",
+  "name": "GAUCC01-CAB057",
+  "type": "Cabling",
+  "schemaUid": "01kjmv6rp34zm0d5zrkp7qybxj",
+  "attributes": {
+    "key": "LNFELINP-112044",
+    "name": "GAUCC01-CAB057",
+    "created": "2023-11-30T12:23:55.000Z",
+    "updated": "2023-11-30T12:23:55.000Z",
+    "description": "VAT High Vacuum Sensor (HV) for fast valve LEL-VAC-VALVFP02",
+    "connector1_pair": "01kjmv7kn693g4dcysjxvdpzbx",
+    "connector2_pair": "01kjmvft1agf1qak4yfr5c1gk6",
+    "connector1_desc": "INFN",
+    "connection_type_desc": "M+W",
+    "cable_type_desc": "INFN"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

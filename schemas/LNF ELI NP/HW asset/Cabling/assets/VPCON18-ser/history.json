@@ -1,0 +1,119 @@
+[
+  {
+    "uid": "01kjmvjztjscrjqekbvj0k3qcc",
+    "assetUid": "01kjmvjzfp0365awxgqh6mfxxw",
+    "type": "4",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
+    "timestamp": "2025-06-13T14:19:07.000",
+    "backendId": "321775"
+  },
+  {
+    "uid": "01kjmvjztnwm5hqwdjgh2940pe",
+    "assetUid": "01kjmvjzfp0365awxgqh6mfxxw",
+    "type": "2",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"VPCCON18-ser\",\"newValue\":\"VPCON18-ser\"}",
+    "timestamp": "2025-06-13T14:18:01.000",
+    "backendId": "321772"
+  },
+  {
+    "uid": "01kjmvjztrssds46y9t2r98cs2",
+    "assetUid": "01kjmvjzfp0365awxgqh6mfxxw",
+    "type": "2",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"2\",\"attribute\":\"Cable Type Desc\",\"oldValue\":\"\",\"newValue\":\"10 meter long\"}",
+    "timestamp": "2025-06-13T14:15:14.000",
+    "backendId": "321763"
+  },
+  {
+    "uid": "01kjmvjzttj1qjy4w9b3pncjp0",
+    "assetUid": "01kjmvjzfp0365awxgqh6mfxxw",
+    "type": "1",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"1\",\"attribute\":\"Lenght\",\"oldValue\":\"\",\"newValue\":\"10\"}",
+    "timestamp": "2025-06-13T14:14:51.000",
+    "backendId": "321762"
+  },
+  {
+    "uid": "01kjmvjztvv2bq4mak1bryd8ps",
+    "assetUid": "01kjmvjzfp0365awxgqh6mfxxw",
+    "type": "1",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"1\",\"attribute\":\"Cable Type Desc\",\"oldValue\":\"\",\"newValue\":\"\"}",
+    "timestamp": "2025-06-13T14:14:51.000",
+    "backendId": "321761"
+  },
+  {
+    "uid": "01kjmvjztxp5tm726wnq4bxje7",
+    "assetUid": "01kjmvjzfp0365awxgqh6mfxxw",
+    "type": "2",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"VCPCON18-ser\",\"newValue\":\"VPCCON18-ser\"}",
+    "timestamp": "2025-06-13T14:14:51.000",
+    "backendId": "321760"
+  },
+  {
+    "uid": "01kjmvjzv0cjd84mk7vvy16amr",
+    "assetUid": "01kjmvjzfp0365awxgqh6mfxxw",
+    "type": "2",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"vpc18-ser\",\"newValue\":\"VCPCON18-ser\"}",
+    "timestamp": "2025-06-13T14:06:32.000",
+    "backendId": "321752"
+  },
+  {
+    "uid": "01kjmvjzv106n2mpx9dfm7pk09",
+    "assetUid": "01kjmvjzfp0365awxgqh6mfxxw",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Connector2 Desc\",\"oldValue\":\"\",\"newValue\":\"porta 7\"}",
+    "timestamp": "2025-06-13T14:03:32.000",
+    "backendId": "321751"
+  },
+  {
+    "uid": "01kjmvjzv2hmwj70z356bfq852",
+    "assetUid": "01kjmvjzfp0365awxgqh6mfxxw",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Type\",\"oldValue\":\"\",\"newValue\":\"RS232\"}",
+    "timestamp": "2025-06-13T14:02:50.000",
+    "backendId": "321750"
+  },
+  {
+    "uid": "01kjmvjzv4c33tzprxtyjrk5v5",
+    "assetUid": "01kjmvjzfp0365awxgqh6mfxxw",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Connector2 Pair\",\"oldValue\":\"\",\"newValue\":\"scelimxa16001\"}",
+    "timestamp": "2025-06-13T14:02:50.000",
+    "backendId": "321749"
+  },
+  {
+    "uid": "01kjmvjzv67f87j00e73s908jb",
+    "assetUid": "01kjmvjzfp0365awxgqh6mfxxw",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Connector1 Pair\",\"oldValue\":\"\",\"newValue\":\"LEL-VAC-WGC09:VPC...\"}",
+    "timestamp": "2025-06-13T14:02:50.000",
+    "backendId": "321748"
+  },
+  {
+    "uid": "01kjmvjzv886n9bzy89hs96bk1",
+    "assetUid": "01kjmvjzfp0365awxgqh6mfxxw",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2025-06-13T14:02:50.000",
+    "backendId": "321747"
+  },
+  {
+    "uid": "01kjmvjzvav3758r8bj2zgrw8z",
+    "assetUid": "01kjmvjzfp0365awxgqh6mfxxw",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-06-13T14:01:45.000",
+    "backendId": "321745"
+  }
+]

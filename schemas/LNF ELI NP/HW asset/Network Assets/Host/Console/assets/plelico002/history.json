@@ -1,0 +1,146 @@
+[
+  {
+    "uid": "01kjmv726rmj5xjdscvn1dk690",
+    "assetUid": "01kjmv71wajh41qkkrxyv4tdwm",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Location\",\"oldValue\":\"Pella\",\"newValue\":\"Selced\"}",
+    "timestamp": "2025-06-13T06:32:17.000",
+    "backendId": "321703"
+  },
+  {
+    "uid": "01kjmv726tfpysrpf151bykqtj",
+    "assetUid": "01kjmv71wajh41qkkrxyv4tdwm",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Registered\",\"oldValue\":\"\",\"newValue\":\"plelico002\"}",
+    "timestamp": "2025-02-25T12:03:08.000",
+    "backendId": "298750"
+  },
+  {
+    "uid": "01kjmv726v4zwtqarssw7qxe3t",
+    "assetUid": "01kjmv71wajh41qkkrxyv4tdwm",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Location\",\"oldValue\":\"Selced\",\"newValue\":\"Pella\"}",
+    "timestamp": "2025-02-25T12:03:08.000",
+    "backendId": "298749"
+  },
+  {
+    "uid": "01kjmv726vgmtefvezdd66kt3d",
+    "assetUid": "01kjmv71wajh41qkkrxyv4tdwm",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Processore Intel ...\",\"newValue\":\"Processore Intel ...\"}",
+    "timestamp": "2025-02-25T12:03:08.000",
+    "backendId": "298748"
+  },
+  {
+    "uid": "01kjmv726wkb7qk8ag3d3jkk90",
+    "assetUid": "01kjmv71wajh41qkkrxyv4tdwm",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"RAM\",\"oldValue\":\"4\",\"newValue\":\"8\"}",
+    "timestamp": "2024-10-22T08:45:59.000",
+    "backendId": "255029"
+  },
+  {
+    "uid": "01kjmv726w1jnvgx39n9ejhmc5",
+    "assetUid": "01kjmv71wajh41qkkrxyv4tdwm",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"OS\",\"oldValue\":\"Scientific Linux 6.3\",\"newValue\":\"Ubuntu 24.04.1 LTS\"}",
+    "timestamp": "2024-10-22T08:45:59.000",
+    "backendId": "255028"
+  },
+  {
+    "uid": "01kjmv726x0v4jfgb68w2rsg8g",
+    "assetUid": "01kjmv71wajh41qkkrxyv4tdwm",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Processore Intel ...\",\"newValue\":\"Processore Intel ...\"}",
+    "timestamp": "2024-10-22T08:45:59.000",
+    "backendId": "255027"
+  },
+  {
+    "uid": "01kjmv726xfrby3xrysg18wze7",
+    "assetUid": "01kjmv71wajh41qkkrxyv4tdwm",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"Selced\"}",
+    "timestamp": "2024-10-22T08:43:51.000",
+    "backendId": "255026"
+  },
+  {
+    "uid": "01kjmv726y24a7vr8wvvx65186",
+    "assetUid": "01kjmv71wajh41qkkrxyv4tdwm",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Processore Intel ...\",\"newValue\":\"Processore Intel ...\"}",
+    "timestamp": "2024-10-22T08:43:51.000",
+    "backendId": "255025"
+  },
+  {
+    "uid": "01kjmv726yrsj1kpm82vwskp9w",
+    "assetUid": "01kjmv71wajh41qkkrxyv4tdwm",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Status\",\"oldValue\":\"Action Needed\",\"newValue\":\"Active\"}",
+    "timestamp": "2024-10-22T08:43:51.000",
+    "backendId": "255024"
+  },
+  {
+    "uid": "01kjmv726ygs7vm9vay9yfrh5h",
+    "assetUid": "01kjmv71wajh41qkkrxyv4tdwm",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Processore Intel ...\",\"newValue\":\"Processore Intel ...\"}",
+    "timestamp": "2024-04-11T13:15:40.000",
+    "backendId": "216075"
+  },
+  {
+    "uid": "01kjmv7273tb9np5xm6m1m3cj0",
+    "assetUid": "01kjmv71wajh41qkkrxyv4tdwm",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Status\",\"oldValue\":\"Uninstalled\",\"newValue\":\"Action Needed\"}",
+    "timestamp": "2024-04-11T13:15:40.000",
+    "backendId": "216074"
+  },
+  {
+    "uid": "01kjmv7274prp38gwbyhxhgj3s",
+    "assetUid": "01kjmv71wajh41qkkrxyv4tdwm",
+    "type": "1",
+    "author": "Unknown",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"Processore Intel ...\"}",
+    "timestamp": "2024-04-11T12:55:30.000",
+    "backendId": "216045"
+  },
+  {
+    "uid": "01kjmv72743nb5f34jew9xd0vx",
+    "assetUid": "01kjmv71wajh41qkkrxyv4tdwm",
+    "type": "25",
+    "author": "Unknown",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2024-04-11T12:04:15.000",
+    "backendId": "216040"
+  },
+  {
+    "uid": "01kjmv7275259zyje4rxhsj8c6",
+    "assetUid": "01kjmv71wajh41qkkrxyv4tdwm",
+    "type": "1",
+    "author": "Unknown",
+    "details": "{\"type\":\"1\",\"attribute\":\"MAC\",\"oldValue\":\"\",\"newValue\":\"f8:b1:56:c5:d0:6c\"}",
+    "timestamp": "2024-04-11T12:02:00.000",
+    "backendId": "216038"
+  },
+  {
+    "uid": "01kjmv7275ghpgav5vtxy6de8v",
+    "assetUid": "01kjmv71wajh41qkkrxyv4tdwm",
+    "type": "0",
+    "author": "Unknown",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-04-11T12:00:45.000",
+    "backendId": "216037"
+  }
+]

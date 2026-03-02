@@ -1,0 +1,47 @@
+[
+  {
+    "uid": "01kjmv5d3v17zev741bs6bm6q7",
+    "assetUid": "01kjmv5cre1f9m6bjs6wnhqqwg",
+    "type": "29",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"29\"}",
+    "timestamp": "2025-10-28T15:52:12.000",
+    "backendId": "352600"
+  },
+  {
+    "uid": "01kjmv5d3zh73nenzfzmbf8sp7",
+    "assetUid": "01kjmv5cre1f9m6bjs6wnhqqwg",
+    "type": "28",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"28\"}",
+    "timestamp": "2025-10-28T15:49:10.000",
+    "backendId": "352484"
+  },
+  {
+    "uid": "01kjmv5d42vymz4vbtfcbsry7h",
+    "assetUid": "01kjmv5cre1f9m6bjs6wnhqqwg",
+    "type": "24",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"24\",\"oldValue\":\"Location\",\"newValue\":\"FLAME Ed 56\"}",
+    "timestamp": "2025-10-28T15:47:31.000",
+    "backendId": "352378"
+  },
+  {
+    "uid": "01kjmv5d440q6pqrr5mmk9d413",
+    "assetUid": "01kjmv5cre1f9m6bjs6wnhqqwg",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"Sala Modulatori -...\",\"newValue\":\"Sala Modulatori -...\"}",
+    "timestamp": "2023-05-09T23:24:07.000",
+    "backendId": "140574"
+  },
+  {
+    "uid": "01kjmv5d46kfxsdrfttz7tqnsm",
+    "assetUid": "01kjmv5cre1f9m6bjs6wnhqqwg",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-05-09T23:22:36.000",
+    "backendId": "140570"
+  }
+]

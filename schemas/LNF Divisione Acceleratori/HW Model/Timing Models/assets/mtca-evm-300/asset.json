@@ -1,0 +1,26 @@
+{
+  "uid": "01kjmv362216wap5ndwyhzrc1b",
+  "key": "LNFMAC-104840",
+  "name": "mtca-evm-300",
+  "type": "Timing Models",
+  "schemaUid": "01kjmv19shnr2d07758dj0w3bh",
+  "attributes": {
+    "key": "LNFMAC-104840",
+    "name": "mtca-evm-300",
+    "created": "2023-09-25T14:46:46.000Z",
+    "updated": "2025-09-02T13:25:31.000Z",
+    "vendor": "LNFMAC-104839",
+    "documentation": "http://www.mrf.fi/index.php/mtca-products/119-mtca-event-master-mtca-evm-300",
+    "git_repo": "https://github.com/epics-modules/mrfioc2"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

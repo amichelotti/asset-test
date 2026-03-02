@@ -1,0 +1,15 @@
+[
+  {
+    "uid": "01kjmv9749b4655v002rm9fkpg",
+    "assetUid": "01kjmv960enstx4rsk5bj11pb4",
+    "schemaUid": "01kjmv6p190eyfxsk45587e5vd",
+    "filename": "evr_las.png",
+    "mimeType": "image/png",
+    "fileSize": 4145020,
+    "author": "rgargana",
+    "created": "2025-05-15T15:08:28.000",
+    "binaryPath": "schemas/LNF ELI NP/HW asset/Network Assets/Host/IO Controller/assets/plelimrf003/attachments/evr_las.png",
+    "originBackendId": "2436",
+    "originUrl": "https://servicedesk.infn.it/rest/insight/1.0/attachments/2436/evr_las.png"
+  }
+]

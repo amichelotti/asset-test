@@ -1,0 +1,65 @@
+[
+  {
+    "uid": "01kjmv5qr61q9vdrtzyz9e3x3r",
+    "assetUid": "01kjmv5qcrskew2f4h2cgxgk34",
+    "type": "29",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"29\"}",
+    "timestamp": "2025-10-28T15:52:12.000",
+    "backendId": "352556"
+  },
+  {
+    "uid": "01kjmv5qr9r2af18ghp8v0j03c",
+    "assetUid": "01kjmv5qcrskew2f4h2cgxgk34",
+    "type": "28",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"28\"}",
+    "timestamp": "2025-10-28T15:49:10.000",
+    "backendId": "352506"
+  },
+  {
+    "uid": "01kjmv5qrbeqf0xyadr7nptvav",
+    "assetUid": "01kjmv5qcrskew2f4h2cgxgk34",
+    "type": "24",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"24\",\"oldValue\":\"Location\",\"newValue\":\"FLAME Ed 56\"}",
+    "timestamp": "2025-10-28T15:47:33.000",
+    "backendId": "352400"
+  },
+  {
+    "uid": "01kjmv5qrd7tvr9yj8sctf4mkq",
+    "assetUid": "01kjmv5qcrskew2f4h2cgxgk34",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Matching line bet...\",\"newValue\":\"Spectrometer line\"}",
+    "timestamp": "2023-09-30T17:37:49.000",
+    "backendId": "165963"
+  },
+  {
+    "uid": "01kjmv5qrfs96thrv74nswv86b",
+    "assetUid": "01kjmv5qcrskew2f4h2cgxgk34",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Matching line bet...\",\"newValue\":\"Matching line bet...\"}",
+    "timestamp": "2023-09-30T17:34:04.000",
+    "backendId": "165961"
+  },
+  {
+    "uid": "01kjmv5qrh0js736959p9vx9xj",
+    "assetUid": "01kjmv5qcrskew2f4h2cgxgk34",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"CLONE - Transfer ...\",\"newValue\":\"Transfer Line - TS\"}",
+    "timestamp": "2023-09-30T17:34:04.000",
+    "backendId": "165960"
+  },
+  {
+    "uid": "01kjmv5qrj1t6as5bdfnh7btwd",
+    "assetUid": "01kjmv5qcrskew2f4h2cgxgk34",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-09-30T17:33:16.000",
+    "backendId": "165959"
+  }
+]

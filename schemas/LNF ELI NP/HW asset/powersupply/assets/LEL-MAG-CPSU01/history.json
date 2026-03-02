@@ -1,0 +1,92 @@
+[
+  {
+    "uid": "01kjmvbvnmhkmaarn55knbnf3d",
+    "assetUid": "01kjmvbtag73brgbg3nna4d1gz",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"CPSU01.jpg\"}",
+    "timestamp": "2025-06-12T16:51:45.000",
+    "backendId": "321549"
+  },
+  {
+    "uid": "01kjmvbvns5n5mg96yzqaa48qe",
+    "assetUid": "01kjmvbtag73brgbg3nna4d1gz",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"H & V Corrector M...\",\"newValue\":\"H & V Corrector M...\"}",
+    "timestamp": "2024-12-05T13:35:29.000",
+    "backendId": "280302"
+  },
+  {
+    "uid": "01kjmvbvnymj7zpyzk4fjnb4mp",
+    "assetUid": "01kjmvbtag73brgbg3nna4d1gz",
+    "type": "25",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2024-12-05T13:34:21.000",
+    "backendId": "280301"
+  },
+  {
+    "uid": "01kjmvbvp0p8qk47y68c9bykf3",
+    "assetUid": "01kjmvbtag73brgbg3nna4d1gz",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Registered\",\"oldValue\":\"\",\"newValue\":\"lel-mag-cpsu01\"}",
+    "timestamp": "2024-12-05T13:34:21.000",
+    "backendId": "280300"
+  },
+  {
+    "uid": "01kjmvbvp476q4wfewme265mga",
+    "assetUid": "01kjmvbtag73brgbg3nna4d1gz",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_COR_10\"}",
+    "timestamp": "2024-12-05T13:34:21.000",
+    "backendId": "280299"
+  },
+  {
+    "uid": "01kjmvbvp6593badw5mtxa7rmf",
+    "assetUid": "01kjmvbtag73brgbg3nna4d1gz",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"IBILT\"}",
+    "timestamp": "2024-12-05T13:34:21.000",
+    "backendId": "280298"
+  },
+  {
+    "uid": "01kjmvbvp781mjvd2kj30ct2v6",
+    "assetUid": "01kjmvbtag73brgbg3nna4d1gz",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"Corridor GP\"}",
+    "timestamp": "2024-12-05T13:34:21.000",
+    "backendId": "280297"
+  },
+  {
+    "uid": "01kjmvbvp9e396fnpzrbvvyafj",
+    "assetUid": "01kjmvbtag73brgbg3nna4d1gz",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"H & V Corrector M...\",\"newValue\":\"H & V Corrector M...\"}",
+    "timestamp": "2024-12-05T13:34:21.000",
+    "backendId": "280296"
+  },
+  {
+    "uid": "01kjmvbvpb77m6f4m3p10dm6jw",
+    "assetUid": "01kjmvbtag73brgbg3nna4d1gz",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2024-12-05T13:34:21.000",
+    "backendId": "280295"
+  },
+  {
+    "uid": "01kjmvbvpc7vazzsjvdtad5stm",
+    "assetUid": "01kjmvbtag73brgbg3nna4d1gz",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-11-29T00:56:06.000",
+    "backendId": "183823"
+  }
+]

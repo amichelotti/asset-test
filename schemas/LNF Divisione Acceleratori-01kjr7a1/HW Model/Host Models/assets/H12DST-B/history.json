@@ -1,0 +1,42 @@
+[
+  {
+    "uid": "01kjr7j2tsms3xb8d78xp1d65x",
+    "assetUid": "01kjr7j213nka7xx969vef80hy",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"Memory\",\"oldValue\":\"\",\"newValue\":\"128\"}",
+    "timestamp": "2025-05-07T18:39:22.000"
+  },
+  {
+    "uid": "01kjr7j2vab8m8fk98n72d10hv",
+    "assetUid": "01kjr7j213nka7xx969vef80hy",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"CPU type\",\"oldValue\":\"\",\"newValue\":\"AMD EPYC 7282 16-...\"}",
+    "timestamp": "2025-05-07T18:39:22.000"
+  },
+  {
+    "uid": "01kjr7j2vjm2h5k9sak1znxqhh",
+    "assetUid": "01kjr7j213nka7xx969vef80hy",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"CPU\",\"oldValue\":\"\",\"newValue\":\"2\"}",
+    "timestamp": "2025-05-07T18:39:22.000"
+  },
+  {
+    "uid": "01kjr7j2vv5tb3hgfj0m0zh9wj",
+    "assetUid": "01kjr7j213nka7xx969vef80hy",
+    "type": "25",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2024-09-18T14:08:48.000"
+  },
+  {
+    "uid": "01kjr7j2w44z03b4ae2ynfw1jt",
+    "assetUid": "01kjr7j213nka7xx969vef80hy",
+    "type": "0",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-09-18T14:00:07.000"
+  }
+]

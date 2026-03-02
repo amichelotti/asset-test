@@ -1,0 +1,26 @@
+[
+  {
+    "uid": "01kjr84jq07wany8zqdcs0p03m",
+    "assetUid": "01kjr84hvf3rxs5225rs4dqdyb",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Next Element\",\"oldValue\":\"\",\"newValue\":\"LEL-AC-FILTER02\"}",
+    "timestamp": "2023-12-01T00:50:13.000"
+  },
+  {
+    "uid": "01kjr84jqfvcmpfc8jjxc53bgq",
+    "assetUid": "01kjr84hvf3rxs5225rs4dqdyb",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Previous Element\",\"oldValue\":\"\",\"newValue\":\"LEL-RF-MC01:KLY\"}",
+    "timestamp": "2023-12-01T00:50:13.000"
+  },
+  {
+    "uid": "01kjr84jqsx21q26ngaaxp6yn0",
+    "assetUid": "01kjr84hvf3rxs5225rs4dqdyb",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-12-01T00:48:45.000"
+  }
+]

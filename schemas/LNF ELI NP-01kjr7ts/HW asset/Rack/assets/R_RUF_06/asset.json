@@ -1,0 +1,26 @@
+{
+  "uid": "01kjr8bv4bzt59zjbd3geft9ea",
+  "key": "LNFELINP-129493",
+  "name": "R_RUF_06",
+  "type": "Rack",
+  "schemaUid": "01kjr7v64t43wrqz2vr8fz7zha",
+  "attributes": {
+    "key": "LNFELINP-129493",
+    "name": "R_RUF_06",
+    "created": "2024-12-05T15:32:47.000Z",
+    "updated": "2025-02-27T08:09:22.000Z",
+    "status": "Active",
+    "alias": "Vacuum",
+    "location": "01kjr827azxv2ptw95hx7hagm7"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

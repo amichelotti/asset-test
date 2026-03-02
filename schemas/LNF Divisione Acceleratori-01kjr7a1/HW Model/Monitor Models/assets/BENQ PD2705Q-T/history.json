@@ -1,0 +1,42 @@
+[
+  {
+    "uid": "01kjr7eycvh0mz62m0aka16vty",
+    "assetUid": "01kjr7exvggxjwyhtk6tq1afh8",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"PD2705Q-T\",\"newValue\":\"BENQ PD2705Q-T\"}",
+    "timestamp": "2024-02-02T13:16:16.000"
+  },
+  {
+    "uid": "01kjr7eydgsxhfvz538rtrx60p",
+    "assetUid": "01kjr7exvggxjwyhtk6tq1afh8",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"PD2705Q\",\"newValue\":\"PD2705Q-T\"}",
+    "timestamp": "2023-05-09T17:52:09.000"
+  },
+  {
+    "uid": "01kjr7eye3nrhy7c5ergnttrj4",
+    "assetUid": "01kjr7exvggxjwyhtk6tq1afh8",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"PD705Q\",\"newValue\":\"PD2705Q\"}",
+    "timestamp": "2023-05-09T17:52:00.000"
+  },
+  {
+    "uid": "01kjr7eyewnhzg1vh3zncbax3b",
+    "assetUid": "01kjr7exvggxjwyhtk6tq1afh8",
+    "type": "1",
+    "author": "Alessandro Stecchi",
+    "details": "{\"type\":\"1\",\"attribute\":\"IO Description\",\"oldValue\":\"\",\"newValue\":\"1 porta INPUT HDM...\"}",
+    "timestamp": "2023-05-09T15:57:07.000"
+  },
+  {
+    "uid": "01kjr7eyf3770esk1rrr9a720s",
+    "assetUid": "01kjr7exvggxjwyhtk6tq1afh8",
+    "type": "0",
+    "author": "Alessandro Stecchi",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-05-09T15:53:14.000"
+  }
+]

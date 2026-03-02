@@ -1,0 +1,74 @@
+[
+  {
+    "uid": "01kjr7x1jcepdaaxe9khts1arf",
+    "assetUid": "01kjr7x105q2dqqr5efdqxqxt0",
+    "type": "5",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"5\",\"attribute\":\"Controller\",\"oldValue\":\"\",\"newValue\":\"LEL-VAC-VPCON03\"}",
+    "timestamp": "2025-11-07T14:57:33.000"
+  },
+  {
+    "uid": "01kjr7x1jt4gtk1fb259bmb2ma",
+    "assetUid": "01kjr7x105q2dqqr5efdqxqxt0",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Module\",\"oldValue\":\"M4A\",\"newValue\":\"M4\"}",
+    "timestamp": "2025-06-18T17:15:54.000"
+  },
+  {
+    "uid": "01kjr7x1k8y0zehc6ez7234x3n",
+    "assetUid": "01kjr7x105q2dqqr5efdqxqxt0",
+    "type": "5",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"5\",\"attribute\":\"Layout\",\"oldValue\":\"M4A-002\",\"newValue\":\"M4-028\"}",
+    "timestamp": "2025-06-18T17:15:54.000"
+  },
+  {
+    "uid": "01kjr7x1kpbvz78rd6tnk9bynk",
+    "assetUid": "01kjr7x105q2dqqr5efdqxqxt0",
+    "type": "4",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
+    "timestamp": "2025-06-18T17:15:54.000"
+  },
+  {
+    "uid": "01kjr7x1m1z8a7wasz8bsk0p0m",
+    "assetUid": "01kjr7x105q2dqqr5efdqxqxt0",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Ion pump 75 l/s\",\"newValue\":\"Ion pump 75 l/s\"}",
+    "timestamp": "2025-06-18T17:15:54.000"
+  },
+  {
+    "uid": "01kjr7x1m95e02xhnqmcfc4xec",
+    "assetUid": "01kjr7x105q2dqqr5efdqxqxt0",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Layout\",\"oldValue\":\"REGION 4\",\"newValue\":\"M4A-002\"}",
+    "timestamp": "2023-12-01T14:15:32.000"
+  },
+  {
+    "uid": "01kjr7x1mfpgear0tff1yz5zk2",
+    "assetUid": "01kjr7x105q2dqqr5efdqxqxt0",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
+    "timestamp": "2023-11-30T13:39:50.000"
+  },
+  {
+    "uid": "01kjr7x1mxagbmnsgv37ts0btb",
+    "assetUid": "01kjr7x105q2dqqr5efdqxqxt0",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Type\",\"oldValue\":\"\",\"newValue\":\"IONP\"}",
+    "timestamp": "2023-11-30T12:08:30.000"
+  },
+  {
+    "uid": "01kjr7x1n69czwmaf71pmwck6w",
+    "assetUid": "01kjr7x105q2dqqr5efdqxqxt0",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-11-29T23:57:53.000"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "uid": "01kjr8fznhcm4hysc3xd8aafnv",
+    "assetUid": "01kjr8fz0n0vf8bc0pmnrkyv6k",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Connector1 Pair\",\"oldValue\":\"\",\"newValue\":\"ccelicam02\"}",
+    "timestamp": "2025-09-12T11:23:07.000"
+  },
+  {
+    "uid": "01kjr8fznrvrjs23mmpasm0vz5",
+    "assetUid": "01kjr8fz0n0vf8bc0pmnrkyv6k",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2025-09-12T11:23:07.000"
+  },
+  {
+    "uid": "01kjr8fzp31yvcc66yyx6zaq75",
+    "assetUid": "01kjr8fz0n0vf8bc0pmnrkyv6k",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-09-12T11:20:52.000"
+  }
+]

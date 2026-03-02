@@ -1,0 +1,26 @@
+[
+  {
+    "uid": "01kjr75h5xfcrqh3a65jdh2ty7",
+    "assetUid": "01kjr75gn33f620sp6d88k6ssw",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Vaccum Objects\",\"oldValue\":\"\",\"newValue\":\"FP31-V-PMP-PMY-00...\"}",
+    "timestamp": "2026-02-16T15:13:33.000"
+  },
+  {
+    "uid": "01kjr75h6869bjjc13cnr7mga1",
+    "assetUid": "01kjr75gn33f620sp6d88k6ssw",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Vaccum Pumps\",\"oldValue\":\"\",\"newValue\":\"FP31-V-PMP-PMY-00...\"}",
+    "timestamp": "2026-02-16T14:28:39.000"
+  },
+  {
+    "uid": "01kjr75h6hxan77x7ey5t5exr0",
+    "assetUid": "01kjr75gn33f620sp6d88k6ssw",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2026-02-16T14:16:43.000"
+  }
+]

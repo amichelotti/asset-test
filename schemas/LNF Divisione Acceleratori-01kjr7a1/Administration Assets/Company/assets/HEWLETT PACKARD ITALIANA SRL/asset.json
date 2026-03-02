@@ -1,0 +1,24 @@
+{
+  "uid": "01kjr7bvk0p6ehjw9qhn9mf49t",
+  "key": "LNFMAC-109310",
+  "name": "HEWLETT PACKARD ITALIANA SRL",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-109310",
+    "name": "HEWLETT PACKARD ITALIANA SRL",
+    "created": "2023-10-10T12:39:03.000Z",
+    "updated": "2023-10-10T12:39:03.000Z",
+    "contact": "HEWLETT PACKARD ITALIANA SRL"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

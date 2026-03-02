@@ -1,0 +1,34 @@
+[
+  {
+    "uid": "01kjr8hg31fd0q5hkptzjbxtkp",
+    "assetUid": "01kjr8hfchmh0dhpwjqgge395v",
+    "type": "26",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"26\"}",
+    "timestamp": "2025-06-13T12:01:53.000"
+  },
+  {
+    "uid": "01kjr8hg3p2zeqpn8hpmh44jxs",
+    "assetUid": "01kjr8hfchmh0dhpwjqgge395v",
+    "type": "25",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2025-06-13T10:01:54.000"
+  },
+  {
+    "uid": "01kjr8hg4294c6nhb3g31mftts",
+    "assetUid": "01kjr8hfchmh0dhpwjqgge395v",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"ELI - C BAND Libe...\",\"newValue\":\"ELI - C-BAND Libe...\"}",
+    "timestamp": "2025-06-13T09:53:22.000"
+  },
+  {
+    "uid": "01kjr8hg4b9f9g8nr36avkpqb3",
+    "assetUid": "01kjr8hfchmh0dhpwjqgge395v",
+    "type": "0",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-06-13T09:52:10.000"
+  }
+]

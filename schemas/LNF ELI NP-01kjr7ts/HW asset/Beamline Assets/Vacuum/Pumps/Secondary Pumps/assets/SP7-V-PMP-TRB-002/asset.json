@@ -1,0 +1,26 @@
+{
+  "uid": "01kjr6zffzv54c5s6fn74fx9qg",
+  "key": "LNFT2-147958",
+  "name": "SP7-V-PMP-TRB-002",
+  "type": "Secondary Pumps",
+  "schemaUid": "01kjr6y37dvdrzpq6s7kznrx0p",
+  "attributes": {
+    "key": "LNFT2-147958",
+    "name": "SP7-V-PMP-TRB-002",
+    "created": "2026-03-02T15:50:24.000Z",
+    "updated": "2026-03-02T15:50:24.000Z",
+    "locations": "01kjr7s02ka6917dvpvndhnet5",
+    "facility": "01kjr7st4dyad67rx9rvajqtab",
+    "hw_model": "01kjr7evdr3ym3qhjfbbc6v922"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

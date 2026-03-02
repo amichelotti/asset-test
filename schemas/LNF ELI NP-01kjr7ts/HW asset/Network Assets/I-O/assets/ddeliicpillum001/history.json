@@ -1,0 +1,18 @@
+[
+  {
+    "uid": "01kjr83sfcep9pvxcmh4gggy4r",
+    "assetUid": "01kjr83rvaphp61xnkcw1e3p7y",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"ET-7267/PET-7267\"}",
+    "timestamp": "2025-06-12T14:25:09.000"
+  },
+  {
+    "uid": "01kjr83sfk8esvcrmr9562vx4r",
+    "assetUid": "01kjr83rvaphp61xnkcw1e3p7y",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-03-07T14:27:24.000"
+  }
+]

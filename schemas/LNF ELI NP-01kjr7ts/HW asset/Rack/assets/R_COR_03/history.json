@@ -1,0 +1,58 @@
+[
+  {
+    "uid": "01kjr8ahwabk3mstcnnm72jg1n",
+    "assetUid": "01kjr8ah0jm5bcsbzkry2pfckf",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"R_COR_033\",\"newValue\":\"R_COR_03\"}",
+    "timestamp": "2025-06-13T14:48:11.000"
+  },
+  {
+    "uid": "01kjr8ahx2x48w3dh9mb82wvte",
+    "assetUid": "01kjr8ah0jm5bcsbzkry2pfckf",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"R_COR_03\",\"newValue\":\"R_COR_033\"}",
+    "timestamp": "2025-06-13T14:45:08.000"
+  },
+  {
+    "uid": "01kjr8ahxbaw93xegaqgcdjtyk",
+    "assetUid": "01kjr8ah0jm5bcsbzkry2pfckf",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Alias\",\"oldValue\":\"\",\"newValue\":\"Control + Network...\"}",
+    "timestamp": "2025-02-27T09:19:55.000"
+  },
+  {
+    "uid": "01kjr8ahxpm8f2z3byqfw4pv9x",
+    "assetUid": "01kjr8ah0jm5bcsbzkry2pfckf",
+    "type": "25",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2025-02-27T09:19:40.000"
+  },
+  {
+    "uid": "01kjr8ahy21q1yk7qdyg5bqb77",
+    "assetUid": "01kjr8ah0jm5bcsbzkry2pfckf",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"Corridor GP\"}",
+    "timestamp": "2025-02-27T09:19:40.000"
+  },
+  {
+    "uid": "01kjr8ahydv9axfa0kxs8fkb52",
+    "assetUid": "01kjr8ah0jm5bcsbzkry2pfckf",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"R_COR_12\",\"newValue\":\"R_COR_03\"}",
+    "timestamp": "2025-02-27T09:19:40.000"
+  },
+  {
+    "uid": "01kjr8ahyqg3x5rnprxr67d00v",
+    "assetUid": "01kjr8ah0jm5bcsbzkry2pfckf",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-12-05T12:38:31.000"
+  }
+]

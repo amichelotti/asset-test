@@ -1,0 +1,26 @@
+[
+  {
+    "uid": "01kjr7m0g8b25zqa6we186e5p6",
+    "assetUid": "01kjr7m01edh6x10jvdsfkkejp",
+    "type": "1",
+    "author": "Unknown",
+    "details": "{\"type\":\"1\",\"attribute\":\"Memory\",\"oldValue\":\"\",\"newValue\":\"32\"}",
+    "timestamp": "2023-05-16T11:28:55.000"
+  },
+  {
+    "uid": "01kjr7m0gy583n7j6rtejcf0jk",
+    "assetUid": "01kjr7m01edh6x10jvdsfkkejp",
+    "type": "1",
+    "author": "Unknown",
+    "details": "{\"type\":\"1\",\"attribute\":\"CPU type\",\"oldValue\":\"\",\"newValue\":\"Intel® Core™ i5-7...\"}",
+    "timestamp": "2023-05-16T11:28:55.000"
+  },
+  {
+    "uid": "01kjr7m0hbeh91hpaax8phnmkm",
+    "assetUid": "01kjr7m01edh6x10jvdsfkkejp",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-04-19T22:13:47.000"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "uid": "01kjr7dh5xxraygtrh17nn9dxm",
+  "key": "LNFMAC-147945",
+  "name": "SMC",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-147945",
+    "name": "SMC",
+    "created": "2026-03-02T15:04:14.000Z",
+    "updated": "2026-03-02T15:04:14.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

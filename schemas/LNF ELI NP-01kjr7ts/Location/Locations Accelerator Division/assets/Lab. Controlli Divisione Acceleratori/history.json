@@ -1,0 +1,66 @@
+[
+  {
+    "uid": "01kjr7q4vd6wjcxv7010c6wcvt",
+    "assetUid": "01kjr7q44ej1685a3e8cy09rnk",
+    "type": "29",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"29\"}",
+    "timestamp": "2025-10-28T15:52:12.000"
+  },
+  {
+    "uid": "01kjr7q4w5jkxtepzr3v6py9vt",
+    "assetUid": "01kjr7q44ej1685a3e8cy09rnk",
+    "type": "28",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"28\"}",
+    "timestamp": "2025-10-28T15:49:10.000"
+  },
+  {
+    "uid": "01kjr7q4wskmqa456445tetj5g",
+    "assetUid": "01kjr7q44ej1685a3e8cy09rnk",
+    "type": "24",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"24\",\"oldValue\":\"Location\",\"newValue\":\"FLAME Ed 56\"}",
+    "timestamp": "2025-10-28T15:47:27.000"
+  },
+  {
+    "uid": "01kjr7q4x95axdvcqr4z3awnb9",
+    "assetUid": "01kjr7q44ej1685a3e8cy09rnk",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Area\",\"oldValue\":\"\",\"newValue\":\"Edificio 2\"}",
+    "timestamp": "2023-10-18T12:09:35.000"
+  },
+  {
+    "uid": "01kjr7q4xkz7xgft99bzn1ds37",
+    "assetUid": "01kjr7q44ej1685a3e8cy09rnk",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Stanza\",\"oldValue\":\"\",\"newValue\":\"117\"}",
+    "timestamp": "2023-10-18T12:09:35.000"
+  },
+  {
+    "uid": "01kjr7q4y798rs3e2gby0zb9sa",
+    "assetUid": "01kjr7q44ej1685a3e8cy09rnk",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Piano\",\"oldValue\":\"\",\"newValue\":\"2\"}",
+    "timestamp": "2023-10-18T12:09:35.000"
+  },
+  {
+    "uid": "01kjr7q4yq37ywnnhfke2wehnq",
+    "assetUid": "01kjr7q44ej1685a3e8cy09rnk",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"Lab. Controlli 117\",\"newValue\":\"Lab. Controlli Di...\"}",
+    "timestamp": "2023-10-18T12:09:35.000"
+  },
+  {
+    "uid": "01kjr7q4z7bby2d2qbs052na9r",
+    "assetUid": "01kjr7q44ej1685a3e8cy09rnk",
+    "type": "0",
+    "author": "Unknown",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-10-09T14:10:36.000"
+  }
+]

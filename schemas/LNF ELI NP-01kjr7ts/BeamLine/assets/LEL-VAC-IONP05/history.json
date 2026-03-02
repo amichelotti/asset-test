@@ -1,0 +1,42 @@
+[
+  {
+    "uid": "01kjr86grmsy32ya4qjgez0hcv",
+    "assetUid": "01kjr86g5gkpr02am4qwf5ym4r",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Layout\",\"oldValue\":\"\",\"newValue\":\"M2-001\"}",
+    "timestamp": "2023-12-01T14:23:20.000"
+  },
+  {
+    "uid": "01kjr86grycrf9736kajvwerc2",
+    "assetUid": "01kjr86g5gkpr02am4qwf5ym4r",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Module\",\"oldValue\":\"\",\"newValue\":\"M2\"}",
+    "timestamp": "2023-12-01T00:56:00.000"
+  },
+  {
+    "uid": "01kjr86gsa9t4jwda4rhp5bvs7",
+    "assetUid": "01kjr86g5gkpr02am4qwf5ym4r",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Next Element\",\"oldValue\":\"\",\"newValue\":\"LEL-RF-ACC01\"}",
+    "timestamp": "2023-12-01T00:49:29.000"
+  },
+  {
+    "uid": "01kjr86gt0z0jnqvt7ftgv6ej6",
+    "assetUid": "01kjr86g5gkpr02am4qwf5ym4r",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Previous Element\",\"oldValue\":\"\",\"newValue\":\"LEL-VAC-VALVM03\"}",
+    "timestamp": "2023-12-01T00:49:29.000"
+  },
+  {
+    "uid": "01kjr86gt79c7xtr6abkmwdx6q",
+    "assetUid": "01kjr86g5gkpr02am4qwf5ym4r",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-12-01T00:37:15.000"
+  }
+]

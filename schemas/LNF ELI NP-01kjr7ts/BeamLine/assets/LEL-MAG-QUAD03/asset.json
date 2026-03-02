@@ -1,0 +1,29 @@
+{
+  "uid": "01kjr85g79ga6e7cfy41vs9v8t",
+  "key": "LNFELINP-112380",
+  "name": "LEL-MAG-QUAD03",
+  "type": "BeamLine",
+  "schemaUid": "01kjr7v4j2cf714dfa2vz1fgzp",
+  "attributes": {
+    "key": "LNFELINP-112380",
+    "name": "LEL-MAG-QUAD03",
+    "created": "2023-11-30T23:37:46.000Z",
+    "updated": "2023-12-01T13:24:27.000Z",
+    "module": "M4",
+    "layout": "LNFELINP-112492",
+    "sequential": "65",
+    "previous_element": "01kjr85f55pnjpavav30fs55aj",
+    "next_element": "01kjr86rd2k0gvsce20a90cx35",
+    "element": "01kjr7y7tsfmae19tdd6yspkp0"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

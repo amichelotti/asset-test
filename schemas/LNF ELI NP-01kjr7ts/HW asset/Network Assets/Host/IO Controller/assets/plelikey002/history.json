@@ -1,0 +1,50 @@
+[
+  {
+    "uid": "01kjr811p5nxz94fzda4zy2n5d",
+    "assetUid": "01kjr80sjg81kvvnv6rzw4yz5j",
+    "type": "25",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2025-06-03T13:30:01.000"
+  },
+  {
+    "uid": "01kjr811pweanvnqh1fsc9en0s",
+    "assetUid": "01kjr80sjg81kvvnv6rzw4yz5j",
+    "type": "27",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"27\"}",
+    "timestamp": "2025-06-03T13:29:36.000"
+  },
+  {
+    "uid": "01kjr811q3dmsdzbz19c4may46",
+    "assetUid": "01kjr80sjg81kvvnv6rzw4yz5j",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"I7-3517UE CPU EVR...\",\"newValue\":\"I7-3517UE CPU EVR...\"}",
+    "timestamp": "2025-06-03T13:28:28.000"
+  },
+  {
+    "uid": "01kjr811qedzmnqqfhwztshhjs",
+    "assetUid": "01kjr80sjg81kvvnv6rzw4yz5j",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"plelievr004\",\"newValue\":\"plelikey002\"}",
+    "timestamp": "2025-06-03T13:28:28.000"
+  },
+  {
+    "uid": "01kjr811qv4v2my67esvpzmhkk",
+    "assetUid": "01kjr80sjg81kvvnv6rzw4yz5j",
+    "type": "7",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"7\",\"newValue\":\"evr_las.png\"}",
+    "timestamp": "2025-05-15T15:11:09.000"
+  },
+  {
+    "uid": "01kjr811r3c8ypx5rdw7qfvjpz",
+    "assetUid": "01kjr80sjg81kvvnv6rzw4yz5j",
+    "type": "0",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-05-15T15:11:08.000"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "uid": "01kjr8czwn835rrt7kzjseq39x",
+  "key": "LNFELINP-112873",
+  "name": "connessionPC2",
+  "type": "Cabling",
+  "schemaUid": "01kjr6y2yhe6sjdvs376nmhzdm",
+  "attributes": {
+    "key": "LNFELINP-112873",
+    "name": "connessionPC2",
+    "created": "2023-12-05T14:08:53.000Z",
+    "updated": "2023-12-05T14:08:53.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

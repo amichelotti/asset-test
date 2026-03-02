@@ -1,0 +1,25 @@
+{
+  "uid": "01kjr7eb7sr4hfbwbcdpsrq28c",
+  "key": "LNFMAC-143355",
+  "name": "611 V7",
+  "type": "Motor Models",
+  "schemaUid": "01kjr7a9q7nhda9kx6vnapwy3y",
+  "attributes": {
+    "key": "LNFMAC-143355",
+    "name": "611 V7",
+    "created": "2025-10-22T09:50:48.000Z",
+    "updated": "2025-10-22T09:54:03.000Z",
+    "producer": "01kjr7cstnvjkew8sg0sx5ar12",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Rotation Stage</p><p><a href=\"https://www.pionline.it/it/products/rotation-stages/l-611-v6-v7-v9-precision-rotation-stage-suitable-for-vacuum-412418484\">https://www.pionline.it/it/products/rotation-stages/l-611-v6-v7-v9-precision-rotation-stage-suitable-for-vacuum-412418484</a></p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

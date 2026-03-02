@@ -1,0 +1,42 @@
+[
+  {
+    "uid": "01kjr7cy1dxkrkrmar47fchrs9",
+    "assetUid": "01kjr7cx3rrc5cww0sjn7d6hcn",
+    "type": "2",
+    "author": "Francesco Galletti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"Peruzzi\",\"newValue\":\"Rack Peruzzi\"}",
+    "timestamp": "2023-04-20T15:55:12.000"
+  },
+  {
+    "uid": "01kjr7cy20gz15vxrr97rp8sfw",
+    "assetUid": "01kjr7cx3rrc5cww0sjn7d6hcn",
+    "type": "1",
+    "author": "Francesco Galletti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Contact\",\"oldValue\":\"\",\"newValue\":\"+39 011 9048333 +...\"}",
+    "timestamp": "2023-04-20T15:54:44.000"
+  },
+  {
+    "uid": "01kjr7cy2f854qgv4hdemj7wv1",
+    "assetUid": "01kjr7cx3rrc5cww0sjn7d6hcn",
+    "type": "25",
+    "author": "Francesco Galletti",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2023-04-20T15:53:03.000"
+  },
+  {
+    "uid": "01kjr7cy33wtanbtz6zf7nhq32",
+    "assetUid": "01kjr7cx3rrc5cww0sjn7d6hcn",
+    "type": "1",
+    "author": "Francesco Galletti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Link\",\"oldValue\":\"\",\"newValue\":\"https://www.rackp...\"}",
+    "timestamp": "2023-04-20T15:52:25.000"
+  },
+  {
+    "uid": "01kjr7cy3emaxm3bq9c3pb84zq",
+    "assetUid": "01kjr7cx3rrc5cww0sjn7d6hcn",
+    "type": "0",
+    "author": "Francesco Galletti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-04-20T15:44:27.000"
+  }
+]

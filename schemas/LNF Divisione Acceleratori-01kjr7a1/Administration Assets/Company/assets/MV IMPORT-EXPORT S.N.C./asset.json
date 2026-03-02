@@ -1,0 +1,24 @@
+{
+  "uid": "01kjr7cf76rbk7fg9zkfbdm631",
+  "key": "LNFMAC-109334",
+  "name": "MV IMPORT-EXPORT S.N.C.",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-109334",
+    "name": "MV IMPORT-EXPORT S.N.C.",
+    "created": "2023-10-10T12:39:11.000Z",
+    "updated": "2023-10-10T12:39:11.000Z",
+    "contact": "MV IMPORT-EXPORT S.N.C."
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

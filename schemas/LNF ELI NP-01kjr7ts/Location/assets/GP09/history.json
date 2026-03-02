@@ -1,0 +1,26 @@
+[
+  {
+    "uid": "01kjr824743fx1vmt5yxtb43ya",
+    "assetUid": "01kjr823qet118h192ah1jzmyb",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Note\",\"oldValue\":\"\",\"newValue\":\"Sala controllo\"}",
+    "timestamp": "2023-12-05T12:56:16.000"
+  },
+  {
+    "uid": "01kjr8247ddnngx7hg8jky344x",
+    "assetUid": "01kjr823qet118h192ah1jzmyb",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Stanza\",\"oldValue\":\"\",\"newValue\":\"Annex\"}",
+    "timestamp": "2023-12-05T12:56:16.000"
+  },
+  {
+    "uid": "01kjr8247j5rtxbgcjmfd5xjq4",
+    "assetUid": "01kjr823qet118h192ah1jzmyb",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-11-30T10:53:56.000"
+  }
+]

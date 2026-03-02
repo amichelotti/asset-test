@@ -1,0 +1,34 @@
+[
+  {
+    "uid": "01kjr7vgrv30bxjqewv4gfm5me",
+    "assetUid": "01kjr7vfg447neqk4wj842t4wm",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"cisco catalyst 92...\"}",
+    "timestamp": "2025-06-12T14:57:44.000"
+  },
+  {
+    "uid": "01kjr7vgy3ksjr9365x96pr9ds",
+    "assetUid": "01kjr7vfg447neqk4wj842t4wm",
+    "type": "25",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2025-06-12T13:54:41.000"
+  },
+  {
+    "uid": "01kjr7vgzmvpc4yx14ymhdph9v",
+    "assetUid": "01kjr7vfg447neqk4wj842t4wm",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"Corridor GP\"}",
+    "timestamp": "2025-06-11T11:01:59.000"
+  },
+  {
+    "uid": "01kjr7vh0nvx4h8bw0qwnh5510",
+    "assetUid": "01kjr7vfg447neqk4wj842t4wm",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-06-11T11:01:09.000"
+  }
+]

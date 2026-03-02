@@ -1,0 +1,42 @@
+[
+  {
+    "uid": "01kjr7zmf6bx589f9h1jh6mgj6",
+    "assetUid": "01kjr7zkzdq1vx72btheh41eyt",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Layout\",\"oldValue\":\"LEL-RF-MS01\",\"newValue\":\"RICCI-000\"}",
+    "timestamp": "2023-12-01T14:15:33.000"
+  },
+  {
+    "uid": "01kjr7zmfsessgzrxwg6n62nqa",
+    "assetUid": "01kjr7zkzdq1vx72btheh41eyt",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Layout\",\"oldValue\":\"\",\"newValue\":\"LEL-RF-MS01\"}",
+    "timestamp": "2023-11-30T17:12:52.000"
+  },
+  {
+    "uid": "01kjr7zmfy1cscsnsan15m8em1",
+    "assetUid": "01kjr7zkzdq1vx72btheh41eyt",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"ScandiNova RF Pow...\",\"newValue\":\"ScandiNova RF Pow...\"}",
+    "timestamp": "2023-11-30T17:12:52.000"
+  },
+  {
+    "uid": "01kjr7zmg6nmj5kam5a5wtxkd8",
+    "assetUid": "01kjr7zkzdq1vx72btheh41eyt",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"ROOF\"}",
+    "timestamp": "2023-11-30T13:33:02.000"
+  },
+  {
+    "uid": "01kjr7zmgm5trt47bbqxkh8n0p",
+    "assetUid": "01kjr7zkzdq1vx72btheh41eyt",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-11-30T10:10:22.000"
+  }
+]

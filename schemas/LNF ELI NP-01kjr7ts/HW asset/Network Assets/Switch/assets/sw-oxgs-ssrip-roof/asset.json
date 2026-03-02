@@ -1,0 +1,27 @@
+{
+  "uid": "01kjr7vm4bwdd3j9x2s1q48cd0",
+  "key": "LNFELINP-138419",
+  "name": "sw-oxgs-ssrip-roof",
+  "type": "Switch",
+  "schemaUid": "01kjr7ttcf4yp1vnfye4eyrekd",
+  "attributes": {
+    "key": "LNFELINP-138419",
+    "name": "sw-oxgs-ssrip-roof",
+    "created": "2025-06-12T12:59:22.000Z",
+    "updated": "2025-06-13T07:45:05.000Z",
+    "status": "Active",
+    "location": "01kjr827azxv2ptw95hx7hagm7",
+    "rack": "01kjr8b4dj9k5ghwtkyh1c0heb",
+    "model": "01kjr7f6mm0a435myf9vvseet4"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

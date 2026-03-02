@@ -1,0 +1,29 @@
+{
+  "uid": "01kjr89v1zrrz8rysmx7rfvjpj",
+  "key": "LNFELINP-111736",
+  "name": "LEL-VAC-VGCON01",
+  "type": "Vacuum Controller",
+  "schemaUid": "01kjr7v5vpyx2ek5t5y1p6cq7t",
+  "attributes": {
+    "key": "LNFELINP-111736",
+    "name": "LEL-VAC-VGCON01",
+    "created": "2023-11-29T22:16:48.000Z",
+    "updated": "2025-12-26T16:15:44.000Z",
+    "status": "Active",
+    "description": "Gauge Controller porta seriale 1.",
+    "location": "01kjr81zerkkpyf438w38aftth",
+    "rack": "01kjr8apaefctm4h1paf2mgq4m",
+    "type": "VGC",
+    "models": "01kjr7nm4dwaz8qf5b8mrm4xwy"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

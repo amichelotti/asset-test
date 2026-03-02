@@ -1,0 +1,27 @@
+{
+  "uid": "01kjr71f5kc1p32qc8ta96j0ay",
+  "key": "LNFT2-148008",
+  "name": "SP8-W-MOT-HPB-001",
+  "type": "Motors",
+  "schemaUid": "01kjr6y2p67qjezym2da7b4sex",
+  "attributes": {
+    "key": "LNFT2-148008",
+    "name": "SP8-W-MOT-HPB-001",
+    "created": "2026-03-02T17:08:06.000Z",
+    "updated": "2026-03-02T17:08:06.000Z",
+    "owner": "LNFMAC-143535",
+    "locations": "01kjr7s02ka6917dvpvndhnet5",
+    "facility": "01kjr7st4dyad67rx9rvajqtab",
+    "hw_model": "01kjr7m6h9s53ax2ds2cjmehak"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

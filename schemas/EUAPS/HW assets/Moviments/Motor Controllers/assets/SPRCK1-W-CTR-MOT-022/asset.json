@@ -1,0 +1,27 @@
+{
+  "uid": "01kjr74emhe18k72wtbhndk8yw",
+  "key": "LNFT2-147138",
+  "name": "SPRCK1-W-CTR-MOT-022",
+  "type": "Motor Controllers",
+  "schemaUid": "01kjr6y3bkg7sgffg3kdstpgkq",
+  "attributes": {
+    "key": "LNFT2-147138",
+    "name": "SPRCK1-W-CTR-MOT-022",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Connesso alla PI VT80.6V </p><p>Il cui codice è: 6230V66000</p></div>",
+    "created": "2026-02-10T14:03:41.000Z",
+    "updated": "2026-02-17T10:44:05.000Z",
+    "locations": "01kjr7s02ka6917dvpvndhnet5",
+    "facility": "01kjr7st4dyad67rx9rvajqtab",
+    "hw_model": "01kjr7kfccd5jjqnj7xnhpfqmg"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

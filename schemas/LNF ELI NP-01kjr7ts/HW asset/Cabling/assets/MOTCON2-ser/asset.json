@@ -1,0 +1,29 @@
+{
+  "uid": "01kjr8fvephprb4gjhkjgbqrh2",
+  "key": "LNFELINP-138470",
+  "name": "MOTCON2-ser",
+  "type": "Cabling",
+  "schemaUid": "01kjr6y2yhe6sjdvs376nmhzdm",
+  "attributes": {
+    "key": "LNFELINP-138470",
+    "name": "MOTCON2-ser",
+    "created": "2025-06-13T12:40:46.000Z",
+    "updated": "2025-06-13T12:44:18.000Z",
+    "status": "Active",
+    "location": "01kjr81xjcq9pnk4x80q85mp57",
+    "connector1_pair": "01kjr83y2fxw81k755z4xen1m8",
+    "connector2_pair": "01kjr8402kv30yg807eb551yqz",
+    "connector2_desc": "<div class=\"created-with-ak-editor content-wrapper\"></div>",
+    "type": "RS232"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

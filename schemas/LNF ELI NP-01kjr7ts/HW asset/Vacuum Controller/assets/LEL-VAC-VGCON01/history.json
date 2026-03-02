@@ -1,0 +1,146 @@
+[
+  {
+    "uid": "01kjr89wvj891y17yyrjx97hry",
+    "assetUid": "01kjr89v1zrrz8rysmx7rfvjpj",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"btf-eeips-0-eeips...\"}",
+    "timestamp": "2025-12-28T19:25:58.000"
+  },
+  {
+    "uid": "01kjr89wvz0wcyjayavhz3rsbg",
+    "assetUid": "01kjr89v1zrrz8rysmx7rfvjpj",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Status\",\"oldValue\":\"Broken\",\"newValue\":\"Active\"}",
+    "timestamp": "2025-12-26T17:15:44.000"
+  },
+  {
+    "uid": "01kjr89ww42xa42m5zdxzysj43",
+    "assetUid": "01kjr89v1zrrz8rysmx7rfvjpj",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Gauge Controller ...\",\"newValue\":\"Gauge Controller ...\"}",
+    "timestamp": "2025-12-26T17:15:05.000"
+  },
+  {
+    "uid": "01kjr89wwej9q4jcpmbfmr5nzn",
+    "assetUid": "01kjr89v1zrrz8rysmx7rfvjpj",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Status\",\"oldValue\":\"Active\",\"newValue\":\"Broken\"}",
+    "timestamp": "2025-12-26T17:15:05.000"
+  },
+  {
+    "uid": "01kjr89wwrcd0f9nxs9vk9bwtg",
+    "assetUid": "01kjr89v1zrrz8rysmx7rfvjpj",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Gauge Controller ...\",\"newValue\":\"Gauge Controller ...\"}",
+    "timestamp": "2025-12-07T00:19:13.000"
+  },
+  {
+    "uid": "01kjr89wx8pybrhphvm4tsq4tn",
+    "assetUid": "01kjr89v1zrrz8rysmx7rfvjpj",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Gauge Controller ...\",\"newValue\":\"Gauge Controller ...\"}",
+    "timestamp": "2025-12-07T00:19:13.000"
+  },
+  {
+    "uid": "01kjr89wxk87vpg0b3vsxrw82q",
+    "assetUid": "01kjr89v1zrrz8rysmx7rfvjpj",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Gauge Controller,...\",\"newValue\":\"Gauge Controller ...\"}",
+    "timestamp": "2025-12-07T00:19:13.000"
+  },
+  {
+    "uid": "01kjr89wxs992d5qmbg150sxp2",
+    "assetUid": "01kjr89v1zrrz8rysmx7rfvjpj",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Gauge Controller ...\",\"newValue\":\"Gauge Controller,...\"}",
+    "timestamp": "2025-12-07T00:19:12.000"
+  },
+  {
+    "uid": "01kjr89wy23r6tkdxwgsbb4t42",
+    "assetUid": "01kjr89v1zrrz8rysmx7rfvjpj",
+    "type": "5",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"5\",\"attribute\":\"Location\",\"oldValue\":\"AB1\",\"newValue\":\"Corridor GP\"}",
+    "timestamp": "2025-11-07T14:21:03.000"
+  },
+  {
+    "uid": "01kjr89wy8hzfqk4kvj33yg513",
+    "assetUid": "01kjr89v1zrrz8rysmx7rfvjpj",
+    "type": "4",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_COR_08\"}",
+    "timestamp": "2025-11-07T14:17:05.000"
+  },
+  {
+    "uid": "01kjr89wyk33w4g0v1rhrb6xxn",
+    "assetUid": "01kjr89v1zrrz8rysmx7rfvjpj",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Models\",\"oldValue\":\"\",\"newValue\":\"XGS-600 Gauge Con...\"}",
+    "timestamp": "2025-10-10T11:34:29.000"
+  },
+  {
+    "uid": "01kjr89wz02245rnnvawntn5hr",
+    "assetUid": "01kjr89v1zrrz8rysmx7rfvjpj",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Gauge Controller ...\",\"newValue\":\"Gauge Controller ...\"}",
+    "timestamp": "2025-10-10T11:34:29.000"
+  },
+  {
+    "uid": "01kjr89wz7kwm4tdbvjbtr3yfq",
+    "assetUid": "01kjr89v1zrrz8rysmx7rfvjpj",
+    "type": "25",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2024-12-05T16:14:08.000"
+  },
+  {
+    "uid": "01kjr89wze0fp2w7s284evb6nv",
+    "assetUid": "01kjr89v1zrrz8rysmx7rfvjpj",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"XGS-600 Gauge Con...\"}",
+    "timestamp": "2024-12-05T16:14:08.000"
+  },
+  {
+    "uid": "01kjr89wzprpfx5n659azachd5",
+    "assetUid": "01kjr89v1zrrz8rysmx7rfvjpj",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
+    "timestamp": "2024-12-05T16:14:08.000"
+  },
+  {
+    "uid": "01kjr89x00necktvzkt1btfcj3",
+    "assetUid": "01kjr89v1zrrz8rysmx7rfvjpj",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Cold cathode vacu...\",\"newValue\":\"Gauge Controller ...\"}",
+    "timestamp": "2024-12-05T16:14:08.000"
+  },
+  {
+    "uid": "01kjr89x06fb2yvmsxhfpz1bcm",
+    "assetUid": "01kjr89v1zrrz8rysmx7rfvjpj",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2024-12-05T16:14:08.000"
+  },
+  {
+    "uid": "01kjr89x0kvvm9w12s6shykjtw",
+    "assetUid": "01kjr89v1zrrz8rysmx7rfvjpj",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-11-29T23:16:48.000"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "uid": "01kjr89yhga6arqeyqyax04kgc",
+    "assetUid": "01kjr89xbn0mh7921npeyk9336",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Status\",\"oldValue\":\"Broken\",\"newValue\":\"Active\"}",
+    "timestamp": "2026-02-08T19:35:03.000"
+  },
+  {
+    "uid": "01kjr89yjer4jz44q9pjmpvqnq",
+    "assetUid": "01kjr89xbn0mh7921npeyk9336",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Status\",\"oldValue\":\"Active\",\"newValue\":\"Broken\"}",
+    "timestamp": "2026-02-08T19:31:23.000"
+  },
+  {
+    "uid": "01kjr89yjnzgd2w3c2hytqm8sg",
+    "assetUid": "01kjr89xbn0mh7921npeyk9336",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Cold cathode vacu...\",\"newValue\":\"Cold cathode vacu...\"}",
+    "timestamp": "2026-02-07T19:38:18.000"
+  },
+  {
+    "uid": "01kjr89yk4bqqhssa8kzy94k5f",
+    "assetUid": "01kjr89xbn0mh7921npeyk9336",
+    "type": "5",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"5\",\"attribute\":\"Location\",\"oldValue\":\"AB1\",\"newValue\":\"Corridor GP\"}",
+    "timestamp": "2025-11-07T14:21:13.000"
+  },
+  {
+    "uid": "01kjr89ykc59skx42mefe55ya0",
+    "assetUid": "01kjr89xbn0mh7921npeyk9336",
+    "type": "4",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_COR_08\"}",
+    "timestamp": "2025-11-07T14:17:18.000"
+  },
+  {
+    "uid": "01kjr89ykp88yhq1q89v09hsw2",
+    "assetUid": "01kjr89xbn0mh7921npeyk9336",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Cold cathode vacu...\",\"newValue\":\"Cold cathode vacu...\"}",
+    "timestamp": "2025-11-07T14:17:18.000"
+  },
+  {
+    "uid": "01kjr89ymat8hsjk1zwf7cd1ta",
+    "assetUid": "01kjr89xbn0mh7921npeyk9336",
+    "type": "25",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2024-12-05T16:15:39.000"
+  },
+  {
+    "uid": "01kjr89ymt71y0c68sdg6fd9c5",
+    "assetUid": "01kjr89xbn0mh7921npeyk9336",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"XGS-600 Gauge Con...\"}",
+    "timestamp": "2024-12-05T16:15:38.000"
+  },
+  {
+    "uid": "01kjr89ynd5v4hg7qykdkv7s10",
+    "assetUid": "01kjr89xbn0mh7921npeyk9336",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
+    "timestamp": "2024-12-05T16:15:38.000"
+  },
+  {
+    "uid": "01kjr89ynk1yg8zxdg8waezk0p",
+    "assetUid": "01kjr89xbn0mh7921npeyk9336",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Cold cathode vacu...\",\"newValue\":\"Cold cathode vacu...\"}",
+    "timestamp": "2024-12-05T16:15:38.000"
+  },
+  {
+    "uid": "01kjr89yp4g9t02xfzmgqr1752",
+    "assetUid": "01kjr89xbn0mh7921npeyk9336",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2024-12-05T16:15:38.000"
+  },
+  {
+    "uid": "01kjr89ypbbf88fcay25nzga3q",
+    "assetUid": "01kjr89xbn0mh7921npeyk9336",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-11-29T23:16:49.000"
+  }
+]

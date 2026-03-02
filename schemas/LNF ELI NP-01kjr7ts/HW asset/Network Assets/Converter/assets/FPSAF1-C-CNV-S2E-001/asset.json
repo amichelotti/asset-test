@@ -1,0 +1,25 @@
+{
+  "uid": "01kjr79ywbb3r6yj2gemtwanne",
+  "key": "LNFT2-147899",
+  "name": "FPSAF1-C-CNV-S2E-001",
+  "type": "Converter",
+  "schemaUid": "01kjr6y5kh45nej7snw2dx01eb",
+  "attributes": {
+    "key": "LNFT2-147899",
+    "name": "FPSAF1-C-CNV-S2E-001",
+    "created": "2026-03-02T13:49:01.000Z",
+    "updated": "2026-03-02T13:49:01.000Z",
+    "facility": "LNFMAC-141978",
+    "hw_model": "LNFMAC-99949"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

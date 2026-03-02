@@ -1,0 +1,25 @@
+{
+  "uid": "01kjr7st4dyad67rx9rvajqtab",
+  "key": "LNFMAC-141978",
+  "name": "EUAPS",
+  "type": "Facility",
+  "schemaUid": "01kjr7a5dqzm9nva15df24s3kr",
+  "attributes": {
+    "key": "LNFMAC-141978",
+    "name": "EUAPS",
+    "created": "2025-09-02T14:31:55.000Z",
+    "updated": "2025-10-28T14:20:47.000Z",
+    "location": "01kjr7rxj79949sdz6p24egwpq",
+    "manager": false
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

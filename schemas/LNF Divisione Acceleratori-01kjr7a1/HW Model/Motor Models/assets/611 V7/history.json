@@ -1,0 +1,18 @@
+[
+  {
+    "uid": "01kjr7ec3v0g2x6j5te171hydw",
+    "assetUid": "01kjr7eb7sr4hfbwbcdpsrq28c",
+    "type": "25",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2025-10-22T11:54:03.000"
+  },
+  {
+    "uid": "01kjr7ec44v9r6hee9qgvnw2a1",
+    "assetUid": "01kjr7eb7sr4hfbwbcdpsrq28c",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-10-22T11:50:48.000"
+  }
+]

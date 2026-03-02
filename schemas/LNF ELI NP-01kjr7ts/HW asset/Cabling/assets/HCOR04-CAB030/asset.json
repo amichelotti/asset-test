@@ -1,0 +1,30 @@
+{
+  "uid": "01kjr8efdjm4cdyp5d9z2gxqfe",
+  "key": "LNFELINP-111959",
+  "name": "HCOR04-CAB030",
+  "type": "Cabling",
+  "schemaUid": "01kjr6y2yhe6sjdvs376nmhzdm",
+  "attributes": {
+    "key": "LNFELINP-111959",
+    "name": "HCOR04-CAB030",
+    "created": "2023-11-30T12:02:40.000Z",
+    "updated": "2023-11-30T12:02:40.000Z",
+    "description": "H Corrector Type B2 Single plane",
+    "connector1_pair": "01kjr7y27xye2ghdb1eknvnbdp",
+    "connector2_pair": "01kjr8avjmvmc9kqzpj950kx4m",
+    "connector1_desc": "cable lugs",
+    "connector2_desc": "cable lugs",
+    "connection_type_desc": "bolted",
+    "cable_type_desc": "1xFG7OR 2x4mmq"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

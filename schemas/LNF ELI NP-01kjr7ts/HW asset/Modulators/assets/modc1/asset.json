@@ -1,0 +1,25 @@
+{
+  "uid": "01kjr8hgjx0abzwdgqjsvavnxw",
+  "key": "LNFELINP-144516",
+  "name": "modc1",
+  "type": "Modulators",
+  "schemaUid": "01kjr7v7gas3w8a3tbmb0epy8s",
+  "attributes": {
+    "key": "LNFELINP-144516",
+    "name": "modc1",
+    "created": "2025-12-02T08:28:14.000Z",
+    "updated": "2025-12-02T08:28:14.000Z",
+    "model": "01kjr7mkj4c0b9gbbqshd5ns43",
+    "ip": "10.16.4.153"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

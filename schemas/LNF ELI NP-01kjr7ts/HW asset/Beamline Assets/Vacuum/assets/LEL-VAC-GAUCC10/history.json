@@ -1,0 +1,50 @@
+[
+  {
+    "uid": "01kjr7wdyvfx6w4ytex23xmgw6",
+    "assetUid": "01kjr7wdcrm1c8x38yqc9h2t4z",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Cold cathode vacu...\",\"newValue\":\"Cold cathode vacu...\"}",
+    "timestamp": "2025-06-18T16:42:31.000"
+  },
+  {
+    "uid": "01kjr7wdz9vynry03sxn5d2cxx",
+    "assetUid": "01kjr7wdcrm1c8x38yqc9h2t4z",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"LEL-VAC-GAUCC10\",\"newValue\":\"LEL-VAC-GAUCC10???\"}",
+    "timestamp": "2025-06-18T16:42:31.000"
+  },
+  {
+    "uid": "01kjr7wdzr4ta38tvnz2e2sgmc",
+    "assetUid": "01kjr7wdcrm1c8x38yqc9h2t4z",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Layout\",\"oldValue\":\"REGION 4\",\"newValue\":\"M4-005\"}",
+    "timestamp": "2023-12-01T14:15:22.000"
+  },
+  {
+    "uid": "01kjr7we0aztykzbg0pnqvbw65",
+    "assetUid": "01kjr7wdcrm1c8x38yqc9h2t4z",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
+    "timestamp": "2023-11-30T13:39:48.000"
+  },
+  {
+    "uid": "01kjr7we0rkgnvwpcq7wdavvxy",
+    "assetUid": "01kjr7wdcrm1c8x38yqc9h2t4z",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Type\",\"oldValue\":\"\",\"newValue\":\"GAUCC\"}",
+    "timestamp": "2023-11-30T12:08:28.000"
+  },
+  {
+    "uid": "01kjr7we10sv2bf0afc4sbwxta",
+    "assetUid": "01kjr7wdcrm1c8x38yqc9h2t4z",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-11-29T23:57:48.000"
+  }
+]

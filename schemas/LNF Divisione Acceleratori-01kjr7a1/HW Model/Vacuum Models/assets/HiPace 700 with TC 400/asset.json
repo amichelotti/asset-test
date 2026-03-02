@@ -1,0 +1,26 @@
+{
+  "uid": "01kjr7jb2prrmbe7jw0m2mw3e1",
+  "key": "LNFMAC-147973",
+  "name": "HiPace 700 with TC 400",
+  "type": "Vacuum Models",
+  "schemaUid": "01kjr7a80fdsf027w9fnm5d7bj",
+  "attributes": {
+    "key": "LNFMAC-147973",
+    "name": "HiPace 700 with TC 400",
+    "created": "2026-03-02T16:15:29.000Z",
+    "updated": "2026-03-02T16:15:29.000Z",
+    "producer": "01kjr7cpxtdprd6bg75n0v8nd0",
+    "documentation": "https://www.pfeiffervacuum.com/global/en/product/hipace-700.html?",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><table data-number-column=\"false\" data-layout=\"default\" data-autosize=\"false\" data-table-local-id=\"058bc0d0-799e-448a-97b9-2f142693b6f8\"><tbody><tr><th class=\"pm-table-header-content-wrap\"><h2>Technical data</h2></th><th class=\"pm-table-header-content-wrap\"><h2>HiPace 700 with TC 400</h2></th></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Pumping speed for Ar</p></td><td class=\"pm-table-cell-content-wrap\"><p>665 l/s</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Pumping speed for He</p></td><td class=\"pm-table-cell-content-wrap\"><p>655 l/s</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Pumping speed for H₂</p></td><td class=\"pm-table-cell-content-wrap\"><p>555 l/s</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Pumping speed for N₂</p></td><td class=\"pm-table-cell-content-wrap\"><p>685 l/s</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Compression ratio for Ar</p></td><td class=\"pm-table-cell-content-wrap\"><p>1 · 10¹¹</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Compression ratio for He</p></td><td class=\"pm-table-cell-content-wrap\"><p>3 · 10⁷</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Compression ratio for H₂</p></td><td class=\"pm-table-cell-content-wrap\"><p>4 · 10⁵</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Compression ratio for N₂</p></td><td class=\"pm-table-cell-content-wrap\"><p>1 · 10¹¹</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Gas throughput at final rotational speed for Ar</p></td><td class=\"pm-table-cell-content-wrap\"><p>3.5 hPa l/s</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Gas throughput at final rotational speed for He</p></td><td class=\"pm-table-cell-content-wrap\"><p>20 hPa l/s</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Gas throughput at final rotational speed for H₂</p></td><td class=\"pm-table-cell-content-wrap\"><p>14 hPa l/s</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Gas throughput at final rotational speed for N₂</p></td><td class=\"pm-table-cell-content-wrap\"><p>6.5 hPa l/s</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Forevacuum max. for N₂</p></td><td class=\"pm-table-cell-content-wrap\"><p>11 hPa</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Run-up time</p></td><td class=\"pm-table-cell-content-wrap\"><p>4 min</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Communication interfaces optional</p></td><td class=\"pm-table-cell-content-wrap\"><p>Profibus, Profinet, Ethercat, Devicenet,Semi E74</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Communication interfaces standard</p></td><td class=\"pm-table-cell-content-wrap\"><p>RS-485, remote</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Mounting orientation</p></td><td class=\"pm-table-cell-content-wrap\"><p>arbitrary</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Sound pressure level (EN ISO 2151)</p></td><td class=\"pm-table-cell-content-wrap\"><p>50 dBA</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Weight approx.</p></td><td class=\"pm-table-cell-content-wrap\"><p>11.5 kg</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Gas inlet</p></td><td class=\"pm-table-cell-content-wrap\"><p>DN 160 ISO-K/ISO-F/CF-F</p></td></tr><tr><td class=\"pm-table-cell-content-wrap\"><p>Gas outlet</p></td><td class=\"pm-table-cell-content-wrap\"><p>DN 25 ISO-KF /G&nbsp;1/4\"</p></td></tr></tbody></table><p></p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

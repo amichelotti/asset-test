@@ -1,0 +1,26 @@
+[
+  {
+    "uid": "01kjr7epn4j8jk1sc54nc2372q",
+    "assetUid": "01kjr7eg3smjq07j91xx63zekh",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"GIT repo\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
+    "timestamp": "2025-09-02T14:08:14.000"
+  },
+  {
+    "uid": "01kjr7epnyb2pj76nwmm6q0vv3",
+    "assetUid": "01kjr7eg3smjq07j91xx63zekh",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"4UHV.pdf\"}",
+    "timestamp": "2024-12-05T15:41:44.000"
+  },
+  {
+    "uid": "01kjr7eppcdjy8xqga915sjvg4",
+    "assetUid": "01kjr7eg3smjq07j91xx63zekh",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-12-05T15:37:42.000"
+  }
+]

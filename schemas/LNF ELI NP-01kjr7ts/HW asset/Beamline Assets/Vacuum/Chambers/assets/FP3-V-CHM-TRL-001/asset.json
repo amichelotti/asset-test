@@ -1,0 +1,24 @@
+{
+  "uid": "01kjr75v9ntxmbcrhk7c5xg2xh",
+  "key": "LNFT2-147429",
+  "name": "FP3-V-CHM-TRL-001",
+  "type": "Chambers",
+  "schemaUid": "01kjr6y47n07vz66b700pr1yze",
+  "attributes": {
+    "key": "LNFT2-147429",
+    "name": "FP3-V-CHM-TRL-001",
+    "created": "2026-02-16T13:50:36.000Z",
+    "updated": "2026-02-16T13:54:36.000Z",
+    "objects": "01kjr70wtz5atchhpdkp9nfjpm"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "uid": "01kjr7yyz2ve5wk7331wdghv7t",
+  "key": "LNFELINP-138416",
+  "name": "plelinpdom002",
+  "type": "Server",
+  "schemaUid": "01kjr7txk47fkcz78a8ny0qd5t",
+  "attributes": {
+    "key": "LNFELINP-138416",
+    "name": "plelinpdom002",
+    "created": "2025-06-12T08:18:29.000Z",
+    "updated": "2025-06-13T10:16:36.000Z",
+    "status": "Active",
+    "location": "01kjr81zerkkpyf438w38aftth",
+    "serial": "E375578X4806148B",
+    "rack": "01kjr8aj6jv56383sfw6851sd8",
+    "mac": "7c:c2:55:31:81:ef",
+    "registered": "LNFMAC-130015",
+    "os": "AlmaLinux 9.5",
+    "ram": "128",
+    "cpu": "24",
+    "chassis": "01kjr8h69g7n00p723zht266pw",
+    "ethernet_mapping_linux": "enp65s0f3",
+    "ipmi_-_mac": "3c:ec:ef:aa:f8:a3",
+    "ip_-_ipmi": "10.16.2.102",
+    "model": "01kjr7j213nka7xx969vef80hy"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

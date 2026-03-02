@@ -1,0 +1,29 @@
+{
+  "uid": "01kjr712j5d9a59d2cykrn1txa",
+  "key": "LNFT2-145556",
+  "name": "FP7-W-MOT-HPB-001",
+  "type": "Motors",
+  "schemaUid": "01kjr6y2p67qjezym2da7b4sex",
+  "attributes": {
+    "key": "LNFT2-145556",
+    "name": "FP7-W-MOT-HPB-001",
+    "created": "2026-01-12T17:59:06.000Z",
+    "updated": "2026-01-12T17:59:06.000Z",
+    "status": "Active",
+    "owner": "LNFMAC-143535",
+    "locations": "01kjr7qfsj4fc66ywr7nk8sfk0",
+    "facility": "01kjr7svmreks51z8mp1tfeex6",
+    "hw_model": "01kjr7m6h9s53ax2ds2cjmehak",
+    "hw_connection": "01kjr73hgqc4r7x6qskwstnvz3"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

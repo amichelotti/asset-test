@@ -1,0 +1,24 @@
+[
+  {
+    "uid": "01kjr8bbg8ga4z2bwsmsvj0bkb",
+    "assetUid": "01kjr8b4dj9k5ghwtkyh1c0heb",
+    "filename": "R_RUF_02.jpg",
+    "mimeType": "image/jpeg",
+    "fileSize": 4251985,
+    "author": "JIRAUSER51951",
+    "created": "2025-06-12T16:38:35.000",
+    "binaryPath": "schemas/LNF ELI NP-01kjr7ts/HW asset/Rack/assets/R_RUF_02/attachments/R_RUF_02.jpg",
+    "hasBinary": true
+  },
+  {
+    "uid": "01kjr8b5dtdnhq6cjw2psb9ycs",
+    "assetUid": "01kjr8b4dj9k5ghwtkyh1c0heb",
+    "filename": "Screenshot 2025-02-26 at 13.58.03.png",
+    "mimeType": "image/png",
+    "fileSize": 111959,
+    "author": "amichelo",
+    "created": "2025-02-26T13:59:45.000",
+    "binaryPath": "schemas/LNF ELI NP-01kjr7ts/HW asset/Rack/assets/R_RUF_02/attachments/Screenshot 2025-02-26 at 13.58.03.png",
+    "hasBinary": true
+  }
+]

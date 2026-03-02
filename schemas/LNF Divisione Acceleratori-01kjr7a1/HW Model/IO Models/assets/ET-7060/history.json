@@ -1,0 +1,58 @@
+[
+  {
+    "uid": "01kjr7g3mhdrdax03fkkzrkv0x",
+    "assetUid": "01kjr7g2yw26y244p90j8kefpb",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"GIT repo\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
+    "timestamp": "2025-09-02T15:19:36.000"
+  },
+  {
+    "uid": "01kjr7g3n587dfs6x2sqr51dq6",
+    "assetUid": "01kjr7g2yw26y244p90j8kefpb",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"The ET-7060 provi...\",\"newValue\":\"The ET-7060 provi...\"}",
+    "timestamp": "2025-09-02T15:19:36.000"
+  },
+  {
+    "uid": "01kjr7g3neq7szbk9sp9k2fn2m",
+    "assetUid": "01kjr7g2yw26y244p90j8kefpb",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"The ET-7060 provi...\",\"newValue\":\"The ET-7060 provi...\"}",
+    "timestamp": "2024-07-24T23:34:25.000"
+  },
+  {
+    "uid": "01kjr7g3nqeksy9zyympn3zhc6",
+    "assetUid": "01kjr7g2yw26y244p90j8kefpb",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Documentation\",\"oldValue\":\"\",\"newValue\":\"https://www.icpda...\"}",
+    "timestamp": "2024-07-24T23:34:25.000"
+  },
+  {
+    "uid": "01kjr7g3p3j3j5x45mwsf6gv1n",
+    "assetUid": "01kjr7g2yw26y244p90j8kefpb",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"The ET-7060 provi...\",\"newValue\":\"The ET-7060 provi...\"}",
+    "timestamp": "2024-07-24T23:33:27.000"
+  },
+  {
+    "uid": "01kjr7g3pebj6ga4jq5b70f4nb",
+    "assetUid": "01kjr7g2yw26y244p90j8kefpb",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Vendor\",\"oldValue\":\"\",\"newValue\":\"RS COMPONENTS SRL\"}",
+    "timestamp": "2024-07-24T23:33:27.000"
+  },
+  {
+    "uid": "01kjr7g3pmvcfzz3re64hh04e8",
+    "assetUid": "01kjr7g2yw26y244p90j8kefpb",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-07-24T14:33:52.000"
+  }
+]

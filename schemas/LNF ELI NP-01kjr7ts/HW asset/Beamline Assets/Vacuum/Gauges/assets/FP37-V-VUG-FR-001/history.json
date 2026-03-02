@@ -1,0 +1,26 @@
+[
+  {
+    "uid": "01kjr74xatr3n3a156123kyrbk",
+    "assetUid": "01kjr74wtahg7qkeyrsh0wwhfz",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Controller\",\"oldValue\":\"\",\"newValue\":\"FPRCK1-V-VUG-CTR-001\"}",
+    "timestamp": "2026-01-26T13:59:10.000"
+  },
+  {
+    "uid": "01kjr74xb6fa3vymk7fpbcvfz2",
+    "assetUid": "01kjr74wtahg7qkeyrsh0wwhfz",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"HW connection\",\"oldValue\":\"\",\"newValue\":\"FPRCK1-V-VUG-CTR-001\"}",
+    "timestamp": "2026-01-26T13:59:10.000"
+  },
+  {
+    "uid": "01kjr74xbh20qk73kc2s7vxf66",
+    "assetUid": "01kjr74wtahg7qkeyrsh0wwhfz",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2026-01-26T13:52:42.000"
+  }
+]

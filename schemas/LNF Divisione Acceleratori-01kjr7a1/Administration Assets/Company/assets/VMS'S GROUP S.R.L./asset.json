@@ -1,0 +1,24 @@
+{
+  "uid": "01kjr7e3syk4grh4a2y4w9159b",
+  "key": "LNFMAC-109360",
+  "name": "VMS'S GROUP S.R.L.",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-109360",
+    "name": "VMS'S GROUP S.R.L.",
+    "created": "2023-10-10T12:39:21.000Z",
+    "updated": "2023-10-10T12:39:21.000Z",
+    "contact": "VMS'S GROUP S.R.L."
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

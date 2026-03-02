@@ -1,0 +1,30 @@
+{
+  "uid": "01kjr6yebpyym13dkx8321a5aa",
+  "key": "LNFT2-147224",
+  "name": "FI8-V-PMP-TRB-003",
+  "type": "Secondary Pumps",
+  "schemaUid": "01kjr6y37dvdrzpq6s7kznrx0p",
+  "attributes": {
+    "key": "LNFT2-147224",
+    "name": "FI8-V-PMP-TRB-003",
+    "created": "2026-02-11T12:13:08.000Z",
+    "updated": "2026-02-24T09:54:50.000Z",
+    "status": "Active",
+    "owner": "LNFMAC-143538",
+    "locations": "01kjr7qe4212183j0ceepct95g",
+    "facility": "01kjr7svmreks51z8mp1tfeex6",
+    "hw_model": "01kjr7jd9km8exdzp95k87yhmn",
+    "primary_pump": "01kjr6ycza9pfvdsfgdm3m006g",
+    "controller": "01kjr6yj9y314byxzdgrrvm37q"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

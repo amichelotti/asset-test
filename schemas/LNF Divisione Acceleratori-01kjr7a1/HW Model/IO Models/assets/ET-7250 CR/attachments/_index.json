@@ -1,0 +1,24 @@
+[
+  {
+    "uid": "01kjr7hd8tjtsgssyvzy9jk6s0",
+    "assetUid": "01kjr7gq8ny93hrp7nn6xgs1we",
+    "filename": "pet_et7x00_register_table (1).pdf",
+    "mimeType": "application/pdf",
+    "fileSize": 7509662,
+    "author": "amichelo",
+    "created": "2024-09-18T09:56:29.000",
+    "binaryPath": "schemas/LNF Divisione Acceleratori-01kjr7a1/HW Model/IO Models/assets/ET-7250 CR/attachments/pet_et7x00_register_table (1).pdf",
+    "hasBinary": true
+  },
+  {
+    "uid": "01kjr7gxfnd9kq4sct5f6ar1jb",
+    "assetUid": "01kjr7gq8ny93hrp7nn6xgs1we",
+    "filename": "pet_et-7x00_user_manual_en (1).pdf",
+    "mimeType": "application/pdf",
+    "fileSize": 7504769,
+    "author": "amichelo",
+    "created": "2024-09-18T09:56:28.000",
+    "binaryPath": "schemas/LNF Divisione Acceleratori-01kjr7a1/HW Model/IO Models/assets/ET-7250 CR/attachments/pet_et-7x00_user_manual_en (1).pdf",
+    "hasBinary": true
+  }
+]

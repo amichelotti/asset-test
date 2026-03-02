@@ -1,0 +1,74 @@
+[
+  {
+    "uid": "01kjr7jxfhb1yf99599c1yp880",
+    "assetUid": "01kjr7jqf78nazh48phpfmfv6d",
+    "type": "3",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"3\",\"attribute\":\"Control SW\",\"oldValue\":\"https://github.co...\",\"newValue\":\"\"}",
+    "timestamp": "2025-09-02T13:53:41.000"
+  },
+  {
+    "uid": "01kjr7jxg3s561rpnr1e8pdq2n",
+    "assetUid": "01kjr7jqf78nazh48phpfmfv6d",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"GIT repo\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
+    "timestamp": "2025-09-02T13:53:41.000"
+  },
+  {
+    "uid": "01kjr7jxgfyyp4mtd8wxxffskn",
+    "assetUid": "01kjr7jqf78nazh48phpfmfv6d",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Control SW\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
+    "timestamp": "2025-09-02T12:42:46.000"
+  },
+  {
+    "uid": "01kjr7jxgzz6xz9vb6c05qwkck",
+    "assetUid": "01kjr7jqf78nazh48phpfmfv6d",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"6 channels +- 15A 8V\",\"newValue\":\"6 channels +- 15A 8V\"}",
+    "timestamp": "2025-09-02T12:42:46.000"
+  },
+  {
+    "uid": "01kjr7jxha2r1055mbwt2m3jew",
+    "assetUid": "01kjr7jqf78nazh48phpfmfv6d",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"BE2812_user_manua...\"}",
+    "timestamp": "2024-11-08T17:28:54.000"
+  },
+  {
+    "uid": "01kjr7jxjsr72javndqrh5febg",
+    "assetUid": "01kjr7jqf78nazh48phpfmfv6d",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"BE2811_user_manua...\"}",
+    "timestamp": "2024-11-08T17:28:06.000"
+  },
+  {
+    "uid": "01kjr7jxkm06hw3jpq20tsjvhq",
+    "assetUid": "01kjr7jqf78nazh48phpfmfv6d",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"Bilt_Prog_Manual.pdf\"}",
+    "timestamp": "2024-11-08T17:27:20.000"
+  },
+  {
+    "uid": "01kjr7jxkyr482eyr4z0bfeqyb",
+    "assetUid": "01kjr7jqf78nazh48phpfmfv6d",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"Bilt_User_Manual.pdf\"}",
+    "timestamp": "2024-11-08T17:26:43.000"
+  },
+  {
+    "uid": "01kjr7jxm5wb1e00zsdnqb8p6q",
+    "assetUid": "01kjr7jqf78nazh48phpfmfv6d",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-11-08T15:41:12.000"
+  }
+]

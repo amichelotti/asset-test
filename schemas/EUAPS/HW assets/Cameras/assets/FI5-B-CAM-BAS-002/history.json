@@ -1,0 +1,42 @@
+[
+  {
+    "uid": "01kjr7948kdzk9hpr0mjgcfw4x",
+    "assetUid": "01kjr791581rz2s3bmwb5mgjv5",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Alias\",\"oldValue\":\"\",\"newValue\":\"cceuapscam12\"}",
+    "timestamp": "2026-02-25T12:08:43.000"
+  },
+  {
+    "uid": "01kjr79497c5xqzf5z0m2z6frb",
+    "assetUid": "01kjr791581rz2s3bmwb5mgjv5",
+    "type": "7",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"7\",\"newValue\":\"image.jpg\"}",
+    "timestamp": "2026-02-24T15:24:00.000"
+  },
+  {
+    "uid": "01kjr7949pzjf3df8eg6qte2yz",
+    "assetUid": "01kjr791581rz2s3bmwb5mgjv5",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"MAC ADDRESS\",\"oldValue\":\"\",\"newValue\":\"00:30:53:35:E6:C1\"}",
+    "timestamp": "2026-02-24T15:22:27.000"
+  },
+  {
+    "uid": "01kjr794a0d8gsrewg8zbym655",
+    "assetUid": "01kjr791581rz2s3bmwb5mgjv5",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"S/N\",\"oldValue\":\"\",\"newValue\":\"40419637\"}",
+    "timestamp": "2026-02-24T15:22:27.000"
+  },
+  {
+    "uid": "01kjr794aet8e957w16tdxk3s6",
+    "assetUid": "01kjr791581rz2s3bmwb5mgjv5",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2026-01-08T18:10:14.000"
+  }
+]

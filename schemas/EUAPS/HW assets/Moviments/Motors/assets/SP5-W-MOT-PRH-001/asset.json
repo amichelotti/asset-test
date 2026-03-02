@@ -1,0 +1,27 @@
+{
+  "uid": "01kjr71awqr969raybem0m2gzm",
+  "key": "LNFT2-148006",
+  "name": "SP5-W-MOT-PRH-001",
+  "type": "Motors",
+  "schemaUid": "01kjr6y2p67qjezym2da7b4sex",
+  "attributes": {
+    "key": "LNFT2-148006",
+    "name": "SP5-W-MOT-PRH-001",
+    "created": "2026-03-02T17:03:26.000Z",
+    "updated": "2026-03-02T17:03:26.000Z",
+    "owner": "LNFMAC-143535",
+    "locations": "01kjr7s02ka6917dvpvndhnet5",
+    "facility": "01kjr7st4dyad67rx9rvajqtab",
+    "hw_model": "01kjr7kgzk4znm878nx5kqrp07"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

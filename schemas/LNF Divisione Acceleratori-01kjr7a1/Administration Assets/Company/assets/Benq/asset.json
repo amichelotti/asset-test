@@ -1,0 +1,23 @@
+{
+  "uid": "01kjr7ayvp8f6hpvpk6bx084zs",
+  "key": "LNFMAC-99279",
+  "name": "Benq",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-99279",
+    "name": "Benq",
+    "created": "2023-05-09T13:53:14.000Z",
+    "updated": "2023-05-09T13:53:14.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

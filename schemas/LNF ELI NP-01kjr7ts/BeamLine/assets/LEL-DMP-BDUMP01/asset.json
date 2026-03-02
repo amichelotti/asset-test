@@ -1,0 +1,29 @@
+{
+  "uid": "01kjr856y2ce90k5xc7rwyhm0c",
+  "key": "LNFELINP-112394",
+  "name": "LEL-DMP-BDUMP01",
+  "type": "BeamLine",
+  "schemaUid": "01kjr7v4j2cf714dfa2vz1fgzp",
+  "attributes": {
+    "key": "LNFELINP-112394",
+    "name": "LEL-DMP-BDUMP01",
+    "created": "2023-11-30T23:48:41.000Z",
+    "updated": "2023-12-01T13:24:37.000Z",
+    "module": "M4A",
+    "layout": "LNFELINP-112505",
+    "sequential": "78",
+    "previous_element": "01kjr86nzpzw2btak2swmdke9g",
+    "next_element": "01kjr86tx31ycc87vtbyshz68r",
+    "element": "01kjr82awh3n414bj813fwz1pg"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

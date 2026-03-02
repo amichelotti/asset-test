@@ -1,0 +1,50 @@
+[
+  {
+    "uid": "01kjr75hxdcer0qh3r1ryf204k",
+    "assetUid": "01kjr75hc0fcmmpkbrjx62v48w",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Vaccum Objects\",\"oldValue\":\"\",\"newValue\":\"FP32-V-VLV-GATE-001\"}",
+    "timestamp": "2026-02-16T15:14:39.000"
+  },
+  {
+    "uid": "01kjr75hxq1yp9ttg3h2qw2a9n",
+    "assetUid": "01kjr75hc0fcmmpkbrjx62v48w",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Facility\",\"oldValue\":\"\",\"newValue\":\"EUAPS\"}",
+    "timestamp": "2026-02-16T15:14:39.000"
+  },
+  {
+    "uid": "01kjr75hxz6kgy6yv1fh0y2w5b",
+    "assetUid": "01kjr75hc0fcmmpkbrjx62v48w",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Locations\",\"oldValue\":\"\",\"newValue\":\"LNF.D1.DE56.GF.BAL1\"}",
+    "timestamp": "2026-02-16T15:14:39.000"
+  },
+  {
+    "uid": "01kjr75hyb223e188jpq8h7s8m",
+    "assetUid": "01kjr75hc0fcmmpkbrjx62v48w",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Owner\",\"oldValue\":\"\",\"newValue\":\"SERVIZIO VUOTO\"}",
+    "timestamp": "2026-02-16T15:14:39.000"
+  },
+  {
+    "uid": "01kjr75hyx1ry2x5cfmvb1gxh5",
+    "assetUid": "01kjr75hc0fcmmpkbrjx62v48w",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2026-02-16T15:14:39.000"
+  },
+  {
+    "uid": "01kjr75hzc31czhvbpgn3s03rz",
+    "assetUid": "01kjr75hc0fcmmpkbrjx62v48w",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2026-02-16T15:01:46.000"
+  }
+]

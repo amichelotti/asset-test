@@ -1,0 +1,42 @@
+[
+  {
+    "uid": "01kjr7j6h454d0e4z3rn255f5z",
+    "assetUid": "01kjr7j40r501t7n5w50sv55wr",
+    "type": "3",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"3\",\"attribute\":\"Control SW\",\"oldValue\":\"https://github.co...\",\"newValue\":\"\"}",
+    "timestamp": "2025-09-02T13:53:11.000"
+  },
+  {
+    "uid": "01kjr7j6hn9hqs7k162m0crpv4",
+    "assetUid": "01kjr7j40r501t7n5w50sv55wr",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"GIT repo\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
+    "timestamp": "2025-09-02T13:53:11.000"
+  },
+  {
+    "uid": "01kjr7j6hwx3d8gpw0v94rxafj",
+    "assetUid": "01kjr7j40r501t7n5w50sv55wr",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"exchange_table.pdf\"}",
+    "timestamp": "2025-09-02T13:28:38.000"
+  },
+  {
+    "uid": "01kjr7j6j9zt0wtwesqqxqv9hw",
+    "assetUid": "01kjr7j40r501t7n5w50sv55wr",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"131968.0002.revA0...\"}",
+    "timestamp": "2025-09-02T13:27:25.000"
+  },
+  {
+    "uid": "01kjr7j6jhyr22fabe6jeexzq4",
+    "assetUid": "01kjr7j40r501t7n5w50sv55wr",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-09-02T13:25:28.000"
+  }
+]

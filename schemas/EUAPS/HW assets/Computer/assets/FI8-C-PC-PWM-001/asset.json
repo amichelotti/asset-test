@@ -1,0 +1,23 @@
+{
+  "uid": "01kjr79t06g8pan6w6adxrk72n",
+  "key": "LNFT2-147904",
+  "name": "FI8-C-PC-PWM-001",
+  "type": "Computer",
+  "schemaUid": "01kjr6y5crd0asqhfpc0s8e4e5",
+  "attributes": {
+    "key": "LNFT2-147904",
+    "name": "FI8-C-PC-PWM-001",
+    "created": "2026-03-02T14:15:46.000Z",
+    "updated": "2026-03-02T14:15:46.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

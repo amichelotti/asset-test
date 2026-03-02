@@ -1,0 +1,25 @@
+{
+  "uid": "01kjr7k31n5y9dp3500bz08yat",
+  "key": "LNFMAC-143728",
+  "name": "KL2541",
+  "type": "Controller Motor Models",
+  "schemaUid": "01kjr7a37k9w0hb0h9f730f4c7",
+  "attributes": {
+    "key": "LNFMAC-143728",
+    "name": "KL2541",
+    "created": "2025-11-03T16:59:21.000Z",
+    "updated": "2025-11-03T16:59:21.000Z",
+    "producer": "01kjr7ay6ggb48xm5gsn98c5wz",
+    "documentation": "https://www.beckhoff.com/it-it/products/i-o/bus-terminals/kl2xxx-digital-output/kl2541.html"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

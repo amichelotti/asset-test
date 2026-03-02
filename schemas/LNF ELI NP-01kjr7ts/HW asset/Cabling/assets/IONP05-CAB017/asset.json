@@ -1,0 +1,30 @@
+{
+  "uid": "01kjr8f232hqk89qgv9z8gpcb6",
+  "key": "LNFELINP-111942",
+  "name": "IONP05-CAB017",
+  "type": "Cabling",
+  "schemaUid": "01kjr6y2yhe6sjdvs376nmhzdm",
+  "attributes": {
+    "key": "LNFELINP-111942",
+    "name": "IONP05-CAB017",
+    "created": "2023-11-30T12:02:27.000Z",
+    "updated": "2023-11-30T12:02:27.000Z",
+    "description": "Ion pump 75 l/s",
+    "connector1_pair": "01kjr7wrnwc7k50gv0kak1ekf7",
+    "connector2_pair": "01kjr8apaefctm4h1paf2mgq4m",
+    "connector1_desc": "fischer K105A049 d5.2 + Banana socket",
+    "connector2_desc": "fischer S105A049 d5.2 + Banana Plug",
+    "connection_type_desc": "solder",
+    "cable_type_desc": "CEAM RG58HV 7.5 kV + interlock 2x0.75"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

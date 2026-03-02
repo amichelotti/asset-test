@@ -1,0 +1,25 @@
+{
+  "uid": "01kjr7960y5e26a8bbfnafnxkw",
+  "key": "LNFT2-145372",
+  "name": "FI8-B-CAM-BAS-001",
+  "type": "Cameras",
+  "schemaUid": "01kjr6y4tdzhz6fn2cs9q0be1h",
+  "attributes": {
+    "key": "LNFT2-145372",
+    "name": "FI8-B-CAM-BAS-001",
+    "created": "2026-01-08T17:42:50.000Z",
+    "updated": "2026-01-08T17:42:50.000Z",
+    "locations": "01kjr7qe4212183j0ceepct95g",
+    "facility": "01kjr7svmreks51z8mp1tfeex6"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

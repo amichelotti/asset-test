@@ -1,0 +1,24 @@
+{
+  "uid": "01kjr7db6yaxjpjw7vb97x0rnd",
+  "key": "LNFMAC-109336",
+  "name": "SERVOTECNICA SPA",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-109336",
+    "name": "SERVOTECNICA SPA",
+    "created": "2023-10-10T12:39:12.000Z",
+    "updated": "2023-10-10T12:39:12.000Z",
+    "contact": "SERVOTECNICA SPA"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

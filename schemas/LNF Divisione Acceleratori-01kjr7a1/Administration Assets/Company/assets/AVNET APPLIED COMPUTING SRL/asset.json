@@ -1,0 +1,24 @@
+{
+  "uid": "01kjr7ash0677k56edj1f3e65z",
+  "key": "LNFMAC-109359",
+  "name": "AVNET APPLIED COMPUTING SRL",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-109359",
+    "name": "AVNET APPLIED COMPUTING SRL",
+    "created": "2023-10-10T12:39:21.000Z",
+    "updated": "2023-10-10T12:39:21.000Z",
+    "contact": "AVNET APPLIED COMPUTING SRL"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "uid": "01kjr75wbs80ha8akn4bf07ng8",
+    "assetUid": "01kjr75vyrh7p408fvgskgn7r1",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Objects\",\"oldValue\":\"\",\"newValue\":\"FP4-W-MOT-HMN-001...\"}",
+    "timestamp": "2026-02-16T14:56:47.000"
+  },
+  {
+    "uid": "01kjr75wc0evtpnbwrmkrypsg2",
+    "assetUid": "01kjr75vyrh7p408fvgskgn7r1",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Locations\",\"oldValue\":\"\",\"newValue\":\"LNF.D1.DE56.GF.BAL1\"}",
+    "timestamp": "2026-02-16T14:56:47.000"
+  },
+  {
+    "uid": "01kjr75wc3p5avcnzyghzexx46",
+    "assetUid": "01kjr75vyrh7p408fvgskgn7r1",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Owner\",\"oldValue\":\"\",\"newValue\":\"SERVIZIO VUOTO\"}",
+    "timestamp": "2026-02-16T14:56:47.000"
+  },
+  {
+    "uid": "01kjr75wc6z839e9m3myqckvbv",
+    "assetUid": "01kjr75vyrh7p408fvgskgn7r1",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2026-02-16T14:56:47.000"
+  },
+  {
+    "uid": "01kjr75wc967trr6mwfkvc5czf",
+    "assetUid": "01kjr75vyrh7p408fvgskgn7r1",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"Camera di traspor...\"}",
+    "timestamp": "2026-02-16T14:56:47.000"
+  },
+  {
+    "uid": "01kjr75wccpqbkh1gc1atnxy9d",
+    "assetUid": "01kjr75vyrh7p408fvgskgn7r1",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2026-02-16T14:50:41.000"
+  }
+]

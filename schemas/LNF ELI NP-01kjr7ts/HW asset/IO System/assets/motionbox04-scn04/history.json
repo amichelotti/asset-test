@@ -1,0 +1,42 @@
+[
+  {
+    "uid": "01kjr845nrjbqpsxscbnwbevyj",
+    "assetUid": "01kjr842wqg0qkpvfzswgtzz5c",
+    "type": "4",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"4\",\"attribute\":\"connector\",\"oldValue\":\"\",\"newValue\":\"MOTCON4-ser\"}",
+    "timestamp": "2025-06-13T14:46:46.000"
+  },
+  {
+    "uid": "01kjr845pe6na2ttrkfeta7a3e",
+    "assetUid": "01kjr842wqg0qkpvfzswgtzz5c",
+    "type": "7",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"7\",\"newValue\":\"Screenshot 2025-0...\"}",
+    "timestamp": "2025-06-11T14:31:55.000"
+  },
+  {
+    "uid": "01kjr845pzc3q2adzxjddx5vgb",
+    "assetUid": "01kjr842wqg0qkpvfzswgtzz5c",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"motionbox04\",\"newValue\":\"motionbox04-scn04\"}",
+    "timestamp": "2025-06-11T13:57:06.000"
+  },
+  {
+    "uid": "01kjr845q9sgh49v0g54rxpejt",
+    "assetUid": "01kjr842wqg0qkpvfzswgtzz5c",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Alias\",\"oldValue\":\"\",\"newValue\":\"Master 4\"}",
+    "timestamp": "2025-03-06T17:25:14.000"
+  },
+  {
+    "uid": "01kjr845qr4kf04w72z3zs6wt2",
+    "assetUid": "01kjr842wqg0qkpvfzswgtzz5c",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-03-06T17:24:13.000"
+  }
+]

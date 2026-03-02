@@ -1,0 +1,18 @@
+[
+  {
+    "uid": "01kjr7mhwj4wwy906x3c7wadrn",
+    "assetUid": "01kjr7mgxejpb6y8je6z2rcfye",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"STEMlab 125-14 is...\",\"newValue\":\"STEMlab 125-14 is...\"}",
+    "timestamp": "2025-09-02T15:35:27.000"
+  },
+  {
+    "uid": "01kjr7mhx8a87fxr66b90g10cr",
+    "assetUid": "01kjr7mgxejpb6y8je6z2rcfye",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-09-02T15:31:49.000"
+  }
+]

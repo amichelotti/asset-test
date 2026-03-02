@@ -1,0 +1,24 @@
+[
+  {
+    "uid": "01kjr7j65as4keyt447evwqk69",
+    "assetUid": "01kjr7j40r501t7n5w50sv55wr",
+    "filename": "exchange_table.pdf",
+    "mimeType": "application/pdf",
+    "fileSize": 33844,
+    "author": "amichelo",
+    "created": "2025-09-02T13:28:37.000",
+    "binaryPath": "schemas/LNF Divisione Acceleratori-01kjr7a1/HW Model/Power Supplies Models/assets/Hazemeyer IOcaste/attachments/exchange_table.pdf",
+    "hasBinary": true
+  },
+  {
+    "uid": "01kjr7j5sfrbz60tbewgvvv9v1",
+    "assetUid": "01kjr7j40r501t7n5w50sv55wr",
+    "filename": "131968.0002.revA0 - 14V 110A Infn IOcaste user manual (2).pdf",
+    "mimeType": "application/pdf",
+    "fileSize": 1055823,
+    "author": "amichelo",
+    "created": "2025-09-02T13:27:24.000",
+    "binaryPath": "schemas/LNF Divisione Acceleratori-01kjr7a1/HW Model/Power Supplies Models/assets/Hazemeyer IOcaste/attachments/131968.0002.revA0 - 14V 110A Infn IOcaste user manual (2).pdf",
+    "hasBinary": true
+  }
+]

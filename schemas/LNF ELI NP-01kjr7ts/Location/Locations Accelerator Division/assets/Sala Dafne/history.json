@@ -1,0 +1,50 @@
+[
+  {
+    "uid": "01kjr7rd3dydkkfm9gjcgzcm34",
+    "assetUid": "01kjr7rcdphttwknz4xzbcqde3",
+    "type": "29",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"29\"}",
+    "timestamp": "2025-10-28T15:52:12.000"
+  },
+  {
+    "uid": "01kjr7rd43n0296jn2pw5g42qv",
+    "assetUid": "01kjr7rcdphttwknz4xzbcqde3",
+    "type": "28",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"28\"}",
+    "timestamp": "2025-10-28T15:49:10.000"
+  },
+  {
+    "uid": "01kjr7rd4v40cv9q1t6t5ykq2f",
+    "assetUid": "01kjr7rcdphttwknz4xzbcqde3",
+    "type": "24",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"24\",\"oldValue\":\"Location\",\"newValue\":\"FLAME Ed 56\"}",
+    "timestamp": "2025-10-28T15:47:30.000"
+  },
+  {
+    "uid": "01kjr7rd57d9n5r2bs9xyeqsyv",
+    "assetUid": "01kjr7rcdphttwknz4xzbcqde3",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Area\",\"oldValue\":\"\",\"newValue\":\"Dafne\"}",
+    "timestamp": "2023-10-03T16:41:55.000"
+  },
+  {
+    "uid": "01kjr7rd5hhf4gfhpbrprd1yvx",
+    "assetUid": "01kjr7rcdphttwknz4xzbcqde3",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"Dafne\",\"newValue\":\"Sala Dafne\"}",
+    "timestamp": "2023-03-22T10:27:59.000"
+  },
+  {
+    "uid": "01kjr7rd5x2647vtp5gryf905m",
+    "assetUid": "01kjr7rcdphttwknz4xzbcqde3",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-03-22T09:49:27.000"
+  }
+]

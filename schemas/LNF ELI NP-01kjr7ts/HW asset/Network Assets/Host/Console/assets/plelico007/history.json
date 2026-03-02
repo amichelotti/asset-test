@@ -1,0 +1,66 @@
+[
+  {
+    "uid": "01kjr7w4q2pxsn19xdj6110s7m",
+    "assetUid": "01kjr7w3r0vt2bth669av3s6as",
+    "type": "1",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"1\",\"attribute\":\"RAM\",\"oldValue\":\"\",\"newValue\":\"12\"}",
+    "timestamp": "2025-10-01T14:07:12.000"
+  },
+  {
+    "uid": "01kjr7w4qjh50ypwg0cr259p95",
+    "assetUid": "01kjr7w3r0vt2bth669av3s6as",
+    "type": "2",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"2\",\"attribute\":\"OS\",\"oldValue\":\"Windows\",\"newValue\":\"Ubuntu 20.04\"}",
+    "timestamp": "2025-10-01T14:07:12.000"
+  },
+  {
+    "uid": "01kjr7w4qstwp4jnewj8q7cf4z",
+    "assetUid": "01kjr7w3r0vt2bth669av3s6as",
+    "type": "1",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"1\",\"attribute\":\"MAC\",\"oldValue\":\"\",\"newValue\":\"18:66:DA:2A:09:69\"}",
+    "timestamp": "2025-10-01T14:07:12.000"
+  },
+  {
+    "uid": "01kjr7w4r3kkdqzcyz5j2b4jea",
+    "assetUid": "01kjr7w3r0vt2bth669av3s6as",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Location\",\"oldValue\":\"ufficio andrea\",\"newValue\":\"Laboratorio Contr...\"}",
+    "timestamp": "2025-09-30T15:45:13.000"
+  },
+  {
+    "uid": "01kjr7w4rfvcbymphjfg0vew99",
+    "assetUid": "01kjr7w3r0vt2bth669av3s6as",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"EX windows in lab...\"}",
+    "timestamp": "2025-09-30T15:45:13.000"
+  },
+  {
+    "uid": "01kjr7w4rxbmcws0qm0r0qbqnm",
+    "assetUid": "01kjr7w3r0vt2bth669av3s6as",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"pweli001\",\"newValue\":\"plelico007\"}",
+    "timestamp": "2025-09-30T15:45:13.000"
+  },
+  {
+    "uid": "01kjr7w4s82qfhamjy8emwe9mc",
+    "assetUid": "01kjr7w3r0vt2bth669av3s6as",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Location\",\"oldValue\":\"sala lat\",\"newValue\":\"ufficio andrea\"}",
+    "timestamp": "2025-01-31T11:27:36.000"
+  },
+  {
+    "uid": "01kjr7w4ss7d1bcyn38zgr982x",
+    "assetUid": "01kjr7w3r0vt2bth669av3s6as",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-04-11T13:23:25.000"
+  }
+]

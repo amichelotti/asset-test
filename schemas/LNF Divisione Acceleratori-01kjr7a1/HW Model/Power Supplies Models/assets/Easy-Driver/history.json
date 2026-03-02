@@ -1,0 +1,42 @@
+[
+  {
+    "uid": "01kjr7fg52qhzmcshg2r11kr53",
+    "assetUid": "01kjr7ffhqry37d6as3p3763ky",
+    "type": "3",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"3\",\"attribute\":\"Control SW\",\"oldValue\":\"https://github.co...\",\"newValue\":\"\"}",
+    "timestamp": "2025-09-02T13:52:46.000"
+  },
+  {
+    "uid": "01kjr7fg5qmcf1aaq7zwnew5mv",
+    "assetUid": "01kjr7ffhqry37d6as3p3763ky",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"GIT repo\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
+    "timestamp": "2025-09-02T13:52:46.000"
+  },
+  {
+    "uid": "01kjr7fg672dtycgvftt8mnjph",
+    "assetUid": "01kjr7ffhqry37d6as3p3763ky",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"EASY-DRIVER\",\"newValue\":\"Easy-Driver\"}",
+    "timestamp": "2025-09-02T13:04:29.000"
+  },
+  {
+    "uid": "01kjr7fg6j7nze7mw70nytkxyw",
+    "assetUid": "01kjr7ffhqry37d6as3p3763ky",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Control SW\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
+    "timestamp": "2025-09-02T12:43:30.000"
+  },
+  {
+    "uid": "01kjr7fg76dcn2se7583hazh65",
+    "assetUid": "01kjr7ffhqry37d6as3p3763ky",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-09-02T12:22:19.000"
+  }
+]

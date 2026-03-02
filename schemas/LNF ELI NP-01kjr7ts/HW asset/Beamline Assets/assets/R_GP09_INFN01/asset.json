@@ -1,0 +1,23 @@
+{
+  "uid": "01kjr89ktqzjjm8k6vtbs9004p",
+  "key": "LNFELINP-112559",
+  "name": "R_GP09_INFN01",
+  "type": "Beamline Assets",
+  "schemaUid": "01kjr7v5j1psjrgx3cv2mkh5wf",
+  "attributes": {
+    "key": "LNFELINP-112559",
+    "name": "R_GP09_INFN01",
+    "created": "2023-12-01T13:15:47.000Z",
+    "updated": "2023-12-01T13:15:47.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

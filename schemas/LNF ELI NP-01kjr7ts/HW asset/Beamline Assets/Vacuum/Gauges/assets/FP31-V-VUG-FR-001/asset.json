@@ -1,0 +1,25 @@
+{
+  "uid": "01kjr74v9skphfd3a8yzkn64p5",
+  "key": "LNFT2-146394",
+  "name": "FP31-V-VUG-FR-001",
+  "type": "Gauges",
+  "schemaUid": "01kjr6y3mtpsbte9x49pg8a7t6",
+  "attributes": {
+    "key": "LNFT2-146394",
+    "name": "FP31-V-VUG-FR-001",
+    "created": "2026-01-26T12:52:23.000Z",
+    "updated": "2026-01-26T12:52:23.000Z",
+    "hw_model": "01kjr7m7cx3c955k0xxtyxjrpq",
+    "controller": "01kjr74xm09yw42a3pege91pbs"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

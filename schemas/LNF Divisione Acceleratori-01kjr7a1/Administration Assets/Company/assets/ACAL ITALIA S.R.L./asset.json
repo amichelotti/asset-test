@@ -1,0 +1,24 @@
+{
+  "uid": "01kjr7adx1e3jap7vdw8z4ks49",
+  "key": "LNFMAC-109313",
+  "name": "ACAL ITALIA S.R.L.",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-109313",
+    "name": "ACAL ITALIA S.R.L.",
+    "created": "2023-10-10T12:39:05.000Z",
+    "updated": "2023-10-10T12:39:05.000Z",
+    "contact": "ACAL ITALIA S.R.L."
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

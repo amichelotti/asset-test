@@ -1,0 +1,58 @@
+[
+  {
+    "uid": "01kjr6ygj33260t0drdpqb41xf",
+    "assetUid": "01kjr6yg7e5f8g3f11pbr4y3gj",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"FI-K-RCK-CTR-001\"}",
+    "timestamp": "2026-02-11T16:25:05.000"
+  },
+  {
+    "uid": "01kjr6ygj4exvs83ysz5n3pzyt",
+    "assetUid": "01kjr6yg7e5f8g3f11pbr4y3gj",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"HW Model\",\"oldValue\":\"\",\"newValue\":\"TwisTorr 305 FS CTR\"}",
+    "timestamp": "2026-02-11T16:25:05.000"
+  },
+  {
+    "uid": "01kjr6ygj52zvk36hvcm1bz6jz",
+    "assetUid": "01kjr6yg7e5f8g3f11pbr4y3gj",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Facility\",\"oldValue\":\"\",\"newValue\":\"EUAPS\"}",
+    "timestamp": "2026-02-11T16:25:05.000"
+  },
+  {
+    "uid": "01kjr6ygj609pkh523yqnzppdq",
+    "assetUid": "01kjr6yg7e5f8g3f11pbr4y3gj",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Locations\",\"oldValue\":\"\",\"newValue\":\"LNF.D1.DE56.B1.BAL1\"}",
+    "timestamp": "2026-02-11T16:25:05.000"
+  },
+  {
+    "uid": "01kjr6ygj61gdtwa13wpqqrrbh",
+    "assetUid": "01kjr6yg7e5f8g3f11pbr4y3gj",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Owner\",\"oldValue\":\"\",\"newValue\":\"SERVIZIO VUOTO\"}",
+    "timestamp": "2026-02-11T16:25:05.000"
+  },
+  {
+    "uid": "01kjr6ygj7frnzrqqc444wpvqc",
+    "assetUid": "01kjr6yg7e5f8g3f11pbr4y3gj",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2026-02-11T16:25:05.000"
+  },
+  {
+    "uid": "01kjr6ygj7dfxge81c72hjde1j",
+    "assetUid": "01kjr6yg7e5f8g3f11pbr4y3gj",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2026-02-11T13:14:20.000"
+  }
+]

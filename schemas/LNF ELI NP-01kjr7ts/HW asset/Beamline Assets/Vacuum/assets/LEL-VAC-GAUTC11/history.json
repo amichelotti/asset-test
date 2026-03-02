@@ -1,0 +1,50 @@
+[
+  {
+    "uid": "01kjr7wmexmsys0fmf44593zx0",
+    "assetUid": "01kjr7wknvrhebgq85qgvfb99e",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Thermal conductiv...\",\"newValue\":\"Thermal conductiv...\"}",
+    "timestamp": "2025-06-18T16:42:47.000"
+  },
+  {
+    "uid": "01kjr7wmfj6b4y9mz7e7xpzn5d",
+    "assetUid": "01kjr7wknvrhebgq85qgvfb99e",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"LEL-VAC-GAUTC11\",\"newValue\":\"LEL-VAC-GAUTC11???\"}",
+    "timestamp": "2025-06-18T16:42:47.000"
+  },
+  {
+    "uid": "01kjr7wmg2asxk473pam35b2kh",
+    "assetUid": "01kjr7wknvrhebgq85qgvfb99e",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Layout\",\"oldValue\":\"REGION 4\",\"newValue\":\"M4-006\"}",
+    "timestamp": "2023-12-01T14:15:23.000"
+  },
+  {
+    "uid": "01kjr7wmgaykg2kzvbha2cb7xr",
+    "assetUid": "01kjr7wknvrhebgq85qgvfb99e",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
+    "timestamp": "2023-11-30T13:39:48.000"
+  },
+  {
+    "uid": "01kjr7wmgwddv2vr705hgt1dge",
+    "assetUid": "01kjr7wknvrhebgq85qgvfb99e",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Type\",\"oldValue\":\"\",\"newValue\":\"GAUTC\"}",
+    "timestamp": "2023-11-30T12:08:29.000"
+  },
+  {
+    "uid": "01kjr7wmhc552sfm126zm7fb5n",
+    "assetUid": "01kjr7wknvrhebgq85qgvfb99e",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-11-29T23:57:49.000"
+  }
+]

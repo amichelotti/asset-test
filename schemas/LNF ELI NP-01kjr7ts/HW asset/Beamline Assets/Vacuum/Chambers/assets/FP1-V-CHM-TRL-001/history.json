@@ -1,0 +1,18 @@
+[
+  {
+    "uid": "01kjr75t5zkr1eex5y6aeehwht",
+    "assetUid": "01kjr75shz0s8cmrwpfrwjtd73",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Objects\",\"oldValue\":\"\",\"newValue\":\"FP1-W-MOT-HMN-001...\"}",
+    "timestamp": "2026-02-16T14:13:59.000"
+  },
+  {
+    "uid": "01kjr75t6dts4wwqs081hvgvf9",
+    "assetUid": "01kjr75shz0s8cmrwpfrwjtd73",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2026-02-16T14:02:59.000"
+  }
+]

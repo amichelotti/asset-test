@@ -1,0 +1,27 @@
+{
+  "uid": "01kjr8612dq5xnpzfgxfjmgs86",
+  "key": "LNFELINP-112397",
+  "name": "LEL-RF-MS02:KLY",
+  "type": "BeamLine",
+  "schemaUid": "01kjr7v4j2cf714dfa2vz1fgzp",
+  "attributes": {
+    "key": "LNFELINP-112397",
+    "name": "LEL-RF-MS02:KLY",
+    "created": "2023-11-30T23:48:43.000Z",
+    "updated": "2023-11-30T23:50:11.000Z",
+    "sequential": "81",
+    "previous_element": "01kjr8605744jqh3ayb8p2wwnc",
+    "next_element": "01kjr8612dq5xnpzfgxfjmgs86",
+    "element": "01kjr7zmthzktrbjmpnpvd6bvw"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

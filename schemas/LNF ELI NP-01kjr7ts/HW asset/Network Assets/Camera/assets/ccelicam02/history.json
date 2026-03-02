@@ -1,0 +1,50 @@
+[
+  {
+    "uid": "01kjr82dh1s1mw3ga78188k1q1",
+    "assetUid": "01kjr82cymzavgmg660qccwdc3",
+    "type": "25",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2025-06-12T14:24:45.000"
+  },
+  {
+    "uid": "01kjr82dhkm457j90dpqpqxm50",
+    "assetUid": "01kjr82cymzavgmg660qccwdc3",
+    "type": "5",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"5\",\"attribute\":\"Location\",\"oldValue\":\"Selced\",\"newValue\":\"AB1\"}",
+    "timestamp": "2025-06-12T14:24:45.000"
+  },
+  {
+    "uid": "01kjr82dhzhcmk6rjtycxbryzm",
+    "assetUid": "01kjr82cymzavgmg660qccwdc3",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Registered\",\"oldValue\":\"\",\"newValue\":\"ccelicam02\"}",
+    "timestamp": "2025-06-12T14:15:53.000"
+  },
+  {
+    "uid": "01kjr82dj9mae6jc86mp94azz8",
+    "assetUid": "01kjr82cymzavgmg660qccwdc3",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Camera setup2 tes...\",\"newValue\":\"Camera setup2 tes...\"}",
+    "timestamp": "2025-06-12T14:15:53.000"
+  },
+  {
+    "uid": "01kjr82dk5sw7va0w6s6hp23w3",
+    "assetUid": "01kjr82cymzavgmg660qccwdc3",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Serial\",\"oldValue\":\"\",\"newValue\":\"Basler-a2A1920-51...\"}",
+    "timestamp": "2024-11-15T14:00:41.000"
+  },
+  {
+    "uid": "01kjr82dkafx92mey0pwe37j41",
+    "assetUid": "01kjr82cymzavgmg660qccwdc3",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-09-06T12:20:37.000"
+  }
+]

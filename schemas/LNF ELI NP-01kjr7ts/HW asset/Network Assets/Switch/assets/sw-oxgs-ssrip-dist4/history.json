@@ -1,0 +1,58 @@
+[
+  {
+    "uid": "01kjr7vkewzxe7sphgeea65mb7",
+    "assetUid": "01kjr7vhmrd613r0w1wwfhpbj7",
+    "type": "25",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2025-06-12T15:00:10.000"
+  },
+  {
+    "uid": "01kjr7vkfpb9125bb06dbtnpf0",
+    "assetUid": "01kjr7vhmrd613r0w1wwfhpbj7",
+    "type": "27",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"27\"}",
+    "timestamp": "2025-06-12T14:59:33.000"
+  },
+  {
+    "uid": "01kjr7vkg62cy4kayp8yxwqmyf",
+    "assetUid": "01kjr7vhmrd613r0w1wwfhpbj7",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"cisco catalyst 92...\"}",
+    "timestamp": "2025-06-12T14:58:01.000"
+  },
+  {
+    "uid": "01kjr7vkgkcm6qhnkqst3caawp",
+    "assetUid": "01kjr7vhmrd613r0w1wwfhpbj7",
+    "type": "25",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2025-06-12T13:58:44.000"
+  },
+  {
+    "uid": "01kjr7vkgyh1ypv8k5yzygpbyb",
+    "assetUid": "01kjr7vhmrd613r0w1wwfhpbj7",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"Corridor GP\"}",
+    "timestamp": "2025-06-11T11:02:09.000"
+  },
+  {
+    "uid": "01kjr7vkh79ynw3g5jmajd14r3",
+    "assetUid": "01kjr7vhmrd613r0w1wwfhpbj7",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"cisco catalyst 92...\"}",
+    "timestamp": "2025-06-11T11:00:25.000"
+  },
+  {
+    "uid": "01kjr7vkhfz8ck5rf784knjcj8",
+    "assetUid": "01kjr7vhmrd613r0w1wwfhpbj7",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-06-11T10:54:15.000"
+  }
+]

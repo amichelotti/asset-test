@@ -1,0 +1,24 @@
+{
+  "uid": "01kjr8axvpsgtebbqb8350hn6q",
+  "key": "LNFELINP-111844",
+  "name": "R_RUF_01",
+  "type": "Rack",
+  "schemaUid": "01kjr7v64t43wrqz2vr8fz7zha",
+  "attributes": {
+    "key": "LNFELINP-111844",
+    "name": "R_RUF_01",
+    "created": "2023-11-30T09:30:36.000Z",
+    "updated": "2025-02-27T08:14:38.000Z",
+    "alias": "MPS"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

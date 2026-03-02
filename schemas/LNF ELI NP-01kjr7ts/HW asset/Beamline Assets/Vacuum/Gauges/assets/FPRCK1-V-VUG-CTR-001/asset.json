@@ -1,0 +1,25 @@
+{
+  "uid": "01kjr74xm09yw42a3pege91pbs",
+  "key": "LNFT2-146393",
+  "name": "FPRCK1-V-VUG-CTR-001",
+  "type": "Gauges",
+  "schemaUid": "01kjr6y3mtpsbte9x49pg8a7t6",
+  "attributes": {
+    "key": "LNFT2-146393",
+    "name": "FPRCK1-V-VUG-CTR-001",
+    "created": "2026-01-26T12:51:14.000Z",
+    "updated": "2026-01-26T12:59:40.000Z",
+    "hw_model": "01kjr7n3p580s8wc12qsq1zpqk",
+    "hw_connection": "01kjr74v9skphfd3a8yzkn64p5"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

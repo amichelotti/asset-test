@@ -1,0 +1,29 @@
+{
+  "uid": "01kjr7m01edh6x10jvdsfkkejp",
+  "key": "LNFMAC-12812",
+  "name": "NUC7i5BNHX",
+  "type": "Host Models",
+  "schemaUid": "01kjr7a2mbmhhapd47p6608akk",
+  "attributes": {
+    "key": "LNFMAC-12812",
+    "name": "NUC7i5BNHX",
+    "created": "2023-04-19T20:13:47.000Z",
+    "updated": "2023-05-16T09:28:55.000Z",
+    "vendor": "01kjr7c42863yrfrq9rf9jg1km",
+    "documentation": "https://www.intel.com/content/www/us/en/products/sku/122939/intel-nuc-kit-nuc7i5bnhx1-with-intel-optane-memory/specifications.html",
+    "cpu": "2",
+    "cpu_type": "Intel® Core™ i5-7260U Processor ",
+    "memory": "32",
+    "frequency": "3.4"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

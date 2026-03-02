@@ -1,0 +1,74 @@
+[
+  {
+    "uid": "01kjr7j0fngedxnt1rrmf1kz75",
+    "assetUid": "01kjr7he97tn2e82h15zf21jrh",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"GIT repo\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
+    "timestamp": "2025-09-02T15:20:33.000"
+  },
+  {
+    "uid": "01kjr7j0g6n6gvez19j4e1bzpy",
+    "assetUid": "01kjr7he97tn2e82h15zf21jrh",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"The ET-7267 provi...\",\"newValue\":\"The ET-7267 provi...\"}",
+    "timestamp": "2025-09-02T15:20:33.000"
+  },
+  {
+    "uid": "01kjr7j0gt186y74eszq5shpsx",
+    "assetUid": "01kjr7he97tn2e82h15zf21jrh",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"pet_et7x00_regist...\"}",
+    "timestamp": "2024-09-09T11:20:16.000"
+  },
+  {
+    "uid": "01kjr7j0h7x5f5fh9189pevxzg",
+    "assetUid": "01kjr7he97tn2e82h15zf21jrh",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"pet_et-7x00_user_...\"}",
+    "timestamp": "2024-09-09T11:19:19.000"
+  },
+  {
+    "uid": "01kjr7j0hf1z967a5t9jjq12e3",
+    "assetUid": "01kjr7he97tn2e82h15zf21jrh",
+    "type": "25",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2024-07-24T14:29:01.000"
+  },
+  {
+    "uid": "01kjr7j0hzjh3fvrdxxa8sg26c",
+    "assetUid": "01kjr7he97tn2e82h15zf21jrh",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"The ET-7267 provi...\"}",
+    "timestamp": "2024-07-24T14:29:01.000"
+  },
+  {
+    "uid": "01kjr7j0j8f2d4nyze4nswfdab",
+    "assetUid": "01kjr7he97tn2e82h15zf21jrh",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Producer\",\"oldValue\":\"\",\"newValue\":\"ICPDAS\"}",
+    "timestamp": "2024-07-24T14:29:01.000"
+  },
+  {
+    "uid": "01kjr7j0jspd2nznw8wkpbmh7v",
+    "assetUid": "01kjr7he97tn2e82h15zf21jrh",
+    "type": "24",
+    "author": "Unknown",
+    "details": "{\"type\":\"24\",\"oldValue\":\"icpdas sparc\",\"newValue\":\"ADC Models\"}",
+    "timestamp": "2023-06-09T16:34:48.000"
+  },
+  {
+    "uid": "01kjr7j0k48qv0a3028n4xg7rb",
+    "assetUid": "01kjr7he97tn2e82h15zf21jrh",
+    "type": "0",
+    "author": "Unknown",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-06-07T11:08:48.000"
+  }
+]

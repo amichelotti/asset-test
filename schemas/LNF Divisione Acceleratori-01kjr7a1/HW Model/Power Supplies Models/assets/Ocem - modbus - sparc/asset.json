@@ -1,0 +1,27 @@
+{
+  "uid": "01kjr7m0septa4sty10csa0sr7",
+  "key": "LNFMAC-141964",
+  "name": "Ocem - modbus - sparc",
+  "type": "Power Supplies Models",
+  "schemaUid": "01kjr7a65180eyvjqgbznrajpv",
+  "attributes": {
+    "key": "LNFMAC-141964",
+    "name": "Ocem - modbus - sparc",
+    "created": "2025-09-02T11:31:01.000Z",
+    "updated": "2025-09-02T11:53:53.000Z",
+    "producer": "01kjr7chfczb7td2w03heebew7",
+    "vendor": "01kjr7chfczb7td2w03heebew7",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"></div>",
+    "git_repo": "https://github.com/infn-epics/OCEMPowerSupply"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

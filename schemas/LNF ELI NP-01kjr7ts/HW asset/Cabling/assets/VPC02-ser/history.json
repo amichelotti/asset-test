@@ -1,0 +1,42 @@
+[
+  {
+    "uid": "01kjr8gz465egqkjqy5x6v0b3z",
+    "assetUid": "01kjr8gyhhksbhjmf7etd26xpz",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Connector2 Desc\",\"oldValue\":\"\",\"newValue\":\"port 2\"}",
+    "timestamp": "2025-02-03T19:02:02.000"
+  },
+  {
+    "uid": "01kjr8gz4wgrazspjpvbymxxpc",
+    "assetUid": "01kjr8gyhhksbhjmf7etd26xpz",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Connector2 Pair\",\"oldValue\":\"\",\"newValue\":\"scelimxa8001\"}",
+    "timestamp": "2025-02-03T19:02:02.000"
+  },
+  {
+    "uid": "01kjr8gz50ap33m47xwzrv79kc",
+    "assetUid": "01kjr8gyhhksbhjmf7etd26xpz",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Connector1 Pair\",\"oldValue\":\"\",\"newValue\":\"LEL-VAC-VPCON02\"}",
+    "timestamp": "2025-02-03T19:02:02.000"
+  },
+  {
+    "uid": "01kjr8gz59k5jtn89b0bgjegz6",
+    "assetUid": "01kjr8gyhhksbhjmf7etd26xpz",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2025-02-03T19:02:02.000"
+  },
+  {
+    "uid": "01kjr8gz5eftxqf2c8v6f1p537",
+    "assetUid": "01kjr8gyhhksbhjmf7etd26xpz",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-02-03T19:01:01.000"
+  }
+]

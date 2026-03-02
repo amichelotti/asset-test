@@ -1,0 +1,58 @@
+[
+  {
+    "uid": "01kjr6yctyyhp8mggz5gxrpgan",
+    "assetUid": "01kjr6ycgc2grh7r1qbvvepn92",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Secondary Pump\",\"oldValue\":\"\",\"newValue\":\"FI8-V-PMP-TRB-002\"}",
+    "timestamp": "2026-02-11T15:57:39.000"
+  },
+  {
+    "uid": "01kjr6ycv1jw239wxka6dpbj5b",
+    "assetUid": "01kjr6ycgc2grh7r1qbvvepn92",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"HW Model\",\"oldValue\":\"\",\"newValue\":\"XDS35i\"}",
+    "timestamp": "2026-02-11T15:57:39.000"
+  },
+  {
+    "uid": "01kjr6ycv2wmcvxpynwfx5h6ax",
+    "assetUid": "01kjr6ycgc2grh7r1qbvvepn92",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Facility\",\"oldValue\":\"\",\"newValue\":\"FLAME\"}",
+    "timestamp": "2026-02-11T15:57:39.000"
+  },
+  {
+    "uid": "01kjr6ycv3z27t1we7x1ghmpdc",
+    "assetUid": "01kjr6ycgc2grh7r1qbvvepn92",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Locations\",\"oldValue\":\"\",\"newValue\":\"LNF.D1.DE56.B1.BAL1\"}",
+    "timestamp": "2026-02-11T15:57:39.000"
+  },
+  {
+    "uid": "01kjr6ycv4whv5p48pgxgr34ta",
+    "assetUid": "01kjr6ycgc2grh7r1qbvvepn92",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Owner\",\"oldValue\":\"\",\"newValue\":\"SERVIZIO VUOTO\"}",
+    "timestamp": "2026-02-11T15:57:39.000"
+  },
+  {
+    "uid": "01kjr6ycv5j4vtrg3wsehj2jwv",
+    "assetUid": "01kjr6ycgc2grh7r1qbvvepn92",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2026-02-11T15:57:39.000"
+  },
+  {
+    "uid": "01kjr6ycv59kgy7678xk1yqdyv",
+    "assetUid": "01kjr6ycgc2grh7r1qbvvepn92",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2026-02-11T13:09:17.000"
+  }
+]

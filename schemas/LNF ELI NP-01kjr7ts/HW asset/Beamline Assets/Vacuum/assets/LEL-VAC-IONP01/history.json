@@ -1,0 +1,58 @@
+[
+  {
+    "uid": "01kjr7wnaxd88h4zyvp34ncd3r",
+    "assetUid": "01kjr7wms31c2axq9g8pv38p3j",
+    "type": "5",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"5\",\"attribute\":\"Controller\",\"oldValue\":\"\",\"newValue\":\"LEL-VAC-VPCON01\"}",
+    "timestamp": "2025-11-07T14:40:56.000"
+  },
+  {
+    "uid": "01kjr7wnba7c8p0f2bbfxh0a4c",
+    "assetUid": "01kjr7wms31c2axq9g8pv38p3j",
+    "type": "4",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
+    "timestamp": "2025-11-07T14:40:56.000"
+  },
+  {
+    "uid": "01kjr7wnbr8a6g5hk41fgrn7d8",
+    "assetUid": "01kjr7wms31c2axq9g8pv38p3j",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Ion pump 20 l/s\",\"newValue\":\"Ion pump 20 l/s\"}",
+    "timestamp": "2025-11-07T14:40:56.000"
+  },
+  {
+    "uid": "01kjr7wnc984tc90wrspc7k5h8",
+    "assetUid": "01kjr7wms31c2axq9g8pv38p3j",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Layout\",\"oldValue\":\"REGION 1\",\"newValue\":\"M1-003\"}",
+    "timestamp": "2023-12-01T14:14:58.000"
+  },
+  {
+    "uid": "01kjr7wncvbj413nd73c62pab4",
+    "assetUid": "01kjr7wms31c2axq9g8pv38p3j",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
+    "timestamp": "2023-11-30T13:39:41.000"
+  },
+  {
+    "uid": "01kjr7wnd1vfrzycchbxf0bfx9",
+    "assetUid": "01kjr7wms31c2axq9g8pv38p3j",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Type\",\"oldValue\":\"\",\"newValue\":\"IONP\"}",
+    "timestamp": "2023-11-30T12:07:04.000"
+  },
+  {
+    "uid": "01kjr7wnd7fcqb85xvg0n3mrm6",
+    "assetUid": "01kjr7wms31c2axq9g8pv38p3j",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-11-29T23:57:35.000"
+  }
+]

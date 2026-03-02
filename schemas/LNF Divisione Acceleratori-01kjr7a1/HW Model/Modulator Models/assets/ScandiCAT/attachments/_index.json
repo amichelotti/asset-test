@@ -1,0 +1,35 @@
+[
+  {
+    "uid": "01kjr7mmj8c321e85fwjfbk91p",
+    "assetUid": "01kjr7mkj4c0b9gbbqshd5ns43",
+    "filename": "TCP modbus spec 28-10-2015.pdf",
+    "mimeType": "application/pdf",
+    "fileSize": 251227,
+    "author": "amichelo",
+    "created": "2025-09-02T17:30:06.000",
+    "binaryPath": "schemas/LNF Divisione Acceleratori-01kjr7a1/HW Model/Modulator Models/assets/ScandiCAT/attachments/TCP modbus spec 28-10-2015.pdf",
+    "hasBinary": true
+  },
+  {
+    "uid": "01kjr7mp1k5njyf3r9w55a31mj",
+    "assetUid": "01kjr7mkj4c0b9gbbqshd5ns43",
+    "filename": "ScandiCAT general description 14-11-2013.pdf",
+    "mimeType": "application/pdf",
+    "fileSize": 1092064,
+    "author": "amichelo",
+    "created": "2025-09-02T17:30:06.000",
+    "binaryPath": "schemas/LNF Divisione Acceleratori-01kjr7a1/HW Model/Modulator Models/assets/ScandiCAT/attachments/ScandiCAT general description 14-11-2013.pdf",
+    "hasBinary": true
+  },
+  {
+    "uid": "01kjr7mqpcqkx91paa4x11n5ww",
+    "assetUid": "01kjr7mkj4c0b9gbbqshd5ns43",
+    "filename": "ScandiCAT User manual 28-10-2015.pdf",
+    "mimeType": "application/pdf",
+    "fileSize": 2602853,
+    "author": "amichelo",
+    "created": "2025-09-02T17:30:06.000",
+    "binaryPath": "schemas/LNF Divisione Acceleratori-01kjr7a1/HW Model/Modulator Models/assets/ScandiCAT/attachments/ScandiCAT User manual 28-10-2015.pdf",
+    "hasBinary": true
+  }
+]

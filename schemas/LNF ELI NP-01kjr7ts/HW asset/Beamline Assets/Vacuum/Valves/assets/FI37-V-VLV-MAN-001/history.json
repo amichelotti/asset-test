@@ -1,0 +1,50 @@
+[
+  {
+    "uid": "01kjr71s8gd23btkqkbtde6q4s",
+    "assetUid": "01kjr71rq8c383t0mcwxtmxrws",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Facility\",\"oldValue\":\"\",\"newValue\":\"EUAPS\"}",
+    "timestamp": "2026-02-11T15:39:36.000"
+  },
+  {
+    "uid": "01kjr71s8x5t735h0c2jr2rr9g",
+    "assetUid": "01kjr71rq8c383t0mcwxtmxrws",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Locations\",\"oldValue\":\"\",\"newValue\":\"LNF.D1.DE56.B1.BAL1\"}",
+    "timestamp": "2026-02-11T15:39:36.000"
+  },
+  {
+    "uid": "01kjr71s95c3220ege5m9en05r",
+    "assetUid": "01kjr71rq8c383t0mcwxtmxrws",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Owner\",\"oldValue\":\"\",\"newValue\":\"SERVIZIO VUOTO\"}",
+    "timestamp": "2026-02-11T15:39:36.000"
+  },
+  {
+    "uid": "01kjr71s9ctatt0bkdefy57f5k",
+    "assetUid": "01kjr71rq8c383t0mcwxtmxrws",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2026-02-11T15:39:36.000"
+  },
+  {
+    "uid": "01kjr71s9y9e831syap2jn1jfp",
+    "assetUid": "01kjr71rq8c383t0mcwxtmxrws",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"Manual Angular Valve\"}",
+    "timestamp": "2026-02-11T15:39:36.000"
+  },
+  {
+    "uid": "01kjr71sagy56xedh6avaqce5k",
+    "assetUid": "01kjr71rq8c383t0mcwxtmxrws",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2026-02-11T15:35:11.000"
+  }
+]

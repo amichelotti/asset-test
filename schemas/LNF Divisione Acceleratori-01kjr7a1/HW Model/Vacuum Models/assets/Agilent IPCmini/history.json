@@ -1,0 +1,58 @@
+[
+  {
+    "uid": "01kjr7ertg9mf2zf9tnpb2ryam",
+    "assetUid": "01kjr7epy4tp4yar1ap4t3gmja",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"GIT repo\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
+    "timestamp": "2025-09-02T14:06:30.000"
+  },
+  {
+    "uid": "01kjr7ertwc52ge5x56j2rzqca",
+    "assetUid": "01kjr7epy4tp4yar1ap4t3gmja",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"Selection of posi...\"}",
+    "timestamp": "2025-05-20T15:40:52.000"
+  },
+  {
+    "uid": "01kjr7erv7c3xr280vxs1kp36e",
+    "assetUid": "01kjr7epy4tp4yar1ap4t3gmja",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Documentation\",\"oldValue\":\"\",\"newValue\":\"https://www.agile...\"}",
+    "timestamp": "2025-05-20T15:38:48.000"
+  },
+  {
+    "uid": "01kjr7erve499a1g9gfhhxtj4d",
+    "assetUid": "01kjr7epy4tp4yar1ap4t3gmja",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"data-sheet-ipcmin...\"}",
+    "timestamp": "2025-05-20T15:37:33.000"
+  },
+  {
+    "uid": "01kjr7ervpyd1qkdqc93bmqzsb",
+    "assetUid": "01kjr7epy4tp4yar1ap4t3gmja",
+    "type": "8",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"8\",\"oldValue\":\"XGS-600 Gauge Con...\"}",
+    "timestamp": "2025-05-20T15:37:19.000"
+  },
+  {
+    "uid": "01kjr7ervw5ns9gkwvgt9pvp2v",
+    "assetUid": "01kjr7epy4tp4yar1ap4t3gmja",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"XGS-600 Gauge Con...\"}",
+    "timestamp": "2025-05-20T15:37:04.000"
+  },
+  {
+    "uid": "01kjr7erw2kvxcxxc0k6pfkwej",
+    "assetUid": "01kjr7epy4tp4yar1ap4t3gmja",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-05-20T15:37:03.000"
+  }
+]

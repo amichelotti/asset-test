@@ -1,0 +1,106 @@
+[
+  {
+    "uid": "01kjr8h2y403brtg86scznphk8",
+    "assetUid": "01kjr8h2810c037ar09k02cgy1",
+    "type": "4",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
+    "timestamp": "2025-06-13T14:19:07.000"
+  },
+  {
+    "uid": "01kjr8h2yjnnwdsp79tyqnf0vb",
+    "assetUid": "01kjr8h2810c037ar09k02cgy1",
+    "type": "2",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"VPCCON18-ser\",\"newValue\":\"VPCON18-ser\"}",
+    "timestamp": "2025-06-13T14:18:01.000"
+  },
+  {
+    "uid": "01kjr8h2ypd6rd7kjy8vc2rn0n",
+    "assetUid": "01kjr8h2810c037ar09k02cgy1",
+    "type": "2",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"2\",\"attribute\":\"Cable Type Desc\",\"oldValue\":\"\",\"newValue\":\"10 meter long\"}",
+    "timestamp": "2025-06-13T14:15:14.000"
+  },
+  {
+    "uid": "01kjr8h2ysd3mpwwy4cmsm8y7y",
+    "assetUid": "01kjr8h2810c037ar09k02cgy1",
+    "type": "1",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"1\",\"attribute\":\"Lenght\",\"oldValue\":\"\",\"newValue\":\"10\"}",
+    "timestamp": "2025-06-13T14:14:51.000"
+  },
+  {
+    "uid": "01kjr8h2yz5v2avshydk1q67qd",
+    "assetUid": "01kjr8h2810c037ar09k02cgy1",
+    "type": "1",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"1\",\"attribute\":\"Cable Type Desc\",\"oldValue\":\"\",\"newValue\":\"\"}",
+    "timestamp": "2025-06-13T14:14:51.000"
+  },
+  {
+    "uid": "01kjr8h2z3wnq66h07y4ndn7ck",
+    "assetUid": "01kjr8h2810c037ar09k02cgy1",
+    "type": "2",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"VCPCON18-ser\",\"newValue\":\"VPCCON18-ser\"}",
+    "timestamp": "2025-06-13T14:14:51.000"
+  },
+  {
+    "uid": "01kjr8h2z78c6eamvjggq3pk9p",
+    "assetUid": "01kjr8h2810c037ar09k02cgy1",
+    "type": "2",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"vpc18-ser\",\"newValue\":\"VCPCON18-ser\"}",
+    "timestamp": "2025-06-13T14:06:32.000"
+  },
+  {
+    "uid": "01kjr8h2zcd94sap956a4cgtt2",
+    "assetUid": "01kjr8h2810c037ar09k02cgy1",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Connector2 Desc\",\"oldValue\":\"\",\"newValue\":\"porta 7\"}",
+    "timestamp": "2025-06-13T14:03:32.000"
+  },
+  {
+    "uid": "01kjr8h2zghth35r9k3kjgzyxr",
+    "assetUid": "01kjr8h2810c037ar09k02cgy1",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Type\",\"oldValue\":\"\",\"newValue\":\"RS232\"}",
+    "timestamp": "2025-06-13T14:02:50.000"
+  },
+  {
+    "uid": "01kjr8h2zkmmtr2bs5gy25v909",
+    "assetUid": "01kjr8h2810c037ar09k02cgy1",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Connector2 Pair\",\"oldValue\":\"\",\"newValue\":\"scelimxa16001\"}",
+    "timestamp": "2025-06-13T14:02:50.000"
+  },
+  {
+    "uid": "01kjr8h2zq287jfhc75wmfpqst",
+    "assetUid": "01kjr8h2810c037ar09k02cgy1",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Connector1 Pair\",\"oldValue\":\"\",\"newValue\":\"LEL-VAC-WGC09:VPC...\"}",
+    "timestamp": "2025-06-13T14:02:50.000"
+  },
+  {
+    "uid": "01kjr8h2zwme1sm4p0q5mpxhtm",
+    "assetUid": "01kjr8h2810c037ar09k02cgy1",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2025-06-13T14:02:50.000"
+  },
+  {
+    "uid": "01kjr8h301g7jsfvyatm22a0yz",
+    "assetUid": "01kjr8h2810c037ar09k02cgy1",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-06-13T14:01:45.000"
+  }
+]

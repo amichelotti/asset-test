@@ -1,0 +1,23 @@
+{
+  "uid": "01kjr7dbv4jbp7skwgn93z409s",
+  "key": "LNFMAC-128459",
+  "name": "sigmaphi",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-128459",
+    "name": "sigmaphi",
+    "created": "2024-11-08T14:42:23.000Z",
+    "updated": "2024-11-08T14:42:23.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

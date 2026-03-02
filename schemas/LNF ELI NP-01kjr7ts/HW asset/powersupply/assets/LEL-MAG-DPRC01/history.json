@@ -1,0 +1,50 @@
+[
+  {
+    "uid": "01kjr87jxaan9dwkm60d851ja5",
+    "assetUid": "01kjr87j29366zy8y2bh4r4br6",
+    "type": "5",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"5\",\"attribute\":\"Rack\",\"oldValue\":\"R_ANX_04\",\"newValue\":\"R_COR_11\"}",
+    "timestamp": "2025-06-13T15:00:03.000"
+  },
+  {
+    "uid": "01kjr87jydwcd0vgvz7rbwzd4x",
+    "assetUid": "01kjr87j29366zy8y2bh4r4br6",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"DPR 200 Magnet Po...\",\"newValue\":\"DPR 200 Magnet Po...\"}",
+    "timestamp": "2025-06-13T15:00:03.000"
+  },
+  {
+    "uid": "01kjr87jyvb0dh4bm1v94cq0rb",
+    "assetUid": "01kjr87j29366zy8y2bh4r4br6",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_ANX_04\"}",
+    "timestamp": "2024-12-05T14:33:32.000"
+  },
+  {
+    "uid": "01kjr87jzn2et7et1ry4frktwk",
+    "assetUid": "01kjr87j29366zy8y2bh4r4br6",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2024-12-05T14:33:32.000"
+  },
+  {
+    "uid": "01kjr87k0ggv7vknmp4bc62mcj",
+    "assetUid": "01kjr87j29366zy8y2bh4r4br6",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"DPR 200 Magnet Po...\",\"newValue\":\"DPR 200 Magnet Po...\"}",
+    "timestamp": "2024-11-08T16:45:42.000"
+  },
+  {
+    "uid": "01kjr87k0xg756ggcp1ye3nwae",
+    "assetUid": "01kjr87j29366zy8y2bh4r4br6",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-11-08T16:34:20.000"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "uid": "01kjr7z25bz50e6tb15nt7t9d9",
+    "assetUid": "01kjr7z1hyhqnqgf5ab3102aq2",
+    "type": "25",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2025-11-13T11:05:05.000"
+  },
+  {
+    "uid": "01kjr7z260fxs39vekcwd92sr8",
+    "assetUid": "01kjr7z1hyhqnqgf5ab3102aq2",
+    "type": "2",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"2\",\"attribute\":\"OS\",\"oldValue\":\"AlmaLinux 9.5\",\"newValue\":\"AlmaLinux 9.6\"}",
+    "timestamp": "2025-11-13T11:02:00.000"
+  },
+  {
+    "uid": "01kjr7z26daz86q8fbje9dw40e",
+    "assetUid": "01kjr7z1hyhqnqgf5ab3102aq2",
+    "type": "0",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-11-13T10:57:13.000"
+  }
+]

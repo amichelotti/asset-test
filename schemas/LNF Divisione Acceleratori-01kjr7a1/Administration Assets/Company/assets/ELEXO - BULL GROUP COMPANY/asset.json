@@ -1,0 +1,24 @@
+{
+  "uid": "01kjr7bjajsza32gmbntw2bpvd",
+  "key": "LNFMAC-109384",
+  "name": "ELEXO - BULL GROUP COMPANY",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-109384",
+    "name": "ELEXO - BULL GROUP COMPANY",
+    "created": "2023-10-10T12:39:29.000Z",
+    "updated": "2023-10-10T12:39:29.000Z",
+    "contact": "ELEXO - BULL GROUP COMPANY"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

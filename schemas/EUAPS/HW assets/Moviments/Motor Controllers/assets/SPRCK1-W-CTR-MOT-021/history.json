@@ -1,0 +1,50 @@
+[
+  {
+    "uid": "01kjr74ecv2e2c1mtwpz8zx966",
+    "assetUid": "01kjr74dwqrj5e6fvhfxm61m36",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"HW Model\",\"oldValue\":\"\",\"newValue\":\"MERCURY\"}",
+    "timestamp": "2026-02-17T11:39:36.000"
+  },
+  {
+    "uid": "01kjr74ed9y1qxg4m71py7n50v",
+    "assetUid": "01kjr74dwqrj5e6fvhfxm61m36",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Facility\",\"oldValue\":\"\",\"newValue\":\"EUAPS\"}",
+    "timestamp": "2026-02-17T11:39:36.000"
+  },
+  {
+    "uid": "01kjr74edkxgk985t8vj2hndad",
+    "assetUid": "01kjr74dwqrj5e6fvhfxm61m36",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Locations\",\"oldValue\":\"\",\"newValue\":\"SPARC - EUAPS\"}",
+    "timestamp": "2026-02-17T11:39:36.000"
+  },
+  {
+    "uid": "01kjr74edyggqaf2wksfrh3ets",
+    "assetUid": "01kjr74dwqrj5e6fvhfxm61m36",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Owner\",\"oldValue\":\"\",\"newValue\":\"Servizio Laser\"}",
+    "timestamp": "2026-02-17T11:39:36.000"
+  },
+  {
+    "uid": "01kjr74ee8xgavg3vr61x1ddha",
+    "assetUid": "01kjr74dwqrj5e6fvhfxm61m36",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"Connessa alla sli...\"}",
+    "timestamp": "2026-02-17T11:39:36.000"
+  },
+  {
+    "uid": "01kjr74eedefqtnrkypmpjp88m",
+    "assetUid": "01kjr74dwqrj5e6fvhfxm61m36",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2026-02-10T15:03:37.000"
+  }
+]

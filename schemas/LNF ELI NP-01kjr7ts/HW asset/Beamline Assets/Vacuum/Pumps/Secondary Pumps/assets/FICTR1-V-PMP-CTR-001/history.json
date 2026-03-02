@@ -1,0 +1,26 @@
+[
+  {
+    "uid": "01kjr6yf5dwtr1yrttxgtxymxz",
+    "assetUid": "01kjr6yetwkvh8xegj7hgf747t",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"FI-K-RCK-CTR-001\"}",
+    "timestamp": "2026-02-11T16:22:55.000"
+  },
+  {
+    "uid": "01kjr6yf5g5bjk2188tejp60yf",
+    "assetUid": "01kjr6yetwkvh8xegj7hgf747t",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Controller\",\"oldValue\":\"\",\"newValue\":\"FI31-V-PMP-TRB-001\"}",
+    "timestamp": "2026-02-11T16:21:31.000"
+  },
+  {
+    "uid": "01kjr6yf5h65y9j08qyfqsekzh",
+    "assetUid": "01kjr6yetwkvh8xegj7hgf747t",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2026-02-11T13:14:07.000"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "uid": "01kjr7jhm848mp4fwhrvytd6mm",
+    "assetUid": "01kjr7jfeq0zen3vwpaav43sp1",
+    "type": "3",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"3\",\"attribute\":\"Control SW\",\"oldValue\":\"https://github.co...\",\"newValue\":\"\"}",
+    "timestamp": "2025-09-02T13:53:29.000"
+  },
+  {
+    "uid": "01kjr7jhmz3f12h9v5wppy0cm6",
+    "assetUid": "01kjr7jfeq0zen3vwpaav43sp1",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"GIT repo\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
+    "timestamp": "2025-09-02T13:53:29.000"
+  },
+  {
+    "uid": "01kjr7jhnnx2v3sjazr0g3pvtc",
+    "assetUid": "01kjr7jfeq0zen3vwpaav43sp1",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"HiStar Commands.pdf\"}",
+    "timestamp": "2025-09-02T12:55:01.000"
+  },
+  {
+    "uid": "01kjr7jhpm2ytykycqqv9419tc",
+    "assetUid": "01kjr7jfeq0zen3vwpaav43sp1",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-09-02T12:54:12.000"
+  }
+]

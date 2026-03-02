@@ -1,0 +1,42 @@
+[
+  {
+    "uid": "01kjr7mxa9jjekbrd2tc8nwan2",
+    "assetUid": "01kjr7mws3nz70naqqaf47y69t",
+    "type": "3",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"3\",\"attribute\":\"Control SW\",\"oldValue\":\"https://github.co...\",\"newValue\":\"\"}",
+    "timestamp": "2025-09-02T14:03:31.000"
+  },
+  {
+    "uid": "01kjr7mxaexrrn5d76hqr1gk7a",
+    "assetUid": "01kjr7mws3nz70naqqaf47y69t",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"GIT repo\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
+    "timestamp": "2025-09-02T14:03:31.000"
+  },
+  {
+    "uid": "01kjr7mxagkb22fy3qhcaa0wcb",
+    "assetUid": "01kjr7mws3nz70naqqaf47y69t",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Control SW\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
+    "timestamp": "2025-09-02T12:44:18.000"
+  },
+  {
+    "uid": "01kjr7mxakrz4fy5dwfw3t6323",
+    "assetUid": "01kjr7mws3nz70naqqaf47y69t",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"1 channel 15V 135A\",\"newValue\":\"1 channel 15V 135A\"}",
+    "timestamp": "2025-09-02T12:44:18.000"
+  },
+  {
+    "uid": "01kjr7mxapa9wz6acpfw1xbdsj",
+    "assetUid": "01kjr7mws3nz70naqqaf47y69t",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-11-08T15:42:24.000"
+  }
+]

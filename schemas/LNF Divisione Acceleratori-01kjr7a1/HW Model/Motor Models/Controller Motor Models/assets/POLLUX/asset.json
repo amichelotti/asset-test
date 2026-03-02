@@ -1,0 +1,25 @@
+{
+  "uid": "01kjr7m9jppp5yyfc526dewd4k",
+  "key": "LNFMAC-143729",
+  "name": "POLLUX",
+  "type": "Controller Motor Models",
+  "schemaUid": "01kjr7a37k9w0hb0h9f730f4c7",
+  "attributes": {
+    "key": "LNFMAC-143729",
+    "name": "POLLUX",
+    "created": "2025-11-03T17:00:27.000Z",
+    "updated": "2025-11-03T17:00:27.000Z",
+    "producer": "01kjr7cstnvjkew8sg0sx5ar12",
+    "documentation": "https://www.physikinstrumente.com/en/?type=5600&downloadUid=2281&downloadFileUid=2306"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

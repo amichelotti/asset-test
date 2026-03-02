@@ -1,0 +1,27 @@
+{
+  "uid": "01kjr6zakkx0kq499x619my040",
+  "key": "LNFT2-147951",
+  "name": "SP6-V-PMP-CHL-003",
+  "type": "Chiller",
+  "schemaUid": "01kjr6y3t0qyaw17jvv0pgr9qw",
+  "attributes": {
+    "key": "LNFT2-147951",
+    "name": "SP6-V-PMP-CHL-003",
+    "created": "2026-03-02T15:46:25.000Z",
+    "updated": "2026-03-02T15:46:25.000Z",
+    "owner": "LNFMAC-143538",
+    "locations": "01kjr7s02ka6917dvpvndhnet5",
+    "facility": "01kjr7st4dyad67rx9rvajqtab",
+    "hw_model": "01kjr7jnkv7tpp762teqmzegzy"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "uid": "01kjr7mkj4c0b9gbbqshd5ns43",
+  "key": "LNFMAC-141980",
+  "name": "ScandiCAT",
+  "type": "Modulator Models",
+  "schemaUid": "01kjr7a8vaac5bdc08g2f4z20m",
+  "attributes": {
+    "key": "LNFMAC-141980",
+    "name": "ScandiCAT",
+    "created": "2025-09-02T15:29:47.000Z",
+    "updated": "2025-09-02T15:29:47.000Z",
+    "producer": "01kjr7d72p5kr5fsjjfwz3qy4b",
+    "vendor": "01kjr7d72p5kr5fsjjfwz3qy4b"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "uid": "01kjr8fwsp8xdphanj9ywfnmbr",
+    "assetUid": "01kjr8fw843z098dzsgqphmmk7",
+    "type": "1",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2025-06-13T14:48:14.000"
+  },
+  {
+    "uid": "01kjr8fwt7p0tv1npphah7xp8e",
+    "assetUid": "01kjr8fw843z098dzsgqphmmk7",
+    "type": "1",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"1\",\"attribute\":\"Type\",\"oldValue\":\"\",\"newValue\":\"RS232\"}",
+    "timestamp": "2025-06-13T14:45:46.000"
+  },
+  {
+    "uid": "01kjr8fwtjj3zv6pgq4jg8rf48",
+    "assetUid": "01kjr8fw843z098dzsgqphmmk7",
+    "type": "4",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"4\",\"attribute\":\"Connector2 Pair\",\"oldValue\":\"\",\"newValue\":\"motionbox04-scn04\"}",
+    "timestamp": "2025-06-13T14:45:46.000"
+  },
+  {
+    "uid": "01kjr8fwtv5vsmeejdceg7vwnn",
+    "assetUid": "01kjr8fw843z098dzsgqphmmk7",
+    "type": "4",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"4\",\"attribute\":\"Connector1 Pair\",\"oldValue\":\"\",\"newValue\":\"motionbox03-scn03\"}",
+    "timestamp": "2025-06-13T14:45:46.000"
+  },
+  {
+    "uid": "01kjr8fwv1m8ejh3ct64cnd76e",
+    "assetUid": "01kjr8fw843z098dzsgqphmmk7",
+    "type": "0",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-06-13T14:45:01.000"
+  }
+]

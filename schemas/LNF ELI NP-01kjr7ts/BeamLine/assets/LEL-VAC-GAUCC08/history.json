@@ -1,0 +1,58 @@
+[
+  {
+    "uid": "01kjr866gcyaffna3sd0qhd3rk",
+    "assetUid": "01kjr865y51701fb4am4md258v",
+    "type": "5",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"5\",\"attribute\":\"Layout\",\"oldValue\":\"M3-004\",\"newValue\":\"M4-027\"}",
+    "timestamp": "2025-06-18T16:36:39.000"
+  },
+  {
+    "uid": "01kjr866h0v9ddgcr9sk8pmyrp",
+    "assetUid": "01kjr865y51701fb4am4md258v",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Module\",\"oldValue\":\"M3\",\"newValue\":\"M4\"}",
+    "timestamp": "2025-06-18T16:36:39.000"
+  },
+  {
+    "uid": "01kjr866h83xb4eefc9hbrmvge",
+    "assetUid": "01kjr865y51701fb4am4md258v",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Layout\",\"oldValue\":\"\",\"newValue\":\"M3-004\"}",
+    "timestamp": "2023-12-01T14:24:09.000"
+  },
+  {
+    "uid": "01kjr866hqrjvmnyh63x4p8fyt",
+    "assetUid": "01kjr865y51701fb4am4md258v",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Module\",\"oldValue\":\"\",\"newValue\":\"M3\"}",
+    "timestamp": "2023-12-01T00:56:08.000"
+  },
+  {
+    "uid": "01kjr866j9w5h1h5byt05mc8w0",
+    "assetUid": "01kjr865y51701fb4am4md258v",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Next Element\",\"oldValue\":\"\",\"newValue\":\"LEL-VAC-IONP06\"}",
+    "timestamp": "2023-12-01T00:49:38.000"
+  },
+  {
+    "uid": "01kjr866jvh8mq2519fp6p4kpx",
+    "assetUid": "01kjr865y51701fb4am4md258v",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Previous Element\",\"oldValue\":\"\",\"newValue\":\"LEL-VAC-GAUTC07\"}",
+    "timestamp": "2023-12-01T00:49:38.000"
+  },
+  {
+    "uid": "01kjr866k4smyk5jnsjrm3zv87",
+    "assetUid": "01kjr865y51701fb4am4md258v",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-12-01T00:37:24.000"
+  }
+]

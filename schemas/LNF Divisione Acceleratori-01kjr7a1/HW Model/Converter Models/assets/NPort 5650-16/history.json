@@ -1,0 +1,34 @@
+[
+  {
+    "uid": "01kjr7kw61d3tdwck9f9f9m8st",
+    "assetUid": "01kjr7kvnpaq8e8wqwqj1hgqk0",
+    "type": "25",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2024-12-04T17:02:32.000"
+  },
+  {
+    "uid": "01kjr7kw6sj36z8fsy3h3py3d6",
+    "assetUid": "01kjr7kvnpaq8e8wqwqj1hgqk0",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Documentation\",\"oldValue\":\"\",\"newValue\":\"https://www.elmar...\"}",
+    "timestamp": "2024-12-04T17:02:32.000"
+  },
+  {
+    "uid": "01kjr7kw7agnhjefvpcen77vrx",
+    "assetUid": "01kjr7kvnpaq8e8wqwqj1hgqk0",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Producer\",\"oldValue\":\"\",\"newValue\":\"Moxa\"}",
+    "timestamp": "2024-12-04T17:02:32.000"
+  },
+  {
+    "uid": "01kjr7kw7vad4gdjw72hy6es35",
+    "assetUid": "01kjr7kvnpaq8e8wqwqj1hgqk0",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-05-31T16:20:03.000"
+  }
+]

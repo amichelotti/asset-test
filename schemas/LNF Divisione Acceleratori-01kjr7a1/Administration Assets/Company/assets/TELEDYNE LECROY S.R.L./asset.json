@@ -1,0 +1,24 @@
+{
+  "uid": "01kjr7dts4k69awfpme59v0cjw",
+  "key": "LNFMAC-109352",
+  "name": "TELEDYNE LECROY S.R.L.",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-109352",
+    "name": "TELEDYNE LECROY S.R.L.",
+    "created": "2023-10-10T12:39:18.000Z",
+    "updated": "2023-10-10T12:39:18.000Z",
+    "contact": "TELEDYNE LECROY S.R.L."
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

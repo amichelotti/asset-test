@@ -1,0 +1,58 @@
+[
+  {
+    "uid": "01kjr82fzhxrr2f0md8tt3xmxx",
+    "assetUid": "01kjr82fcgjb2n4v3rfe07sfnt",
+    "type": "25",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2025-06-12T14:26:16.000"
+  },
+  {
+    "uid": "01kjr82fzx3zpd4pgdmerzb5rn",
+    "assetUid": "01kjr82fcgjb2n4v3rfe07sfnt",
+    "type": "5",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"5\",\"attribute\":\"Location\",\"oldValue\":\"Selced\",\"newValue\":\"AB1\"}",
+    "timestamp": "2025-06-12T14:26:16.000"
+  },
+  {
+    "uid": "01kjr82g05keanq5dqtyjejhe5",
+    "assetUid": "01kjr82fcgjb2n4v3rfe07sfnt",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Serial\",\"oldValue\":\"\",\"newValue\":\"40458492\"}",
+    "timestamp": "2025-06-12T14:24:09.000"
+  },
+  {
+    "uid": "01kjr82g0fr56y56dg8eerwhd8",
+    "assetUid": "01kjr82fcgjb2n4v3rfe07sfnt",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Status\",\"oldValue\":\"Action Needed\",\"newValue\":\"Active\"}",
+    "timestamp": "2025-06-12T14:24:09.000"
+  },
+  {
+    "uid": "01kjr82g0sxe4fb8w9pdcgzfg8",
+    "assetUid": "01kjr82fcgjb2n4v3rfe07sfnt",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Registered\",\"oldValue\":\"\",\"newValue\":\"ccelicam04\"}",
+    "timestamp": "2025-06-12T14:20:23.000"
+  },
+  {
+    "uid": "01kjr82g17dnwgwgebzyv9xm93",
+    "assetUid": "01kjr82fcgjb2n4v3rfe07sfnt",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Camera setup2 tes...\",\"newValue\":\"Camera setup2 tes...\"}",
+    "timestamp": "2025-06-12T14:20:23.000"
+  },
+  {
+    "uid": "01kjr82g1dz2gsb4ryw3t73cdt",
+    "assetUid": "01kjr82fcgjb2n4v3rfe07sfnt",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-11-15T14:05:59.000"
+  }
+]

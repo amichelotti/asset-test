@@ -1,0 +1,34 @@
+[
+  {
+    "uid": "01kjr7nkrjh65gmvhddr7pa4ez",
+    "assetUid": "01kjr7nfzhz14gpsp76r0bfhvt",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"General Product I...\"}",
+    "timestamp": "2025-10-23T14:01:37.000"
+  },
+  {
+    "uid": "01kjr7nkry0kd049hvqkd9w7we",
+    "assetUid": "01kjr7nfzhz14gpsp76r0bfhvt",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Documentation\",\"oldValue\":\"\",\"newValue\":\"https://it.my.edw...\"}",
+    "timestamp": "2025-10-23T14:01:37.000"
+  },
+  {
+    "uid": "01kjr7nks5kncvh1ga9frkm131",
+    "assetUid": "01kjr7nfzhz14gpsp76r0bfhvt",
+    "type": "7",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"7\",\"newValue\":\"3601-0452-01-XDS3...\"}",
+    "timestamp": "2025-10-23T13:58:36.000"
+  },
+  {
+    "uid": "01kjr7nkspx7wbfs7jkzt7j6fd",
+    "assetUid": "01kjr7nfzhz14gpsp76r0bfhvt",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-10-23T12:26:32.000"
+  }
+]

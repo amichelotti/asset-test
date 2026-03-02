@@ -1,0 +1,74 @@
+[
+  {
+    "uid": "01kjr7e6ywj5nz16qqahnezp51",
+    "assetUid": "01kjr7e636sd76yehsvhdwdqad",
+    "type": "2",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Nota di carico 16...\",\"newValue\":\"\"}",
+    "timestamp": "2025-05-19T19:14:13.000"
+  },
+  {
+    "uid": "01kjr7e6zzamgh3tjmvjdkp8q1",
+    "assetUid": "01kjr7e636sd76yehsvhdwdqad",
+    "type": "3",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"3\",\"attribute\":\"Documentation\",\"oldValue\":\"https://rda.dsi.i...\",\"newValue\":\"\"}",
+    "timestamp": "2025-05-19T19:14:05.000"
+  },
+  {
+    "uid": "01kjr7e70dxx2mf81pyva0k11z",
+    "assetUid": "01kjr7e636sd76yehsvhdwdqad",
+    "type": "6",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"6\",\"attribute\":\"Vendor\",\"oldValue\":\"I.T.M Informatica...\",\"newValue\":\"\"}",
+    "timestamp": "2025-05-19T19:14:05.000"
+  },
+  {
+    "uid": "01kjr7e70rfmnmshajmg5krhwm",
+    "assetUid": "01kjr7e636sd76yehsvhdwdqad",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"Nota di carico 16...\"}",
+    "timestamp": "2025-05-07T18:53:30.000"
+  },
+  {
+    "uid": "01kjr7e713r9s1qk8nthnhq024",
+    "assetUid": "01kjr7e636sd76yehsvhdwdqad",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"Documentation\",\"oldValue\":\"\",\"newValue\":\"https://rda.dsi.i...\"}",
+    "timestamp": "2025-05-07T18:53:30.000"
+  },
+  {
+    "uid": "01kjr7e71j2kbb6f22na1wrseb",
+    "assetUid": "01kjr7e636sd76yehsvhdwdqad",
+    "type": "4",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"4\",\"attribute\":\"Vendor\",\"oldValue\":\"\",\"newValue\":\"I.T.M Informatica...\"}",
+    "timestamp": "2025-05-07T18:49:39.000"
+  },
+  {
+    "uid": "01kjr7e71z4tf9pe2ectjfseh6",
+    "assetUid": "01kjr7e636sd76yehsvhdwdqad",
+    "type": "26",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"26\"}",
+    "timestamp": "2024-09-18T14:25:28.000"
+  },
+  {
+    "uid": "01kjr7e72ep7d8vp2exhtkdfev",
+    "assetUid": "01kjr7e636sd76yehsvhdwdqad",
+    "type": "25",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2024-09-18T14:16:24.000"
+  },
+  {
+    "uid": "01kjr7e72seexe0k7s9vsm9f2w",
+    "assetUid": "01kjr7e636sd76yehsvhdwdqad",
+    "type": "0",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-09-18T13:57:23.000"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "uid": "01kjr7ahtbgjqdkh4y11hj0wad",
+  "key": "LNFMAC-109374",
+  "name": "AGF SRL",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-109374",
+    "name": "AGF SRL",
+    "created": "2023-10-10T12:39:26.000Z",
+    "updated": "2023-10-10T12:39:26.000Z",
+    "contact": "AGF SRL"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "uid": "01kjr7jnkv7tpp762teqmzegzy",
+  "key": "LNFMAC-147946",
+  "name": "HRS024-AF-20",
+  "type": "Vacuum Models",
+  "schemaUid": "01kjr7a80fdsf027w9fnm5d7bj",
+  "attributes": {
+    "key": "LNFMAC-147946",
+    "name": "HRS024-AF-20",
+    "created": "2026-03-02T15:04:15.000Z",
+    "updated": "2026-03-02T15:04:15.000Z",
+    "producer": "01kjr7dh5xxraygtrh17nn9dxm",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Capacità di raffreddamento</p><p>024 [Capacità di raffreddamento: 2100/2400 W (50/60 Hz)]</p><p>Metodo di raffreddamento</p><p>A (Raffreddamento ad aria)</p><p>Filettatura</p><p>F (G con un set di raccordi di conversione PT-G)</p><p>Alimentazione</p><p>20 [Monofase 200 a 230 Vca (50/60 Hz)]</p><p>Interruttore di dispersione a terra</p><p>Nessuno</p><p>Elevata temperature ambiente</p><p>Nessuno</p><p>Rabbocco automatico dell'acqua</p><p>Nessuno</p><p>Connessione per acqua deionizzata</p><p>Nessuno</p><p>Pompa ad alta prevalenza</p><p>Nessuno</p><p>Unità di misura</p><p>Nessuno</p><p>Massima temperatura ambiente</p><p>40 °C</p><p>Minima temperatura ambiente</p><p>5 °C</p><p>Approvazioni</p><p>CE</p><p>Tensione d'alimentazione</p><p>Single-phase 200 to 230 VAC ( 50/60 Hz )</p><p>Metodo di raffreddamento</p><p>Air-cooled refrigeration</p><p>Refrigerante</p><p>R407C (HFC)</p><p>Sistema di controllo</p><p>PID control</p><p>Fluido di ricircolo</p><p>Tap water, 15% ethylene glycol aqueous solution</p><p>Campo temperatura d'esercizio</p><p>5 to 40 °C</p><p>Capacità di raffreddamento (50 Hz)</p><p>2100</p><p>Capacità di riscaldamento (50 Hz)</p><p>530</p><p>Stabilità della temperatura</p><p>± 0,1</p><p>Capacità serbatoio</p><p>5 L</p><p>Materiale di contatto per fluido di ricircolo</p><p>Stainless steel, Copper (Heat exchanger brazing), Bronze, Alumina ceramic, Carbon, PP, PE, POM, FKM, EPDM, PVC</p><p>Corrente di esercizio nominale (50Hz)</p><p>5.1 A</p><p>Assorbimento nominale (50Hz)</p><p>1.0 kVA</p><p>Pompa di portata (50Hz)</p><p>7 l/min (0.13 MPa)</p><p>Portata massima di pompa (50Hz)</p><p>27 l/min</p><p>Prevalenza massima di pompa (50Hz)</p><p>14 m</p><p>Uscita fluido di ricircolo, attacco di ritorno del fluido di ricircolo</p><p>1/2</p><p>Rumorosità</p><p>60 dB</p><p>Peso</p><p>43.000 Kg</p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

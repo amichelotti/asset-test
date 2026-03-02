@@ -1,0 +1,25 @@
+{
+  "uid": "01kjr7pmvqqf90vdj111ytxhe0",
+  "key": "LNFMAC-110356",
+  "name": "Edificio 2",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjr7a2wk5hebv4y86e0aasgr",
+  "attributes": {
+    "key": "LNFMAC-110356",
+    "name": "Edificio 2",
+    "created": "2023-10-18T09:39:12.000Z",
+    "updated": "2025-10-28T14:52:13.000Z",
+    "note": "Div. Acceleratori - Div. Tecnica - Officine Centrali - Magazzino metalli",
+    "area": "01kjr7q0c6ch0ssqvgat7n78e8"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

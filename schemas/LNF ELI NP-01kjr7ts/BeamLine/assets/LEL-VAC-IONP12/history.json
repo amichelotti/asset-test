@@ -1,0 +1,58 @@
+[
+  {
+    "uid": "01kjr86pgmhkxv0xc3d09cjw7g",
+    "assetUid": "01kjr86nzpzw2btak2swmdke9g",
+    "type": "5",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"5\",\"attribute\":\"Layout\",\"oldValue\":\"M4A-002\",\"newValue\":\"M4-028\"}",
+    "timestamp": "2025-06-18T17:18:27.000"
+  },
+  {
+    "uid": "01kjr86phb39ezatfzs7fqp7g9",
+    "assetUid": "01kjr86nzpzw2btak2swmdke9g",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Module\",\"oldValue\":\"M4A\",\"newValue\":\"M4\"}",
+    "timestamp": "2025-06-18T17:18:27.000"
+  },
+  {
+    "uid": "01kjr86phxjz7707qh6a73284x",
+    "assetUid": "01kjr86nzpzw2btak2swmdke9g",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Layout\",\"oldValue\":\"\",\"newValue\":\"M4A-002\"}",
+    "timestamp": "2023-12-01T14:24:36.000"
+  },
+  {
+    "uid": "01kjr86pjfn4ncc5q1r0w38rqw",
+    "assetUid": "01kjr86nzpzw2btak2swmdke9g",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Module\",\"oldValue\":\"\",\"newValue\":\"M4A\"}",
+    "timestamp": "2023-12-01T00:56:30.000"
+  },
+  {
+    "uid": "01kjr86pjtq51g6xe3yxks5twz",
+    "assetUid": "01kjr86nzpzw2btak2swmdke9g",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Next Element\",\"oldValue\":\"\",\"newValue\":\"LEL-DMP-BDUMP01\"}",
+    "timestamp": "2023-12-01T00:50:05.000"
+  },
+  {
+    "uid": "01kjr86pk3ft4tk88kas78sdz6",
+    "assetUid": "01kjr86nzpzw2btak2swmdke9g",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Previous Element\",\"oldValue\":\"\",\"newValue\":\"LEL-DIA-SCN06:CAM01\"}",
+    "timestamp": "2023-12-01T00:50:05.000"
+  },
+  {
+    "uid": "01kjr86pkdeh45zksj38jqz37v",
+    "assetUid": "01kjr86nzpzw2btak2swmdke9g",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-12-01T00:38:05.000"
+  }
+]

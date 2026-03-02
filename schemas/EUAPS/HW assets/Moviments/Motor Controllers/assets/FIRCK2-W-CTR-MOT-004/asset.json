@@ -1,0 +1,28 @@
+{
+  "uid": "01kjr731fra3r6atdspry62jys",
+  "key": "LNFT2-147322",
+  "name": "FIRCK2-W-CTR-MOT-004",
+  "type": "Motor Controllers",
+  "schemaUid": "01kjr6y3bkg7sgffg3kdstpgkq",
+  "attributes": {
+    "key": "LNFT2-147322",
+    "name": "FIRCK2-W-CTR-MOT-004",
+    "created": "2026-02-13T10:49:12.000Z",
+    "updated": "2026-02-13T10:53:11.000Z",
+    "status": "Active",
+    "owner": "LNFMAC-143535",
+    "locations": "01kjr7qe4212183j0ceepct95g",
+    "facility": "01kjr7svmreks51z8mp1tfeex6",
+    "hw_model": "01kjr7m9jppp5yyfc526dewd4k"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

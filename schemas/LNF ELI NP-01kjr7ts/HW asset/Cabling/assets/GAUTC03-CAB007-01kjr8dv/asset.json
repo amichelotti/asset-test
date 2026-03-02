@@ -1,0 +1,29 @@
+{
+  "uid": "01kjr8dvk7t9vvr4fj7pjg09ka",
+  "key": "LNFELINP-111994",
+  "name": "GAUTC03-CAB007",
+  "type": "Cabling",
+  "schemaUid": "01kjr6y2yhe6sjdvs376nmhzdm",
+  "attributes": {
+    "key": "LNFELINP-111994",
+    "name": "GAUTC03-CAB007",
+    "created": "2023-11-30T12:23:15.000Z",
+    "updated": "2023-11-30T12:23:15.000Z",
+    "description": "Thermal conductivity vacuum gauge - Agilent TC536 Pirani",
+    "connector1_pair": "01kjr7w8vkk7a4p359k2gn2yp4",
+    "connector2_pair": "01kjr8apaefctm4h1paf2mgq4m",
+    "connector1_desc": "SUB-D9 Plug",
+    "connector2_desc": "SUB-D9 Plug",
+    "cable_type_desc": "3 TwSch Pr LIYCY 3x2x0.25mmq"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

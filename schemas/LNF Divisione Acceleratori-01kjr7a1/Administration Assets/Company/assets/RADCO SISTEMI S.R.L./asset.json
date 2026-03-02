@@ -1,0 +1,24 @@
+{
+  "uid": "01kjr7cz6ykjh2180rypepvqkp",
+  "key": "LNFMAC-109158",
+  "name": "RADCO SISTEMI S.R.L.",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-109158",
+    "name": "RADCO SISTEMI S.R.L.",
+    "created": "2023-10-06T08:18:18.000Z",
+    "updated": "2023-10-06T08:18:18.000Z",
+    "contact": "RADCO SISTEMI S.R.L."
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "uid": "01kjr8frjga1fejwzh8jghz6xj",
+  "key": "LNFELINP-111949",
+  "name": "LEL-MAG-SOL02:COIL[10-12]",
+  "type": "Cabling",
+  "schemaUid": "01kjr6y2yhe6sjdvs376nmhzdm",
+  "attributes": {
+    "key": "LNFELINP-111949",
+    "name": "LEL-MAG-SOL02:COIL[10-12]",
+    "created": "2023-11-30T12:02:32.000Z",
+    "updated": "2023-11-30T12:02:32.000Z",
+    "description": "Solenoid B Set 4 (3 coils in series)",
+    "connector1_pair": "01kjr7yd3d28z9gvewc7qf235g",
+    "connector2_pair": "01kjr8avjmvmc9kqzpj950kx4m",
+    "connector1_desc": "cable lugs",
+    "connector2_desc": "cable lugs",
+    "connection_type_desc": "bolted",
+    "cable_type_desc": "2xFG7R 120mmq (see X-sect)"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

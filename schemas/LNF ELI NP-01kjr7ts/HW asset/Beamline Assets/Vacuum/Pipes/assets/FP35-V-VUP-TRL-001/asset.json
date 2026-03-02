@@ -1,0 +1,24 @@
+{
+  "uid": "01kjr75mdmzmptdv9nqzt42az3",
+  "key": "LNFT2-147437",
+  "name": "FP35-V-VUP-TRL-001",
+  "type": "Pipes",
+  "schemaUid": "01kjr6y3ypvrmfdw36smpkbnqb",
+  "attributes": {
+    "key": "LNFT2-147437",
+    "name": "FP35-V-VUP-TRL-001",
+    "created": "2026-02-16T14:01:59.000Z",
+    "updated": "2026-02-16T14:19:48.000Z",
+    "vaccum_objects": "01kjr71y1qes549xskwc4r2p2t"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

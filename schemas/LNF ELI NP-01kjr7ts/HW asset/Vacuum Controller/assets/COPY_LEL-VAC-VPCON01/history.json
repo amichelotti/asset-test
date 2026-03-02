@@ -1,0 +1,66 @@
+[
+  {
+    "uid": "01kjr89s2yqgfgmf8cbqw1j8w9",
+    "assetUid": "01kjr89rcr99e0qqpnend9fn39",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Models\",\"oldValue\":\"Agilent 4UHV Ion ...\",\"newValue\":\"A604H\"}",
+    "timestamp": "2026-02-21T17:18:44.000"
+  },
+  {
+    "uid": "01kjr89s34ap39k05namzzpvac",
+    "assetUid": "01kjr89rcr99e0qqpnend9fn39",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"connector\",\"oldValue\":\"VPC01-ser\",\"newValue\":\"BPM03-CAB037\"}",
+    "timestamp": "2026-02-21T17:18:44.000"
+  },
+  {
+    "uid": "01kjr89s38m3yehfr21kgr58q8",
+    "assetUid": "01kjr89rcr99e0qqpnend9fn39",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Rack\",\"oldValue\":\"R_COR_08\",\"newValue\":\"R_COR_10\"}",
+    "timestamp": "2026-02-21T17:18:44.000"
+  },
+  {
+    "uid": "01kjr89s3d3feaf56bdyt5xrfr",
+    "assetUid": "01kjr89rcr99e0qqpnend9fn39",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Type\",\"oldValue\":\"\",\"newValue\":\"VPC\"}",
+    "timestamp": "2026-02-21T16:42:41.000"
+  },
+  {
+    "uid": "01kjr89s3haea7vehg0jq911a1",
+    "assetUid": "01kjr89rcr99e0qqpnend9fn39",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Alias\",\"oldValue\":\"copietta\",\"newValue\":\"copietta modificata\"}",
+    "timestamp": "2026-02-21T16:42:41.000"
+  },
+  {
+    "uid": "01kjr89s3qyrxtzx89ccww7v5f",
+    "assetUid": "01kjr89rcr99e0qqpnend9fn39",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Status\",\"oldValue\":\"Not Active\",\"newValue\":\"Active\"}",
+    "timestamp": "2026-02-21T16:42:41.000"
+  },
+  {
+    "uid": "01kjr89s40q61ptres0f4fyzaz",
+    "assetUid": "01kjr89rcr99e0qqpnend9fn39",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Not Active\"}",
+    "timestamp": "2026-02-21T16:13:45.000"
+  },
+  {
+    "uid": "01kjr89s49100d2zqhqad94dg1",
+    "assetUid": "01kjr89rcr99e0qqpnend9fn39",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-12-29T00:15:34.000"
+  }
+]

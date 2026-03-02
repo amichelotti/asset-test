@@ -1,0 +1,23 @@
+{
+  "uid": "01kjr70n7wv066dn9yfc9ajqv0",
+  "key": "LNFT2-147420",
+  "name": "FI8-W-SLT-ICH-003",
+  "type": "Motors",
+  "schemaUid": "01kjr6y2p67qjezym2da7b4sex",
+  "attributes": {
+    "key": "LNFT2-147420",
+    "name": "FI8-W-SLT-ICH-003",
+    "created": "2026-02-16T12:44:56.000Z",
+    "updated": "2026-02-16T12:44:56.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

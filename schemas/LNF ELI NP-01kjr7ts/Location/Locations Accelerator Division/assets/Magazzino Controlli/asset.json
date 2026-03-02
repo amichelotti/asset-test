@@ -1,0 +1,26 @@
+{
+  "uid": "01kjr7qq5v0k7kjyfjxa18ky05",
+  "key": "LNFMAC-99006",
+  "name": "Magazzino Controlli ",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjr7a2wk5hebv4y86e0aasgr",
+  "attributes": {
+    "key": "LNFMAC-99006",
+    "name": "Magazzino Controlli ",
+    "created": "2023-05-02T17:31:22.000Z",
+    "updated": "2025-10-28T15:22:29.000Z",
+    "building": "Edificio 2 (Adone)",
+    "piano": "1",
+    "stanza": "124"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

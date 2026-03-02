@@ -1,0 +1,30 @@
+{
+  "uid": "01kjr78xvjt981xeqfc6c0zt45",
+  "key": "LNFT2-145359",
+  "name": "FI5-B-CAM-BAS-001",
+  "type": "Cameras",
+  "schemaUid": "01kjr6y4tdzhz6fn2cs9q0be1h",
+  "attributes": {
+    "key": "LNFT2-145359",
+    "name": "FI5-B-CAM-BAS-001",
+    "s/n": "40418959",
+    "created": "2026-01-08T17:09:32.000Z",
+    "updated": "2026-02-25T11:08:07.000Z",
+    "owner": "LNFMAC-143535",
+    "alias": "cceuapscam20",
+    "locations": "01kjr7qe4212183j0ceepct95g",
+    "facility": "01kjr7st4dyad67rx9rvajqtab",
+    "hw_model": "01kjr7ed8wdsgscgb0vpj107y1",
+    "mac_address": "00:30:53:35:E6:5F"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

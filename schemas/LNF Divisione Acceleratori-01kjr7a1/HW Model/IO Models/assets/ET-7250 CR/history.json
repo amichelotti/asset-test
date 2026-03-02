@@ -1,0 +1,58 @@
+[
+  {
+    "uid": "01kjr7hdp18em51zxa1my8qfpw",
+    "assetUid": "01kjr7gq8ny93hrp7nn6xgs1we",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"GIT repo\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
+    "timestamp": "2025-09-02T15:20:28.000"
+  },
+  {
+    "uid": "01kjr7hdpga8fe86mvpq23nxe4",
+    "assetUid": "01kjr7gq8ny93hrp7nn6xgs1we",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"La serie ET-7000/...\",\"newValue\":\"La serie ET-7000/...\"}",
+    "timestamp": "2025-09-02T15:20:28.000"
+  },
+  {
+    "uid": "01kjr7hdpvktha4dy89954sppq",
+    "assetUid": "01kjr7gq8ny93hrp7nn6xgs1we",
+    "type": "26",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"26\"}",
+    "timestamp": "2024-09-18T09:58:14.000"
+  },
+  {
+    "uid": "01kjr7hdqf5sqhm8r19tt3rrg3",
+    "assetUid": "01kjr7gq8ny93hrp7nn6xgs1we",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"La serie ET-7000/...\",\"newValue\":\"La serie ET-7000/...\"}",
+    "timestamp": "2024-09-18T09:58:14.000"
+  },
+  {
+    "uid": "01kjr7hdqr6jc38xyvdjs29hnh",
+    "assetUid": "01kjr7gq8ny93hrp7nn6xgs1we",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"pet_et7x00_regist...\"}",
+    "timestamp": "2024-09-18T09:56:30.000"
+  },
+  {
+    "uid": "01kjr7hdr8dmp56x27ydsmjcfv",
+    "assetUid": "01kjr7gq8ny93hrp7nn6xgs1we",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"pet_et-7x00_user_...\"}",
+    "timestamp": "2024-09-18T09:56:29.000"
+  },
+  {
+    "uid": "01kjr7hdrqnc7p0najxc8940d0",
+    "assetUid": "01kjr7gq8ny93hrp7nn6xgs1we",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-09-18T09:56:28.000"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "uid": "01kjr7kdv3j6rfbwzmfyr5gcxz",
+    "assetUid": "01kjr7kd10k4n9savaktx4xej5",
+    "type": "1",
+    "author": "Unknown",
+    "details": "{\"type\":\"1\",\"attribute\":\"CPU type\",\"oldValue\":\"\",\"newValue\":\"i5\"}",
+    "timestamp": "2023-05-16T11:25:31.000"
+  },
+  {
+    "uid": "01kjr7kdw10ma4kr7xgk42v881",
+    "assetUid": "01kjr7kd10k4n9savaktx4xej5",
+    "type": "25",
+    "author": "Unknown",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2023-05-16T11:21:39.000"
+  },
+  {
+    "uid": "01kjr7kdwp8qffwqjb1hyhvd5r",
+    "assetUid": "01kjr7kd10k4n9savaktx4xej5",
+    "type": "0",
+    "author": "Unknown",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-05-16T11:21:21.000"
+  }
+]

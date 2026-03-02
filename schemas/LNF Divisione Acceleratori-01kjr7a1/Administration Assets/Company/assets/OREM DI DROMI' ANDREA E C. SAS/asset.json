@@ -1,0 +1,24 @@
+{
+  "uid": "01kjr7cj6nrvdv8zpg5rzv2zmc",
+  "key": "LNFMAC-109324",
+  "name": "OREM DI DROMI' ANDREA E C. SAS",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-109324",
+    "name": "OREM DI DROMI' ANDREA E C. SAS",
+    "created": "2023-10-10T12:39:08.000Z",
+    "updated": "2023-10-10T12:39:08.000Z",
+    "contact": "OREM DI DROMI' ANDREA E C. SAS"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

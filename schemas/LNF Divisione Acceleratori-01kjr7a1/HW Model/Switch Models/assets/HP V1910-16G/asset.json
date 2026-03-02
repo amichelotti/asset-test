@@ -1,0 +1,25 @@
+{
+  "uid": "01kjr7jhyq6abrnmb0nh44e7ee",
+  "key": "LNFMAC-128464",
+  "name": "HP V1910-16G",
+  "type": "Switch Models",
+  "schemaUid": "01kjr7a3pwqpz0vtyqd55yvmd2",
+  "attributes": {
+    "key": "LNFMAC-128464",
+    "name": "HP V1910-16G",
+    "created": "2024-11-08T15:23:34.000Z",
+    "updated": "2024-11-08T15:23:34.000Z",
+    "producer": "01kjr7bwwej8cy8z76c9yd56kx",
+    "documentation": "https://www.hpe.com/psnow/doc/c03824531"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

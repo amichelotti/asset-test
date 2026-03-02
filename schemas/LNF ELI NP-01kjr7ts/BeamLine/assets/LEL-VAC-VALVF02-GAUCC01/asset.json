@@ -1,0 +1,28 @@
+{
+  "uid": "01kjr86tx31ycc87vtbyshz68r",
+  "key": "LNFELINP-112395",
+  "name": "LEL-VAC-VALVF02:GAUCC01",
+  "type": "BeamLine",
+  "schemaUid": "01kjr7v4j2cf714dfa2vz1fgzp",
+  "attributes": {
+    "key": "LNFELINP-112395",
+    "name": "LEL-VAC-VALVF02:GAUCC01",
+    "created": "2023-11-30T23:48:42.000Z",
+    "updated": "2025-06-18T15:46:04.000Z",
+    "module": "M4",
+    "layout": "LNFELINP-138628",
+    "sequential": "79",
+    "previous_element": "01kjr856y2ce90k5xc7rwyhm0c",
+    "element": "01kjr7x5st9dawvedryhr6vsm5"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

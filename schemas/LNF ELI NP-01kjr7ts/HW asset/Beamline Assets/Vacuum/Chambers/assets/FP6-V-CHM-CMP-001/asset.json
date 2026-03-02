@@ -1,0 +1,24 @@
+{
+  "uid": "01kjr75x5ndb3w6ea8dgwsymam",
+  "key": "LNFT2-147432",
+  "name": "FP6-V-CHM-CMP-001",
+  "type": "Chambers",
+  "schemaUid": "01kjr6y47n07vz66b700pr1yze",
+  "attributes": {
+    "key": "LNFT2-147432",
+    "name": "FP6-V-CHM-CMP-001",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Compressore Amplitude</p></div>",
+    "created": "2026-02-16T13:51:23.000Z",
+    "updated": "2026-02-16T13:59:53.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "uid": "01kjr71j79p7xh0rrv6dydhzba",
+    "assetUid": "01kjr71hpk0h8e28zjqwkser4f",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"HW Model\",\"oldValue\":\"\",\"newValue\":\"11140-CE44\"}",
+    "timestamp": "2026-02-13T15:58:32.000"
+  },
+  {
+    "uid": "01kjr71j7mj7q6rjdm3thfbfev",
+    "assetUid": "01kjr71hpk0h8e28zjqwkser4f",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Owner\",\"oldValue\":\"\",\"newValue\":\"SERVIZIO VUOTO\"}",
+    "timestamp": "2026-02-13T15:58:32.000"
+  },
+  {
+    "uid": "01kjr71j7vs7qwwks8rj9vscnn",
+    "assetUid": "01kjr71hpk0h8e28zjqwkser4f",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2026-02-13T15:58:32.000"
+  },
+  {
+    "uid": "01kjr71j823krenzpc60fpscar",
+    "assetUid": "01kjr71hpk0h8e28zjqwkser4f",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2026-02-11T15:32:50.000"
+  }
+]

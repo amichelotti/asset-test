@@ -1,0 +1,27 @@
+{
+  "uid": "01kjr6yzk1jq6vc9tkgp09cc88",
+  "key": "LNFT2-147954",
+  "name": "SP35-V-PMP-TRB-002",
+  "type": "Secondary Pumps",
+  "schemaUid": "01kjr6y37dvdrzpq6s7kznrx0p",
+  "attributes": {
+    "key": "LNFT2-147954",
+    "name": "SP35-V-PMP-TRB-002",
+    "created": "2026-03-02T15:48:38.000Z",
+    "updated": "2026-03-02T15:48:38.000Z",
+    "owner": "LNFMAC-143538",
+    "locations": "01kjr7s02ka6917dvpvndhnet5",
+    "facility": "01kjr7st4dyad67rx9rvajqtab",
+    "hw_model": "01kjr7ewbcvp41wnns7np9cwwf"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

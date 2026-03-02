@@ -1,0 +1,122 @@
+[
+  {
+    "uid": "01kjr7w06n1p7hpefdm6c56c36",
+    "assetUid": "01kjr7vzc5hvjfhvsex61e7j3x",
+    "type": "3",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"3\",\"attribute\":\"Alias\",\"oldValue\":\"18:66:da:2a:06:83\",\"newValue\":\"\"}",
+    "timestamp": "2025-11-13T10:27:44.000"
+  },
+  {
+    "uid": "01kjr7w07afaangmkq7z7w13fc",
+    "assetUid": "01kjr7vzc5hvjfhvsex61e7j3x",
+    "type": "1",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"1\",\"attribute\":\"MAC\",\"oldValue\":\"\",\"newValue\":\"18:66:da:2a:8b:eb\"}",
+    "timestamp": "2025-11-13T10:27:04.000"
+  },
+  {
+    "uid": "01kjr7w07ka8bc0vc484j7nb7p",
+    "assetUid": "01kjr7vzc5hvjfhvsex61e7j3x",
+    "type": "2",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"2\",\"attribute\":\"Alias\",\"oldValue\":\"GEN-CS-GP08:IOC23\",\"newValue\":\"18:66:da:2a:06:83\"}",
+    "timestamp": "2025-11-12T11:13:43.000"
+  },
+  {
+    "uid": "01kjr7w084c237qfwn9ar50swg",
+    "assetUid": "01kjr7vzc5hvjfhvsex61e7j3x",
+    "type": "3",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"3\",\"attribute\":\"MAC\",\"oldValue\":\"18:66:da:2a:0b:eb\",\"newValue\":\"\"}",
+    "timestamp": "2025-11-12T11:13:04.000"
+  },
+  {
+    "uid": "01kjr7w08fcb9jktg3kn95738z",
+    "assetUid": "01kjr7vzc5hvjfhvsex61e7j3x",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"OS\",\"oldValue\":\"Scientific Linux 6.3\",\"newValue\":\"Ubuntu 24.04.1 LTS\"}",
+    "timestamp": "2025-01-13T09:21:09.000"
+  },
+  {
+    "uid": "01kjr7w08v7s3d67n6mw0t1j8j",
+    "assetUid": "01kjr7vzc5hvjfhvsex61e7j3x",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"Dell optiplex xe2\"}",
+    "timestamp": "2025-01-13T09:21:09.000"
+  },
+  {
+    "uid": "01kjr7w094vwdc9mscp0xmt6jx",
+    "assetUid": "01kjr7vzc5hvjfhvsex61e7j3x",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"Corridor GP\"}",
+    "timestamp": "2025-01-13T09:21:09.000"
+  },
+  {
+    "uid": "01kjr7w09g125sf0wky304p3a5",
+    "assetUid": "01kjr7vzc5hvjfhvsex61e7j3x",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"registered 10.16....\",\"newValue\":\"registered 10.16....\"}",
+    "timestamp": "2025-01-13T09:21:09.000"
+  },
+  {
+    "uid": "01kjr7w09rfxppr4en7wec0w65",
+    "assetUid": "01kjr7vzc5hvjfhvsex61e7j3x",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Status\",\"oldValue\":\"Action Needed\",\"newValue\":\"Active\"}",
+    "timestamp": "2025-01-13T09:21:09.000"
+  },
+  {
+    "uid": "01kjr7w09zbk94a9k0q7x060jx",
+    "assetUid": "01kjr7vzc5hvjfhvsex61e7j3x",
+    "type": "4",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"4\",\"attribute\":\"Registered\",\"oldValue\":\"\",\"newValue\":\"plelico003\"}",
+    "timestamp": "2024-12-06T08:45:45.000"
+  },
+  {
+    "uid": "01kjr7w0a8pmn0erw7scaytkvw",
+    "assetUid": "01kjr7vzc5hvjfhvsex61e7j3x",
+    "type": "2",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"registered 192.16...\",\"newValue\":\"registered 10.16....\"}",
+    "timestamp": "2024-12-06T08:25:54.000"
+  },
+  {
+    "uid": "01kjr7w0ah9e7e9bgsh45gvxj6",
+    "assetUid": "01kjr7vzc5hvjfhvsex61e7j3x",
+    "type": "2",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"registered 192.16...\",\"newValue\":\"registered 192.16...\"}",
+    "timestamp": "2024-12-06T08:25:17.000"
+  },
+  {
+    "uid": "01kjr7w0ar6qx4tbk65w2xsnck",
+    "assetUid": "01kjr7vzc5hvjfhvsex61e7j3x",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"registered 192.16...\"}",
+    "timestamp": "2024-04-11T13:16:57.000"
+  },
+  {
+    "uid": "01kjr7w0bgv0wh8k73bzvqkegh",
+    "assetUid": "01kjr7vzc5hvjfhvsex61e7j3x",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Status\",\"oldValue\":\"Uninstalled\",\"newValue\":\"Action Needed\"}",
+    "timestamp": "2024-04-11T13:16:57.000"
+  },
+  {
+    "uid": "01kjr7w0btrh4dmtzasqjjb15m",
+    "assetUid": "01kjr7vzc5hvjfhvsex61e7j3x",
+    "type": "0",
+    "author": "Unknown",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-04-11T12:45:14.000"
+  }
+]

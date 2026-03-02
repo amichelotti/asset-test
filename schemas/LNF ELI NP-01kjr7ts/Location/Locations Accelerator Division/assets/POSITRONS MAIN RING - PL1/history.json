@@ -1,0 +1,34 @@
+[
+  {
+    "uid": "01kjr7qw70v9c0sh50n0vg3srg",
+    "assetUid": "01kjr7qvhwbt0n5k8va18ysd0b",
+    "type": "29",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"29\"}",
+    "timestamp": "2025-10-28T15:52:12.000"
+  },
+  {
+    "uid": "01kjr7qw87yezn9ebnraecvmb4",
+    "assetUid": "01kjr7qvhwbt0n5k8va18ysd0b",
+    "type": "28",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"28\"}",
+    "timestamp": "2025-10-28T15:49:10.000"
+  },
+  {
+    "uid": "01kjr7qw8pgpt8542w5ndsryxa",
+    "assetUid": "01kjr7qvhwbt0n5k8va18ysd0b",
+    "type": "24",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"24\",\"oldValue\":\"Location\",\"newValue\":\"FLAME Ed 56\"}",
+    "timestamp": "2025-10-28T15:47:28.000"
+  },
+  {
+    "uid": "01kjr7qw8x28hrc455yf6yjx3k",
+    "assetUid": "01kjr7qvhwbt0n5k8va18ysd0b",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-09-30T19:09:52.000"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "uid": "01kjr73hgqc4r7x6qskwstnvz3",
+  "key": "LNFT2-145555",
+  "name": "FP7-W-CTR-MOT-001",
+  "type": "Motor Controllers",
+  "schemaUid": "01kjr6y3bkg7sgffg3kdstpgkq",
+  "attributes": {
+    "key": "LNFT2-145555",
+    "name": "FP7-W-CTR-MOT-001",
+    "s/n": "97102913",
+    "created": "2026-01-12T17:57:56.000Z",
+    "updated": "2026-01-13T14:03:56.000Z",
+    "status": "Active",
+    "owner": "LNFMAC-143535",
+    "locations": "01kjr7qfsj4fc66ywr7nk8sfk0",
+    "facility": "01kjr7svmreks51z8mp1tfeex6",
+    "hw_model": "01kjr7k1y2r29a4kd57qjc3ets"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

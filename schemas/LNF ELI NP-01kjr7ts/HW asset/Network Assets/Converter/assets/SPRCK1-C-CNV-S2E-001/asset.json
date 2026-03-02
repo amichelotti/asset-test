@@ -1,0 +1,26 @@
+{
+  "uid": "01kjr7a0jxk4979rmpr1wwsred",
+  "key": "LNFT2-147901",
+  "name": "SPRCK1-C-CNV-S2E-001",
+  "type": "Converter",
+  "schemaUid": "01kjr6y5kh45nej7snw2dx01eb",
+  "attributes": {
+    "key": "LNFT2-147901",
+    "name": "SPRCK1-C-CNV-S2E-001",
+    "created": "2026-03-02T13:53:50.000Z",
+    "updated": "2026-03-02T13:53:50.000Z",
+    "owner": "LNFMAC-12817",
+    "facility": "LNFMAC-141978",
+    "hw_model": "LNFMAC-99949"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

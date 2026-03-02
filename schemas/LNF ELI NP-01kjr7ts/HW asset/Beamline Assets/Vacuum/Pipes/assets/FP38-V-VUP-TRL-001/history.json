@@ -1,0 +1,18 @@
+[
+  {
+    "uid": "01kjr75gd0zsh3yrnayz7t6p2t",
+    "assetUid": "01kjr75ftw49ma7zjtrc03bkp2",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"Tratto discendent...\"}",
+    "timestamp": "2026-02-16T15:10:06.000"
+  },
+  {
+    "uid": "01kjr75gdm6vvrnfyd6cjpbcww",
+    "assetUid": "01kjr75ftw49ma7zjtrc03bkp2",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2026-02-16T15:02:36.000"
+  }
+]

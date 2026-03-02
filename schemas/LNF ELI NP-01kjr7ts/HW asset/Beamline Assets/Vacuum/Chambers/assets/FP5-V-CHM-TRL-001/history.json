@@ -1,0 +1,50 @@
+[
+  {
+    "uid": "01kjr75wyydjykarbmd7pmqr1x",
+    "assetUid": "01kjr75wh1f3x7931a2g4pvqzd",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Objects\",\"oldValue\":\"\",\"newValue\":\"FP5-W-MOT-HMN-001...\"}",
+    "timestamp": "2026-02-16T14:58:52.000"
+  },
+  {
+    "uid": "01kjr75wz7f8hgtjy7hrf56z0q",
+    "assetUid": "01kjr75wh1f3x7931a2g4pvqzd",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Facility\",\"oldValue\":\"\",\"newValue\":\"FLAME\"}",
+    "timestamp": "2026-02-16T14:58:52.000"
+  },
+  {
+    "uid": "01kjr75wze5g93gndwkvf7gpmt",
+    "assetUid": "01kjr75wh1f3x7931a2g4pvqzd",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Locations\",\"oldValue\":\"\",\"newValue\":\"LNF.D1.DE56.GF.BAL1\"}",
+    "timestamp": "2026-02-16T14:58:52.000"
+  },
+  {
+    "uid": "01kjr75wzk2pby7wk8r3vvfxaz",
+    "assetUid": "01kjr75wh1f3x7931a2g4pvqzd",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Owner\",\"oldValue\":\"\",\"newValue\":\"SERVIZIO VUOTO\"}",
+    "timestamp": "2026-02-16T14:58:52.000"
+  },
+  {
+    "uid": "01kjr75wzry3aw663abmmpnrgv",
+    "assetUid": "01kjr75wh1f3x7931a2g4pvqzd",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2026-02-16T14:58:52.000"
+  },
+  {
+    "uid": "01kjr75wzykhhz2bymwzsaexa1",
+    "assetUid": "01kjr75wh1f3x7931a2g4pvqzd",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2026-02-16T14:50:46.000"
+  }
+]

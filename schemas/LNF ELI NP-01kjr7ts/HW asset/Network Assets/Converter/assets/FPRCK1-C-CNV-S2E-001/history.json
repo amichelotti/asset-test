@@ -1,0 +1,50 @@
+[
+  {
+    "uid": "01kjr79yhfhyvbtq2b5m6eza44",
+    "assetUid": "01kjr79xrsrzd21g6zj0fk3x8f",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"HW Model\",\"oldValue\":\"\",\"newValue\":\"NPort 5650-8\"}",
+    "timestamp": "2026-02-24T12:04:58.000"
+  },
+  {
+    "uid": "01kjr79yhtbarwxwcn0prbmxp5",
+    "assetUid": "01kjr79xrsrzd21g6zj0fk3x8f",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Facility\",\"oldValue\":\"\",\"newValue\":\"FLAME\"}",
+    "timestamp": "2026-02-24T12:04:58.000"
+  },
+  {
+    "uid": "01kjr79yjddjwx5dc6whjya841",
+    "assetUid": "01kjr79xrsrzd21g6zj0fk3x8f",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Locations\",\"oldValue\":\"\",\"newValue\":\"LNF.D1.DE56.GF.BAL1\"}",
+    "timestamp": "2026-02-24T12:04:58.000"
+  },
+  {
+    "uid": "01kjr79yjra78cv1xqhzxh8gdd",
+    "assetUid": "01kjr79xrsrzd21g6zj0fk3x8f",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Owner\",\"oldValue\":\"\",\"newValue\":\"Gruppo Controlli\"}",
+    "timestamp": "2026-02-24T12:04:58.000"
+  },
+  {
+    "uid": "01kjr79yjy4jjsxm8ytj4f2thy",
+    "assetUid": "01kjr79xrsrzd21g6zj0fk3x8f",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2026-02-24T12:04:58.000"
+  },
+  {
+    "uid": "01kjr79yk5zwkrc98we0j4ak20",
+    "assetUid": "01kjr79xrsrzd21g6zj0fk3x8f",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2026-02-18T16:23:31.000"
+  }
+]

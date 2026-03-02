@@ -1,0 +1,50 @@
+[
+  {
+    "uid": "01kjr7rfm5wjspv3ygrx3zsje9",
+    "assetUid": "01kjr7rf1g10c4qy4d9xh4pepn",
+    "type": "29",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"29\"}",
+    "timestamp": "2025-10-28T15:52:12.000"
+  },
+  {
+    "uid": "01kjr7rfmq10nx34j7gky5tsh1",
+    "assetUid": "01kjr7rf1g10c4qy4d9xh4pepn",
+    "type": "28",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"28\"}",
+    "timestamp": "2025-10-28T15:49:10.000"
+  },
+  {
+    "uid": "01kjr7rfn7smm3kxt8pczm21ab",
+    "assetUid": "01kjr7rf1g10c4qy4d9xh4pepn",
+    "type": "24",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"24\",\"oldValue\":\"Location\",\"newValue\":\"FLAME Ed 56\"}",
+    "timestamp": "2025-10-28T15:47:30.000"
+  },
+  {
+    "uid": "01kjr7rfnp0k7da1q4c32cs8n1",
+    "assetUid": "01kjr7rf1g10c4qy4d9xh4pepn",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Area\",\"oldValue\":\"\",\"newValue\":\"Dafne\"}",
+    "timestamp": "2023-10-03T16:42:06.000"
+  },
+  {
+    "uid": "01kjr7rfp3t5kbrssb8tsc00h7",
+    "assetUid": "01kjr7rf1g10c4qy4d9xh4pepn",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"Sala Dafne - Rack 86\",\"newValue\":\"Sala Dafne - Rack...\"}",
+    "timestamp": "2023-03-22T16:59:02.000"
+  },
+  {
+    "uid": "01kjr7rfpe45j73840ewzfyjmv",
+    "assetUid": "01kjr7rf1g10c4qy4d9xh4pepn",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-03-22T16:56:01.000"
+  }
+]

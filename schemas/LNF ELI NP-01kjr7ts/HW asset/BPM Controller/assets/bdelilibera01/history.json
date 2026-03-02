@@ -1,0 +1,82 @@
+[
+  {
+    "uid": "01kjr8832nv3fsqks5vbqnq47t",
+    "assetUid": "01kjr882e7jxm1hmt4vhjvvkyr",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"lucina rossa e li...\"}",
+    "timestamp": "2025-09-10T15:30:45.000"
+  },
+  {
+    "uid": "01kjr883376dtv0brxq34aq6ze",
+    "assetUid": "01kjr882e7jxm1hmt4vhjvvkyr",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Status\",\"oldValue\":\"Active\",\"newValue\":\"Broken\"}",
+    "timestamp": "2025-09-10T15:30:45.000"
+  },
+  {
+    "uid": "01kjr8833e2tq7e6xvf6hya9jm",
+    "assetUid": "01kjr882e7jxm1hmt4vhjvvkyr",
+    "type": "25",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2025-06-13T15:18:23.000"
+  },
+  {
+    "uid": "01kjr8833x9cxa0xr3kgnj9hh7",
+    "assetUid": "01kjr882e7jxm1hmt4vhjvvkyr",
+    "type": "5",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"5\",\"attribute\":\"Rack\",\"oldValue\":\"R_COR_05\",\"newValue\":\"R_COR_04\"}",
+    "timestamp": "2025-06-13T15:10:21.000"
+  },
+  {
+    "uid": "01kjr88345kcdjw79fqzbqthf1",
+    "assetUid": "01kjr882e7jxm1hmt4vhjvvkyr",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Registered\",\"oldValue\":\"bdelilibera02\",\"newValue\":\"bdelilibera01\"}",
+    "timestamp": "2025-06-11T08:16:33.000"
+  },
+  {
+    "uid": "01kjr8834hbgrrbfr23fgn07s3",
+    "assetUid": "01kjr882e7jxm1hmt4vhjvvkyr",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Registered\",\"oldValue\":\"\",\"newValue\":\"bdelilibera02\"}",
+    "timestamp": "2025-06-11T08:12:16.000"
+  },
+  {
+    "uid": "01kjr8834wnev4nphr8z7475aw",
+    "assetUid": "01kjr882e7jxm1hmt4vhjvvkyr",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_COR_05\"}",
+    "timestamp": "2025-06-11T08:09:11.000"
+  },
+  {
+    "uid": "01kjr883557sbyygmn742db8rd",
+    "assetUid": "01kjr882e7jxm1hmt4vhjvvkyr",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"Corridor GP\"}",
+    "timestamp": "2025-06-11T08:09:11.000"
+  },
+  {
+    "uid": "01kjr8835hfq5e6ztjcj0n9a7y",
+    "assetUid": "01kjr882e7jxm1hmt4vhjvvkyr",
+    "type": "24",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"24\",\"oldValue\":\"I/O\",\"newValue\":\"BPM Controller\"}",
+    "timestamp": "2025-06-11T08:05:06.000"
+  },
+  {
+    "uid": "01kjr8835xs27730tpvwmerqvd",
+    "assetUid": "01kjr882e7jxm1hmt4vhjvvkyr",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-03-07T14:34:12.000"
+  }
+]

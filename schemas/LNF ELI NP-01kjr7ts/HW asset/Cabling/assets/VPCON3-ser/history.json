@@ -1,0 +1,74 @@
+[
+  {
+    "uid": "01kjr8h4xbkgy0vqxkb96egnfr",
+    "assetUid": "01kjr8h480srqj8vza23bj0b9x",
+    "type": "5",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"5\",\"attribute\":\"Connector1 Pair\",\"oldValue\":\"LEL-VAC-WGC09:VPC...\",\"newValue\":\"\"}",
+    "timestamp": "2025-06-18T14:39:24.000"
+  },
+  {
+    "uid": "01kjr8h4xpycjc02aytfv58aqc",
+    "assetUid": "01kjr8h480srqj8vza23bj0b9x",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Connector2 Desc\",\"oldValue\":\"porta 2\",\"newValue\":\"porta 2\"}",
+    "timestamp": "2025-06-18T14:09:54.000"
+  },
+  {
+    "uid": "01kjr8h4xwaa2tmjgzkfjy3ejj",
+    "assetUid": "01kjr8h480srqj8vza23bj0b9x",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"VPCON17-ser\",\"newValue\":\"VPCON3-ser\"}",
+    "timestamp": "2025-06-18T14:09:54.000"
+  },
+  {
+    "uid": "01kjr8h4y0vpw98w433j41mvc2",
+    "assetUid": "01kjr8h480srqj8vza23bj0b9x",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Connector2 Desc\",\"oldValue\":\"porta 4\",\"newValue\":\"porta 2\"}",
+    "timestamp": "2024-12-06T09:04:24.000"
+  },
+  {
+    "uid": "01kjr8h4y8nadkdv47e37tc6q9",
+    "assetUid": "01kjr8h480srqj8vza23bj0b9x",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Connector2 Desc\",\"oldValue\":\"\",\"newValue\":\"porta 4\"}",
+    "timestamp": "2024-12-06T09:04:05.000"
+  },
+  {
+    "uid": "01kjr8h4ydkp54rv4pjyphj1zy",
+    "assetUid": "01kjr8h480srqj8vza23bj0b9x",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Connector2 Pair\",\"oldValue\":\"\",\"newValue\":\"scelimxa16001\"}",
+    "timestamp": "2024-12-06T09:04:05.000"
+  },
+  {
+    "uid": "01kjr8h4yn9g7xbf6ga1jf2bhy",
+    "assetUid": "01kjr8h480srqj8vza23bj0b9x",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Connector1 Pair\",\"oldValue\":\"\",\"newValue\":\"LEL-VAC-WGC09:VPC...\"}",
+    "timestamp": "2024-12-06T09:04:05.000"
+  },
+  {
+    "uid": "01kjr8h4yxhhc56wpx2ygphvdf",
+    "assetUid": "01kjr8h480srqj8vza23bj0b9x",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2024-12-06T09:04:05.000"
+  },
+  {
+    "uid": "01kjr8h4z27k0vc2f2t6vw3t1a",
+    "assetUid": "01kjr8h480srqj8vza23bj0b9x",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-12-06T08:58:24.000"
+  }
+]

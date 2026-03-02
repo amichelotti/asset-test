@@ -1,0 +1,66 @@
+[
+  {
+    "uid": "01kjr7w9vg898pw5v5x7n9xr5s",
+    "assetUid": "01kjr7w8vkk7a4p359k2gn2yp4",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Type\",\"oldValue\":\"GAUTC\",\"newValue\":\"GAUCC\"}",
+    "timestamp": "2025-06-18T15:04:59.000"
+  },
+  {
+    "uid": "01kjr7w9w1r55q537c3aswvd2b",
+    "assetUid": "01kjr7w8vkk7a4p359k2gn2yp4",
+    "type": "4",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
+    "timestamp": "2025-06-18T15:04:59.000"
+  },
+  {
+    "uid": "01kjr7w9w8jkzysm4gpfx3e00c",
+    "assetUid": "01kjr7w8vkk7a4p359k2gn2yp4",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Thermal conductiv...\",\"newValue\":\"Cold cathode vacu...\"}",
+    "timestamp": "2025-06-18T15:04:59.000"
+  },
+  {
+    "uid": "01kjr7w9whws1z4jh506qd3xh1",
+    "assetUid": "01kjr7w8vkk7a4p359k2gn2yp4",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"LEL-VAC-GAUTC03\",\"newValue\":\"LEL-VAC-GAUCC03\"}",
+    "timestamp": "2025-06-18T15:04:59.000"
+  },
+  {
+    "uid": "01kjr7w9wtaycr3gfef0g8x9zp",
+    "assetUid": "01kjr7w8vkk7a4p359k2gn2yp4",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Layout\",\"oldValue\":\"REGION 1\",\"newValue\":\"M1-009\"}",
+    "timestamp": "2023-12-01T14:15:01.000"
+  },
+  {
+    "uid": "01kjr7w9x1a5h2kcjrfa256f41",
+    "assetUid": "01kjr7w8vkk7a4p359k2gn2yp4",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
+    "timestamp": "2023-11-30T13:39:43.000"
+  },
+  {
+    "uid": "01kjr7w9xc986rjeew329j0cwp",
+    "assetUid": "01kjr7w8vkk7a4p359k2gn2yp4",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Type\",\"oldValue\":\"\",\"newValue\":\"GAUTC\"}",
+    "timestamp": "2023-11-30T12:07:06.000"
+  },
+  {
+    "uid": "01kjr7w9xmb9f195eeek00jg4q",
+    "assetUid": "01kjr7w8vkk7a4p359k2gn2yp4",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-11-29T23:57:38.000"
+  }
+]

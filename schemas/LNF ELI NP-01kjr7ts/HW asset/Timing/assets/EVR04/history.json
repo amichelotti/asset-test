@@ -1,0 +1,34 @@
+[
+  {
+    "uid": "01kjr83m38bs4fhhrpab0adqxj",
+    "assetUid": "01kjr83kbwqchwm3j2kvqb234r",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"RF Modulator\"}",
+    "timestamp": "2025-02-26T13:48:16.000"
+  },
+  {
+    "uid": "01kjr83m3ygxnkc78dg884mdwc",
+    "assetUid": "01kjr83kbwqchwm3j2kvqb234r",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Alias\",\"oldValue\":\"\",\"newValue\":\"EVR_RFM\"}",
+    "timestamp": "2025-02-26T13:48:16.000"
+  },
+  {
+    "uid": "01kjr83m4daj1ab782yvtrxn2r",
+    "assetUid": "01kjr83kbwqchwm3j2kvqb234r",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2025-02-26T13:48:16.000"
+  },
+  {
+    "uid": "01kjr83m4pjm4rhxbqrpp1981e",
+    "assetUid": "01kjr83kbwqchwm3j2kvqb234r",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-02-26T13:33:10.000"
+  }
+]

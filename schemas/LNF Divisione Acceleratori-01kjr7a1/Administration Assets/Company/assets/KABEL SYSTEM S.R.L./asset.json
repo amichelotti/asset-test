@@ -1,0 +1,24 @@
+{
+  "uid": "01kjr7c7mbvng1a02b46x366ev",
+  "key": "LNFMAC-109322",
+  "name": "KABEL SYSTEM S.R.L.",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-109322",
+    "name": "KABEL SYSTEM S.R.L.",
+    "created": "2023-10-10T12:39:08.000Z",
+    "updated": "2023-10-10T12:39:08.000Z",
+    "contact": "KABEL SYSTEM S.R.L."
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

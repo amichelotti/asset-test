@@ -1,0 +1,98 @@
+[
+  {
+    "uid": "01kjr8ft65x1qsk3kn1fxdnt88",
+    "assetUid": "01kjr8fsfgpj7mccfp29djc204",
+    "type": "2",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"connected to the ...\"}",
+    "timestamp": "2025-06-13T14:36:54.000"
+  },
+  {
+    "uid": "01kjr8ft6rpt7t2trzpesv7fqk",
+    "assetUid": "01kjr8fsfgpj7mccfp29djc204",
+    "type": "1",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"1\",\"attribute\":\"Lenght\",\"oldValue\":\"\",\"newValue\":\"10\"}",
+    "timestamp": "2025-06-13T14:34:57.000"
+  },
+  {
+    "uid": "01kjr8ft7d3q3mn1hcv40e9xbg",
+    "assetUid": "01kjr8fsfgpj7mccfp29djc204",
+    "type": "1",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"1\",\"attribute\":\"Type\",\"oldValue\":\"\",\"newValue\":\"CAT5\"}",
+    "timestamp": "2025-06-13T14:34:57.000"
+  },
+  {
+    "uid": "01kjr8ft7qmtapxswzkg3dswnm",
+    "assetUid": "01kjr8fsfgpj7mccfp29djc204",
+    "type": "1",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"1\",\"attribute\":\"Cable Type Desc\",\"oldValue\":\"\",\"newValue\":\"10 meter long\"}",
+    "timestamp": "2025-06-13T14:34:57.000"
+  },
+  {
+    "uid": "01kjr8ft7wq0mncm0v5wjekjn1",
+    "assetUid": "01kjr8fsfgpj7mccfp29djc204",
+    "type": "1",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"1\",\"attribute\":\"Connector2 Desc\",\"oldValue\":\"\",\"newValue\":\"port 5\"}",
+    "timestamp": "2025-06-13T14:34:57.000"
+  },
+  {
+    "uid": "01kjr8ft85dv3wbvkhqzvmbsfv",
+    "assetUid": "01kjr8fsfgpj7mccfp29djc204",
+    "type": "4",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"4\",\"attribute\":\"Connector2 Pair\",\"oldValue\":\"\",\"newValue\":\"scelimxa16001\"}",
+    "timestamp": "2025-06-13T14:34:57.000"
+  },
+  {
+    "uid": "01kjr8ft8ad85memx60ht1xebh",
+    "assetUid": "01kjr8fsfgpj7mccfp29djc204",
+    "type": "4",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"4\",\"attribute\":\"Connector1 Pair\",\"oldValue\":\"\",\"newValue\":\"motionbox01-scn01\"}",
+    "timestamp": "2025-06-13T14:34:57.000"
+  },
+  {
+    "uid": "01kjr8ft8q281vsh0b6t1a2tzd",
+    "assetUid": "01kjr8fsfgpj7mccfp29djc204",
+    "type": "4",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
+    "timestamp": "2025-06-13T14:34:57.000"
+  },
+  {
+    "uid": "01kjr8ft90mat5bn5efhb6psx7",
+    "assetUid": "01kjr8fsfgpj7mccfp29djc204",
+    "type": "1",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"\"}",
+    "timestamp": "2025-06-13T14:34:57.000"
+  },
+  {
+    "uid": "01kjr8ft9dv9tj8j8zcran6y1j",
+    "assetUid": "01kjr8fsfgpj7mccfp29djc204",
+    "type": "1",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2025-06-13T14:34:57.000"
+  },
+  {
+    "uid": "01kjr8ft9s7j6jp14zctw5rzc7",
+    "assetUid": "01kjr8fsfgpj7mccfp29djc204",
+    "type": "2",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"MOTCON1-ser\",\"newValue\":\"MOTCON1-cat\"}",
+    "timestamp": "2025-06-13T14:34:57.000"
+  },
+  {
+    "uid": "01kjr8ftah37nft95gey0pkn3p",
+    "assetUid": "01kjr8fsfgpj7mccfp29djc204",
+    "type": "0",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-06-13T14:31:21.000"
+  }
+]

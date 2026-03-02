@@ -1,0 +1,18 @@
+[
+  {
+    "uid": "01kjr823gwr7wend9sktn7cvjr",
+    "assetUid": "01kjr8230xngkezk9saerxn0vm",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Piano\",\"oldValue\":\"\",\"newValue\":\"Ground floor\"}",
+    "timestamp": "2023-12-05T12:55:21.000"
+  },
+  {
+    "uid": "01kjr823h8rv4eankjrz6vehcz",
+    "assetUid": "01kjr8230xngkezk9saerxn0vm",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-11-30T10:27:24.000"
+  }
+]

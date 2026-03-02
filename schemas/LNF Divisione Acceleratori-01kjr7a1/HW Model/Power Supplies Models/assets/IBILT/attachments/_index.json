@@ -1,0 +1,46 @@
+[
+  {
+    "uid": "01kjr7jwv5hpvhrtsv060k7j4k",
+    "assetUid": "01kjr7jqf78nazh48phpfmfv6d",
+    "filename": "BE2812_user_manual_1.2.pdf",
+    "mimeType": "application/pdf",
+    "fileSize": 572452,
+    "author": "amichelo",
+    "created": "2024-11-08T17:28:53.000",
+    "binaryPath": "schemas/LNF Divisione Acceleratori-01kjr7a1/HW Model/Power Supplies Models/assets/IBILT/attachments/BE2812_user_manual_1.2.pdf",
+    "hasBinary": true
+  },
+  {
+    "uid": "01kjr7jvv15nvm5zhh3k8p5aw5",
+    "assetUid": "01kjr7jqf78nazh48phpfmfv6d",
+    "filename": "BE2811_user_manual_1.2.pdf",
+    "mimeType": "application/pdf",
+    "fileSize": 573186,
+    "author": "amichelo",
+    "created": "2024-11-08T17:28:06.000",
+    "binaryPath": "schemas/LNF Divisione Acceleratori-01kjr7a1/HW Model/Power Supplies Models/assets/IBILT/attachments/BE2811_user_manual_1.2.pdf",
+    "hasBinary": true
+  },
+  {
+    "uid": "01kjr7jtsq7fdabb34dzcsmx84",
+    "assetUid": "01kjr7jqf78nazh48phpfmfv6d",
+    "filename": "Bilt_Prog_Manual.pdf",
+    "mimeType": "application/pdf",
+    "fileSize": 433983,
+    "author": "amichelo",
+    "created": "2024-11-08T17:27:20.000",
+    "binaryPath": "schemas/LNF Divisione Acceleratori-01kjr7a1/HW Model/Power Supplies Models/assets/IBILT/attachments/Bilt_Prog_Manual.pdf",
+    "hasBinary": true
+  },
+  {
+    "uid": "01kjr7jsqx45qtmyebdsmx2006",
+    "assetUid": "01kjr7jqf78nazh48phpfmfv6d",
+    "filename": "Bilt_User_Manual.pdf",
+    "mimeType": "application/pdf",
+    "fileSize": 1455724,
+    "author": "amichelo",
+    "created": "2024-11-08T17:26:43.000",
+    "binaryPath": "schemas/LNF Divisione Acceleratori-01kjr7a1/HW Model/Power Supplies Models/assets/IBILT/attachments/Bilt_User_Manual.pdf",
+    "hasBinary": true
+  }
+]

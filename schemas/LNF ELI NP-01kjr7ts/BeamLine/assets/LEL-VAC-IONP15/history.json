@@ -1,0 +1,66 @@
+[
+  {
+    "uid": "01kjr86ryyn4b88afw2c99njed",
+    "assetUid": "01kjr86rd2k0gvsce20a90cx35",
+    "type": "5",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"5\",\"attribute\":\"Layout\",\"oldValue\":\"M4-017\",\"newValue\":\"M4A-002\"}",
+    "timestamp": "2025-06-18T17:27:06.000"
+  },
+  {
+    "uid": "01kjr86rzr0c2r87jfgtn3xcm8",
+    "assetUid": "01kjr86rd2k0gvsce20a90cx35",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Module\",\"oldValue\":\"M4\",\"newValue\":\"M4A\"}",
+    "timestamp": "2025-06-18T17:27:06.000"
+  },
+  {
+    "uid": "01kjr86s04v8qyv3y3w3qg5n72",
+    "assetUid": "01kjr86rd2k0gvsce20a90cx35",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"LEL-VAC-IONP20\",\"newValue\":\"LEL-VAC-IONP15\"}",
+    "timestamp": "2025-06-18T17:27:06.000"
+  },
+  {
+    "uid": "01kjr86s0jssqh3byd8hj0qjmf",
+    "assetUid": "01kjr86rd2k0gvsce20a90cx35",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Layout\",\"oldValue\":\"\",\"newValue\":\"M4-017\"}",
+    "timestamp": "2023-12-01T14:24:28.000"
+  },
+  {
+    "uid": "01kjr86s10b3s501c8gax51kpb",
+    "assetUid": "01kjr86rd2k0gvsce20a90cx35",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Module\",\"oldValue\":\"\",\"newValue\":\"M4\"}",
+    "timestamp": "2023-12-01T00:56:24.000"
+  },
+  {
+    "uid": "01kjr86s19cy44hb3k842t4zjv",
+    "assetUid": "01kjr86rd2k0gvsce20a90cx35",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Next Element\",\"oldValue\":\"\",\"newValue\":\"LEL-DIA-BPM05\"}",
+    "timestamp": "2023-12-01T00:49:58.000"
+  },
+  {
+    "uid": "01kjr86s1pkkw0pq9fbfjsswfy",
+    "assetUid": "01kjr86rd2k0gvsce20a90cx35",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Previous Element\",\"oldValue\":\"\",\"newValue\":\"LEL-MAG-QUAD03\"}",
+    "timestamp": "2023-12-01T00:49:58.000"
+  },
+  {
+    "uid": "01kjr86s26sywvtzwwfybfq920",
+    "assetUid": "01kjr86rd2k0gvsce20a90cx35",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-12-01T00:37:47.000"
+  }
+]

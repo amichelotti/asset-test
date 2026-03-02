@@ -1,0 +1,26 @@
+[
+  {
+    "uid": "01kjr83j3xjnf5jnmkach7hfv1",
+    "assetUid": "01kjr83hkcr7qf0z66x4qj5gnh",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Alias\",\"oldValue\":\"\",\"newValue\":\"EVR_LLRF\"}",
+    "timestamp": "2025-02-26T13:47:02.000"
+  },
+  {
+    "uid": "01kjr83j4np7b7kbkfatd2wc5y",
+    "assetUid": "01kjr83hkcr7qf0z66x4qj5gnh",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2025-02-26T13:47:02.000"
+  },
+  {
+    "uid": "01kjr83j5432nycb00wy5r42kn",
+    "assetUid": "01kjr83hkcr7qf0z66x4qj5gnh",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-02-26T13:31:46.000"
+  }
+]

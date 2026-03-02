@@ -1,0 +1,29 @@
+{
+  "uid": "01kjr85xgwe0t62g1jhm1fg0k1",
+  "key": "LNFELINP-112373",
+  "name": "LEL-RF-ACC03",
+  "type": "BeamLine",
+  "schemaUid": "01kjr7v4j2cf714dfa2vz1fgzp",
+  "attributes": {
+    "key": "LNFELINP-112373",
+    "name": "LEL-RF-ACC03",
+    "created": "2023-11-30T23:37:42.000Z",
+    "updated": "2023-12-01T13:24:23.000Z",
+    "module": "M4",
+    "layout": "LNFELINP-112485",
+    "sequential": "58",
+    "previous_element": "01kjr86kd2kge1geaa6p27zams",
+    "next_element": "01kjr86m9sc2cvs2wcn9k4qhwg",
+    "element": "01kjr7zgx10eek354bdeqmm139"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

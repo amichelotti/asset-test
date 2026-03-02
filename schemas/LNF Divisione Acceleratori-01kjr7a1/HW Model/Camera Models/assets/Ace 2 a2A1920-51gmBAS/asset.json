@@ -1,0 +1,27 @@
+{
+  "uid": "01kjr7ed8wdsgscgb0vpj107y1",
+  "key": "LNFMAC-143348",
+  "name": "Ace 2 a2A1920-51gmBAS",
+  "type": "Camera Models",
+  "schemaUid": "01kjr7a9744z32gykw0gx03rxb",
+  "attributes": {
+    "key": "LNFMAC-143348",
+    "name": "Ace 2 a2A1920-51gmBAS",
+    "created": "2025-10-22T09:36:30.000Z",
+    "updated": "2025-10-22T09:36:30.000Z",
+    "producer": "01kjr7avqq4s5n4t4r329xq5tf",
+    "vendor": "01kjr7awp09hdd9x47cwhsntqz",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p><a href=\"https://www.baslerweb.com/en/shop/a2a1920-51gmbas/\">https://www.baslerweb.com/en/shop/a2a1920-51gmbas/</a></p></div>",
+    "cost": "319"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

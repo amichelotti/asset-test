@@ -1,0 +1,82 @@
+[
+  {
+    "uid": "01kjr87ryhsp3zwz1wvp4jj1pt",
+    "assetUid": "01kjr87r7kgyq9wk2z2m4y7e10",
+    "type": "5",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"5\",\"attribute\":\"Rack\",\"oldValue\":\"R_COR_03\",\"newValue\":\"R_COR_12\"}",
+    "timestamp": "2025-06-13T14:35:26.000"
+  },
+  {
+    "uid": "01kjr87rz3j04hges5zngnsb28",
+    "assetUid": "01kjr87r7kgyq9wk2z2m4y7e10",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"QUAD Type D\",\"newValue\":\"QUAD Type D\"}",
+    "timestamp": "2025-06-13T14:35:26.000"
+  },
+  {
+    "uid": "01kjr87rzg9j96bvjhqawj5p4h",
+    "assetUid": "01kjr87r7kgyq9wk2z2m4y7e10",
+    "type": "25",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2024-12-05T12:44:15.000"
+  },
+  {
+    "uid": "01kjr87rzkht3qnxc29qmvpe9m",
+    "assetUid": "01kjr87r7kgyq9wk2z2m4y7e10",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Registered\",\"oldValue\":\"\",\"newValue\":\"lel-mag-qpsu02\"}",
+    "timestamp": "2024-12-05T12:44:15.000"
+  },
+  {
+    "uid": "01kjr87rzv99phbxhr1k87816y",
+    "assetUid": "01kjr87r7kgyq9wk2z2m4y7e10",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_COR_03\"}",
+    "timestamp": "2024-12-05T12:44:15.000"
+  },
+  {
+    "uid": "01kjr87s03z390q3zjf5yfchjk",
+    "assetUid": "01kjr87r7kgyq9wk2z2m4y7e10",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"START2\"}",
+    "timestamp": "2024-12-05T12:44:15.000"
+  },
+  {
+    "uid": "01kjr87s09tb3fnnvp5z0ryrbx",
+    "assetUid": "01kjr87r7kgyq9wk2z2m4y7e10",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"Corridor GP\"}",
+    "timestamp": "2024-12-05T12:44:15.000"
+  },
+  {
+    "uid": "01kjr87s0jvzc528p5d9nyef6s",
+    "assetUid": "01kjr87r7kgyq9wk2z2m4y7e10",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"QUAD Type D\",\"newValue\":\"QUAD Type D\"}",
+    "timestamp": "2024-12-05T12:44:15.000"
+  },
+  {
+    "uid": "01kjr87s0x02ds6y7a85mv3wtt",
+    "assetUid": "01kjr87r7kgyq9wk2z2m4y7e10",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2024-12-05T12:44:15.000"
+  },
+  {
+    "uid": "01kjr87s16q2ea3teyaw778m0n",
+    "assetUid": "01kjr87r7kgyq9wk2z2m4y7e10",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-11-29T00:56:11.000"
+  }
+]

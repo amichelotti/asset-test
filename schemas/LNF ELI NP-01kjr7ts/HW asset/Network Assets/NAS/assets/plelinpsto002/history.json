@@ -1,0 +1,42 @@
+[
+  {
+    "uid": "01kjr81wscn90q0myfah5zs3t2",
+    "assetUid": "01kjr81w7mhf6hzyk8axyndbz4",
+    "type": "4",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"TS-H1886XU-RP-R2-...\"}",
+    "timestamp": "2025-11-18T12:46:56.000"
+  },
+  {
+    "uid": "01kjr81wsz25chdazs3p9nd3p4",
+    "assetUid": "01kjr81w7mhf6hzyk8axyndbz4",
+    "type": "4",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_COR_05\"}",
+    "timestamp": "2025-11-13T11:45:22.000"
+  },
+  {
+    "uid": "01kjr81wt86ksymgn7f7rkrtxd",
+    "assetUid": "01kjr81w7mhf6hzyk8axyndbz4",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"IP - IPMI\",\"oldValue\":\"\",\"newValue\":\"10.16.2.111\"}",
+    "timestamp": "2025-11-13T11:44:17.000"
+  },
+  {
+    "uid": "01kjr81wtpb482aj5nmjxadgfn",
+    "assetUid": "01kjr81w7mhf6hzyk8axyndbz4",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"IPMI - MAC\",\"oldValue\":\"\",\"newValue\":\"24:5E:BE:8D:BF:66\"}",
+    "timestamp": "2025-11-13T11:44:17.000"
+  },
+  {
+    "uid": "01kjr81wv1xq3h92nf2eb2e82f",
+    "assetUid": "01kjr81w7mhf6hzyk8axyndbz4",
+    "type": "0",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-11-13T11:32:17.000"
+  }
+]

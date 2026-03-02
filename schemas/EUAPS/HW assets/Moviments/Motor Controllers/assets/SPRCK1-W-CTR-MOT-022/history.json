@@ -1,0 +1,42 @@
+[
+  {
+    "uid": "01kjr74f96p0t1nxc9vth0hj4y",
+    "assetUid": "01kjr74emhe18k72wtbhndk8yw",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"HW Model\",\"oldValue\":\"\",\"newValue\":\"MERCURY\"}",
+    "timestamp": "2026-02-17T11:44:05.000"
+  },
+  {
+    "uid": "01kjr74f9hygpc23fc0rw9hw6d",
+    "assetUid": "01kjr74emhe18k72wtbhndk8yw",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Facility\",\"oldValue\":\"\",\"newValue\":\"EUAPS\"}",
+    "timestamp": "2026-02-17T11:44:05.000"
+  },
+  {
+    "uid": "01kjr74f9vyk9bv3cvc0ws9bdd",
+    "assetUid": "01kjr74emhe18k72wtbhndk8yw",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Locations\",\"oldValue\":\"\",\"newValue\":\"SPARC - EUAPS\"}",
+    "timestamp": "2026-02-17T11:44:05.000"
+  },
+  {
+    "uid": "01kjr74fa7sbfa8cm8fd7sk7cn",
+    "assetUid": "01kjr74emhe18k72wtbhndk8yw",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"Connesso alla PI ...\"}",
+    "timestamp": "2026-02-17T11:44:05.000"
+  },
+  {
+    "uid": "01kjr74fajhb9agk9431z5x9vx",
+    "assetUid": "01kjr74emhe18k72wtbhndk8yw",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2026-02-10T15:03:41.000"
+  }
+]

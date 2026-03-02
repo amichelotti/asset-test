@@ -1,0 +1,29 @@
+{
+  "uid": "01kjr7yq4y67x9sjsdcsw80qmy",
+  "key": "LNFELINP-113216",
+  "name": "GEN-CS-GP08:IOC02",
+  "type": "Server",
+  "schemaUid": "01kjr7txk47fkcz78a8ny0qd5t",
+  "attributes": {
+    "key": "LNFELINP-113216",
+    "name": "GEN-CS-GP08:IOC02",
+    "created": "2023-12-19T09:41:04.000Z",
+    "updated": "2023-12-19T09:47:15.000Z",
+    "status": "Action Needed",
+    "description": "<p>xeon E3 1220 x4</p>",
+    "mac": "20:47:47:7F:77:08",
+    "ram": "4",
+    "cpu": "4",
+    "disk": "64"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

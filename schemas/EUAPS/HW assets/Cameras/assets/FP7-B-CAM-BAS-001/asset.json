@@ -1,0 +1,30 @@
+{
+  "uid": "01kjr79g9mtkjw66xga8g1b4br",
+  "key": "LNFT2-145353",
+  "name": "FP7-B-CAM-BAS-001",
+  "type": "Cameras",
+  "schemaUid": "01kjr6y4tdzhz6fn2cs9q0be1h",
+  "attributes": {
+    "key": "LNFT2-145353",
+    "name": "FP7-B-CAM-BAS-001",
+    "s/n": "40426573",
+    "created": "2026-01-08T17:03:43.000Z",
+    "updated": "2026-02-24T12:56:38.000Z",
+    "status": "Active",
+    "owner": "LNFMAC-143535",
+    "locations": "01kjr7qfsj4fc66ywr7nk8sfk0",
+    "facility": "01kjr7svmreks51z8mp1tfeex6",
+    "hw_model": "01kjr7ed8wdsgscgb0vpj107y1",
+    "mac_address": "00:30:53:35:EB:AA"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "uid": "01kjr87z3f2p76vb45pd6cdjjd",
+    "assetUid": "01kjr87yb4wjxe0n819w3ew2kw",
+    "type": "26",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"26\"}",
+    "timestamp": "2024-12-05T13:12:19.000"
+  },
+  {
+    "uid": "01kjr87z3xvbhzc7tnzgr2je0z",
+    "assetUid": "01kjr87yb4wjxe0n819w3ew2kw",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Registered\",\"oldValue\":\"\",\"newValue\":\"lel-mag-spsu04\"}",
+    "timestamp": "2024-12-05T13:11:53.000"
+  },
+  {
+    "uid": "01kjr87z47g6k5554qcznj7gyy",
+    "assetUid": "01kjr87yb4wjxe0n819w3ew2kw",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_COR_10\"}",
+    "timestamp": "2024-12-05T13:11:53.000"
+  },
+  {
+    "uid": "01kjr87z4b2p5260fahtz993cy",
+    "assetUid": "01kjr87yb4wjxe0n819w3ew2kw",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"START11\"}",
+    "timestamp": "2024-12-05T13:11:53.000"
+  },
+  {
+    "uid": "01kjr87z4jzzfs83jr84a2f83n",
+    "assetUid": "01kjr87yb4wjxe0n819w3ew2kw",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"Corridor GP\"}",
+    "timestamp": "2024-12-05T13:11:53.000"
+  },
+  {
+    "uid": "01kjr87z4s4teaptt7etjgyj3y",
+    "assetUid": "01kjr87yb4wjxe0n819w3ew2kw",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Solenoid B Set 2 ...\",\"newValue\":\"Solenoid B Set 2 ...\"}",
+    "timestamp": "2024-12-05T13:11:53.000"
+  },
+  {
+    "uid": "01kjr87z5211xv396bgtnhw8xh",
+    "assetUid": "01kjr87yb4wjxe0n819w3ew2kw",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2024-12-05T13:11:53.000"
+  },
+  {
+    "uid": "01kjr87z5kwd8rymg7wjsv8r9e",
+    "assetUid": "01kjr87yb4wjxe0n819w3ew2kw",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-11-29T00:56:07.000"
+  }
+]

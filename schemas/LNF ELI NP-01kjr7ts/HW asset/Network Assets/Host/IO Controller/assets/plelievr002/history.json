@@ -1,0 +1,90 @@
+[
+  {
+    "uid": "01kjr80ecgfd6ybe1pkv2w6x1t",
+    "assetUid": "01kjr8094as5nfk5vpfcxqdn1v",
+    "type": "5",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"5\",\"attribute\":\"Rack\",\"oldValue\":\"R_RUF_01\",\"newValue\":\"R_RUF_02\"}",
+    "timestamp": "2025-06-12T16:53:37.000"
+  },
+  {
+    "uid": "01kjr80ed0v7xg48wfge2w24cq",
+    "assetUid": "01kjr8094as5nfk5vpfcxqdn1v",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_RUF_01\"}",
+    "timestamp": "2025-06-12T14:53:32.000"
+  },
+  {
+    "uid": "01kjr80edhdxst5nvz1rrsnysk",
+    "assetUid": "01kjr8094as5nfk5vpfcxqdn1v",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Location\",\"oldValue\":\"Pella\",\"newValue\":\"ROOF\"}",
+    "timestamp": "2025-06-12T14:53:32.000"
+  },
+  {
+    "uid": "01kjr80ee61mnd5rf2sk1g3mbs",
+    "assetUid": "01kjr8094as5nfk5vpfcxqdn1v",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"EVR : LIBERA x2 C...\",\"newValue\":\"PXI EVR 230: LLRF...\"}",
+    "timestamp": "2025-05-13T17:06:54.000"
+  },
+  {
+    "uid": "01kjr80eeqm9m5n4g33jm1x7xt",
+    "assetUid": "01kjr8094as5nfk5vpfcxqdn1v",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"plelievrkey001\",\"newValue\":\"plelievr002\"}",
+    "timestamp": "2025-05-13T17:05:41.000"
+  },
+  {
+    "uid": "01kjr80efayd45djs8z9s3hyt2",
+    "assetUid": "01kjr8094as5nfk5vpfcxqdn1v",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"EVR : LIBERA x4 E...\",\"newValue\":\"EVR : LIBERA x2 C...\"}",
+    "timestamp": "2025-02-26T15:14:11.000"
+  },
+  {
+    "uid": "01kjr80efp3528akmv3xnvmmnn",
+    "assetUid": "01kjr8094as5nfk5vpfcxqdn1v",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"adc.png\"}",
+    "timestamp": "2025-02-26T13:43:44.000"
+  },
+  {
+    "uid": "01kjr80eg99r4gtjdrszppcbga",
+    "assetUid": "01kjr8094as5nfk5vpfcxqdn1v",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Cards\",\"oldValue\":\"\",\"newValue\":\"EVR05, EVR06, EVR07\"}",
+    "timestamp": "2025-02-26T13:37:34.000"
+  },
+  {
+    "uid": "01kjr80egxdka8v1nzx0gmpb1y",
+    "assetUid": "01kjr8094as5nfk5vpfcxqdn1v",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"3 EVR 2 KEYSIGHT ...\",\"newValue\":\"EVR : LIBERA x4 E...\"}",
+    "timestamp": "2025-02-26T13:05:41.000"
+  },
+  {
+    "uid": "01kjr80eh83vmpx3vbagqs3389",
+    "assetUid": "01kjr8094as5nfk5vpfcxqdn1v",
+    "type": "26",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"26\"}",
+    "timestamp": "2025-02-25T11:25:11.000"
+  },
+  {
+    "uid": "01kjr80ehyx6055cvwmp6ystzz",
+    "assetUid": "01kjr8094as5nfk5vpfcxqdn1v",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-02-25T11:24:08.000"
+  }
+]

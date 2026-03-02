@@ -1,0 +1,24 @@
+{
+  "uid": "01kjr7chfczb7td2w03heebew7",
+  "key": "LNFMAC-141954",
+  "name": "Ocem",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-141954",
+    "name": "Ocem",
+    "created": "2025-09-02T10:15:12.000Z",
+    "updated": "2025-09-02T10:15:12.000Z",
+    "link": "https://ocem.eu/"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

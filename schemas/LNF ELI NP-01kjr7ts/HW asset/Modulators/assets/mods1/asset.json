@@ -1,0 +1,27 @@
+{
+  "uid": "01kjr8hhhekbphhwaw25hq72t3",
+  "key": "LNFELINP-144519",
+  "name": "mods1",
+  "type": "Modulators",
+  "schemaUid": "01kjr7v7gas3w8a3tbmb0epy8s",
+  "attributes": {
+    "key": "LNFELINP-144519",
+    "name": "mods1",
+    "created": "2025-12-02T08:34:41.000Z",
+    "updated": "2025-12-02T08:39:15.000Z",
+    "status": "Active",
+    "location": "01kjr827azxv2ptw95hx7hagm7",
+    "model": "01kjr7mkj4c0b9gbbqshd5ns43",
+    "ip": "10.16.4.150"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

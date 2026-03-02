@@ -1,0 +1,29 @@
+{
+  "uid": "01kjr84w39mcw6mwq9tyv0afb2",
+  "key": "LNFELINP-112333",
+  "name": "LEL-DIA-SCN01:MOT01",
+  "type": "BeamLine",
+  "schemaUid": "01kjr7v4j2cf714dfa2vz1fgzp",
+  "attributes": {
+    "key": "LNFELINP-112333",
+    "name": "LEL-DIA-SCN01:MOT01",
+    "created": "2023-11-30T23:37:12.000Z",
+    "updated": "2023-12-01T13:23:16.000Z",
+    "module": "M1",
+    "layout": "LNFELINP-112445",
+    "sequential": "18",
+    "previous_element": "01kjr86t2h8r6yxx1dk7wd8ez7",
+    "next_element": "01kjr84v0tmkqt2wwvgq9pnsyv",
+    "element": "01kjr81gzg8smncvy6398t2jje"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

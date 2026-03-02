@@ -1,0 +1,50 @@
+[
+  {
+    "uid": "01kjr8b42d9086ghdqzs0ax4eb",
+    "assetUid": "01kjr8axvpsgtebbqb8350hn6q",
+    "type": "7",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"7\",\"newValue\":\"R_RUF_01.jpg\"}",
+    "timestamp": "2025-06-12T16:38:04.000"
+  },
+  {
+    "uid": "01kjr8b4329zdvzaa6mw2wbd11",
+    "assetUid": "01kjr8axvpsgtebbqb8350hn6q",
+    "type": "25",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2025-02-27T09:14:38.000"
+  },
+  {
+    "uid": "01kjr8b43fyc35camf6qnftra1",
+    "assetUid": "01kjr8axvpsgtebbqb8350hn6q",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Alias\",\"oldValue\":\"\",\"newValue\":\"MPS\"}",
+    "timestamp": "2025-02-27T09:14:38.000"
+  },
+  {
+    "uid": "01kjr8b440h8dyzxcwzptmzke6",
+    "assetUid": "01kjr8axvpsgtebbqb8350hn6q",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"R_ROOF_INFN04\",\"newValue\":\"R_RUF_01\"}",
+    "timestamp": "2025-02-27T09:14:38.000"
+  },
+  {
+    "uid": "01kjr8b44f0w9zt1yz77bkcn8m",
+    "assetUid": "01kjr8axvpsgtebbqb8350hn6q",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"ROOF\"}",
+    "timestamp": "2023-11-30T10:52:06.000"
+  },
+  {
+    "uid": "01kjr8b44prj2d8pbrdx5vv3jr",
+    "assetUid": "01kjr8axvpsgtebbqb8350hn6q",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-11-30T10:30:36.000"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "uid": "01kjr73tmsrv59z73z274jgyer",
+  "key": "LNFT2-145986",
+  "name": "FPRCK1-W-CTR-MOT-007",
+  "type": "Motor Controllers",
+  "schemaUid": "01kjr6y3bkg7sgffg3kdstpgkq",
+  "attributes": {
+    "key": "LNFT2-145986",
+    "name": "FPRCK1-W-CTR-MOT-007",
+    "created": "2026-01-16T12:31:08.000Z",
+    "updated": "2026-01-27T10:16:58.000Z",
+    "status": "Active",
+    "owner": "LNFMAC-143535",
+    "locations": "01kjr7qp5gsdyy6bfr9t66a5xk",
+    "facility": "01kjr7st4dyad67rx9rvajqtab",
+    "hw_model": "01kjr7m9jppp5yyfc526dewd4k",
+    "hw_connection": "01kjr70wtz5atchhpdkp9nfjpm"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

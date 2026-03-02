@@ -1,0 +1,26 @@
+[
+  {
+    "uid": "01kjr7yqv59r6aaa0m4042a28m",
+    "assetUid": "01kjr7yq4y67x9sjsdcsw80qmy",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"MAC\",\"oldValue\":\"\",\"newValue\":\"20:47:47:7F:77:08\"}",
+    "timestamp": "2023-12-19T10:47:16.000"
+  },
+  {
+    "uid": "01kjr7yqwf5tchaw77zkxsfms5",
+    "assetUid": "01kjr7yq4y67x9sjsdcsw80qmy",
+    "type": "2",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"CLONE - GEN-CS-GP...\",\"newValue\":\"GEN-CS-GP08:IOC02\"}",
+    "timestamp": "2023-12-19T10:43:24.000"
+  },
+  {
+    "uid": "01kjr7yqwwyv4ycbnchg1watkc",
+    "assetUid": "01kjr7yq4y67x9sjsdcsw80qmy",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-12-19T10:41:05.000"
+  }
+]

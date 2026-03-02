@@ -1,0 +1,58 @@
+[
+  {
+    "uid": "01kjr81tqvg90sk3mc7q909kq0",
+    "assetUid": "01kjr81t2bqkwwzneypqz9gm8v",
+    "type": "25",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2023-12-19T13:44:38.000"
+  },
+  {
+    "uid": "01kjr81tr607ybjtb28tejnzqh",
+    "assetUid": "01kjr81t2bqkwwzneypqz9gm8v",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"4T*7 disk raw ......\",\"newValue\":\"4T*7 disk raw ......\"}",
+    "timestamp": "2023-12-19T13:44:38.000"
+  },
+  {
+    "uid": "01kjr81trrsm5e099jr6c2nj3s",
+    "assetUid": "01kjr81t2bqkwwzneypqz9gm8v",
+    "type": "2",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"4T*7 disk raw 24 ...\",\"newValue\":\"4T*7 disk raw ......\"}",
+    "timestamp": "2023-12-19T13:43:10.000"
+  },
+  {
+    "uid": "01kjr81try1qnsftegz82vysmw",
+    "assetUid": "01kjr81t2bqkwwzneypqz9gm8v",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"4T*7 disk raw 24 ...\",\"newValue\":\"4T*7 disk raw 24 ...\"}",
+    "timestamp": "2023-12-19T13:36:48.000"
+  },
+  {
+    "uid": "01kjr81tsah1tnh4aqsbwn0h30",
+    "assetUid": "01kjr81t2bqkwwzneypqz9gm8v",
+    "type": "2",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"4T*12 disk\",\"newValue\":\"4T*7 disk raw 24 ...\"}",
+    "timestamp": "2023-12-19T13:34:37.000"
+  },
+  {
+    "uid": "01kjr81tsfqfsjynadp8jn870p",
+    "assetUid": "01kjr81t2bqkwwzneypqz9gm8v",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"MAC\",\"oldValue\":\"\",\"newValue\":\"0c:c4:7a:53:12:f8\"}",
+    "timestamp": "2023-12-19T13:33:49.000"
+  },
+  {
+    "uid": "01kjr81tsrvc2t78p46rrck1er",
+    "assetUid": "01kjr81t2bqkwwzneypqz9gm8v",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-12-19T13:25:17.000"
+  }
+]

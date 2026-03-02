@@ -1,0 +1,42 @@
+[
+  {
+    "uid": "01kjr83rkf4tbsypnr2zk240aa",
+    "assetUid": "01kjr83r28pdrkajrfq49v34xv",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"ET-7060\"}",
+    "timestamp": "2025-06-12T14:25:40.000"
+  },
+  {
+    "uid": "01kjr83rktgdfea6yqg79enpwd",
+    "assetUid": "01kjr83r28pdrkajrfq49v34xv",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"Inside Polarity i...\"}",
+    "timestamp": "2025-06-11T10:50:28.000"
+  },
+  {
+    "uid": "01kjr83rm3sgdqtvf4k8se534q",
+    "assetUid": "01kjr83r28pdrkajrfq49v34xv",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Registered\",\"oldValue\":\"\",\"newValue\":\"ddeliicp6r6i002\"}",
+    "timestamp": "2025-03-07T14:26:26.000"
+  },
+  {
+    "uid": "01kjr83rm9b4wp605cpr650b8d",
+    "assetUid": "01kjr83r28pdrkajrfq49v34xv",
+    "type": "24",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"24\",\"oldValue\":\"IO System\",\"newValue\":\"I/O\"}",
+    "timestamp": "2025-03-07T14:26:03.000"
+  },
+  {
+    "uid": "01kjr83rmvf6vts7jpzznz6zpf",
+    "assetUid": "01kjr83r28pdrkajrfq49v34xv",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-03-07T14:19:36.000"
+  }
+]

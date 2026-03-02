@@ -1,0 +1,29 @@
+{
+  "uid": "01kjr70c97szc8adnpxh3sn83p",
+  "key": "LNFT2-145571",
+  "name": "FI7-W-MOT-VPB-002",
+  "type": "Motors",
+  "schemaUid": "01kjr6y2p67qjezym2da7b4sex",
+  "attributes": {
+    "key": "LNFT2-145571",
+    "name": "FI7-W-MOT-VPB-002",
+    "created": "2026-01-12T18:20:58.000Z",
+    "updated": "2026-01-12T18:20:58.000Z",
+    "status": "Uninstalled",
+    "owner": "LNFMAC-143535",
+    "locations": "01kjr7qe4212183j0ceepct95g",
+    "facility": "01kjr7st4dyad67rx9rvajqtab",
+    "hw_model": "01kjr7m6h9s53ax2ds2cjmehak",
+    "hw_connection": "01kjr72yk6w5jp1sdwkn0657ry"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

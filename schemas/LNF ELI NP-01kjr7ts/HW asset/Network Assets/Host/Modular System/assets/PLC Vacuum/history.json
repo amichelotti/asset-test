@@ -1,0 +1,42 @@
+[
+  {
+    "uid": "01kjr83f4ttz7qwevxxbfm5f02",
+    "assetUid": "01kjr832gnqr2gp90h2dks1s6h",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"SYSMAC CJ Series ...\",\"newValue\":\"SYSMAC CJ Series ...\"}",
+    "timestamp": "2025-11-14T11:53:42.000"
+  },
+  {
+    "uid": "01kjr83f58k01v5hrs7jws5my5",
+    "assetUid": "01kjr832gnqr2gp90h2dks1s6h",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Alias\",\"oldValue\":\"OMRON_CJ2M-CPU33\",\"newValue\":\"PLCVAC_CJ2M-CPU33\"}",
+    "timestamp": "2025-11-14T11:53:42.000"
+  },
+  {
+    "uid": "01kjr83f5kxcb1069ebp2zjt8g",
+    "assetUid": "01kjr832gnqr2gp90h2dks1s6h",
+    "type": "7",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"7\",\"newValue\":\"w472_cj2_cpu_unit...\"}",
+    "timestamp": "2025-11-14T11:38:11.000"
+  },
+  {
+    "uid": "01kjr83f64f3d9gvggz367v40x",
+    "assetUid": "01kjr832gnqr2gp90h2dks1s6h",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"MAC\",\"oldValue\":\"3C:F7:D1:35:EA:29\",\"newValue\":\"3C:F7:D1:35:EB:BD\"}",
+    "timestamp": "2025-11-14T11:36:14.000"
+  },
+  {
+    "uid": "01kjr83f6afwq3fkn7qbf9a960",
+    "assetUid": "01kjr832gnqr2gp90h2dks1s6h",
+    "type": "0",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-11-14T11:34:50.000"
+  }
+]

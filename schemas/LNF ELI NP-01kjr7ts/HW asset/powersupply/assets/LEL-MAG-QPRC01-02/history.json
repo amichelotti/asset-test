@@ -1,0 +1,66 @@
+[
+  {
+    "uid": "01kjr87npr52zavat6qw6t9cp5",
+    "assetUid": "01kjr87n13rgm1ataze1w73ep6",
+    "type": "5",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"5\",\"attribute\":\"Rack\",\"oldValue\":\"R_COR_03\",\"newValue\":\"R_COR_12\"}",
+    "timestamp": "2025-06-13T14:39:29.000"
+  },
+  {
+    "uid": "01kjr87nq9dn11qxz1pzh6qbtg",
+    "assetUid": "01kjr87n13rgm1ataze1w73ep6",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Polarity CH1 -> C...\",\"newValue\":\"Polarity CH1 -> C...\"}",
+    "timestamp": "2025-06-13T14:39:29.000"
+  },
+  {
+    "uid": "01kjr87nqps00a96qs370gq4rn",
+    "assetUid": "01kjr87n13rgm1ataze1w73ep6",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_COR_03\"}",
+    "timestamp": "2024-12-05T14:41:01.000"
+  },
+  {
+    "uid": "01kjr87nr08xb5587h1hp95xv5",
+    "assetUid": "01kjr87n13rgm1ataze1w73ep6",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"Corridor GP\"}",
+    "timestamp": "2024-12-05T14:41:01.000"
+  },
+  {
+    "uid": "01kjr87nrbcv3bbz91dpn96r0c",
+    "assetUid": "01kjr87n13rgm1ataze1w73ep6",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2024-12-05T14:41:01.000"
+  },
+  {
+    "uid": "01kjr87nrmyqtajmhf6wz8xs4w",
+    "assetUid": "01kjr87n13rgm1ataze1w73ep6",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"LEL-MAG-QPRC01/02\",\"newValue\":\"LEL-MAG-QPRC01-02\"}",
+    "timestamp": "2024-11-08T16:54:24.000"
+  },
+  {
+    "uid": "01kjr87nrv89f2xzpvsdb9t91d",
+    "assetUid": "01kjr87n13rgm1ataze1w73ep6",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"CLONE - LEL-MAG-Q...\",\"newValue\":\"LEL-MAG-QPRC01/02\"}",
+    "timestamp": "2024-11-08T16:48:25.000"
+  },
+  {
+    "uid": "01kjr87ns4sgdyhv62zs9bavyq",
+    "assetUid": "01kjr87n13rgm1ataze1w73ep6",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-11-08T16:47:15.000"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "uid": "01kjr75ypvcef3kvqz3k70wwe3",
+    "assetUid": "01kjr75y0tdmf0q1ejyd64wt70",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Objects\",\"oldValue\":\"\",\"newValue\":\"FP7-V-PMP-PRY-001...\"}",
+    "timestamp": "2026-02-16T15:00:37.000"
+  },
+  {
+    "uid": "01kjr75yqabgqhzy801z8t73xq",
+    "assetUid": "01kjr75y0tdmf0q1ejyd64wt70",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"Camera di traspor...\"}",
+    "timestamp": "2026-02-16T15:00:37.000"
+  },
+  {
+    "uid": "01kjr75yqn1vv6g28rrb1cg417",
+    "assetUid": "01kjr75y0tdmf0q1ejyd64wt70",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2026-02-16T14:51:31.000"
+  }
+]

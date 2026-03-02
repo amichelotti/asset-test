@@ -1,0 +1,34 @@
+[
+  {
+    "uid": "01kjr7bepjqf0r31bx9tf53sa4",
+    "assetUid": "01kjr7be2y4qb842fcte2g1vzk",
+    "type": "25",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2025-10-23T13:57:52.000"
+  },
+  {
+    "uid": "01kjr7beq2wcjdcna2xhjfpwj8",
+    "assetUid": "01kjr7be2y4qb842fcte2g1vzk",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Link\",\"oldValue\":\"\",\"newValue\":\"https://www.edwar...\"}",
+    "timestamp": "2025-10-23T13:56:40.000"
+  },
+  {
+    "uid": "01kjr7beq9jymtehh2xvezk008",
+    "assetUid": "01kjr7be2y4qb842fcte2g1vzk",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Contact\",\"oldValue\":\"\",\"newValue\":\"Contatta il nostr...\"}",
+    "timestamp": "2025-10-23T13:56:40.000"
+  },
+  {
+    "uid": "01kjr7beqx3bgb0yg18vg0s534",
+    "assetUid": "01kjr7be2y4qb842fcte2g1vzk",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-10-23T12:26:32.000"
+  }
+]

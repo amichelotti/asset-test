@@ -1,0 +1,26 @@
+[
+  {
+    "uid": "01kjr7j1r87d5yeewzjn2rmeb1",
+    "assetUid": "01kjr7j0yft33f2hr7wq59fvsx",
+    "type": "3",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"3\",\"attribute\":\"Control SW\",\"oldValue\":\"https://github.co...\",\"newValue\":\"\"}",
+    "timestamp": "2025-09-02T13:52:58.000"
+  },
+  {
+    "uid": "01kjr7j1rsy0pka2hzpkn47wj7",
+    "assetUid": "01kjr7j0yft33f2hr7wq59fvsx",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"GIT repo\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
+    "timestamp": "2025-09-02T13:52:58.000"
+  },
+  {
+    "uid": "01kjr7j1s2n4ppqktrsnp2y5p6",
+    "assetUid": "01kjr7j0yft33f2hr7wq59fvsx",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-09-02T12:59:34.000"
+  }
+]

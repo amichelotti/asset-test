@@ -1,0 +1,23 @@
+{
+  "uid": "01kjr889enc9n1gk6ytt0mrhf5",
+  "key": "LNFELINP-112554",
+  "name": "Console Table",
+  "type": "Beamline Assets",
+  "schemaUid": "01kjr7v5j1psjrgx3cv2mkh5wf",
+  "attributes": {
+    "key": "LNFELINP-112554",
+    "name": "Console Table",
+    "created": "2023-12-01T13:15:45.000Z",
+    "updated": "2023-12-01T13:15:45.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

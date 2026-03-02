@@ -1,0 +1,26 @@
+[
+  {
+    "uid": "01kjr7n69qpehs1yvkx7xb1fht",
+    "assetUid": "01kjr7n5qhsgds2q5fthdh2rcy",
+    "type": "2",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"TPR 270, DN 16 IS...\",\"newValue\":\"TPR 270, DN 16 IS...\"}",
+    "timestamp": "2025-10-23T12:01:09.000"
+  },
+  {
+    "uid": "01kjr7n6a6zyfm8dk454thh7dp",
+    "assetUid": "01kjr7n5qhsgds2q5fthdh2rcy",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Documentation\",\"oldValue\":\"\",\"newValue\":\"https://vacuum-sh...\"}",
+    "timestamp": "2025-10-23T12:01:09.000"
+  },
+  {
+    "uid": "01kjr7n6ahm6ktkek053k0hpty",
+    "assetUid": "01kjr7n5qhsgds2q5fthdh2rcy",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-10-23T11:49:51.000"
+  }
+]

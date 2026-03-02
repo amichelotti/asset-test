@@ -1,0 +1,82 @@
+[
+  {
+    "uid": "01kjr87a635z63k7yt15txx8ex",
+    "assetUid": "01kjr876c9hzcnxr4120mfpjrd",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"CPSU02.jpg\"}",
+    "timestamp": "2025-06-12T16:55:01.000"
+  },
+  {
+    "uid": "01kjr87a6n22h8v9kx6a1g53nz",
+    "assetUid": "01kjr876c9hzcnxr4120mfpjrd",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"H Corrector Type ...\",\"newValue\":\"H Corrector Type ...\"}",
+    "timestamp": "2024-12-05T14:06:42.000"
+  },
+  {
+    "uid": "01kjr87a6xhw9j4n59fy5hv4ec",
+    "assetUid": "01kjr876c9hzcnxr4120mfpjrd",
+    "type": "25",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2024-12-05T13:55:06.000"
+  },
+  {
+    "uid": "01kjr87a7cd7x1mnv9f5hjgaz7",
+    "assetUid": "01kjr876c9hzcnxr4120mfpjrd",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Registered\",\"oldValue\":\"\",\"newValue\":\"lel-mag-cpsu02\"}",
+    "timestamp": "2024-12-05T13:55:06.000"
+  },
+  {
+    "uid": "01kjr87a7k46y5anz886vep99s",
+    "assetUid": "01kjr876c9hzcnxr4120mfpjrd",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_COR_09\"}",
+    "timestamp": "2024-12-05T13:55:06.000"
+  },
+  {
+    "uid": "01kjr87a7sx7qpd59mqqq7908m",
+    "assetUid": "01kjr876c9hzcnxr4120mfpjrd",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"IBILT\"}",
+    "timestamp": "2024-12-05T13:55:06.000"
+  },
+  {
+    "uid": "01kjr87a7yh50xwd51fa0f7g3s",
+    "assetUid": "01kjr876c9hzcnxr4120mfpjrd",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"Corridor GP\"}",
+    "timestamp": "2024-12-05T13:55:06.000"
+  },
+  {
+    "uid": "01kjr87a87v9faj6ax952htfcn",
+    "assetUid": "01kjr876c9hzcnxr4120mfpjrd",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"H Corrector Type ...\",\"newValue\":\"H Corrector Type ...\"}",
+    "timestamp": "2024-12-05T13:55:06.000"
+  },
+  {
+    "uid": "01kjr87a8ghj3fwv5mt60em51e",
+    "assetUid": "01kjr876c9hzcnxr4120mfpjrd",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2024-12-05T13:55:06.000"
+  },
+  {
+    "uid": "01kjr87a8nehna7ab1wxrvg32x",
+    "assetUid": "01kjr876c9hzcnxr4120mfpjrd",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-11-29T00:56:09.000"
+  }
+]

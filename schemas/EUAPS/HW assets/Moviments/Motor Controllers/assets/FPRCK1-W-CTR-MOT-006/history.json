@@ -1,0 +1,58 @@
+[
+  {
+    "uid": "01kjr73tctrb56vxx21mrqd91x",
+    "assetUid": "01kjr73svybt3mns8ky0k25tn7",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"HW connection\",\"oldValue\":\"\",\"newValue\":\"FP4-W-MOT-VMN-001\"}",
+    "timestamp": "2026-01-27T11:16:20.000"
+  },
+  {
+    "uid": "01kjr73td7m9g7sbw3084262pd",
+    "assetUid": "01kjr73svybt3mns8ky0k25tn7",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"HW Model\",\"oldValue\":\"\",\"newValue\":\"POLLUX\"}",
+    "timestamp": "2026-01-27T11:16:20.000"
+  },
+  {
+    "uid": "01kjr73tdg5dqq750e7r5xfy7x",
+    "assetUid": "01kjr73svybt3mns8ky0k25tn7",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Facility\",\"oldValue\":\"\",\"newValue\":\"FLAME\"}",
+    "timestamp": "2026-01-27T11:16:20.000"
+  },
+  {
+    "uid": "01kjr73tdt4atyegwzty5vaf4t",
+    "assetUid": "01kjr73svybt3mns8ky0k25tn7",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Locations\",\"oldValue\":\"\",\"newValue\":\"LNF.D1.DE56.GF.EAC2\"}",
+    "timestamp": "2026-01-27T11:16:20.000"
+  },
+  {
+    "uid": "01kjr73te1shh1gxyr16ra68d1",
+    "assetUid": "01kjr73svybt3mns8ky0k25tn7",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Owner\",\"oldValue\":\"\",\"newValue\":\"Servizio Laser\"}",
+    "timestamp": "2026-01-27T11:16:20.000"
+  },
+  {
+    "uid": "01kjr73teakbfwyp6t744hq4xy",
+    "assetUid": "01kjr73svybt3mns8ky0k25tn7",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2026-01-27T11:16:20.000"
+  },
+  {
+    "uid": "01kjr73teg141s2d7g532hhh9g",
+    "assetUid": "01kjr73svybt3mns8ky0k25tn7",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2026-01-16T13:31:05.000"
+  }
+]

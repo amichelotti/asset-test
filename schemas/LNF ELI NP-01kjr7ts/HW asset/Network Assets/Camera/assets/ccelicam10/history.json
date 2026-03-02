@@ -1,0 +1,26 @@
+[
+  {
+    "uid": "01kjr82kp58nsh59wmr87tz0bc",
+    "assetUid": "01kjr82jssfva0rqqxvgbvr7sh",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"connector\",\"oldValue\":\"NuovoConnettore\",\"newValue\":\"pippopluto\"}",
+    "timestamp": "2025-09-12T11:28:35.000"
+  },
+  {
+    "uid": "01kjr82kprv559f785jd3ars7p",
+    "assetUid": "01kjr82jssfva0rqqxvgbvr7sh",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Location\",\"oldValue\":\"AB1\",\"newValue\":\"Nuovaps\"}",
+    "timestamp": "2025-09-12T11:21:15.000"
+  },
+  {
+    "uid": "01kjr82kq2sx4wbqh33qmd7mcw",
+    "assetUid": "01kjr82jssfva0rqqxvgbvr7sh",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-09-12T11:20:52.000"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "uid": "01kjr7bcbschq0wazeraehfbkc",
+  "key": "LNFMAC-109329",
+  "name": "E-KEY DI MORMILE VINCENZO",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-109329",
+    "name": "E-KEY DI MORMILE VINCENZO",
+    "created": "2023-10-10T12:39:10.000Z",
+    "updated": "2023-10-10T12:39:10.000Z",
+    "contact": "E-KEY DI MORMILE VINCENZO"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

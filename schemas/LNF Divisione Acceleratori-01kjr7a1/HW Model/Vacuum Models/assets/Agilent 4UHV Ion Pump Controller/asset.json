@@ -1,0 +1,25 @@
+{
+  "uid": "01kjr7eg3smjq07j91xx63zekh",
+  "key": "LNFMAC-129486",
+  "name": "Agilent 4UHV Ion Pump Controller",
+  "type": "Vacuum Models",
+  "schemaUid": "01kjr7a80fdsf027w9fnm5d7bj",
+  "attributes": {
+    "key": "LNFMAC-129486",
+    "name": "Agilent 4UHV Ion Pump Controller",
+    "created": "2024-12-05T14:37:42.000Z",
+    "updated": "2025-09-02T12:08:14.000Z",
+    "producer": "01kjr7ajggpcwqee6jsr01va8d",
+    "git_repo": "https://github.com/infn-epics/agilent4uhv"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

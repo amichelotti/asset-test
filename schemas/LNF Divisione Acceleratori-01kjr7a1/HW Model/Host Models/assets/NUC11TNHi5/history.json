@@ -1,0 +1,66 @@
+[
+  {
+    "uid": "01kjr7ky0s0azfs5p968qangy9",
+    "assetUid": "01kjr7kxacjgv5b5pkes6bfc68",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"Frequency\",\"oldValue\":\"\",\"newValue\":\"2.4\"}",
+    "timestamp": "2024-04-22T15:19:14.000"
+  },
+  {
+    "uid": "01kjr7ky1fr7ner4pmnnk6y361",
+    "assetUid": "01kjr7kxacjgv5b5pkes6bfc68",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"Disk\",\"oldValue\":\"\",\"newValue\":\"512\"}",
+    "timestamp": "2024-04-22T15:19:14.000"
+  },
+  {
+    "uid": "01kjr7ky1zwbwv28j3y7jb93qz",
+    "assetUid": "01kjr7kxacjgv5b5pkes6bfc68",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"Memory\",\"oldValue\":\"\",\"newValue\":\"16\"}",
+    "timestamp": "2024-04-22T15:19:14.000"
+  },
+  {
+    "uid": "01kjr7ky29tezd7wnx177gpggn",
+    "assetUid": "01kjr7kxacjgv5b5pkes6bfc68",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"CPU type\",\"oldValue\":\"\",\"newValue\":\"11th Gen Intel(R)...\"}",
+    "timestamp": "2024-04-22T15:19:14.000"
+  },
+  {
+    "uid": "01kjr7ky2hn5et61gpvxe8yxgq",
+    "assetUid": "01kjr7kxacjgv5b5pkes6bfc68",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"CPU\",\"oldValue\":\"\",\"newValue\":\"4\"}",
+    "timestamp": "2024-04-22T15:19:14.000"
+  },
+  {
+    "uid": "01kjr7ky2tx670kp5fgeecrpvj",
+    "assetUid": "01kjr7kxacjgv5b5pkes6bfc68",
+    "type": "4",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"4\",\"attribute\":\"Producer\",\"oldValue\":\"\",\"newValue\":\"Intel\"}",
+    "timestamp": "2024-04-22T15:19:14.000"
+  },
+  {
+    "uid": "01kjr7ky3j2c495xayp4hb6tfy",
+    "assetUid": "01kjr7kxacjgv5b5pkes6bfc68",
+    "type": "25",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2024-04-22T15:17:24.000"
+  },
+  {
+    "uid": "01kjr7ky42xb48bwvcq1zbjrdt",
+    "assetUid": "01kjr7kxacjgv5b5pkes6bfc68",
+    "type": "0",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-04-22T14:37:25.000"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "uid": "01kjr8harmw69dem9fv3f3s03k",
+    "assetUid": "01kjr8ha05z2mamwa0mfkacfke",
+    "type": "26",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"26\"}",
+    "timestamp": "2025-06-16T12:11:38.000"
+  },
+  {
+    "uid": "01kjr8has6cepq29zqf834qvp1",
+    "assetUid": "01kjr8ha05z2mamwa0mfkacfke",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"LIBERA Analog F.E...\",\"newValue\":\"LIBERA Analog F.E...\"}",
+    "timestamp": "2025-06-16T12:11:38.000"
+  },
+  {
+    "uid": "01kjr8hasek2pws5rv4eqyfyfr",
+    "assetUid": "01kjr8ha05z2mamwa0mfkacfke",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"LLRF-TSRF1 - S02\",\"newValue\":\"LLRF-TSRF1-S02\"}",
+    "timestamp": "2025-06-16T12:01:45.000"
+  },
+  {
+    "uid": "01kjr8hasqw8p7hb767zz04srw",
+    "assetUid": "01kjr8ha05z2mamwa0mfkacfke",
+    "type": "25",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2025-06-16T12:01:33.000"
+  },
+  {
+    "uid": "01kjr8hasxd13632ddjxvgp8w2",
+    "assetUid": "01kjr8ha05z2mamwa0mfkacfke",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"LIBERA Analog F.E...\",\"newValue\":\"LIBERA Analog F.E...\"}",
+    "timestamp": "2025-06-16T12:01:33.000"
+  },
+  {
+    "uid": "01kjr8hat5dsvhnttjmkwd5xvv",
+    "assetUid": "01kjr8ha05z2mamwa0mfkacfke",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"LLRF-TSRF1 S02\",\"newValue\":\"LLRF-TSRF1 - S02\"}",
+    "timestamp": "2025-06-16T12:01:33.000"
+  },
+  {
+    "uid": "01kjr8hatct7t85e4dt1x5fbny",
+    "assetUid": "01kjr8ha05z2mamwa0mfkacfke",
+    "type": "0",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-06-16T11:55:36.000"
+  }
+]

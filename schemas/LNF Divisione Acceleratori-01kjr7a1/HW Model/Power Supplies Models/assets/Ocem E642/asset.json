@@ -1,0 +1,26 @@
+{
+  "uid": "01kjr7m2dp1fdqvk9amn7gj0ea",
+  "key": "LNFMAC-141955",
+  "name": "Ocem E642",
+  "type": "Power Supplies Models",
+  "schemaUid": "01kjr7a65180eyvjqgbznrajpv",
+  "attributes": {
+    "key": "LNFMAC-141955",
+    "name": "Ocem E642",
+    "created": "2025-09-02T10:17:04.000Z",
+    "updated": "2025-09-02T10:17:04.000Z",
+    "producer": "01kjr7chfczb7td2w03heebew7",
+    "vendor": "01kjr7chfczb7td2w03heebew7",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>Ocem usati in Dafne e BTF. </p></div>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

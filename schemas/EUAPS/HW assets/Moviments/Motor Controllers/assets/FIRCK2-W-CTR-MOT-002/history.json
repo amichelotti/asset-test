@@ -1,0 +1,50 @@
+[
+  {
+    "uid": "01kjr730fp6kp87sgcpxj2zxkt",
+    "assetUid": "01kjr7304etdjsbz70d0h7vgrt",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"HW Model\",\"oldValue\":\"\",\"newValue\":\"POLLUX\"}",
+    "timestamp": "2026-02-13T11:51:52.000"
+  },
+  {
+    "uid": "01kjr730fvr3gttf59zc8tmmbc",
+    "assetUid": "01kjr7304etdjsbz70d0h7vgrt",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Facility\",\"oldValue\":\"\",\"newValue\":\"FLAME\"}",
+    "timestamp": "2026-02-13T11:51:52.000"
+  },
+  {
+    "uid": "01kjr730fy719jvhms7dprf0aj",
+    "assetUid": "01kjr7304etdjsbz70d0h7vgrt",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Locations\",\"oldValue\":\"\",\"newValue\":\"LNF.D1.DE56.B1.BAL1\"}",
+    "timestamp": "2026-02-13T11:51:52.000"
+  },
+  {
+    "uid": "01kjr730g1p4ppyxz8j6gw3ymr",
+    "assetUid": "01kjr7304etdjsbz70d0h7vgrt",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Owner\",\"oldValue\":\"\",\"newValue\":\"Servizio Laser\"}",
+    "timestamp": "2026-02-13T11:51:52.000"
+  },
+  {
+    "uid": "01kjr730g3hntsyw22awbh7kqw",
+    "assetUid": "01kjr7304etdjsbz70d0h7vgrt",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2026-02-13T11:51:52.000"
+  },
+  {
+    "uid": "01kjr730g55q57jhcnf31f76ba",
+    "assetUid": "01kjr7304etdjsbz70d0h7vgrt",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2026-02-13T11:49:05.000"
+  }
+]

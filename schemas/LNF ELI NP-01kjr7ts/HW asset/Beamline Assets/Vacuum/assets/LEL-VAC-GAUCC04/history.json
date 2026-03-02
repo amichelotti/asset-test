@@ -1,0 +1,50 @@
+[
+  {
+    "uid": "01kjr7wamb8qeafg82c61cgzh6",
+    "assetUid": "01kjr7wa4v0k9cvhds2ykjr97p",
+    "type": "4",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
+    "timestamp": "2025-06-18T16:27:04.000"
+  },
+  {
+    "uid": "01kjr7wamrnnffnwdnv1fs68sb",
+    "assetUid": "01kjr7wa4v0k9cvhds2ykjr97p",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Cold cathode vacu...\",\"newValue\":\"Cold cathode vacu...\"}",
+    "timestamp": "2025-06-18T16:27:04.000"
+  },
+  {
+    "uid": "01kjr7wamx5a2mjcwh1swdzq7r",
+    "assetUid": "01kjr7wa4v0k9cvhds2ykjr97p",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Layout\",\"oldValue\":\"REGION 2\",\"newValue\":\"M1-016\"}",
+    "timestamp": "2023-12-01T14:15:05.000"
+  },
+  {
+    "uid": "01kjr7wan4gaejj0kvqz4peh4e",
+    "assetUid": "01kjr7wa4v0k9cvhds2ykjr97p",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
+    "timestamp": "2023-11-30T13:39:44.000"
+  },
+  {
+    "uid": "01kjr7wanc0jankpr1h22en26r",
+    "assetUid": "01kjr7wa4v0k9cvhds2ykjr97p",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Type\",\"oldValue\":\"\",\"newValue\":\"GAUCC\"}",
+    "timestamp": "2023-11-30T12:07:07.000"
+  },
+  {
+    "uid": "01kjr7wanj7qqy6gqx5erfh7hw",
+    "assetUid": "01kjr7wa4v0k9cvhds2ykjr97p",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-11-29T23:57:41.000"
+  }
+]

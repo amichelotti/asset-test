@@ -1,0 +1,23 @@
+{
+  "uid": "01kjr824ecppc7xcj7rkhnr056",
+  "key": "LNFELINP-112231",
+  "name": "INFN",
+  "type": "Location",
+  "schemaUid": "01kjr7a4xhe3z1rpwjvrs73gww",
+  "attributes": {
+    "key": "LNFELINP-112231",
+    "name": "INFN",
+    "created": "2023-11-30T17:50:27.000Z",
+    "updated": "2023-11-30T17:50:27.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

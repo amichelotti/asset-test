@@ -1,0 +1,74 @@
+[
+  {
+    "uid": "01kjr8a411eg3w959cjdsy313h",
+    "assetUid": "01kjr8a36mfs2ssas65vncmz2v",
+    "type": "2",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Vacuum Ion Pump C...\",\"newValue\":\"Vacuum Ion Pump C...\"}",
+    "timestamp": "2025-11-14T12:52:34.000"
+  },
+  {
+    "uid": "01kjr8a41hpvmwppw09tj3jf66",
+    "assetUid": "01kjr8a36mfs2ssas65vncmz2v",
+    "type": "5",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"5\",\"attribute\":\"Rack\",\"oldValue\":\"R_RUF_06\",\"newValue\":\"R_COR_08\"}",
+    "timestamp": "2025-11-07T14:56:05.000"
+  },
+  {
+    "uid": "01kjr8a41ys3n9z2e98jrz2115",
+    "assetUid": "01kjr8a36mfs2ssas65vncmz2v",
+    "type": "5",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"5\",\"attribute\":\"Location\",\"oldValue\":\"ROOF\",\"newValue\":\"Corridor GP\"}",
+    "timestamp": "2025-11-07T14:56:05.000"
+  },
+  {
+    "uid": "01kjr8a424r6de1sfsbzxqbjcw",
+    "assetUid": "01kjr8a36mfs2ssas65vncmz2v",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Vacuum Ion Pump\",\"newValue\":\"Vacuum Ion Pump C...\"}",
+    "timestamp": "2025-11-07T14:56:05.000"
+  },
+  {
+    "uid": "01kjr8a42bsk7a24gfg1n47ptj",
+    "assetUid": "01kjr8a36mfs2ssas65vncmz2v",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"LEL-VAC-WGS01:VPC...\",\"newValue\":\"LEL-VAC-VPCON03\"}",
+    "timestamp": "2025-11-07T14:56:05.000"
+  },
+  {
+    "uid": "01kjr8a42rpcn02rxxx2w4nycr",
+    "assetUid": "01kjr8a36mfs2ssas65vncmz2v",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Vacuum Ion Pump\",\"newValue\":\"Vacuum Ion Pump\"}",
+    "timestamp": "2025-11-06T17:48:47.000"
+  },
+  {
+    "uid": "01kjr8a42zsjbk4crbs9xakskx",
+    "assetUid": "01kjr8a36mfs2ssas65vncmz2v",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"LEL-VAC-WGS01:VPC...\",\"newValue\":\"LEL-VAC-WGS01:VPC...\"}",
+    "timestamp": "2025-11-06T17:48:47.000"
+  },
+  {
+    "uid": "01kjr8a43707mhbyw50w4hhkfs",
+    "assetUid": "01kjr8a36mfs2ssas65vncmz2v",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_RUF_06\"}",
+    "timestamp": "2024-12-05T16:34:36.000"
+  },
+  {
+    "uid": "01kjr8a43hn5bjr987762yj2q1",
+    "assetUid": "01kjr8a36mfs2ssas65vncmz2v",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-12-05T15:50:57.000"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "uid": "01kjr7g29w8j96n5gwp49bnvvb",
+    "assetUid": "01kjr7fghg83t8m6nvsrn9xxp8",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"GIT repo\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
+    "timestamp": "2025-09-02T15:19:29.000"
+  },
+  {
+    "uid": "01kjr7g2a9b22cp1freg744cbj",
+    "assetUid": "01kjr7fghg83t8m6nvsrn9xxp8",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"The ET-7026 is a ...\",\"newValue\":\"The ET-7026 is a ...\"}",
+    "timestamp": "2025-09-02T15:19:29.000"
+  },
+  {
+    "uid": "01kjr7g2agynf2zdpharcdqn7j",
+    "assetUid": "01kjr7fghg83t8m6nvsrn9xxp8",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"pet_et7x00_regist...\"}",
+    "timestamp": "2024-07-25T09:46:47.000"
+  },
+  {
+    "uid": "01kjr7g2av4t6t3pt3tmqsxx5h",
+    "assetUid": "01kjr7fghg83t8m6nvsrn9xxp8",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"pet_et-7x00_user_...\"}",
+    "timestamp": "2024-07-25T09:43:43.000"
+  },
+  {
+    "uid": "01kjr7g2b2b9yq7r0cxsr5sb9s",
+    "assetUid": "01kjr7fghg83t8m6nvsrn9xxp8",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"ET7026_V311.HEX\"}",
+    "timestamp": "2024-07-24T14:17:56.000"
+  },
+  {
+    "uid": "01kjr7g2ba9qwz5x6rx9yc7v1t",
+    "assetUid": "01kjr7fghg83t8m6nvsrn9xxp8",
+    "type": "25",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2024-07-24T14:17:32.000"
+  },
+  {
+    "uid": "01kjr7g2bpw3a5pq3b1ssssh0p",
+    "assetUid": "01kjr7fghg83t8m6nvsrn9xxp8",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"The ET-7026 is a ...\"}",
+    "timestamp": "2024-07-24T14:17:32.000"
+  },
+  {
+    "uid": "01kjr7g2c1194x4zfscmz6pzfd",
+    "assetUid": "01kjr7fghg83t8m6nvsrn9xxp8",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Documentation\",\"oldValue\":\"\",\"newValue\":\"https://www.icpda...\"}",
+    "timestamp": "2024-07-24T14:17:32.000"
+  },
+  {
+    "uid": "01kjr7g2cgnn8qdvew0gr2nnn6",
+    "assetUid": "01kjr7fghg83t8m6nvsrn9xxp8",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Producer\",\"oldValue\":\"\",\"newValue\":\"ICPDAS\"}",
+    "timestamp": "2024-07-24T14:17:32.000"
+  },
+  {
+    "uid": "01kjr7g2cx0t47zt10ymmrqwb8",
+    "assetUid": "01kjr7fghg83t8m6nvsrn9xxp8",
+    "type": "24",
+    "author": "Unknown",
+    "details": "{\"type\":\"24\",\"oldValue\":\"icpdas sparc\",\"newValue\":\"ADC Models\"}",
+    "timestamp": "2023-06-09T16:34:48.000"
+  },
+  {
+    "uid": "01kjr7g2d4vcx7tjvvvw1ns3e2",
+    "assetUid": "01kjr7fghg83t8m6nvsrn9xxp8",
+    "type": "0",
+    "author": "Unknown",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-06-07T11:11:39.000"
+  }
+]

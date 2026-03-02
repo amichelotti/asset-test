@@ -1,0 +1,24 @@
+{
+  "uid": "01kjr7bq75vf1j02aa2kvkz8vd",
+  "key": "LNFMAC-109331",
+  "name": "H SAN RAFFAELE RESNATI S.P.A.",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-109331",
+    "name": "H SAN RAFFAELE RESNATI S.P.A.",
+    "created": "2023-10-10T12:39:10.000Z",
+    "updated": "2023-10-10T12:39:10.000Z",
+    "contact": "H SAN RAFFAELE RESNATI S.P.A."
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

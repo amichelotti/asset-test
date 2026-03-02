@@ -1,0 +1,82 @@
+[
+  {
+    "uid": "01kjr83vpk1q83x116fx13g135",
+    "assetUid": "01kjr83t70tyywpz7x126a7jcx",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Illuminatore con ...\",\"newValue\":\"Illuminatore con ...\"}",
+    "timestamp": "2025-09-11T08:31:30.000"
+  },
+  {
+    "uid": "01kjr83vq22wcr019y4prqjd8h",
+    "assetUid": "01kjr83t70tyywpz7x126a7jcx",
+    "type": "2",
+    "author": "Thomas De Nardis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Illuminatore con ...\",\"newValue\":\"Illuminatore con ...\"}",
+    "timestamp": "2025-09-10T14:59:20.000"
+  },
+  {
+    "uid": "01kjr83vqk5fj4pe9we3pmh66y",
+    "assetUid": "01kjr83t70tyywpz7x126a7jcx",
+    "type": "7",
+    "author": "Thomas De Nardis",
+    "details": "{\"type\":\"7\",\"newValue\":\"Schematic_Control...\"}",
+    "timestamp": "2025-09-10T14:58:08.000"
+  },
+  {
+    "uid": "01kjr83vqseh3t4kmaj3qq6hr4",
+    "assetUid": "01kjr83t70tyywpz7x126a7jcx",
+    "type": "26",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"26\"}",
+    "timestamp": "2025-06-12T15:19:31.000"
+  },
+  {
+    "uid": "01kjr83vr2qpkak3nz3ka5c712",
+    "assetUid": "01kjr83t70tyywpz7x126a7jcx",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_COR_05\"}",
+    "timestamp": "2025-06-12T14:07:30.000"
+  },
+  {
+    "uid": "01kjr83vra3wg48bpgrnmvrfsf",
+    "assetUid": "01kjr83t70tyywpz7x126a7jcx",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Modules\",\"oldValue\":\"\",\"newValue\":\"ddeliicpillum001\"}",
+    "timestamp": "2025-03-07T14:31:24.000"
+  },
+  {
+    "uid": "01kjr83vrknn1rmtchqj9ajktx",
+    "assetUid": "01kjr83t70tyywpz7x126a7jcx",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Location\",\"oldValue\":\"Selced\",\"newValue\":\"Corridor GP\"}",
+    "timestamp": "2025-03-07T14:08:55.000"
+  },
+  {
+    "uid": "01kjr83vrpa623w47qs4nqs293",
+    "assetUid": "01kjr83t70tyywpz7x126a7jcx",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Illuminatore con ...\",\"newValue\":\"Illuminatore con ...\"}",
+    "timestamp": "2025-03-07T14:08:55.000"
+  },
+  {
+    "uid": "01kjr83vrzyjqe5n47a65ztwaq",
+    "assetUid": "01kjr83t70tyywpz7x126a7jcx",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Status\",\"oldValue\":\"Uninstalled\",\"newValue\":\"Active\"}",
+    "timestamp": "2025-03-07T14:08:55.000"
+  },
+  {
+    "uid": "01kjr83vsb49feveqxbnpz34a7",
+    "assetUid": "01kjr83t70tyywpz7x126a7jcx",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-09-13T15:52:39.000"
+  }
+]

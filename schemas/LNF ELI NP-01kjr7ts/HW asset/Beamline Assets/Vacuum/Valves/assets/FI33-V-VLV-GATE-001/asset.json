@@ -1,0 +1,23 @@
+{
+  "uid": "01kjr71m0wz8scdsg92jztn8pr",
+  "key": "LNFT2-147233",
+  "name": "FI33-V-VLV-GATE-001",
+  "type": "Valves",
+  "schemaUid": "01kjr6y32v61xmecqk3t4rwdt5",
+  "attributes": {
+    "key": "LNFT2-147233",
+    "name": "FI33-V-VLV-GATE-001",
+    "created": "2026-02-11T14:33:50.000Z",
+    "updated": "2026-02-11T14:33:50.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "uid": "01kjr7ba7a7tq95hqzzew7ffc4",
+  "key": "LNFMAC-109172",
+  "name": "DMC SISTEMI INTEGRATI SRL",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-109172",
+    "name": "DMC SISTEMI INTEGRATI SRL",
+    "created": "2023-10-06T08:26:50.000Z",
+    "updated": "2023-10-06T08:26:50.000Z",
+    "contact": "DMC SISTEMI INTEGRATI SRL"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

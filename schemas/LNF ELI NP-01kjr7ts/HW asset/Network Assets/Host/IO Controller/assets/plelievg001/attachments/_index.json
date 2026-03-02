@@ -1,0 +1,24 @@
+[
+  {
+    "uid": "01kjr7zzan4wea9hh2cq39d03g",
+    "assetUid": "01kjr7zrdk3d3wq4q85r1pe7k9",
+    "filename": "evg.png",
+    "mimeType": "image/png",
+    "fileSize": 2494351,
+    "author": "amichelo",
+    "created": "2025-02-26T13:46:21.000",
+    "binaryPath": "schemas/LNF ELI NP-01kjr7ts/HW asset/Network Assets/Host/IO Controller/assets/plelievg001/attachments/evg.png",
+    "hasBinary": true
+  },
+  {
+    "uid": "01kjr7zvny6378ej0q5qq6tjeq",
+    "assetUid": "01kjr7zrdk3d3wq4q85r1pe7k9",
+    "filename": "IMG_20240409_163442584.jpg",
+    "mimeType": "image/jpeg",
+    "fileSize": 2446159,
+    "author": "amichelo",
+    "created": "2024-04-09T16:37:24.000",
+    "binaryPath": "schemas/LNF ELI NP-01kjr7ts/HW asset/Network Assets/Host/IO Controller/assets/plelievg001/attachments/IMG_20240409_163442584.jpg",
+    "hasBinary": true
+  }
+]

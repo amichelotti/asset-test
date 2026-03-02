@@ -1,0 +1,34 @@
+[
+  {
+    "uid": "01kjr72wq2das0ythv00ay1t24",
+    "assetUid": "01kjr72w6hw6n10v1pn4r3q3qh",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"S/N\",\"oldValue\":\"\",\"newValue\":\"97102902\"}",
+    "timestamp": "2026-02-23T14:24:29.000"
+  },
+  {
+    "uid": "01kjr72wqexv9th6p08j0jj7cb",
+    "assetUid": "01kjr72w6hw6n10v1pn4r3q3qh",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Facility\",\"oldValue\":\"\",\"newValue\":\"FLAME\"}",
+    "timestamp": "2026-01-12T19:21:51.000"
+  },
+  {
+    "uid": "01kjr72wqp5q12z2afcczz0tnq",
+    "assetUid": "01kjr72w6hw6n10v1pn4r3q3qh",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Locations\",\"oldValue\":\"\",\"newValue\":\"LNF.D1.DE56.B1.BAL1\"}",
+    "timestamp": "2026-01-12T19:21:51.000"
+  },
+  {
+    "uid": "01kjr72wr4m6094apd73jfaqzx",
+    "assetUid": "01kjr72w6hw6n10v1pn4r3q3qh",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2026-01-12T18:53:59.000"
+  }
+]

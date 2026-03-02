@@ -1,0 +1,18 @@
+[
+  {
+    "uid": "01kjr7mdgbaxz8ww8d0qhnkfq7",
+    "assetUid": "01kjr7mc139wkfwee85hsc2gj1",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"tcpip-interface-d...\"}",
+    "timestamp": "2025-09-02T17:54:52.000"
+  },
+  {
+    "uid": "01kjr7mdgm8gsk89y1fcbcwyq2",
+    "assetUid": "01kjr7mc139wkfwee85hsc2gj1",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-09-02T17:51:02.000"
+  }
+]

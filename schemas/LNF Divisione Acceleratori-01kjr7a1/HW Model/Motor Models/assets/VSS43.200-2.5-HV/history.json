@@ -1,0 +1,18 @@
+[
+  {
+    "uid": "01kjr7ndv904wff43261yxx2sx",
+    "assetUid": "01kjr7natt21en0t729pg26mey",
+    "type": "7",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"7\",\"newValue\":\"ds-vacuum-en.pdf\"}",
+    "timestamp": "2025-10-22T11:49:24.000"
+  },
+  {
+    "uid": "01kjr7ndvvha8p6x6jp8dpyzj5",
+    "assetUid": "01kjr7natt21en0t729pg26mey",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-10-22T11:48:46.000"
+  }
+]

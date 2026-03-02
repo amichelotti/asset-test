@@ -1,0 +1,23 @@
+{
+  "uid": "01kjr7cstnvjkew8sg0sx5ar12",
+  "key": "LNFMAC-143354",
+  "name": "PI",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-143354",
+    "name": "PI",
+    "created": "2025-10-22T09:50:47.000Z",
+    "updated": "2025-10-22T09:50:47.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

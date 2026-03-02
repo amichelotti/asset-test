@@ -1,0 +1,24 @@
+{
+  "uid": "01kjr7cycapj2rcf2tdsfdfas4",
+  "key": "LNFMAC-109311",
+  "name": "RACK PERUZZI S.R.L.",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-109311",
+    "name": "RACK PERUZZI S.R.L.",
+    "created": "2023-10-10T12:39:04.000Z",
+    "updated": "2023-10-10T12:39:04.000Z",
+    "contact": "RACK PERUZZI S.R.L."
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

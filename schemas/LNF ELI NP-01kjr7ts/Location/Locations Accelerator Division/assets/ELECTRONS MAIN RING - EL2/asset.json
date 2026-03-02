@@ -1,0 +1,25 @@
+{
+  "uid": "01kjr7pv0vmakfq8gz04jn26s3",
+  "key": "LNFMAC-106295",
+  "name": "ELECTRONS MAIN RING - EL2",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjr7a2wk5hebv4y86e0aasgr",
+  "attributes": {
+    "key": "LNFMAC-106295",
+    "name": "ELECTRONS MAIN RING - EL2",
+    "created": "2023-09-30T17:08:54.000Z",
+    "updated": "2025-10-28T14:52:13.000Z",
+    "description": "<p>Long arc from IR2 to e- injection</p>",
+    "area": "01kjr7pawggtp5q1wvwqnmz0fh"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

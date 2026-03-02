@@ -1,0 +1,18 @@
+[
+  {
+    "uid": "01kjr7ss3ayh3dcjrzsy9b6x02",
+    "assetUid": "01kjr7srfp3vkhzm1fesrssxs4",
+    "type": "9",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"9\",\"attribute\":\"Manager\",\"oldValue\":\"\",\"newValue\":\"Luca Gennaro Fogg...\"}",
+    "timestamp": "2025-09-02T15:58:16.000"
+  },
+  {
+    "uid": "01kjr7ss3hbhzq1yftg7tj5htb",
+    "assetUid": "01kjr7srfp3vkhzm1fesrssxs4",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-03-23T12:05:36.000"
+  }
+]

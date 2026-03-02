@@ -1,0 +1,58 @@
+[
+  {
+    "uid": "01kjr81vxweyry8k9hn935yt9b",
+    "assetUid": "01kjr81v2ftkpp78gbfh2ke91t",
+    "type": "4",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"TS-H1886XU-RP-R2-...\"}",
+    "timestamp": "2025-11-18T12:46:46.000"
+  },
+  {
+    "uid": "01kjr81vy5std50j78hmedc04z",
+    "assetUid": "01kjr81v2ftkpp78gbfh2ke91t",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"IP - IPMI\",\"oldValue\":\"\",\"newValue\":\"10.16.2.110\"}",
+    "timestamp": "2025-11-13T11:42:59.000"
+  },
+  {
+    "uid": "01kjr81vyd9t0vm9p4hbqa245z",
+    "assetUid": "01kjr81v2ftkpp78gbfh2ke91t",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"IPMI - MAC\",\"oldValue\":\"\",\"newValue\":\"24:5E:BE:8D:AC:E8\"}",
+    "timestamp": "2025-11-13T11:42:59.000"
+  },
+  {
+    "uid": "01kjr81vyq5pym8fa0r7j2742a",
+    "assetUid": "01kjr81v2ftkpp78gbfh2ke91t",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"MAC\",\"oldValue\":\"\",\"newValue\":\"24:5E:BE:8D:A5:9E\"}",
+    "timestamp": "2025-11-13T11:35:34.000"
+  },
+  {
+    "uid": "01kjr81vz388k8cw972rtzv19q",
+    "assetUid": "01kjr81v2ftkpp78gbfh2ke91t",
+    "type": "4",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_COR_05\"}",
+    "timestamp": "2025-11-13T11:35:34.000"
+  },
+  {
+    "uid": "01kjr81vzjx06fg31gmt2n7vyk",
+    "assetUid": "01kjr81v2ftkpp78gbfh2ke91t",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"Serial\",\"oldValue\":\"\",\"newValue\":\"QPH9913873A\"}",
+    "timestamp": "2025-11-13T11:35:34.000"
+  },
+  {
+    "uid": "01kjr81vztny5v69a60cpwfeab",
+    "assetUid": "01kjr81v2ftkpp78gbfh2ke91t",
+    "type": "0",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-11-13T11:26:19.000"
+  }
+]

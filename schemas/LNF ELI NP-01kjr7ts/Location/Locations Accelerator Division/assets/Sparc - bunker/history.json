@@ -1,0 +1,58 @@
+[
+  {
+    "uid": "01kjr7rzra9qqqrfkdkh09p4ys",
+    "assetUid": "01kjr7ryww6mt2gjh56yf3rx92",
+    "type": "29",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"29\"}",
+    "timestamp": "2025-10-28T15:52:12.000"
+  },
+  {
+    "uid": "01kjr7rzrpcvjsccqx5h6wba50",
+    "assetUid": "01kjr7ryww6mt2gjh56yf3rx92",
+    "type": "28",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"28\"}",
+    "timestamp": "2025-10-28T15:49:10.000"
+  },
+  {
+    "uid": "01kjr7rzry21sgfq918q04f7by",
+    "assetUid": "01kjr7ryww6mt2gjh56yf3rx92",
+    "type": "24",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"24\",\"oldValue\":\"Location\",\"newValue\":\"FLAME Ed 56\"}",
+    "timestamp": "2025-10-28T15:47:32.000"
+  },
+  {
+    "uid": "01kjr7rzs7rajg12c7xx8477n9",
+    "assetUid": "01kjr7ryww6mt2gjh56yf3rx92",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"sparc - bunker\",\"newValue\":\"Sparc - bunker\"}",
+    "timestamp": "2023-10-03T17:38:18.000"
+  },
+  {
+    "uid": "01kjr7rzsgh0mvrvx8xr6k4bhy",
+    "assetUid": "01kjr7ryww6mt2gjh56yf3rx92",
+    "type": "25",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2023-10-03T17:37:45.000"
+  },
+  {
+    "uid": "01kjr7rzsx54z5g9yk6b4xez6t",
+    "assetUid": "01kjr7ryww6mt2gjh56yf3rx92",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Area\",\"oldValue\":\"\",\"newValue\":\"Sparc\"}",
+    "timestamp": "2023-10-03T17:37:45.000"
+  },
+  {
+    "uid": "01kjr7rzt70scpq31f9jgq72nj",
+    "assetUid": "01kjr7ryww6mt2gjh56yf3rx92",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-09-27T16:06:03.000"
+  }
+]

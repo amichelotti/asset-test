@@ -1,0 +1,74 @@
+[
+  {
+    "uid": "01kjr7p3yc8n73xk65z5mxr7sw",
+    "assetUid": "01kjr7p398w81pg08gpd1be4kv",
+    "type": "29",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"29\"}",
+    "timestamp": "2025-10-28T15:52:12.000"
+  },
+  {
+    "uid": "01kjr7p3yxh8ztr043h0866ed5",
+    "assetUid": "01kjr7p398w81pg08gpd1be4kv",
+    "type": "28",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"28\"}",
+    "timestamp": "2025-10-28T15:49:10.000"
+  },
+  {
+    "uid": "01kjr7p3zfdcywj82jnsz26jsm",
+    "assetUid": "01kjr7p398w81pg08gpd1be4kv",
+    "type": "24",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"24\",\"oldValue\":\"Location\",\"newValue\":\"FLAME Ed 56\"}",
+    "timestamp": "2025-10-28T15:47:23.000"
+  },
+  {
+    "uid": "01kjr7p3zv7tqm0fav529cn331",
+    "assetUid": "01kjr7p398w81pg08gpd1be4kv",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Area\",\"oldValue\":\"ACCUMULATOR\",\"newValue\":\"Dafne\"}",
+    "timestamp": "2023-10-03T16:31:18.000"
+  },
+  {
+    "uid": "01kjr7p3zzany7v8yv0wf6vc35",
+    "assetUid": "01kjr7p398w81pg08gpd1be4kv",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Parent\",\"oldValue\":\"\",\"newValue\":\"ACCUMULATOR\"}",
+    "timestamp": "2023-10-03T13:08:47.000"
+  },
+  {
+    "uid": "01kjr7p40709f96da0qc0rgy8a",
+    "assetUid": "01kjr7p398w81pg08gpd1be4kv",
+    "type": "25",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2023-09-30T17:54:07.000"
+  },
+  {
+    "uid": "01kjr7p40drf0geggk61bkj9jp",
+    "assetUid": "01kjr7p398w81pg08gpd1be4kv",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"1st quadrant, clo...\"}",
+    "timestamp": "2023-09-30T17:54:07.000"
+  },
+  {
+    "uid": "01kjr7p40ngja78rebkrd43eed",
+    "assetUid": "01kjr7p398w81pg08gpd1be4kv",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"TE\",\"newValue\":\"ACCUMULATOR - A1\"}",
+    "timestamp": "2023-09-30T17:54:07.000"
+  },
+  {
+    "uid": "01kjr7p40yx0sxe26593aqhnab",
+    "assetUid": "01kjr7p398w81pg08gpd1be4kv",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-09-29T18:13:58.000"
+  }
+]

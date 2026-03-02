@@ -1,0 +1,26 @@
+[
+  {
+    "uid": "01kjr7vf8w1kjyxz36dvrjsj9g",
+    "assetUid": "01kjr7vegnz4yenm4m76fhfkeg",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"cisco catalyst 92...\"}",
+    "timestamp": "2025-06-12T14:57:32.000"
+  },
+  {
+    "uid": "01kjr7vf8zs4m906phtec0gwhw",
+    "assetUid": "01kjr7vegnz4yenm4m76fhfkeg",
+    "type": "25",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2025-06-12T13:47:45.000"
+  },
+  {
+    "uid": "01kjr7vf9177pf6tej45k8wphm",
+    "assetUid": "01kjr7vegnz4yenm4m76fhfkeg",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-06-11T11:01:42.000"
+  }
+]

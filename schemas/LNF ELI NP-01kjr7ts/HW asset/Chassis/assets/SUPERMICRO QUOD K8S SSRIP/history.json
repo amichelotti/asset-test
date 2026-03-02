@@ -1,0 +1,66 @@
+[
+  {
+    "uid": "01kjr8h6wtghp15swqfhvhj7ad",
+    "assetUid": "01kjr8h69g7n00p723zht266pw",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"QRcode label atta...\"}",
+    "timestamp": "2025-06-12T11:06:33.000"
+  },
+  {
+    "uid": "01kjr8h6x7xmrncadhyg1ne8xv",
+    "assetUid": "01kjr8h69g7n00p723zht266pw",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"Documentation\",\"oldValue\":\"\",\"newValue\":\"https://rda.dsi.i...\"}",
+    "timestamp": "2025-06-12T10:27:44.000"
+  },
+  {
+    "uid": "01kjr8h6xe1w8ksx5nezebw4jt",
+    "assetUid": "01kjr8h69g7n00p723zht266pw",
+    "type": "5",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"5\",\"attribute\":\"Blade\",\"oldValue\":\"plelinpdom001\",\"newValue\":\"plelinpdom001, pl...\"}",
+    "timestamp": "2025-06-12T10:23:11.000"
+  },
+  {
+    "uid": "01kjr8h6xpwyyy4h5wyr9px7yr",
+    "assetUid": "01kjr8h69g7n00p723zht266pw",
+    "type": "4",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_COR_04\"}",
+    "timestamp": "2025-06-12T10:23:11.000"
+  },
+  {
+    "uid": "01kjr8h6xwdmwa3826ta1txfb8",
+    "assetUid": "01kjr8h69g7n00p723zht266pw",
+    "type": "4",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"Corridor GP\"}",
+    "timestamp": "2025-06-12T10:23:11.000"
+  },
+  {
+    "uid": "01kjr8h6y4nbjjyerq3n2dnq5x",
+    "assetUid": "01kjr8h69g7n00p723zht266pw",
+    "type": "4",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"4\",\"attribute\":\"Blade\",\"oldValue\":\"\",\"newValue\":\"plelinpdom001\"}",
+    "timestamp": "2025-06-12T10:07:46.000"
+  },
+  {
+    "uid": "01kjr8h6yb5db9eg5h1z4aak6g",
+    "assetUid": "01kjr8h69g7n00p723zht266pw",
+    "type": "6",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"6\",\"attribute\":\"Model\",\"oldValue\":\" AS -2124BT-HNTR\",\"newValue\":\"\"}",
+    "timestamp": "2025-06-12T09:36:31.000"
+  },
+  {
+    "uid": "01kjr8h6yjyqc1v7766p901450",
+    "assetUid": "01kjr8h69g7n00p723zht266pw",
+    "type": "0",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-06-12T09:35:54.000"
+  }
+]

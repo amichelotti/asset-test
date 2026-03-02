@@ -1,0 +1,82 @@
+[
+  {
+    "uid": "01kjr8a8p1gwbze1aw0w978qbp",
+    "assetUid": "01kjr8a7y675692jrpqbtjcwm1",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Vacuum Ion Pump\",\"newValue\":\"Vacuum Ion Pump C...\"}",
+    "timestamp": "2025-11-06T17:22:13.000"
+  },
+  {
+    "uid": "01kjr8a8qa0mmvqvyjbras3sf3",
+    "assetUid": "01kjr8a7y675692jrpqbtjcwm1",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"LEL-VAC-WGC01:VPC...\",\"newValue\":\"LEL-VAC-WGS01:VPC...\"}",
+    "timestamp": "2025-11-06T17:22:13.000"
+  },
+  {
+    "uid": "01kjr8a8tj4gjqt2qecv9p6yby",
+    "assetUid": "01kjr8a7y675692jrpqbtjcwm1",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_RUF_06\"}",
+    "timestamp": "2024-12-05T16:33:18.000"
+  },
+  {
+    "uid": "01kjr8a8v1maqh37a2h9jabfn7",
+    "assetUid": "01kjr8a7y675692jrpqbtjcwm1",
+    "type": "25",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2024-12-05T15:54:05.000"
+  },
+  {
+    "uid": "01kjr8a8vbyt3rdx2xnxj3mht8",
+    "assetUid": "01kjr8a7y675692jrpqbtjcwm1",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"Agilent 4UHV Ion ...\"}",
+    "timestamp": "2024-12-05T15:54:05.000"
+  },
+  {
+    "uid": "01kjr8a8vqdffjrn4qd367nq15",
+    "assetUid": "01kjr8a7y675692jrpqbtjcwm1",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"ROOF\"}",
+    "timestamp": "2024-12-05T15:54:05.000"
+  },
+  {
+    "uid": "01kjr8a8w4q6fm7n9pyv0rhvfd",
+    "assetUid": "01kjr8a7y675692jrpqbtjcwm1",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Vacuum Ion Pump\",\"newValue\":\"Vacuum Ion Pump\"}",
+    "timestamp": "2024-12-05T15:54:05.000"
+  },
+  {
+    "uid": "01kjr8a8wpemppzzy6h7f11b1c",
+    "assetUid": "01kjr8a7y675692jrpqbtjcwm1",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2024-12-05T15:54:05.000"
+  },
+  {
+    "uid": "01kjr8a8x20wvjqy8n72spv798",
+    "assetUid": "01kjr8a7y675692jrpqbtjcwm1",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Type\",\"oldValue\":\"\",\"newValue\":\"VPC\"}",
+    "timestamp": "2023-11-29T23:34:09.000"
+  },
+  {
+    "uid": "01kjr8a8xanmj09tn08f3ssx7b",
+    "assetUid": "01kjr8a7y675692jrpqbtjcwm1",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-11-29T23:26:37.000"
+  }
+]

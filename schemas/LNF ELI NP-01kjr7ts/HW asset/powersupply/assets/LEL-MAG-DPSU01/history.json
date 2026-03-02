@@ -1,0 +1,106 @@
+[
+  {
+    "uid": "01kjr87kyckvd224he137f4gp0",
+    "assetUid": "01kjr87k94v7cttay2b5r7dsea",
+    "type": "5",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"5\",\"attribute\":\"Rack\",\"oldValue\":\"R_ANX_04\",\"newValue\":\"R_COR_11\"}",
+    "timestamp": "2025-06-13T15:00:21.000"
+  },
+  {
+    "uid": "01kjr87kytk5gnyvmde4aqkxk3",
+    "assetUid": "01kjr87k94v7cttay2b5r7dsea",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Dipole A\",\"newValue\":\"Dipole A\"}",
+    "timestamp": "2025-06-13T15:00:21.000"
+  },
+  {
+    "uid": "01kjr87kzhpwbzrsyyahn119x1",
+    "assetUid": "01kjr87k94v7cttay2b5r7dsea",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Registered\",\"oldValue\":\"\",\"newValue\":\"lel-mag-dpsu01\"}",
+    "timestamp": "2024-12-05T12:56:16.000"
+  },
+  {
+    "uid": "01kjr87kzzaeyx3m6605sw3rfy",
+    "assetUid": "01kjr87k94v7cttay2b5r7dsea",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Rack\",\"oldValue\":\"R_ANX_03\",\"newValue\":\"R_ANX_04\"}",
+    "timestamp": "2024-12-05T12:56:16.000"
+  },
+  {
+    "uid": "01kjr87m08m9k1z588hatmspyt",
+    "assetUid": "01kjr87k94v7cttay2b5r7dsea",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2024-12-05T12:56:16.000"
+  },
+  {
+    "uid": "01kjr87m0fpmf7pvv56arr0ya2",
+    "assetUid": "01kjr87k94v7cttay2b5r7dsea",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Serial\",\"oldValue\":\"40-D8-55-F-21-42\",\"newValue\":\"40-D8-55-F-21-23\"}",
+    "timestamp": "2024-11-08T17:20:15.000"
+  },
+  {
+    "uid": "01kjr87m0tr0pm1e0dmsc5kxdh",
+    "assetUid": "01kjr87k94v7cttay2b5r7dsea",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Serial\",\"oldValue\":\"\",\"newValue\":\"40-D8-55-F-21-42\"}",
+    "timestamp": "2024-11-08T17:19:56.000"
+  },
+  {
+    "uid": "01kjr87m10dd4833yf1tyby0dx",
+    "assetUid": "01kjr87k94v7cttay2b5r7dsea",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"START11\"}",
+    "timestamp": "2024-11-08T17:19:19.000"
+  },
+  {
+    "uid": "01kjr87m19cqr4w46k5vbcrqp3",
+    "assetUid": "01kjr87k94v7cttay2b5r7dsea",
+    "type": "25",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2024-11-08T16:29:22.000"
+  },
+  {
+    "uid": "01kjr87m1m6m1e4xxaete6wjkh",
+    "assetUid": "01kjr87k94v7cttay2b5r7dsea",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_ANX_03\"}",
+    "timestamp": "2024-11-08T16:29:22.000"
+  },
+  {
+    "uid": "01kjr87m1qz5wp4vvxfdrx3tww",
+    "assetUid": "01kjr87k94v7cttay2b5r7dsea",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"Corridor GP\"}",
+    "timestamp": "2024-11-08T16:29:22.000"
+  },
+  {
+    "uid": "01kjr87m1x61529y09n7kwkfkj",
+    "assetUid": "01kjr87k94v7cttay2b5r7dsea",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Dipole A\",\"newValue\":\"Dipole A\"}",
+    "timestamp": "2024-11-08T16:29:22.000"
+  },
+  {
+    "uid": "01kjr87m23q4dnw97sdgdv82vp",
+    "assetUid": "01kjr87k94v7cttay2b5r7dsea",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-11-29T00:56:13.000"
+  }
+]

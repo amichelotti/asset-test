@@ -1,0 +1,26 @@
+{
+  "uid": "01kjr7jqf78nazh48phpfmfv6d",
+  "key": "LNFMAC-128457",
+  "name": "IBILT",
+  "type": "Power Supplies Models",
+  "schemaUid": "01kjr7a65180eyvjqgbznrajpv",
+  "attributes": {
+    "key": "LNFMAC-128457",
+    "name": "IBILT",
+    "created": "2024-11-08T14:41:12.000Z",
+    "updated": "2025-09-02T11:53:40.000Z",
+    "producer": "01kjr7c69whe1b012w4wd2gmqd",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>6 channels +- 15A 8V</p><p></p></div>",
+    "git_repo": "https://github.com/infn-epics/biltItest"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

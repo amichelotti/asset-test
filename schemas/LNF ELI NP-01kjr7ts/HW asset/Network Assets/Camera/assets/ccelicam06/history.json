@@ -1,0 +1,50 @@
+[
+  {
+    "uid": "01kjr82jfeakn2fk8mp4vx8c4w",
+    "assetUid": "01kjr82hqyvfmfqg7yjmzjnjbd",
+    "type": "25",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2025-06-12T14:27:13.000"
+  },
+  {
+    "uid": "01kjr82jg3g6npj8nn59yxghr3",
+    "assetUid": "01kjr82hqyvfmfqg7yjmzjnjbd",
+    "type": "5",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"5\",\"attribute\":\"Location\",\"oldValue\":\"Selced\",\"newValue\":\"AB1\"}",
+    "timestamp": "2025-06-12T14:27:12.000"
+  },
+  {
+    "uid": "01kjr82jgbv4sb4bf5ez4c9jsz",
+    "assetUid": "01kjr82hqyvfmfqg7yjmzjnjbd",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Registered\",\"oldValue\":\"\",\"newValue\":\"ccelicam06\"}",
+    "timestamp": "2025-06-12T14:23:03.000"
+  },
+  {
+    "uid": "01kjr82jgnqbhxzbdwm1cxq30z",
+    "assetUid": "01kjr82hqyvfmfqg7yjmzjnjbd",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Camera setup2 tes...\",\"newValue\":\"Camera setup2 tes...\"}",
+    "timestamp": "2025-06-12T14:23:03.000"
+  },
+  {
+    "uid": "01kjr82jgv3e6x20m1ezbpkjww",
+    "assetUid": "01kjr82hqyvfmfqg7yjmzjnjbd",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Status\",\"oldValue\":\"Action Needed\",\"newValue\":\"Active\"}",
+    "timestamp": "2025-06-12T14:23:03.000"
+  },
+  {
+    "uid": "01kjr82jh5xn7wbadppegcqyck",
+    "assetUid": "01kjr82hqyvfmfqg7yjmzjnjbd",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-11-15T14:08:53.000"
+  }
+]

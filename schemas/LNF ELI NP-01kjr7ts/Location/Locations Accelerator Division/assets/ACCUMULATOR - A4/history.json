@@ -1,0 +1,50 @@
+[
+  {
+    "uid": "01kjr7p77s0zv5jfxyrc8pxbmw",
+    "assetUid": "01kjr7p6jnxnwrvkmq90an9nvj",
+    "type": "29",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"29\"}",
+    "timestamp": "2025-10-28T15:52:12.000"
+  },
+  {
+    "uid": "01kjr7p78wcw8maptbqd9e9cxp",
+    "assetUid": "01kjr7p6jnxnwrvkmq90an9nvj",
+    "type": "28",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"28\"}",
+    "timestamp": "2025-10-28T15:49:10.000"
+  },
+  {
+    "uid": "01kjr7p79ae96h9wq437023yjh",
+    "assetUid": "01kjr7p6jnxnwrvkmq90an9nvj",
+    "type": "24",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"24\",\"oldValue\":\"Location\",\"newValue\":\"FLAME Ed 56\"}",
+    "timestamp": "2025-10-28T15:47:23.000"
+  },
+  {
+    "uid": "01kjr7p79s76smzrzh3zmbbq9d",
+    "assetUid": "01kjr7p6jnxnwrvkmq90an9nvj",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Area\",\"oldValue\":\"ACCUMULATOR\",\"newValue\":\"Dafne\"}",
+    "timestamp": "2023-10-03T16:31:59.000"
+  },
+  {
+    "uid": "01kjr7p7a5n0hdm12vkxc19taf",
+    "assetUid": "01kjr7p6jnxnwrvkmq90an9nvj",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Parent\",\"oldValue\":\"\",\"newValue\":\"ACCUMULATOR\"}",
+    "timestamp": "2023-10-03T13:11:38.000"
+  },
+  {
+    "uid": "01kjr7p7aa11xwgf6j0ey8z5rx",
+    "assetUid": "01kjr7p6jnxnwrvkmq90an9nvj",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-09-30T19:01:27.000"
+  }
+]

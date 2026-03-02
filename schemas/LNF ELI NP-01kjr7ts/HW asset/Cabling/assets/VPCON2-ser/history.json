@@ -1,0 +1,58 @@
+[
+  {
+    "uid": "01kjr8h3zxey4tbz2bd7z4z9e6",
+    "assetUid": "01kjr8h393y0waap73hcdhfsya",
+    "type": "5",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"5\",\"attribute\":\"Connector2 Pair\",\"oldValue\":\"LEL-VAC-WGC10:VPC...\",\"newValue\":\"\"}",
+    "timestamp": "2025-06-18T14:37:59.000"
+  },
+  {
+    "uid": "01kjr8h406a5g92srxp7pwb4tf",
+    "assetUid": "01kjr8h393y0waap73hcdhfsya",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Connector1 Desc\",\"oldValue\":\"porta 4\",\"newValue\":\"porta 4\"}",
+    "timestamp": "2025-06-18T12:40:02.000"
+  },
+  {
+    "uid": "01kjr8h40c8yzfm16xm0vddq4b",
+    "assetUid": "01kjr8h393y0waap73hcdhfsya",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"VPCON19-ser\",\"newValue\":\"VPCON2-ser\"}",
+    "timestamp": "2025-06-18T12:40:02.000"
+  },
+  {
+    "uid": "01kjr8h40kszfxpw445bkdcjf3",
+    "assetUid": "01kjr8h393y0waap73hcdhfsya",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Connector1 Desc\",\"oldValue\":\"\",\"newValue\":\"porta 4\"}",
+    "timestamp": "2024-12-06T09:05:53.000"
+  },
+  {
+    "uid": "01kjr8h40rrgvf9cyc10a1dj0w",
+    "assetUid": "01kjr8h393y0waap73hcdhfsya",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Connector2 Pair\",\"oldValue\":\"\",\"newValue\":\"LEL-VAC-WGC10:VPC...\"}",
+    "timestamp": "2024-12-06T09:05:53.000"
+  },
+  {
+    "uid": "01kjr8h412xe45nagctwsv9r34",
+    "assetUid": "01kjr8h393y0waap73hcdhfsya",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Connector1 Pair\",\"oldValue\":\"\",\"newValue\":\"scelimxa16001\"}",
+    "timestamp": "2024-12-06T09:05:53.000"
+  },
+  {
+    "uid": "01kjr8h418xzdmypsa9jy4q4ra",
+    "assetUid": "01kjr8h393y0waap73hcdhfsya",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-12-06T08:57:57.000"
+  }
+]

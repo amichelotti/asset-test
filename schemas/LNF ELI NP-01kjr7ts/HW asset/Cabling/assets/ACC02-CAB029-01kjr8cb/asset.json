@@ -1,0 +1,29 @@
+{
+  "uid": "01kjr8cbnfw84t8r6nrmabm5n9",
+  "key": "LNFELINP-112016",
+  "name": "ACC02-CAB029",
+  "type": "Cabling",
+  "schemaUid": "01kjr6y2yhe6sjdvs376nmhzdm",
+  "attributes": {
+    "key": "LNFELINP-112016",
+    "name": "ACC02-CAB029",
+    "created": "2023-11-30T12:23:33.000Z",
+    "updated": "2023-11-30T12:23:33.000Z",
+    "description": "S-band Accelerating Structure",
+    "connector1_pair": "01kjr7zfzzp1rxx7jmw078sjtk",
+    "connector2_pair": "01kjr8b4dj9k5ghwtkyh1c0heb",
+    "connector1_desc": "Andrew  Nmale  F2PNM-H",
+    "connector2_desc": "Andrew  Nmale  F2PNM-H",
+    "cable_type_desc": "n°5 Andrew FSJ2-50"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

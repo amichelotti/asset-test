@@ -1,0 +1,23 @@
+{
+  "uid": "01kjr7cs22x98jppzhdgy5fngz",
+  "key": "LNFMAC-143352",
+  "name": "Phytron",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-143352",
+    "name": "Phytron",
+    "created": "2025-10-22T09:48:46.000Z",
+    "updated": "2025-10-22T09:48:46.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

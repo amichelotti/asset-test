@@ -1,0 +1,42 @@
+[
+  {
+    "uid": "01kjr7zchkv3pn5edjznvy3vxf",
+    "assetUid": "01kjr7zc0dwx8qzz0xk7st7r5c",
+    "type": "2",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Serial converter ...\",\"newValue\":\"Serial converter ...\"}",
+    "timestamp": "2025-11-14T14:42:14.000"
+  },
+  {
+    "uid": "01kjr7zchx24ebsw2yd97x2yjx",
+    "assetUid": "01kjr7zc0dwx8qzz0xk7st7r5c",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Registered\",\"oldValue\":\"\",\"newValue\":\"scelimxa8001\"}",
+    "timestamp": "2024-12-05T16:36:06.000"
+  },
+  {
+    "uid": "01kjr7zcj22tvnwgk013gegkd9",
+    "assetUid": "01kjr7zc0dwx8qzz0xk7st7r5c",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_RUF_06\"}",
+    "timestamp": "2024-12-05T16:32:47.000"
+  },
+  {
+    "uid": "01kjr7zcj9mjh85w1b99k5zzmt",
+    "assetUid": "01kjr7zc0dwx8qzz0xk7st7r5c",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Location\",\"oldValue\":\"AB1\",\"newValue\":\"ROOF\"}",
+    "timestamp": "2024-12-05T16:32:47.000"
+  },
+  {
+    "uid": "01kjr7zcjngc2skkmghjj8aevc",
+    "assetUid": "01kjr7zc0dwx8qzz0xk7st7r5c",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-12-04T17:03:48.000"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "uid": "01kjr726bmfdqe2bmtg52bks21",
+  "key": "LNFT2-147914",
+  "name": "SP32-V-VLV-MAN-003",
+  "type": "Valves",
+  "schemaUid": "01kjr6y32v61xmecqk3t4rwdt5",
+  "attributes": {
+    "key": "LNFT2-147914",
+    "name": "SP32-V-VLV-MAN-003",
+    "created": "2026-03-02T14:31:25.000Z",
+    "updated": "2026-03-02T14:31:25.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

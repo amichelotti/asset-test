@@ -1,0 +1,18 @@
+[
+  {
+    "uid": "01kjr86q9yt53pckwf7nb8fm70",
+    "assetUid": "01kjr86prt2dvb2jnpe7g8c1g5",
+    "type": "5",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"5\",\"attribute\":\"Layout\",\"oldValue\":\"M4-028\",\"newValue\":\"M4-029\"}",
+    "timestamp": "2025-06-18T17:34:07.000"
+  },
+  {
+    "uid": "01kjr86qaedxs9jrg2j4jpqhjg",
+    "assetUid": "01kjr86prt2dvb2jnpe7g8c1g5",
+    "type": "0",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-06-18T17:33:17.000"
+  }
+]

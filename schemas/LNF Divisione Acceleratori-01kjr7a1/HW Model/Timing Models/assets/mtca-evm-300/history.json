@@ -1,0 +1,18 @@
+[
+  {
+    "uid": "01kjr7kjd4asa5ygxpmgqa0hwm",
+    "assetUid": "01kjr7khqt74sr0br5mr5rdq8p",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"GIT repo\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
+    "timestamp": "2025-09-02T15:25:31.000"
+  },
+  {
+    "uid": "01kjr7kjdcbfgrrd1wsh49dbf8",
+    "assetUid": "01kjr7khqt74sr0br5mr5rdq8p",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-09-25T16:46:46.000"
+  }
+]

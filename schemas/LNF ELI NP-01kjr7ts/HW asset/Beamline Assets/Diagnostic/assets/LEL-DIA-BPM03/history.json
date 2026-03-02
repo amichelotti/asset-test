@@ -1,0 +1,18 @@
+[
+  {
+    "uid": "01kjr81d5s96kkm6r6vdks0q7f",
+    "assetUid": "01kjr81cha5g8b5sbhv3yjnmqj",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Layout\",\"oldValue\":\"REGION 4\",\"newValue\":\"M4-000\"}",
+    "timestamp": "2023-12-01T14:15:20.000"
+  },
+  {
+    "uid": "01kjr81d6nkqsp31vk3820b8sw",
+    "assetUid": "01kjr81cha5g8b5sbhv3yjnmqj",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-11-30T12:44:42.000"
+  }
+]

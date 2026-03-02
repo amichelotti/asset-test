@@ -1,0 +1,34 @@
+[
+  {
+    "uid": "01kjr8h9kfa85j9ekr6f5703ma",
+    "assetUid": "01kjr8h8rdp8wf1mqtjzavhhw8",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"Libera LLRF-TSRF1\",\"newValue\":\"LLRF-TSRF1-S01\"}",
+    "timestamp": "2025-06-16T11:56:25.000"
+  },
+  {
+    "uid": "01kjr8h9krbvhqj1mvx9r0gag0",
+    "assetUid": "01kjr8h8rdp8wf1mqtjzavhhw8",
+    "type": "26",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"26\"}",
+    "timestamp": "2025-06-16T11:49:49.000"
+  },
+  {
+    "uid": "01kjr8h9m5ja4khcah93dbqncc",
+    "assetUid": "01kjr8h8rdp8wf1mqtjzavhhw8",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"LIBERA Analog F.E...\",\"newValue\":\"LIBERA Analog F.E...\"}",
+    "timestamp": "2025-06-16T11:44:38.000"
+  },
+  {
+    "uid": "01kjr8h9mjdbkb0ec9f2xga564",
+    "assetUid": "01kjr8h8rdp8wf1mqtjzavhhw8",
+    "type": "0",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-06-16T11:42:48.000"
+  }
+]

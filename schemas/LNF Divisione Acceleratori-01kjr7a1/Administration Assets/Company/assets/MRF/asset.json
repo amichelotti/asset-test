@@ -1,0 +1,23 @@
+{
+  "uid": "01kjr7ce6hnqqrntysh82y0bmx",
+  "key": "LNFMAC-104839",
+  "name": "MRF",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-104839",
+    "name": "MRF",
+    "created": "2023-09-25T14:46:46.000Z",
+    "updated": "2023-09-25T14:46:46.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

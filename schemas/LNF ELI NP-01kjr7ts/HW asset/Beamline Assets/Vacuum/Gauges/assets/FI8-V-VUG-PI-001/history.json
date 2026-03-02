@@ -1,0 +1,18 @@
+[
+  {
+    "uid": "01kjr74qw6eh6y6by98ttb5ccj",
+    "assetUid": "01kjr74qchvjnk499hrxd4sne5",
+    "type": "2",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"FI37-V-VUG-FR-001\",\"newValue\":\"FI8-V-VUG-PI-001\"}",
+    "timestamp": "2026-02-11T16:40:51.000"
+  },
+  {
+    "uid": "01kjr74qwd41jzzpq35568rrdh",
+    "assetUid": "01kjr74qchvjnk499hrxd4sne5",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2026-02-11T15:53:15.000"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "uid": "01kjr75n1ardbbfdshr0trvpc0",
+    "assetUid": "01kjr75mdmzmptdv9nqzt42az3",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Vaccum Objects\",\"oldValue\":\"\",\"newValue\":\"FP35-V-VLV-GATE-0...\"}",
+    "timestamp": "2026-02-16T15:19:48.000"
+  },
+  {
+    "uid": "01kjr75n1taqd67hp22vmnmprn",
+    "assetUid": "01kjr75mdmzmptdv9nqzt42az3",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2026-02-16T15:01:59.000"
+  }
+]

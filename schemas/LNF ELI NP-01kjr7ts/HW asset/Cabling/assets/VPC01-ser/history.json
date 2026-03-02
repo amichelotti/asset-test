@@ -1,0 +1,50 @@
+[
+  {
+    "uid": "01kjr8gy8t44t6jyb89swcat10",
+    "assetUid": "01kjr8gxppzhj9j6y87a60zxdp",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Connector2 Desc\",\"oldValue\":\"\",\"newValue\":\"port 1\"}",
+    "timestamp": "2025-02-03T18:58:53.000"
+  },
+  {
+    "uid": "01kjr8gy96qdjb8gg08wqxxzg9",
+    "assetUid": "01kjr8gxppzhj9j6y87a60zxdp",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Connector2 Pair\",\"oldValue\":\"\",\"newValue\":\"scelimxa8001\"}",
+    "timestamp": "2025-02-03T18:58:53.000"
+  },
+  {
+    "uid": "01kjr8gy9gwe8se5ej1xkatw0z",
+    "assetUid": "01kjr8gxppzhj9j6y87a60zxdp",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Connector1 Pair\",\"oldValue\":\"\",\"newValue\":\"LEL-VAC-VPCON01\"}",
+    "timestamp": "2025-02-03T18:58:53.000"
+  },
+  {
+    "uid": "01kjr8gy9y1cvbmxezxxxhze2n",
+    "assetUid": "01kjr8gxppzhj9j6y87a60zxdp",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"ROOF\"}",
+    "timestamp": "2025-02-03T18:58:53.000"
+  },
+  {
+    "uid": "01kjr8gya67pfe6asn2vf63y1k",
+    "assetUid": "01kjr8gxppzhj9j6y87a60zxdp",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2025-02-03T18:58:53.000"
+  },
+  {
+    "uid": "01kjr8gyae4dayr73qaektb1st",
+    "assetUid": "01kjr8gxppzhj9j6y87a60zxdp",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-02-03T18:56:43.000"
+  }
+]

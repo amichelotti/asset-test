@@ -1,0 +1,42 @@
+[
+  {
+    "uid": "01kjr74b9n1p4jac6j9x6yfck3",
+    "assetUid": "01kjr74apgqp06gyfpwk1e68bb",
+    "type": "2",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Al controller 17 ...\",\"newValue\":\"Al controller 17 ...\"}",
+    "timestamp": "2026-02-17T11:34:11.000"
+  },
+  {
+    "uid": "01kjr74ba9re5rmtrz01p1jw5w",
+    "assetUid": "01kjr74apgqp06gyfpwk1e68bb",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"HW Model\",\"oldValue\":\"\",\"newValue\":\"MERCURY\"}",
+    "timestamp": "2026-02-17T11:22:38.000"
+  },
+  {
+    "uid": "01kjr74bate9ybgdn6ndpgy0tr",
+    "assetUid": "01kjr74apgqp06gyfpwk1e68bb",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Facility\",\"oldValue\":\"\",\"newValue\":\"EUAPS\"}",
+    "timestamp": "2026-02-17T11:22:38.000"
+  },
+  {
+    "uid": "01kjr74bb2wtjy8qmed8z272by",
+    "assetUid": "01kjr74apgqp06gyfpwk1e68bb",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"Al controller 17 ...\"}",
+    "timestamp": "2026-02-17T11:22:38.000"
+  },
+  {
+    "uid": "01kjr74bb76bj9cvrykzmrp1fe",
+    "assetUid": "01kjr74apgqp06gyfpwk1e68bb",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2026-02-10T15:03:20.000"
+  }
+]

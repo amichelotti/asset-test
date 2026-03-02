@@ -1,0 +1,66 @@
+[
+  {
+    "uid": "01kjr7zasmha9fzbcn0fwp0nms",
+    "assetUid": "01kjr7za4bgn7gmzxhsz6rstvy",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Serial converter ...\",\"newValue\":\"Serial converter ...\"}",
+    "timestamp": "2025-09-10T15:42:28.000"
+  },
+  {
+    "uid": "01kjr7zat5cc2yjq79yrq1qstg",
+    "assetUid": "01kjr7za4bgn7gmzxhsz6rstvy",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"connector\",\"oldValue\":\"VPCON2-ser, VPCON...\",\"newValue\":\"VPCON2-ser, VPCON...\"}",
+    "timestamp": "2025-02-01T12:20:57.000"
+  },
+  {
+    "uid": "01kjr7zav7bsenykpaejz92cvm",
+    "assetUid": "01kjr7za4bgn7gmzxhsz6rstvy",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Serial converter ...\",\"newValue\":\"Serial converter ...\"}",
+    "timestamp": "2025-02-01T12:20:57.000"
+  },
+  {
+    "uid": "01kjr7zavzqy2qf5b5aw20cb7j",
+    "assetUid": "01kjr7za4bgn7gmzxhsz6rstvy",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"connector\",\"oldValue\":\"\",\"newValue\":\"VPCON2-ser, VPCON...\"}",
+    "timestamp": "2024-12-06T09:00:57.000"
+  },
+  {
+    "uid": "01kjr7zawg6rnf40qb8vbbx997",
+    "assetUid": "01kjr7za4bgn7gmzxhsz6rstvy",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Registered\",\"oldValue\":\"\",\"newValue\":\"scelimxa16001\"}",
+    "timestamp": "2024-12-05T16:36:19.000"
+  },
+  {
+    "uid": "01kjr7zax12wfn91jb0nsged9c",
+    "assetUid": "01kjr7za4bgn7gmzxhsz6rstvy",
+    "type": "26",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"26\"}",
+    "timestamp": "2024-12-04T16:59:08.000"
+  },
+  {
+    "uid": "01kjr7zaxakfhepbgprhsvqcyk",
+    "assetUid": "01kjr7za4bgn7gmzxhsz6rstvy",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Serial converter ...\",\"newValue\":\"Serial converter ...\"}",
+    "timestamp": "2024-12-04T16:59:08.000"
+  },
+  {
+    "uid": "01kjr7zay3jpncjyxe22gva9ap",
+    "assetUid": "01kjr7za4bgn7gmzxhsz6rstvy",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-12-04T16:57:35.000"
+  }
+]

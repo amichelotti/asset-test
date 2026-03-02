@@ -1,0 +1,82 @@
+[
+  {
+    "uid": "01kjr6yk52jx87wvh9n1hjc4kg",
+    "assetUid": "01kjr6yjrrksgabm70fxm745r2",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"LNF.D1.DE56.GF.BAL1\"}",
+    "timestamp": "2025-11-20T11:38:38.000"
+  },
+  {
+    "uid": "01kjr6yk579xfh698n3gn0vd7j",
+    "assetUid": "01kjr6yjrrksgabm70fxm745r2",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"Hi Scroll 6\"}",
+    "timestamp": "2025-11-20T11:38:38.000"
+  },
+  {
+    "uid": "01kjr6yk58v72mx6rx99jcgt9b",
+    "assetUid": "01kjr6yjrrksgabm70fxm745r2",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"HW Model\",\"oldValue\":\"\",\"newValue\":\"Hi Scroll 6\"}",
+    "timestamp": "2025-11-20T11:38:38.000"
+  },
+  {
+    "uid": "01kjr6yk58e4vsz641s8jpvxtp",
+    "assetUid": "01kjr6yjrrksgabm70fxm745r2",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Facility\",\"oldValue\":\"\",\"newValue\":\"FLAME\"}",
+    "timestamp": "2025-11-20T11:38:38.000"
+  },
+  {
+    "uid": "01kjr6yk59wpz7r3kkawkgbsxv",
+    "assetUid": "01kjr6yjrrksgabm70fxm745r2",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Locations\",\"oldValue\":\"\",\"newValue\":\"LNF.D1.DE56.GF.BAL1\"}",
+    "timestamp": "2025-11-20T11:38:38.000"
+  },
+  {
+    "uid": "01kjr6yk59hagfwyymzw73w24d",
+    "assetUid": "01kjr6yjrrksgabm70fxm745r2",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Owner\",\"oldValue\":\"\",\"newValue\":\"SERVIZIO VUOTO\"}",
+    "timestamp": "2025-11-20T11:38:38.000"
+  },
+  {
+    "uid": "01kjr6yk5b14cza8vbypw8kc3v",
+    "assetUid": "01kjr6yjrrksgabm70fxm745r2",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2025-11-20T11:38:38.000"
+  },
+  {
+    "uid": "01kjr6yk5cc147vrth38p87prj",
+    "assetUid": "01kjr6yjrrksgabm70fxm745r2",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"S/N\",\"oldValue\":\"\",\"newValue\":\"22153622\"}",
+    "timestamp": "2025-11-20T11:38:38.000"
+  },
+  {
+    "uid": "01kjr6yk5cdkmvtrjm4nkt7qh0",
+    "assetUid": "01kjr6yjrrksgabm70fxm745r2",
+    "type": "2",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"PIPPO\",\"newValue\":\"FP31-V-PMP-PMY-001\"}",
+    "timestamp": "2025-11-20T11:38:38.000"
+  },
+  {
+    "uid": "01kjr6yk5d1xtynmfm0v0kwsdj",
+    "assetUid": "01kjr6yjrrksgabm70fxm745r2",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-11-20T11:29:08.000"
+  }
+]

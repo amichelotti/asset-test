@@ -1,0 +1,18 @@
+[
+  {
+    "uid": "01kjr84knap2ac2m94m7s9pbqp",
+    "assetUid": "01kjr84k0xb6zam2wj6tb2355b",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Previous Element\",\"oldValue\":\"\",\"newValue\":\"LEL-AC-FILTER01\"}",
+    "timestamp": "2023-12-01T00:50:14.000"
+  },
+  {
+    "uid": "01kjr84knxxczrnfbcwv6xysr5",
+    "assetUid": "01kjr84k0xb6zam2wj6tb2355b",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-12-01T00:48:45.000"
+  }
+]

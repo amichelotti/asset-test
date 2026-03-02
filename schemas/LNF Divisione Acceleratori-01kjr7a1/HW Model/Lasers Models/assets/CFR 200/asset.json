@@ -1,0 +1,23 @@
+{
+  "uid": "01kjr7f0jrtgb9p5yjkrsy5nxw",
+  "key": "LNFMAC-147424",
+  "name": "CFR 200 ",
+  "type": "Lasers Models",
+  "schemaUid": "01kjr7aag1p0zxakb0t9j1abwq",
+  "attributes": {
+    "key": "LNFMAC-147424",
+    "name": "CFR 200 ",
+    "created": "2026-02-16T13:46:46.000Z",
+    "updated": "2026-02-16T13:46:46.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

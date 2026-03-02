@@ -1,0 +1,18 @@
+[
+  {
+    "uid": "01kjr7j3rda4w4m9nm0yhgxh6b",
+    "assetUid": "01kjr7j32ppw8j2qap37v7v6rm",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"BTF/Dafne\"}",
+    "timestamp": "2025-09-02T13:44:58.000"
+  },
+  {
+    "uid": "01kjr7j3rwymy4wb0sr4t4hewj",
+    "assetUid": "01kjr7j32ppw8j2qap37v7v6rm",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-09-02T13:44:44.000"
+  }
+]

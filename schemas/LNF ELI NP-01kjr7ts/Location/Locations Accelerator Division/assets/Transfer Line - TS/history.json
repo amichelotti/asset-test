@@ -1,0 +1,58 @@
+[
+  {
+    "uid": "01kjr7sa4dbhnjvzwgk6ch5me5",
+    "assetUid": "01kjr7s9dsq5eknq3fyv1c8ns4",
+    "type": "29",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"29\"}",
+    "timestamp": "2025-10-28T15:52:12.000"
+  },
+  {
+    "uid": "01kjr7sa4qdys58868hasjqzcr",
+    "assetUid": "01kjr7s9dsq5eknq3fyv1c8ns4",
+    "type": "28",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"28\"}",
+    "timestamp": "2025-10-28T15:49:10.000"
+  },
+  {
+    "uid": "01kjr7sa55s1e7bvnjfc4e2dzp",
+    "assetUid": "01kjr7s9dsq5eknq3fyv1c8ns4",
+    "type": "24",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"24\",\"oldValue\":\"Location\",\"newValue\":\"FLAME Ed 56\"}",
+    "timestamp": "2025-10-28T15:47:33.000"
+  },
+  {
+    "uid": "01kjr7sa5pefcmefvg84v7cmhg",
+    "assetUid": "01kjr7s9dsq5eknq3fyv1c8ns4",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Matching line bet...\",\"newValue\":\"Spectrometer line\"}",
+    "timestamp": "2023-09-30T17:37:49.000"
+  },
+  {
+    "uid": "01kjr7sa61rt1azen6y00kbpe0",
+    "assetUid": "01kjr7s9dsq5eknq3fyv1c8ns4",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Matching line bet...\",\"newValue\":\"Matching line bet...\"}",
+    "timestamp": "2023-09-30T17:34:04.000"
+  },
+  {
+    "uid": "01kjr7sa6kkvkdcygj48ds8h5a",
+    "assetUid": "01kjr7s9dsq5eknq3fyv1c8ns4",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"CLONE - Transfer ...\",\"newValue\":\"Transfer Line - TS\"}",
+    "timestamp": "2023-09-30T17:34:04.000"
+  },
+  {
+    "uid": "01kjr7sa6zcgg216h02zvg4v00",
+    "assetUid": "01kjr7s9dsq5eknq3fyv1c8ns4",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-09-30T17:33:16.000"
+  }
+]

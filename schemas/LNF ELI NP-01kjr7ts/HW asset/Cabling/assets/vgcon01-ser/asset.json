@@ -1,0 +1,29 @@
+{
+  "uid": "01kjr8gvtepkt66xmqwj7p02vk",
+  "key": "LNFELINP-131843",
+  "name": "vgcon01-ser",
+  "type": "Cabling",
+  "schemaUid": "01kjr6y2yhe6sjdvs376nmhzdm",
+  "attributes": {
+    "key": "LNFELINP-131843",
+    "name": "vgcon01-ser",
+    "created": "2025-02-01T11:20:56.000Z",
+    "updated": "2025-02-01T11:22:46.000Z",
+    "status": "Active",
+    "location": "01kjr81xjcq9pnk4x80q85mp57",
+    "connector1_pair": "01kjr7za4bgn7gmzxhsz6rstvy",
+    "connector2_pair": "01kjr89v1zrrz8rysmx7rfvjpj",
+    "connector1_desc": "<div class=\"created-with-ak-editor content-wrapper\"><p>port1</p></div>",
+    "type": "Copper"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

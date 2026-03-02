@@ -1,0 +1,26 @@
+[
+  {
+    "uid": "01kjr7k93b8xgjy2wh0rda4196",
+    "assetUid": "01kjr7k8ezrzcfyzfmmrk3aqmv",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"GIT repo\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
+    "timestamp": "2025-09-02T14:10:28.000"
+  },
+  {
+    "uid": "01kjr7k943pt7wncf2835acp3j",
+    "assetUid": "01kjr7k8ezrzcfyzfmmrk3aqmv",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"Embedded IOC\"}",
+    "timestamp": "2025-09-02T14:09:15.000"
+  },
+  {
+    "uid": "01kjr7k94zbcxkbykrym75k429",
+    "assetUid": "01kjr7k8ezrzcfyzfmmrk3aqmv",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-06-13T06:27:40.000"
+  }
+]

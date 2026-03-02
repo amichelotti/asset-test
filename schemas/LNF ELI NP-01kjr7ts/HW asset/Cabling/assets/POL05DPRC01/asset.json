@@ -1,0 +1,27 @@
+{
+  "uid": "01kjr8g483dvnr641br5t4t9gb",
+  "key": "LNFELINP-128477",
+  "name": "POL05DPRC01",
+  "type": "Cabling",
+  "schemaUid": "01kjr6y2yhe6sjdvs376nmhzdm",
+  "attributes": {
+    "key": "LNFELINP-128477",
+    "name": "POL05DPRC01",
+    "created": "2024-11-08T16:01:49.000Z",
+    "updated": "2024-11-08T16:01:49.000Z",
+    "connector1_pair": "01kjr87m770jv6rq3bedqm8ny5",
+    "connector2_pair": "01kjr87j29366zy8y2bh4r4br6",
+    "connector1_desc": "<p>porta 5</p>",
+    "connector2_desc": "<p>porta 1 Dipolo</p>"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

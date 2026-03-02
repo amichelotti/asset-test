@@ -1,0 +1,58 @@
+[
+  {
+    "uid": "01kjr8fyrr189ykzx00kkt8t82",
+    "assetUid": "01kjr8fy56m13ddefzm1na8bwx",
+    "type": "2",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"2\",\"attribute\":\"Status\",\"oldValue\":\"Action Needed\",\"newValue\":\"Active\"}",
+    "timestamp": "2025-06-13T14:52:09.000"
+  },
+  {
+    "uid": "01kjr8fys31qdnv5q9vemg9mfc",
+    "assetUid": "01kjr8fy56m13ddefzm1na8bwx",
+    "type": "1",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"1\",\"attribute\":\"Type\",\"oldValue\":\"\",\"newValue\":\"RS232\"}",
+    "timestamp": "2025-06-13T14:49:42.000"
+  },
+  {
+    "uid": "01kjr8fysb5es8tfnkmes8w4xh",
+    "assetUid": "01kjr8fy56m13ddefzm1na8bwx",
+    "type": "4",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"4\",\"attribute\":\"Connector2 Pair\",\"oldValue\":\"\",\"newValue\":\"motionbox06-scn06\"}",
+    "timestamp": "2025-06-13T14:49:42.000"
+  },
+  {
+    "uid": "01kjr8fysh2n2fxcsdx3k89fv7",
+    "assetUid": "01kjr8fy56m13ddefzm1na8bwx",
+    "type": "4",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"4\",\"attribute\":\"Connector1 Pair\",\"oldValue\":\"\",\"newValue\":\"motionbox05-scn05\"}",
+    "timestamp": "2025-06-13T14:49:42.000"
+  },
+  {
+    "uid": "01kjr8fysxf7703gbzxrznezkn",
+    "assetUid": "01kjr8fy56m13ddefzm1na8bwx",
+    "type": "1",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Action Needed\"}",
+    "timestamp": "2025-06-13T14:49:42.000"
+  },
+  {
+    "uid": "01kjr8fyt49s1y4kcw7qp7081c",
+    "assetUid": "01kjr8fy56m13ddefzm1na8bwx",
+    "type": "2",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"MOTCON5\",\"newValue\":\"MOTCON5-ser\"}",
+    "timestamp": "2025-06-13T14:49:42.000"
+  },
+  {
+    "uid": "01kjr8fytb1pspj0w6147fmtxy",
+    "assetUid": "01kjr8fy56m13ddefzm1na8bwx",
+    "type": "0",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-06-13T14:48:31.000"
+  }
+]

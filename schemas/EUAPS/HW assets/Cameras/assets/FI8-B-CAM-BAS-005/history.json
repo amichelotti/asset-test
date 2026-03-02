@@ -1,0 +1,42 @@
+[
+  {
+    "uid": "01kjr799ffhe8g106vg3nr0ryz",
+    "assetUid": "01kjr798ycjme0z800neab6a1w",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Owner\",\"oldValue\":\"\",\"newValue\":\"Servizio Laser\"}",
+    "timestamp": "2026-02-03T17:45:05.000"
+  },
+  {
+    "uid": "01kjr799fvsj0x3gz72k7jm62w",
+    "assetUid": "01kjr798ycjme0z800neab6a1w",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2026-02-03T17:45:05.000"
+  },
+  {
+    "uid": "01kjr799g45e2ze0b0v9k4yffg",
+    "assetUid": "01kjr798ycjme0z800neab6a1w",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"Telecamera del fuoco\"}",
+    "timestamp": "2026-02-03T17:45:05.000"
+  },
+  {
+    "uid": "01kjr799gay47nh8rwamhn09gv",
+    "assetUid": "01kjr798ycjme0z800neab6a1w",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"S/N\",\"oldValue\":\"\",\"newValue\":\"40436383\"}",
+    "timestamp": "2026-02-03T17:45:05.000"
+  },
+  {
+    "uid": "01kjr799gmy0gx3gdme1dpmdsy",
+    "assetUid": "01kjr798ycjme0z800neab6a1w",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2026-01-08T18:45:39.000"
+  }
+]

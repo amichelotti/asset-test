@@ -1,0 +1,18 @@
+[
+  {
+    "uid": "01kjr831tnd42kxp89ebg3xjce",
+    "assetUid": "01kjr82m5zktm8xz9rp59f4rje",
+    "type": "7",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"7\",\"newValue\":\"w472_cj2_cpu_unit...\"}",
+    "timestamp": "2025-11-14T11:51:01.000"
+  },
+  {
+    "uid": "01kjr831vdqnae22v3snk1qs3c",
+    "assetUid": "01kjr82m5zktm8xz9rp59f4rje",
+    "type": "0",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-11-14T11:51:00.000"
+  }
+]

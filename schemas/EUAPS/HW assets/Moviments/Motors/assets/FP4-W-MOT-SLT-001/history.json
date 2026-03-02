@@ -1,0 +1,26 @@
+[
+  {
+    "uid": "01kjr70zvevehnw2c3pjmrxzqc",
+    "assetUid": "01kjr70z92qhw5jwwaarc1qp3r",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"HW Model\",\"oldValue\":\"\",\"newValue\":\"611 V7\"}",
+    "timestamp": "2026-01-27T11:08:09.000"
+  },
+  {
+    "uid": "01kjr70zvqgfd4nbmfff1akv1j",
+    "assetUid": "01kjr70z92qhw5jwwaarc1qp3r",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2026-01-27T11:08:09.000"
+  },
+  {
+    "uid": "01kjr70zw0wxcdt2f5a04sgtxs",
+    "assetUid": "01kjr70z92qhw5jwwaarc1qp3r",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2026-01-27T11:06:51.000"
+  }
+]

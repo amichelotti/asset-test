@@ -1,0 +1,24 @@
+{
+  "uid": "01kjr7ckmt67srv4jfn0ta9v1h",
+  "key": "LNFMAC-109351",
+  "name": "PANSYSTEM SRL",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-109351",
+    "name": "PANSYSTEM SRL",
+    "created": "2023-10-10T12:39:18.000Z",
+    "updated": "2023-10-10T12:39:18.000Z",
+    "contact": "PANSYSTEM SRL"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

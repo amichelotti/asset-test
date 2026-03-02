@@ -1,0 +1,42 @@
+[
+  {
+    "uid": "01kjr86f5rd45aw5w1gh6vvv4c",
+    "assetUid": "01kjr86eqeytt45w8bmvbemxcz",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Layout\",\"oldValue\":\"\",\"newValue\":\"M1-011\"}",
+    "timestamp": "2023-12-01T14:23:10.000"
+  },
+  {
+    "uid": "01kjr86f6d1vwcrd9v7f7tzp9n",
+    "assetUid": "01kjr86eqeytt45w8bmvbemxcz",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Module\",\"oldValue\":\"\",\"newValue\":\"M1\"}",
+    "timestamp": "2023-12-01T00:55:54.000"
+  },
+  {
+    "uid": "01kjr86f6nc7125jn06885tn14",
+    "assetUid": "01kjr86eqeytt45w8bmvbemxcz",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Next Element\",\"oldValue\":\"\",\"newValue\":\"LEL-MAG-HCOR01\"}",
+    "timestamp": "2023-12-01T00:49:20.000"
+  },
+  {
+    "uid": "01kjr86f6x3nrggct18v9qddp9",
+    "assetUid": "01kjr86eqeytt45w8bmvbemxcz",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Previous Element\",\"oldValue\":\"\",\"newValue\":\"LEL-VAC-VALVP01\"}",
+    "timestamp": "2023-12-01T00:49:20.000"
+  },
+  {
+    "uid": "01kjr86f7074nxsn3hzhe4yzz2",
+    "assetUid": "01kjr86eqeytt45w8bmvbemxcz",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-12-01T00:37:07.000"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "uid": "01kjr7gpe28ve2g21k4rmhpst6",
+    "assetUid": "01kjr7gnkm19g4vwhjv8xmmvz6",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"GIT repo\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
+    "timestamp": "2025-09-02T15:20:05.000"
+  },
+  {
+    "uid": "01kjr7gpey7b7ns96wfnzew257",
+    "assetUid": "01kjr7gnkm19g4vwhjv8xmmvz6",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"The ET-7226 is a ...\",\"newValue\":\"The ET-7226 is a ...\"}",
+    "timestamp": "2025-09-02T15:20:05.000"
+  },
+  {
+    "uid": "01kjr7gpf70x8srd7xvmd8sgma",
+    "assetUid": "01kjr7gnkm19g4vwhjv8xmmvz6",
+    "type": "25",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2024-07-24T14:26:47.000"
+  },
+  {
+    "uid": "01kjr7gpfmj4mv8mc68xqk0gn1",
+    "assetUid": "01kjr7gnkm19g4vwhjv8xmmvz6",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"The ET-7226 is a ...\"}",
+    "timestamp": "2024-07-24T14:26:47.000"
+  },
+  {
+    "uid": "01kjr7gpfyqekstb26t6691t7z",
+    "assetUid": "01kjr7gnkm19g4vwhjv8xmmvz6",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Producer\",\"oldValue\":\"\",\"newValue\":\"ICPDAS\"}",
+    "timestamp": "2024-07-24T14:26:47.000"
+  },
+  {
+    "uid": "01kjr7gpgdejn26bdgzv8q2b9s",
+    "assetUid": "01kjr7gnkm19g4vwhjv8xmmvz6",
+    "type": "24",
+    "author": "Unknown",
+    "details": "{\"type\":\"24\",\"oldValue\":\"icpdas sparc\",\"newValue\":\"ADC Models\"}",
+    "timestamp": "2023-06-09T16:34:48.000"
+  },
+  {
+    "uid": "01kjr7gpgpadee0mcf98047jav",
+    "assetUid": "01kjr7gnkm19g4vwhjv8xmmvz6",
+    "type": "0",
+    "author": "Unknown",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-06-07T11:13:32.000"
+  }
+]

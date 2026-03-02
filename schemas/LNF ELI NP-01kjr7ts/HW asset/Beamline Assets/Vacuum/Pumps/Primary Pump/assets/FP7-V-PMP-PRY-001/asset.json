@@ -1,0 +1,27 @@
+{
+  "uid": "01kjr6ynmy4103t7r4mc0ch3b7",
+  "key": "LNFT2-144261",
+  "name": "FP7-V-PMP-PRY-001",
+  "type": "Primary Pump",
+  "schemaUid": "01kjr6y2hh54apehfbzfn2mxpc",
+  "attributes": {
+    "key": "LNFT2-144261",
+    "name": "FP7-V-PMP-PRY-001",
+    "created": "2025-11-20T12:57:04.000Z",
+    "updated": "2026-02-11T11:30:36.000Z",
+    "owner": "LNFMAC-143538",
+    "locations": "01kjr7qkaq2aw1r1w7jx9cz13m",
+    "facility": "01kjr7svmreks51z8mp1tfeex6",
+    "hw_model": "01kjr7j9x49rcweds14gzpvzdc"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "uid": "01kjr79vxsc87k4wq8efp3pzds",
+  "key": "LNFT2-147903",
+  "name": "FPRCK1-C-PC-PWM-001",
+  "type": "Computer",
+  "schemaUid": "01kjr6y5crd0asqhfpc0s8e4e5",
+  "attributes": {
+    "key": "LNFT2-147903",
+    "name": "FPRCK1-C-PC-PWM-001",
+    "created": "2026-03-02T14:14:50.000Z",
+    "updated": "2026-03-02T14:25:02.000Z",
+    "status": "Active",
+    "owner": "LNFMAC-12817",
+    "locations": "01kjr7qp5gsdyy6bfr9t66a5xk",
+    "facility": "01kjr7svmreks51z8mp1tfeex6",
+    "hw_model": "01kjr7kmycw2q3m69xrzj6pyxq",
+    "hw_connection": "01kjr73hgqc4r7x6qskwstnvz3"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

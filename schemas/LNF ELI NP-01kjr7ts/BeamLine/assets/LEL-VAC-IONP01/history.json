@@ -1,0 +1,42 @@
+[
+  {
+    "uid": "01kjr86ds140ft41604je29j28",
+    "assetUid": "01kjr86d9n739vpq38dfaqbcej",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Layout\",\"oldValue\":\"\",\"newValue\":\"M1-003\"}",
+    "timestamp": "2023-12-01T14:23:03.000"
+  },
+  {
+    "uid": "01kjr86dseqwjgadedhaswn61x",
+    "assetUid": "01kjr86d9n739vpq38dfaqbcej",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Module\",\"oldValue\":\"\",\"newValue\":\"M1\"}",
+    "timestamp": "2023-12-01T00:55:50.000"
+  },
+  {
+    "uid": "01kjr86dsnj4m9xa06ayrsbjhd",
+    "assetUid": "01kjr86d9n739vpq38dfaqbcej",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Next Element\",\"oldValue\":\"\",\"newValue\":\"LEL-VAC-IONP02\"}",
+    "timestamp": "2023-12-01T00:49:15.000"
+  },
+  {
+    "uid": "01kjr86dstpa7qt34pvygqznfq",
+    "assetUid": "01kjr86d9n739vpq38dfaqbcej",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Previous Element\",\"oldValue\":\"\",\"newValue\":\"LEL-MAG-SOL01:COIL02\"}",
+    "timestamp": "2023-12-01T00:49:15.000"
+  },
+  {
+    "uid": "01kjr86dt0g6wahsx2dk4vhhhx",
+    "assetUid": "01kjr86d9n739vpq38dfaqbcej",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-12-01T00:37:02.000"
+  }
+]

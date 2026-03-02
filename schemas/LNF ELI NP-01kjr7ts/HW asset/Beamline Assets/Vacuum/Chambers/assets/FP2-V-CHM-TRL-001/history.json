@@ -1,0 +1,58 @@
+[
+  {
+    "uid": "01kjr75v289m4n9pgww9aayxpf",
+    "assetUid": "01kjr75tdk65fjtn5s1jrghwgh",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Objects\",\"oldValue\":\"\",\"newValue\":\"FP2-W-MOT-HMN-001...\"}",
+    "timestamp": "2026-02-16T14:54:12.000"
+  },
+  {
+    "uid": "01kjr75v2qhprke4n32enqy9s2",
+    "assetUid": "01kjr75tdk65fjtn5s1jrghwgh",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Facility\",\"oldValue\":\"\",\"newValue\":\"FLAME\"}",
+    "timestamp": "2026-02-16T14:54:12.000"
+  },
+  {
+    "uid": "01kjr75v31yfedsn38w2eys8hk",
+    "assetUid": "01kjr75tdk65fjtn5s1jrghwgh",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Locations\",\"oldValue\":\"\",\"newValue\":\"LNF.D1.DE56.GF.BAL1\"}",
+    "timestamp": "2026-02-16T14:54:12.000"
+  },
+  {
+    "uid": "01kjr75v3ertgc9qyd1dcza9w2",
+    "assetUid": "01kjr75tdk65fjtn5s1jrghwgh",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Owner\",\"oldValue\":\"\",\"newValue\":\"SERVIZIO VUOTO\"}",
+    "timestamp": "2026-02-16T14:54:12.000"
+  },
+  {
+    "uid": "01kjr75v3peq5gctaxa45ew9y5",
+    "assetUid": "01kjr75tdk65fjtn5s1jrghwgh",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2026-02-16T14:54:12.000"
+  },
+  {
+    "uid": "01kjr75v40d3kj6dx6e1x319zg",
+    "assetUid": "01kjr75tdk65fjtn5s1jrghwgh",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"Camera del perisc...\"}",
+    "timestamp": "2026-02-16T14:54:12.000"
+  },
+  {
+    "uid": "01kjr75v48zgeexmqgx99a3xvw",
+    "assetUid": "01kjr75tdk65fjtn5s1jrghwgh",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2026-02-16T14:50:32.000"
+  }
+]

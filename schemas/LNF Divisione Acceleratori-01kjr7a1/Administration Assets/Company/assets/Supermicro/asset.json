@@ -1,0 +1,23 @@
+{
+  "uid": "01kjr7dpt6cx69g99gvnj5jf4r",
+  "key": "LNFMAC-126909",
+  "name": "Supermicro",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-126909",
+    "name": "Supermicro",
+    "created": "2024-09-18T11:57:23.000Z",
+    "updated": "2024-09-18T11:57:23.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

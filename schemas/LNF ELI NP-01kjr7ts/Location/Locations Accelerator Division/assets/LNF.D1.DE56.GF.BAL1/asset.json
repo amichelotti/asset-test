@@ -1,0 +1,26 @@
+{
+  "uid": "01kjr7qfsj4fc66ywr7nk8sfk0",
+  "key": "LNFMAC-99548",
+  "name": "LNF.D1.DE56.GF.BAL1",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjr7a2wk5hebv4y86e0aasgr",
+  "attributes": {
+    "key": "LNFMAC-99548",
+    "name": "LNF.D1.DE56.GF.BAL1",
+    "created": "2023-05-16T15:04:18.000Z",
+    "updated": "2026-01-08T17:19:24.000Z",
+    "building": "56",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>FLAME PARADISO</p></div>",
+    "alias": "FLAME PARADISO"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

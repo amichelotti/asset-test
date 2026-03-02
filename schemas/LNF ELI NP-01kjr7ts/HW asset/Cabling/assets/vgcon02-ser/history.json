@@ -1,0 +1,58 @@
+[
+  {
+    "uid": "01kjr8gxb189q5jn7se99wbztc",
+    "assetUid": "01kjr8gwqe7vvfdwm204nj255x",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Type\",\"oldValue\":\"\",\"newValue\":\"Copper\"}",
+    "timestamp": "2025-02-01T12:24:42.000"
+  },
+  {
+    "uid": "01kjr8gxbddyh91vrz2khd37x8",
+    "assetUid": "01kjr8gwqe7vvfdwm204nj255x",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Connector1 Desc\",\"oldValue\":\"\",\"newValue\":\"port 3\"}",
+    "timestamp": "2025-02-01T12:24:42.000"
+  },
+  {
+    "uid": "01kjr8gxbpq3cvk8e0n74y4pjm",
+    "assetUid": "01kjr8gwqe7vvfdwm204nj255x",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Connector2 Pair\",\"oldValue\":\"\",\"newValue\":\"LEL-VAC-VGCON02\"}",
+    "timestamp": "2025-02-01T12:24:42.000"
+  },
+  {
+    "uid": "01kjr8gxcd5h6fapqes7nw0aqk",
+    "assetUid": "01kjr8gwqe7vvfdwm204nj255x",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Connector1 Pair\",\"oldValue\":\"\",\"newValue\":\"scelimxa16001\"}",
+    "timestamp": "2025-02-01T12:24:42.000"
+  },
+  {
+    "uid": "01kjr8gxd1bgamp6w20vawafrq",
+    "assetUid": "01kjr8gwqe7vvfdwm204nj255x",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"AB1\"}",
+    "timestamp": "2025-02-01T12:24:42.000"
+  },
+  {
+    "uid": "01kjr8gxdhtnnc88zafs1nz0p7",
+    "assetUid": "01kjr8gwqe7vvfdwm204nj255x",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2025-02-01T12:24:42.000"
+  },
+  {
+    "uid": "01kjr8gxebwkyfcq0j8nx2jz3f",
+    "assetUid": "01kjr8gwqe7vvfdwm204nj255x",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-02-01T12:20:57.000"
+  }
+]

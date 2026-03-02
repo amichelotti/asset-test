@@ -1,0 +1,23 @@
+{
+  "uid": "01kjr7ctv90m5jt5prqhccr73b",
+  "key": "LNFMAC-104895",
+  "name": "pulseresearchlab",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-104895",
+    "name": "pulseresearchlab",
+    "created": "2023-09-26T12:38:38.000Z",
+    "updated": "2023-09-26T12:38:38.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

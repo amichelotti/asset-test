@@ -1,0 +1,18 @@
+[
+  {
+    "uid": "01kjr7stmqcs6n9vmyqk06hw6k",
+    "assetUid": "01kjr7st4dyad67rx9rvajqtab",
+    "type": "5",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"5\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"Sparc\"}",
+    "timestamp": "2025-10-28T12:09:05.000"
+  },
+  {
+    "uid": "01kjr7stn8xets0f4wcr8evkd4",
+    "assetUid": "01kjr7st4dyad67rx9rvajqtab",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-09-02T16:31:55.000"
+  }
+]

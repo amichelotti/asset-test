@@ -1,0 +1,50 @@
+[
+  {
+    "uid": "01kjr7z9nmg42n765bf56ffnhr",
+    "assetUid": "01kjr7z8dfrhqc8ppwcn72nxfb",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Registered\",\"oldValue\":\"\",\"newValue\":\"scelimxa1004\"}",
+    "timestamp": "2025-02-25T11:58:50.000"
+  },
+  {
+    "uid": "01kjr7z9pw36pbpgztd9b7jse1",
+    "assetUid": "01kjr7z8dfrhqc8ppwcn72nxfb",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"scelinport5110A002\",\"newValue\":\"scelimxa1004\"}",
+    "timestamp": "2025-02-25T11:58:50.000"
+  },
+  {
+    "uid": "01kjr7z9q871arwtgr2vc2zpjd",
+    "assetUid": "01kjr7z8dfrhqc8ppwcn72nxfb",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Model\",\"oldValue\":\"NPort 5410\",\"newValue\":\"NPort 5250A\"}",
+    "timestamp": "2025-02-21T11:41:16.000"
+  },
+  {
+    "uid": "01kjr7z9r0tv021g5nwyqenrvb",
+    "assetUid": "01kjr7z8dfrhqc8ppwcn72nxfb",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"NPort 5410\"}",
+    "timestamp": "2025-02-20T10:37:40.000"
+  },
+  {
+    "uid": "01kjr7z9rhbzke8mj84esxgc03",
+    "assetUid": "01kjr7z8dfrhqc8ppwcn72nxfb",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Location\",\"oldValue\":\"Selced\",\"newValue\":\"Pella\"}",
+    "timestamp": "2025-02-18T16:49:31.000"
+  },
+  {
+    "uid": "01kjr7z9s931xhthd345ydjx5r",
+    "assetUid": "01kjr7z8dfrhqc8ppwcn72nxfb",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-02-18T16:45:57.000"
+  }
+]

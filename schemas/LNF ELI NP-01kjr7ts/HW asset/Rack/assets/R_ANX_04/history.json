@@ -1,0 +1,58 @@
+[
+  {
+    "uid": "01kjr8agq3akrt79fxkg4f5hrg",
+    "assetUid": "01kjr8ag2ez26yfa30sy25zgds",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"R_ANX_041\",\"newValue\":\"R_ANX_04\"}",
+    "timestamp": "2025-06-13T14:52:09.000"
+  },
+  {
+    "uid": "01kjr8agqhwjynth2419fdwqbd",
+    "assetUid": "01kjr8ag2ez26yfa30sy25zgds",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"R_ANX_04\",\"newValue\":\"R_ANX_041\"}",
+    "timestamp": "2025-06-13T14:51:59.000"
+  },
+  {
+    "uid": "01kjr8agqq6dkcq9jrhyxdz4n4",
+    "assetUid": "01kjr8ag2ez26yfa30sy25zgds",
+    "type": "25",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2025-02-27T09:18:33.000"
+  },
+  {
+    "uid": "01kjr8agr0c77ez8nzbd2hkxjc",
+    "assetUid": "01kjr8ag2ez26yfa30sy25zgds",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Alias\",\"oldValue\":\"\",\"newValue\":\"SYNCHRO\"}",
+    "timestamp": "2025-02-27T09:18:33.000"
+  },
+  {
+    "uid": "01kjr8agrahbppeyydm3fanb4z",
+    "assetUid": "01kjr8ag2ez26yfa30sy25zgds",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"R_ANX_11\",\"newValue\":\"R_ANX_04\"}",
+    "timestamp": "2025-02-27T09:18:33.000"
+  },
+  {
+    "uid": "01kjr8agrdeadzf3cyc5vwm882",
+    "assetUid": "01kjr8ag2ez26yfa30sy25zgds",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"R_COR_11\",\"newValue\":\"R_ANX_11\"}",
+    "timestamp": "2025-02-27T09:18:02.000"
+  },
+  {
+    "uid": "01kjr8agrwasxb47hqh5mdsq1s",
+    "assetUid": "01kjr8ag2ez26yfa30sy25zgds",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-12-05T12:56:15.000"
+  }
+]

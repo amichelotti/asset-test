@@ -1,0 +1,25 @@
+{
+  "uid": "01kjr83n98bjb439ad6xrf21yx",
+  "key": "LNFELINP-133713",
+  "name": "EVR06",
+  "type": "Timing",
+  "schemaUid": "01kjr7v3msyn6rr64rnj8k68fh",
+  "attributes": {
+    "key": "LNFELINP-133713",
+    "name": "EVR06",
+    "created": "2025-02-26T12:33:39.000Z",
+    "updated": "2025-02-26T12:49:21.000Z",
+    "status": "Active",
+    "alias": "EVR_CAM"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

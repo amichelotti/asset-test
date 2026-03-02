@@ -1,0 +1,26 @@
+{
+  "uid": "01kjr85yg2wae3s2z4rrpcrg9g",
+  "key": "LNFELINP-112314",
+  "name": "LEL-RF-GCAV",
+  "type": "BeamLine",
+  "schemaUid": "01kjr7v4j2cf714dfa2vz1fgzp",
+  "attributes": {
+    "key": "LNFELINP-112314",
+    "name": "LEL-RF-GCAV",
+    "created": "2023-11-30T23:37:00.000Z",
+    "updated": "2023-12-01T13:23:00.000Z",
+    "module": "M1",
+    "layout": "LNFELINP-112426",
+    "element": "01kjr7zj0nfhxtdqk5w6x74kef"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

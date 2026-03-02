@@ -1,0 +1,29 @@
+{
+  "uid": "01kjr7kxacjgv5b5pkes6bfc68",
+  "key": "LNFMAC-119844",
+  "name": "NUC11TNHi5",
+  "type": "Host Models",
+  "schemaUid": "01kjr7a2mbmhhapd47p6608akk",
+  "attributes": {
+    "key": "LNFMAC-119844",
+    "name": "NUC11TNHi5",
+    "created": "2024-04-22T12:37:25.000Z",
+    "updated": "2024-04-22T13:19:14.000Z",
+    "producer": "01kjr7c42863yrfrq9rf9jg1km",
+    "cpu": "4",
+    "cpu_type": "11th Gen Intel(R) Core(TM) i5-1135G7",
+    "memory": "16",
+    "disk": "512",
+    "frequency": "2.4"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

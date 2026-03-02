@@ -1,0 +1,23 @@
+{
+  "uid": "01kjr7bxm5xs0b0d3dbmaqdz8a",
+  "key": "LNFMAC-137299",
+  "name": "I.T.M Informatica Telematica Meriodionale",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-137299",
+    "name": "I.T.M Informatica Telematica Meriodionale",
+    "created": "2025-05-07T16:46:55.000Z",
+    "updated": "2025-05-07T16:46:55.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

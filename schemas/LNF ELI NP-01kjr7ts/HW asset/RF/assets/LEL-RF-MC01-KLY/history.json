@@ -1,0 +1,18 @@
+[
+  {
+    "uid": "01kjr7zkr2h2zxga2k0g1rkn0s",
+    "assetUid": "01kjr7zjtreh68cg1h0bkq0p77",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"ROOF\"}",
+    "timestamp": "2023-11-30T13:33:03.000"
+  },
+  {
+    "uid": "01kjr7zkrn2v2q4f5s57a0znfq",
+    "assetUid": "01kjr7zjtreh68cg1h0bkq0p77",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-11-30T10:10:23.000"
+  }
+]

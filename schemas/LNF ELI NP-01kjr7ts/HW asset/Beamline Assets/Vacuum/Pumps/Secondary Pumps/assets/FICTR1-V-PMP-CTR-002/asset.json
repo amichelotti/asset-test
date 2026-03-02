@@ -1,0 +1,29 @@
+{
+  "uid": "01kjr6yf9jg4kwpqkcdp1b3k2b",
+  "key": "LNFT2-147226",
+  "name": "FICTR1-V-PMP-CTR-002",
+  "type": "Secondary Pumps",
+  "schemaUid": "01kjr6y37dvdrzpq6s7kznrx0p",
+  "attributes": {
+    "key": "LNFT2-147226",
+    "name": "FICTR1-V-PMP-CTR-002",
+    "created": "2026-02-11T12:14:10.000Z",
+    "updated": "2026-02-11T15:22:36.000Z",
+    "status": "Active",
+    "owner": "LNFMAC-143538",
+    "locations": "01kjr7qe4212183j0ceepct95g",
+    "facility": "01kjr7svmreks51z8mp1tfeex6",
+    "hw_model": "01kjr7n9xs3yxgcs0f3d2g7psw",
+    "rack": "LNFMAC-147210"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

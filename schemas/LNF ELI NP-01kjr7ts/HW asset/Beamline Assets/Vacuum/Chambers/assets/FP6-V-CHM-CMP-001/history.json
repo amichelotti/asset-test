@@ -1,0 +1,18 @@
+[
+  {
+    "uid": "01kjr75xtt9f9cgf7x95cgz9pz",
+    "assetUid": "01kjr75x5ndb3w6ea8dgwsymam",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"Compressore Ampli...\"}",
+    "timestamp": "2026-02-16T14:59:54.000"
+  },
+  {
+    "uid": "01kjr75xvdrqrensgtkcb11hja",
+    "assetUid": "01kjr75x5ndb3w6ea8dgwsymam",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2026-02-16T14:51:23.000"
+  }
+]

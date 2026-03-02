@@ -1,0 +1,29 @@
+{
+  "uid": "01kjr8gsf9tk0j85kqhhb0evqk",
+  "key": "LNFELINP-112026",
+  "name": "VCOR06-CAB039",
+  "type": "Cabling",
+  "schemaUid": "01kjr6y2yhe6sjdvs376nmhzdm",
+  "attributes": {
+    "key": "LNFELINP-112026",
+    "name": "VCOR06-CAB039",
+    "created": "2023-11-30T12:23:41.000Z",
+    "updated": "2025-02-27T08:29:07.000Z",
+    "description": "H & V Corrector Magnet Type C - Vert. coil",
+    "connector1_pair": "01kjr7yjx4p6zsme3ed8yj9at2",
+    "connector1_desc": "cable lugs",
+    "connector2_desc": "cable lugs",
+    "connection_type_desc": "bolted",
+    "cable_type_desc": "1xFG7OR 2x2.5mmq"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

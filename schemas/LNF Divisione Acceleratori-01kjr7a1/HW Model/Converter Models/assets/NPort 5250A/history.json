@@ -1,0 +1,18 @@
+[
+  {
+    "uid": "01kjr7kqnyqehy0x1tkv26hpf6",
+    "assetUid": "01kjr7kq081xqcys1vdav0q5g2",
+    "type": "25",
+    "author": "Unknown",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2023-05-31T15:36:48.000"
+  },
+  {
+    "uid": "01kjr7kqpab3tsbjyqt6w7zzwv",
+    "assetUid": "01kjr7kq081xqcys1vdav0q5g2",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-05-31T15:36:40.000"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "uid": "01kjr85ew87g7h1gxkw3en0gtq",
+    "assetUid": "01kjr85e75ja92b58bbncfd8kn",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Layout\",\"oldValue\":\"\",\"newValue\":\"M4-014\"}",
+    "timestamp": "2023-12-01T14:24:26.000"
+  },
+  {
+    "uid": "01kjr85ewpt4af61w8d0kzm0j8",
+    "assetUid": "01kjr85e75ja92b58bbncfd8kn",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Module\",\"oldValue\":\"\",\"newValue\":\"M4\"}",
+    "timestamp": "2023-12-01T00:56:22.000"
+  },
+  {
+    "uid": "01kjr85ewysf1bnh6qgx0hz41v",
+    "assetUid": "01kjr85e75ja92b58bbncfd8kn",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Next Element\",\"oldValue\":\"\",\"newValue\":\"LEL-MAG-QUAD02\"}",
+    "timestamp": "2023-12-01T00:49:56.000"
+  },
+  {
+    "uid": "01kjr85exew8gg7k1d0pdct1pv",
+    "assetUid": "01kjr85e75ja92b58bbncfd8kn",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Previous Element\",\"oldValue\":\"\",\"newValue\":\"LEL-DIA-BPM04\"}",
+    "timestamp": "2023-12-01T00:49:56.000"
+  },
+  {
+    "uid": "01kjr85exrd262201hkcq8dav3",
+    "assetUid": "01kjr85e75ja92b58bbncfd8kn",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-12-01T00:37:45.000"
+  }
+]

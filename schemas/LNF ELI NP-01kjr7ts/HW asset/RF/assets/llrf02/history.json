@@ -1,0 +1,50 @@
+[
+  {
+    "uid": "01kjr8hdzfxejhyharwxj90e6p",
+    "assetUid": "01kjr8hd66ndghwjedwcas4c33",
+    "type": "4",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"ROOF\"}",
+    "timestamp": "2025-06-13T15:20:17.000"
+  },
+  {
+    "uid": "01kjr8hdznaefah6x0p4t4vgyh",
+    "assetUid": "01kjr8hd66ndghwjedwcas4c33",
+    "type": "25",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2025-06-13T11:57:02.000"
+  },
+  {
+    "uid": "01kjr8hdzs5wsdpcd3ztphw47j",
+    "assetUid": "01kjr8hd66ndghwjedwcas4c33",
+    "type": "4",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"4\",\"attribute\":\"Model\",\"oldValue\":\"\",\"newValue\":\"Libera LLRF\"}",
+    "timestamp": "2025-06-13T09:54:57.000"
+  },
+  {
+    "uid": "01kjr8hdzxaccpn3b4gk5kj8m4",
+    "assetUid": "01kjr8hd66ndghwjedwcas4c33",
+    "type": "4",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"4\",\"attribute\":\"Rack\",\"oldValue\":\"\",\"newValue\":\"R_RUF_04\"}",
+    "timestamp": "2025-06-13T09:54:57.000"
+  },
+  {
+    "uid": "01kjr8he04zsvs8b6pyskzjs2q",
+    "assetUid": "01kjr8hd66ndghwjedwcas4c33",
+    "type": "1",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"1\",\"attribute\":\"Description\",\"oldValue\":\"\",\"newValue\":\"ELI - S-BAND Libe...\"}",
+    "timestamp": "2025-06-13T09:54:57.000"
+  },
+  {
+    "uid": "01kjr8he0c0xbsazp5h0qhdyc6",
+    "assetUid": "01kjr8hd66ndghwjedwcas4c33",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-06-13T06:30:33.000"
+  }
+]

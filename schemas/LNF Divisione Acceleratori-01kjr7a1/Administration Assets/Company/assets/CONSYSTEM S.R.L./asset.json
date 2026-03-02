@@ -1,0 +1,24 @@
+{
+  "uid": "01kjr7b55dqzth1x7dz0tka198",
+  "key": "LNFMAC-109312",
+  "name": "CONSYSTEM S.R.L.",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-109312",
+    "name": "CONSYSTEM S.R.L.",
+    "created": "2023-10-10T12:39:04.000Z",
+    "updated": "2023-10-10T12:39:04.000Z",
+    "contact": "CONSYSTEM S.R.L."
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "uid": "01kjr7f5beajkc84bcdckhxq5n",
+    "assetUid": "01kjr7f4dgem315jv494bxf4ky",
+    "type": "25",
+    "author": "Unknown",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2023-05-16T16:56:16.000"
+  },
+  {
+    "uid": "01kjr7f5chexnyz9556t29hzsx",
+    "assetUid": "01kjr7f4dgem315jv494bxf4ky",
+    "type": "24",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"24\",\"oldValue\":\"Switch Mod\",\"newValue\":\"Switch Models\"}",
+    "timestamp": "2023-04-19T20:37:14.000"
+  },
+  {
+    "uid": "01kjr7f5cvnyy0dcbfp18j24t8",
+    "assetUid": "01kjr7f4dgem315jv494bxf4ky",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-04-19T18:23:23.000"
+  }
+]

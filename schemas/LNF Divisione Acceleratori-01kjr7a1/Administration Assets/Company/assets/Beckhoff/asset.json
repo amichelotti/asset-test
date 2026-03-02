@@ -1,0 +1,23 @@
+{
+  "uid": "01kjr7ay6ggb48xm5gsn98c5wz",
+  "key": "LNFMAC-143392",
+  "name": "Beckhoff",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-143392",
+    "name": "Beckhoff",
+    "created": "2025-10-23T09:37:19.000Z",
+    "updated": "2025-10-23T09:37:19.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

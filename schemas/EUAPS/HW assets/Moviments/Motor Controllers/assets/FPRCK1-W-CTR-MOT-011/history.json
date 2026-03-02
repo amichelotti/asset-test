@@ -1,0 +1,50 @@
+[
+  {
+    "uid": "01kjr73y8czqz5g83peqwvp7ha",
+    "assetUid": "01kjr73xt5knchsdw0b5dhkhw8",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"HW Model\",\"oldValue\":\"\",\"newValue\":\"MERCURY\"}",
+    "timestamp": "2026-01-27T11:21:07.000"
+  },
+  {
+    "uid": "01kjr73y8qnypzmq2z2jmstv39",
+    "assetUid": "01kjr73xt5knchsdw0b5dhkhw8",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Facility\",\"oldValue\":\"\",\"newValue\":\"FLAME\"}",
+    "timestamp": "2026-01-27T11:21:07.000"
+  },
+  {
+    "uid": "01kjr73y8wkjq0qtc2hk4sbgxa",
+    "assetUid": "01kjr73xt5knchsdw0b5dhkhw8",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Locations\",\"oldValue\":\"\",\"newValue\":\"LNF.D1.DE56.GF.EAC2\"}",
+    "timestamp": "2026-01-27T11:21:07.000"
+  },
+  {
+    "uid": "01kjr73y937y18ygmt9hqh90sz",
+    "assetUid": "01kjr73xt5knchsdw0b5dhkhw8",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Owner\",\"oldValue\":\"\",\"newValue\":\"Servizio Laser\"}",
+    "timestamp": "2026-01-27T11:20:47.000"
+  },
+  {
+    "uid": "01kjr73y97e0p0w4tj4thyjxm0",
+    "assetUid": "01kjr73xt5knchsdw0b5dhkhw8",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Action Needed\"}",
+    "timestamp": "2026-01-27T11:20:47.000"
+  },
+  {
+    "uid": "01kjr73y9edkrjs2exbdzz4byw",
+    "assetUid": "01kjr73xt5knchsdw0b5dhkhw8",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2026-01-16T13:31:24.000"
+  }
+]

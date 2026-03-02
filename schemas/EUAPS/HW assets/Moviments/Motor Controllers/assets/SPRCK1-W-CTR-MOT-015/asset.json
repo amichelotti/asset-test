@@ -1,0 +1,23 @@
+{
+  "uid": "01kjr749c8svdyww2qyq7ddg6s",
+  "key": "LNFT2-147131",
+  "name": "SPRCK1-W-CTR-MOT-015",
+  "type": "Motor Controllers",
+  "schemaUid": "01kjr6y3bkg7sgffg3kdstpgkq",
+  "attributes": {
+    "key": "LNFT2-147131",
+    "name": "SPRCK1-W-CTR-MOT-015",
+    "created": "2026-02-10T14:02:18.000Z",
+    "updated": "2026-02-10T14:02:18.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

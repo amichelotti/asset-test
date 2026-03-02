@@ -1,0 +1,74 @@
+[
+  {
+    "uid": "01kjr73rx6rkt8tt9ajhd48z49",
+    "assetUid": "01kjr73rccf39855hy5fryrrva",
+    "type": "5",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"5\",\"attribute\":\"Locations\",\"oldValue\":\"LNF.D1.DE56.GF.BCA1\",\"newValue\":\"LNF.D1.DE56.GF.EAC2\"}",
+    "timestamp": "2026-01-27T11:14:20.000"
+  },
+  {
+    "uid": "01kjr73rxrhnbawc431gnaxmxk",
+    "assetUid": "01kjr73rccf39855hy5fryrrva",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"HW connection\",\"oldValue\":\"\",\"newValue\":\"FP2-W-MOT-VMN-001\"}",
+    "timestamp": "2026-01-27T10:26:59.000"
+  },
+  {
+    "uid": "01kjr73ry20er8c9ba7mpn3792",
+    "assetUid": "01kjr73rccf39855hy5fryrrva",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"HW Model\",\"oldValue\":\"\",\"newValue\":\"POLLUX\"}",
+    "timestamp": "2026-01-27T10:26:59.000"
+  },
+  {
+    "uid": "01kjr73rybp6gvg4jfw64gv3xt",
+    "assetUid": "01kjr73rccf39855hy5fryrrva",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Facility\",\"oldValue\":\"\",\"newValue\":\"FLAME\"}",
+    "timestamp": "2026-01-27T10:26:59.000"
+  },
+  {
+    "uid": "01kjr73ryj65t1h78kvt818qs0",
+    "assetUid": "01kjr73rccf39855hy5fryrrva",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Locations\",\"oldValue\":\"\",\"newValue\":\"LNF.D1.DE56.GF.BCA1\"}",
+    "timestamp": "2026-01-27T10:26:59.000"
+  },
+  {
+    "uid": "01kjr73ryp2ae148fd30cn2e7k",
+    "assetUid": "01kjr73rccf39855hy5fryrrva",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"Owner\",\"oldValue\":\"\",\"newValue\":\"Servizio Laser\"}",
+    "timestamp": "2026-01-27T10:26:59.000"
+  },
+  {
+    "uid": "01kjr73rythtgg2bphvc5238sa",
+    "assetUid": "01kjr73rccf39855hy5fryrrva",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2026-01-27T10:26:59.000"
+  },
+  {
+    "uid": "01kjr73ryzyx2wqb6h6m3j8paw",
+    "assetUid": "01kjr73rccf39855hy5fryrrva",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"S/N\",\"oldValue\":\"\",\"newValue\":\"1606-2687\"}",
+    "timestamp": "2026-01-27T10:26:59.000"
+  },
+  {
+    "uid": "01kjr73rz6a2s1nxr6cb196c58",
+    "assetUid": "01kjr73rccf39855hy5fryrrva",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2026-01-16T13:30:54.000"
+  }
+]

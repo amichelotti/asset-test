@@ -1,0 +1,24 @@
+[
+  {
+    "uid": "01kjr7kssms4bqb4qkmb21pkfm",
+    "assetUid": "01kjr7kr7r4fgngr6xe2qeq48h",
+    "filename": "moxa-nport-5400-series-firmware-v4.1.rom",
+    "mimeType": "application/octet-stream",
+    "fileSize": 880732,
+    "author": "amichelo",
+    "created": "2025-03-25T14:59:14.000",
+    "binaryPath": "schemas/LNF Divisione Acceleratori-01kjr7a1/HW Model/Converter Models/assets/NPort 5410/attachments/moxa-nport-5400-series-firmware-v4.1.rom",
+    "hasBinary": true
+  },
+  {
+    "uid": "01kjr7kscdvpfrfqqrsgn84q2c",
+    "assetUid": "01kjr7kr7r4fgngr6xe2qeq48h",
+    "filename": "moxa-nport-5100a-series-firmware-v1.7.rom",
+    "mimeType": "application/octet-stream",
+    "fileSize": 840292,
+    "author": "amichelo",
+    "created": "2025-02-20T10:42:52.000",
+    "binaryPath": "schemas/LNF Divisione Acceleratori-01kjr7a1/HW Model/Converter Models/assets/NPort 5410/attachments/moxa-nport-5100a-series-firmware-v1.7.rom",
+    "hasBinary": true
+  }
+]

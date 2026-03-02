@@ -1,0 +1,34 @@
+[
+  {
+    "uid": "01kjr7jzsrbm76byz7rzfstvvx",
+    "assetUid": "01kjr7jz2bkwt5zd6qdnvbzww1",
+    "type": "2",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"IKR 251, FPM sealed\",\"newValue\":\"IKR 251\"}",
+    "timestamp": "2025-10-23T11:59:21.000"
+  },
+  {
+    "uid": "01kjr7jztekvzhdvegzs8zpvsy",
+    "assetUid": "01kjr7jz2bkwt5zd6qdnvbzww1",
+    "type": "2",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"IKR 251, FPM seal...\",\"newValue\":\"IKR 251, FPM seal...\"}",
+    "timestamp": "2025-10-23T11:58:36.000"
+  },
+  {
+    "uid": "01kjr7jzv0hqvvhhm5v90jy03x",
+    "assetUid": "01kjr7jz2bkwt5zd6qdnvbzww1",
+    "type": "1",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"1\",\"attribute\":\"Documentation\",\"oldValue\":\"\",\"newValue\":\"https://vacuum-sh...\"}",
+    "timestamp": "2025-10-23T11:58:36.000"
+  },
+  {
+    "uid": "01kjr7jzvbazajmhe7cr4czrp0",
+    "assetUid": "01kjr7jz2bkwt5zd6qdnvbzww1",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-10-23T11:48:10.000"
+  }
+]

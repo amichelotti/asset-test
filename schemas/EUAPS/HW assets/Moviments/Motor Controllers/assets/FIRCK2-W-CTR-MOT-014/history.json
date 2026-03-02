@@ -1,0 +1,18 @@
+[
+  {
+    "uid": "01kjr7395cvzrgst4aq8hc8ngd",
+    "assetUid": "01kjr738patv2200ercj0hay3w",
+    "type": "4",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"4\",\"attribute\":\"HW Model\",\"oldValue\":\"\",\"newValue\":\"POLLUX\"}",
+    "timestamp": "2026-02-13T11:56:49.000"
+  },
+  {
+    "uid": "01kjr7395vzzp6r1dr7wk3664g",
+    "assetUid": "01kjr738patv2200ercj0hay3w",
+    "type": "0",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2026-02-13T11:49:56.000"
+  }
+]

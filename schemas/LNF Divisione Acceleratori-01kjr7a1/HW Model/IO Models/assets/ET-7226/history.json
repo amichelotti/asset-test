@@ -1,0 +1,50 @@
+[
+  {
+    "uid": "01kjr7gn9t9vt4rb0kat0e8mz8",
+    "assetUid": "01kjr7g5mepbwgz5123ck1rp0r",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"GIT repo\",\"oldValue\":\"\",\"newValue\":\"https://github.co...\"}",
+    "timestamp": "2025-09-02T15:19:59.000"
+  },
+  {
+    "uid": "01kjr7gna63rtkxny6pjcd68ms",
+    "assetUid": "01kjr7g5mepbwgz5123ck1rp0r",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"The ET-7226 is a ...\",\"newValue\":\"The ET-7226 is a ...\"}",
+    "timestamp": "2025-09-02T15:19:59.000"
+  },
+  {
+    "uid": "01kjr7gnafjsqnqdtcw54r1k5f",
+    "assetUid": "01kjr7g5mepbwgz5123ck1rp0r",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"pet_et7x00_regist...\"}",
+    "timestamp": "2024-12-09T10:02:06.000"
+  },
+  {
+    "uid": "01kjr7gnav3mfx3q34n3v97035",
+    "assetUid": "01kjr7g5mepbwgz5123ck1rp0r",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"pet_et-7x00_user_...\"}",
+    "timestamp": "2024-12-09T10:02:05.000"
+  },
+  {
+    "uid": "01kjr7gnb5w4t8t5j8nc3xz52h",
+    "assetUid": "01kjr7g5mepbwgz5123ck1rp0r",
+    "type": "7",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"7\",\"newValue\":\"ET7026_V311.HEX\"}",
+    "timestamp": "2024-12-09T10:02:05.000"
+  },
+  {
+    "uid": "01kjr7gnbh54d6s3q02kzw2p9n",
+    "assetUid": "01kjr7g5mepbwgz5123ck1rp0r",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-12-09T10:02:05.000"
+  }
+]

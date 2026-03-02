@@ -1,0 +1,50 @@
+[
+  {
+    "uid": "01kjr8av7aty75t9jqjtyc9xqp",
+    "assetUid": "01kjr8ath0v52h3h17sw5wd0p3",
+    "type": "26",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"26\"}",
+    "timestamp": "2025-02-27T09:26:08.000"
+  },
+  {
+    "uid": "01kjr8av844gfxx91mm1r2mvf7",
+    "assetUid": "01kjr8ath0v52h3h17sw5wd0p3",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Location\",\"oldValue\":\"\",\"newValue\":\"Corridor GP\"}",
+    "timestamp": "2025-02-27T09:26:07.000"
+  },
+  {
+    "uid": "01kjr8av8p7bnfgvk82b1rnwt9",
+    "assetUid": "01kjr8ath0v52h3h17sw5wd0p3",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Alias\",\"oldValue\":\"\",\"newValue\":\"Magnets 2\"}",
+    "timestamp": "2025-02-27T09:26:07.000"
+  },
+  {
+    "uid": "01kjr8av8zzetw62thhq47xqzq",
+    "assetUid": "01kjr8ath0v52h3h17sw5wd0p3",
+    "type": "1",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2025-02-27T09:26:07.000"
+  },
+  {
+    "uid": "01kjr8av9jrmnkj1a7q7yynsr7",
+    "assetUid": "01kjr8ath0v52h3h17sw5wd0p3",
+    "type": "26",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"26\"}",
+    "timestamp": "2024-12-05T13:11:53.000"
+  },
+  {
+    "uid": "01kjr8av9v87jdntavxpcs0qz2",
+    "assetUid": "01kjr8ath0v52h3h17sw5wd0p3",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-12-05T13:11:53.000"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "uid": "01kjr8fxxma1wynpw3rabezbb6",
+    "assetUid": "01kjr8fx3ehsrjyqd5dh567x6k",
+    "type": "1",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"1\",\"attribute\":\"Type\",\"oldValue\":\"\",\"newValue\":\"RS232\"}",
+    "timestamp": "2025-06-13T14:47:23.000"
+  },
+  {
+    "uid": "01kjr8fxy2pcm85t8zfn3hs7na",
+    "assetUid": "01kjr8fx3ehsrjyqd5dh567x6k",
+    "type": "4",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"4\",\"attribute\":\"Connector2 Pair\",\"oldValue\":\"\",\"newValue\":\"motionbox05-scn05\"}",
+    "timestamp": "2025-06-13T14:47:23.000"
+  },
+  {
+    "uid": "01kjr8fxy9yvcb5e4rxfr3wmpt",
+    "assetUid": "01kjr8fx3ehsrjyqd5dh567x6k",
+    "type": "4",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"4\",\"attribute\":\"Connector1 Pair\",\"oldValue\":\"\",\"newValue\":\"motionbox04-scn04\"}",
+    "timestamp": "2025-06-13T14:47:23.000"
+  },
+  {
+    "uid": "01kjr8fxyhp58kn64m6vbjqhh2",
+    "assetUid": "01kjr8fx3ehsrjyqd5dh567x6k",
+    "type": "1",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"1\",\"attribute\":\"Status\",\"oldValue\":\"\",\"newValue\":\"Active\"}",
+    "timestamp": "2025-06-13T14:47:23.000"
+  },
+  {
+    "uid": "01kjr8fxyrm501nya4zq9ecz97",
+    "assetUid": "01kjr8fx3ehsrjyqd5dh567x6k",
+    "type": "0",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-06-13T14:46:46.000"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "uid": "01kjr7e7gfcdnb2fg1vmw4dwck",
+  "key": "LNFMAC-143733",
+  "name": "10846-PE01",
+  "type": "Vacuum Models",
+  "schemaUid": "01kjr7a80fdsf027w9fnm5d7bj",
+  "attributes": {
+    "key": "LNFMAC-143733",
+    "name": "10846-PE01",
+    "created": "2025-11-03T17:07:57.000Z",
+    "updated": "2025-11-03T17:07:57.000Z",
+    "producer": "01kjr7e2dknm463jcvqm2168gc",
+    "documentation": "https://www.vatgroup.com/series/ultra-high-vacuum-gate-valve/10846-PE01"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

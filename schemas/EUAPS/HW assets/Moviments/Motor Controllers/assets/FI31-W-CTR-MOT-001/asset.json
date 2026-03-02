@@ -1,0 +1,29 @@
+{
+  "uid": "01kjr72w6hw6n10v1pn4r3q3qh",
+  "key": "LNFT2-145551",
+  "name": "FI31-W-CTR-MOT-001",
+  "type": "Motor Controllers",
+  "schemaUid": "01kjr6y3bkg7sgffg3kdstpgkq",
+  "attributes": {
+    "key": "LNFT2-145551",
+    "name": "FI31-W-CTR-MOT-001",
+    "s/n": "97102902",
+    "created": "2026-01-12T17:53:58.000Z",
+    "updated": "2026-02-23T13:24:29.000Z",
+    "status": "Uninstalled",
+    "owner": "LNFMAC-143535",
+    "locations": "01kjr7qe4212183j0ceepct95g",
+    "facility": "01kjr7svmreks51z8mp1tfeex6",
+    "hw_model": "01kjr7k1y2r29a4kd57qjc3ets"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

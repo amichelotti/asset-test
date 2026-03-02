@@ -1,0 +1,24 @@
+{
+  "uid": "01kjr7sc8kg14tevw0j6xe03q3",
+  "key": "LNFMAC-108757",
+  "name": "Undulator",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjr7a2wk5hebv4y86e0aasgr",
+  "attributes": {
+    "key": "LNFMAC-108757",
+    "name": "Undulator",
+    "created": "2023-10-03T15:39:20.000Z",
+    "updated": "2025-10-28T14:52:13.000Z",
+    "area": "01kjr7ryww6mt2gjh56yf3rx92"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

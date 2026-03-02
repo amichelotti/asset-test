@@ -1,0 +1,42 @@
+[
+  {
+    "uid": "01kjr82f5csz01369kws4xf92c",
+    "assetUid": "01kjr82dx7rb148xc8pcbf6gy3",
+    "type": "25",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"25\"}",
+    "timestamp": "2025-06-12T14:25:39.000"
+  },
+  {
+    "uid": "01kjr82f5h15fxp0wew658hbm6",
+    "assetUid": "01kjr82dx7rb148xc8pcbf6gy3",
+    "type": "5",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"5\",\"attribute\":\"Location\",\"oldValue\":\"Selced\",\"newValue\":\"AB1\"}",
+    "timestamp": "2025-06-12T14:19:18.000"
+  },
+  {
+    "uid": "01kjr82f5n6bnw0q9ybdknhdge",
+    "assetUid": "01kjr82dx7rb148xc8pcbf6gy3",
+    "type": "4",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"4\",\"attribute\":\"Registered\",\"oldValue\":\"\",\"newValue\":\"ccelicam03\"}",
+    "timestamp": "2025-06-12T14:17:16.000"
+  },
+  {
+    "uid": "01kjr82f5ry0mkbmy7g3p2sn34",
+    "assetUid": "01kjr82dx7rb148xc8pcbf6gy3",
+    "type": "2",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"2\",\"attribute\":\"Description\",\"oldValue\":\"Camera setup2 tes...\",\"newValue\":\"Camera setup2 tes...\"}",
+    "timestamp": "2025-06-12T14:17:16.000"
+  },
+  {
+    "uid": "01kjr82f5vkhb742nz65ksq7hd",
+    "assetUid": "01kjr82dx7rb148xc8pcbf6gy3",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2024-11-15T14:03:40.000"
+  }
+]

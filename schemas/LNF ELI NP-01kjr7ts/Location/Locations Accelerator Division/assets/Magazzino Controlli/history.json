@@ -1,0 +1,74 @@
+[
+  {
+    "uid": "01kjr7qr4jcandm2wrt464bg8g",
+    "assetUid": "01kjr7qq5v0k7kjyfjxa18ky05",
+    "type": "24",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"24\",\"oldValue\":\"Location\",\"newValue\":\"Locations Acceler...\"}",
+    "timestamp": "2025-10-28T16:22:30.000"
+  },
+  {
+    "uid": "01kjr7qr4yxx23fd99jwk4vgxz",
+    "assetUid": "01kjr7qq5v0k7kjyfjxa18ky05",
+    "type": "24",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"24\",\"oldValue\":\"Locations Acceler...\",\"newValue\":\"Location\"}",
+    "timestamp": "2025-10-28T16:21:36.000"
+  },
+  {
+    "uid": "01kjr7qr5exne2snd7mzp6btv1",
+    "assetUid": "01kjr7qq5v0k7kjyfjxa18ky05",
+    "type": "29",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"29\"}",
+    "timestamp": "2025-10-28T15:52:12.000"
+  },
+  {
+    "uid": "01kjr7qr5tsa1vw8kccbmhb4sd",
+    "assetUid": "01kjr7qq5v0k7kjyfjxa18ky05",
+    "type": "28",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"28\"}",
+    "timestamp": "2025-10-28T15:49:10.000"
+  },
+  {
+    "uid": "01kjr7qr6fq3en95t8vnsvt1a5",
+    "assetUid": "01kjr7qq5v0k7kjyfjxa18ky05",
+    "type": "24",
+    "author": "Martina Del Giorno",
+    "details": "{\"type\":\"24\",\"oldValue\":\"Location\",\"newValue\":\"FLAME Ed 56\"}",
+    "timestamp": "2025-10-28T15:47:28.000"
+  },
+  {
+    "uid": "01kjr7qr6w95akq28akqj7r05n",
+    "assetUid": "01kjr7qq5v0k7kjyfjxa18ky05",
+    "type": "1",
+    "author": "Unknown",
+    "details": "{\"type\":\"1\",\"attribute\":\"Stanza\",\"oldValue\":\"\",\"newValue\":\"124\"}",
+    "timestamp": "2023-05-22T16:07:01.000"
+  },
+  {
+    "uid": "01kjr7qr6yfb04s6bjdyd7qp6z",
+    "assetUid": "01kjr7qq5v0k7kjyfjxa18ky05",
+    "type": "2",
+    "author": "Unknown",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"Magazzino DA(124)\",\"newValue\":\"Magazzino Controlli \"}",
+    "timestamp": "2023-05-22T16:07:01.000"
+  },
+  {
+    "uid": "01kjr7qr71e2etc3m0fd2fjqjk",
+    "assetUid": "01kjr7qq5v0k7kjyfjxa18ky05",
+    "type": "2",
+    "author": "Unknown",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"Magazzino DA\",\"newValue\":\"Magazzino DA(124)\"}",
+    "timestamp": "2023-05-22T16:06:19.000"
+  },
+  {
+    "uid": "01kjr7qr7dy0rektp9kwpwdacp",
+    "assetUid": "01kjr7qq5v0k7kjyfjxa18ky05",
+    "type": "0",
+    "author": "Francesco Galletti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2023-05-02T19:31:23.000"
+  }
+]

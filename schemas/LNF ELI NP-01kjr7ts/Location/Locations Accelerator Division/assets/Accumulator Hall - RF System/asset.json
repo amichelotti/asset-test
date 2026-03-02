@@ -1,0 +1,23 @@
+{
+  "uid": "01kjr7p7hbr4551kf8z2x4jns9",
+  "key": "LNFMAC-109233",
+  "name": "Accumulator Hall - RF System",
+  "type": "Locations Accelerator Division",
+  "schemaUid": "01kjr7a2wk5hebv4y86e0aasgr",
+  "attributes": {
+    "key": "LNFMAC-109233",
+    "name": "Accumulator Hall - RF System",
+    "created": "2023-10-09T12:12:26.000Z",
+    "updated": "2025-10-28T14:52:13.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

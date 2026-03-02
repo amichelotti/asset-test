@@ -1,0 +1,30 @@
+{
+  "uid": "01kjr8gzg3j3g9gbxen96dkp4a",
+  "key": "LNFELINP-138467",
+  "name": "VPCON1-ser",
+  "type": "Cabling",
+  "schemaUid": "01kjr6y2yhe6sjdvs376nmhzdm",
+  "attributes": {
+    "key": "LNFELINP-138467",
+    "name": "VPCON1-ser",
+    "created": "2025-06-13T12:12:40.000Z",
+    "updated": "2025-12-06T22:56:14.000Z",
+    "status": "Active",
+    "location": "01kjr81xjcq9pnk4x80q85mp57",
+    "connector2_pair": "01kjr7za4bgn7gmzxhsz6rstvy",
+    "connector2_desc": "<div class=\"created-with-ak-editor content-wrapper\"><p>port 6</p></div>",
+    "cable_type_desc": "<div class=\"created-with-ak-editor content-wrapper\"><p>3 meter long </p></div>",
+    "type": "RS232",
+    "lenght": "3"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

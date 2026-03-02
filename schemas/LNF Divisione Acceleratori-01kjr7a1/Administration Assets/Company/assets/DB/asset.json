@@ -1,0 +1,23 @@
+{
+  "uid": "01kjr7b7eyrrxt2wq3b54xctyz",
+  "key": "LNFMAC-143357",
+  "name": "DB",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-143357",
+    "name": "DB",
+    "created": "2025-10-22T09:56:37.000Z",
+    "updated": "2025-10-22T09:56:37.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

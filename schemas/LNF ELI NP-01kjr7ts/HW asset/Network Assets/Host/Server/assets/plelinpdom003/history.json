@@ -1,0 +1,34 @@
+[
+  {
+    "uid": "01kjr7z0btj8wq1fpcxjyhvjqs",
+    "assetUid": "01kjr7yzsjgpgshnbtsa80e0he",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"IP - IPMI\",\"oldValue\":\"\",\"newValue\":\"10.16.2.103\"}",
+    "timestamp": "2025-06-13T12:17:02.000"
+  },
+  {
+    "uid": "01kjr7z0cc78k2yxg0wm0796rw",
+    "assetUid": "01kjr7yzsjgpgshnbtsa80e0he",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"IPMI - MAC\",\"oldValue\":\"\",\"newValue\":\"3c:ec:ef:aa:f8:b6\"}",
+    "timestamp": "2025-06-13T12:17:02.000"
+  },
+  {
+    "uid": "01kjr7z0cp4nz8vpgwfzmvafz4",
+    "assetUid": "01kjr7yzsjgpgshnbtsa80e0he",
+    "type": "1",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"1\",\"attribute\":\"OS\",\"oldValue\":\"\",\"newValue\":\"AlmaLinux 9.5\"}",
+    "timestamp": "2025-06-12T14:24:17.000"
+  },
+  {
+    "uid": "01kjr7z0d79ds97mpwr50w67eg",
+    "assetUid": "01kjr7yzsjgpgshnbtsa80e0he",
+    "type": "0",
+    "author": "Riccardo Gargana",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-06-12T10:20:03.000"
+  }
+]

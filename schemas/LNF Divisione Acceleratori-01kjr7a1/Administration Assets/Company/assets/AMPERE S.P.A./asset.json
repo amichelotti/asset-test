@@ -1,0 +1,24 @@
+{
+  "uid": "01kjr7antecm4tf7wnpt21p1vp",
+  "key": "LNFMAC-109325",
+  "name": "AMPERE S.P.A.",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-109325",
+    "name": "AMPERE S.P.A.",
+    "created": "2023-10-10T12:39:09.000Z",
+    "updated": "2023-10-10T12:39:09.000Z",
+    "contact": "AMPERE S.P.A."
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

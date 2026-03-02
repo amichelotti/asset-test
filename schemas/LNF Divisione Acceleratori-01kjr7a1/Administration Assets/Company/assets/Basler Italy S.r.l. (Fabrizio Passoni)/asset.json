@@ -1,0 +1,23 @@
+{
+  "uid": "01kjr7awp09hdd9x47cwhsntqz",
+  "key": "LNFMAC-143347",
+  "name": "Basler Italy S.r.l. (Fabrizio Passoni)",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-143347",
+    "name": "Basler Italy S.r.l. (Fabrizio Passoni)",
+    "created": "2025-10-22T09:36:29.000Z",
+    "updated": "2025-10-22T09:36:29.000Z"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

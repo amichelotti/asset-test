@@ -1,0 +1,34 @@
+[
+  {
+    "uid": "01kjr848fz2em7ymn8wxbe4850",
+    "assetUid": "01kjr8461s4c8gvnegfabmmapy",
+    "type": "4",
+    "author": "Riccardo Esposito",
+    "details": "{\"type\":\"4\",\"attribute\":\"connector\",\"oldValue\":\"\",\"newValue\":\"MOTCON5-ser\"}",
+    "timestamp": "2025-06-13T14:48:31.000"
+  },
+  {
+    "uid": "01kjr848g68jp8bs7zn32xxhdf",
+    "assetUid": "01kjr8461s4c8gvnegfabmmapy",
+    "type": "7",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"7\",\"newValue\":\"Screenshot 2025-0...\"}",
+    "timestamp": "2025-06-11T14:44:57.000"
+  },
+  {
+    "uid": "01kjr848ggc3mepm7a227xh1ne",
+    "assetUid": "01kjr8461s4c8gvnegfabmmapy",
+    "type": "2",
+    "author": "Georgios Zachariadis",
+    "details": "{\"type\":\"2\",\"attribute\":\"Name\",\"oldValue\":\"motionbox05\",\"newValue\":\"motionbox05-scn05\"}",
+    "timestamp": "2025-06-11T13:57:18.000"
+  },
+  {
+    "uid": "01kjr848gvdtk2w4vk49h7j2ae",
+    "assetUid": "01kjr8461s4c8gvnegfabmmapy",
+    "type": "0",
+    "author": "Andrea Michelotti",
+    "details": "{\"type\":\"0\"}",
+    "timestamp": "2025-03-06T17:24:26.000"
+  }
+]

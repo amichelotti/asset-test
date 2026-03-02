@@ -1,0 +1,31 @@
+{
+  "uid": "01kjr79v39p1vbsbnejzgx0g1v",
+  "key": "LNFT2-147905",
+  "name": "FIRCK2-C-PC-PWM-001",
+  "type": "Computer",
+  "schemaUid": "01kjr6y5crd0asqhfpc0s8e4e5",
+  "attributes": {
+    "key": "LNFT2-147905",
+    "name": "FIRCK2-C-PC-PWM-001",
+    "s/n": "GC44ES6001",
+    "description": "<div class=\"created-with-ak-editor content-wrapper\"><p>MXC-6401D/M16G(EA)</p><p>Intel Skylake-H Core i7 CPU+QM170 fanless </p><p>expandable computer, 1PCI+2PClex8, 2DP+1DVI-I,</p><p>3xGbE, 6xUSB 3.0, 4xCOM, 16 CH DIO, 1xCfast socket,</p><p>4x2.5'' SATA port, 9-32VDC input, 16G DDR4</p><p>93-41035-020E</p></div>",
+    "created": "2026-03-02T14:23:10.000Z",
+    "updated": "2026-03-02T14:23:10.000Z",
+    "status": "Active",
+    "owner": "LNFMAC-12817",
+    "locations": "01kjr7qe4212183j0ceepct95g",
+    "facility": "01kjr7st4dyad67rx9rvajqtab",
+    "hw_model": "01kjr7kmycw2q3m69xrzj6pyxq",
+    "hw_connection": "01kjr72w6hw6n10v1pn4r3q3qh"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}

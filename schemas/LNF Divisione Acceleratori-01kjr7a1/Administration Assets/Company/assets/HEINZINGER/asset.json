@@ -1,0 +1,24 @@
+{
+  "uid": "01kjr7bszezvmcqptbnnn8z7s0",
+  "key": "LNFMAC-109318",
+  "name": "HEINZINGER",
+  "type": "Company",
+  "schemaUid": "01kjr7a25r0qb0me3r75z7mdqx",
+  "attributes": {
+    "key": "LNFMAC-109318",
+    "name": "HEINZINGER",
+    "created": "2023-10-10T12:39:06.000Z",
+    "updated": "2023-10-10T12:39:06.000Z",
+    "contact": "HEINZINGER"
+  },
+  "relations": {
+    "inbound": [],
+    "outbound": []
+  },
+  "attachments": [],
+  "metadata": {
+    "createdAt": null,
+    "updatedAt": null,
+    "version": null
+  }
+}
